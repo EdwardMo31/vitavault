@@ -87,13 +87,14 @@
   }
   .hero-cta:hover{transform:translateY(-2px);}
   .scroll-hint{
-    display:flex;flex-direction:column;align-items:center;gap:5px;
-    margin-top:28px;cursor:pointer;opacity:.5;
+    position:absolute;bottom:16px;right:20px;
+    display:flex;flex-direction:column;align-items:center;gap:4px;
+    cursor:pointer;opacity:.45;
     transition:opacity .2s;
     animation:bounce 2s ease-in-out infinite;
   }
-  .scroll-hint:hover{opacity:.9;}
-  .scroll-hint span{font-size:11px;letter-spacing:1px;color:var(--ink-soft);}
+  .scroll-hint:hover{opacity:.85;}
+  .scroll-hint span{font-size:10px;letter-spacing:1px;color:var(--ink-soft);}
   .scroll-hint svg{display:block;}
   @keyframes bounce{
     0%,100%{transform:translateY(0);}
@@ -343,7 +344,7 @@
     一个把人体健康知识系统化收集、<br>并向所有人开放的知识平台。
   </p>
   <a class="hero-cta" href="https://EdwardMo31.github.io/vitavault/" target="_blank">
-    立即体验 →
+    打开 VitalVault
   </a>
   <div class="scroll-hint" onclick="document.querySelector('.manifesto').scrollIntoView({behavior:'smooth'})">
     <svg width="20" height="12" viewBox="0 0 20 12" fill="none">
