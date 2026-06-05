@@ -1,6 +1,259 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "u5",
+    "systems": ["lungs", "whole"],
+    "cover": "",
+    "title": "肺活量与呼吸健康：让每一口气更有质量",
+    "org": "American Lung Association",
+    "author": "编译自 American Lung Association & NHS",
+    "date": "2026-06-06",
+    "sourceName": "lung.org",
+    "sourceUrl": "https://www.lung.org/lung-health-diseases/wellness/breathing-exercises",
+    "evidence": "B",
+    "cat": "normal",
+    "summary": "肺是唯一可以通过日常练习主动提升功能的器官之一。呼吸习惯好，身体的每个系统都会受益。",
+    "body": [
+      {
+        "t": "p",
+        "x": "大多数人一生都在「浅呼吸」——只用到肺的上三分之一。横膈膜深呼吸、腹式呼吸，才能让肺泡充分交换气体，帮助放松神经系统、改善氧合效率。"
+      },
+      {
+        "t": "h",
+        "x": "两个经过验证的呼吸练习"
+      },
+      {
+        "t": "list",
+        "items": [
+          "腹式呼吸：平躺或坐直，一手放胸口，一手放腹部，用鼻子深吸气，感受腹部隆起而非胸部起伏，再缓缓呼出。每天 5–10 分钟。",
+          "缩唇呼吸：用鼻子吸气 2 秒，嘴唇轻轻撅起（像吹蜡烛），缓缓呼出 4 秒。帮助肺泡更充分地排出残气，适合活动后放缓呼吸节奏。"
+        ]
+      },
+      {
+        "t": "h",
+        "x": "日常保护肺部的关键"
+      },
+      {
+        "t": "list",
+        "items": [
+          "不吸烟、远离二手烟——这是保护肺的第一要务。",
+          "室内通风，减少烹饪油烟、霉菌、清洁剂挥发物的暴露。",
+          "雾霾天出门佩戴口罩，尤其是老年人与有呼吸道疾病者。",
+          "规律的有氧运动（快走、游泳、骑车）能持续训练呼吸肌。",
+          "出现持续咳嗽、气促、痰中带血等症状，请及时就医。"
+        ]
+      },
+      {
+        "t": "p",
+        "x": "来源：American Lung Association「Breathing Exercises」、NHS「How to breathe better」。（健康科普，不构成医疗建议。）"
+      }
+    ]
+  },
+  {
+    "id": "u6",
+    "systems": ["skin", "immune"],
+    "cover": "",
+    "title": "防晒不只是爱美：紫外线、皮肤衰老与皮肤癌预防",
+    "org": "American Academy of Dermatology",
+    "author": "编译自 AAD & American Cancer Society",
+    "date": "2026-06-06",
+    "sourceName": "aad.org",
+    "sourceUrl": "https://www.aad.org/public/everyday-care/sun-protection/sunscreen-patients/sunscreen-faqs",
+    "evidence": "B",
+    "cat": "normal",
+    "summary": "皮肤癌是全球最常见的癌症之一，而 90% 以上与紫外线暴露有关。防晒是门槛最低、收益最高的预防行动。",
+    "body": [
+      {
+        "t": "p",
+        "x": "紫外线分 UVA 和 UVB：UVA 穿透力强，深入真皮层，加速皮肤老化；UVB 能量高，造成晒伤，是皮肤癌的主要诱因。两者都需要防护，阴天和冬天同样存在。"
+      },
+      {
+        "t": "h",
+        "x": "防晒的正确方式"
+      },
+      {
+        "t": "list",
+        "items": [
+          "选 SPF 30 以上、宽谱（broad spectrum）防晒霜，覆盖 UVA + UVB。",
+          "出门前 15 分钟涂抹，户外每 2 小时补涂一次，游泳/出汗后及时补。",
+          "上午 10 点至下午 4 点紫外线最强，尽量减少直射暴露。",
+          "防晒衣、宽帽沿帽子、遮阳眼镜是防晒霜的好搭档。",
+          "不依赖晒黑来「保护」皮肤——晒黑本身已是皮肤的损伤应激反应。"
+        ]
+      },
+      {
+        "t": "h",
+        "x": "早期识别皮肤变化"
+      },
+      {
+        "t": "list",
+        "items": [
+          "ABCDE 法则：不对称（Asymmetry）、边缘不规则（Border）、颜色不均（Color）、直径 > 6mm（Diameter）、短期内变化（Evolving）——发现以上任一，请就诊。",
+          "每年一次全身皮肤自查，有家族史者定期找皮肤科医生筛查。"
+        ]
+      },
+      {
+        "t": "p",
+        "x": "来源：AAD「Sunscreen FAQs」、ACS「Skin Cancer Prevention」。（健康科普，不构成医疗建议。）"
+      }
+    ]
+  },
+  {
+    "id": "u7",
+    "systems": ["senses", "brain"],
+    "cover": "",
+    "title": "数字护眼：屏幕时代如何保护视力",
+    "org": "American Academy of Ophthalmology",
+    "author": "编译自 AAO & NEI（美国国家眼科研究所）",
+    "date": "2026-06-06",
+    "sourceName": "aao.org",
+    "sourceUrl": "https://www.aao.org/eye-health/tips-prevention/computer-usage",
+    "evidence": "B",
+    "cat": "normal",
+    "summary": "每天盯着屏幕数小时，眼睛承受的压力比以往任何时代都大。好消息：大部分数字眼疲劳是可逆的，而且预防很简单。",
+    "body": [
+      {
+        "t": "p",
+        "x": "数字眼疲劳（Digital Eye Strain）是现代人的普遍问题——眼睛酸涩、视物模糊、头痛、干眼。核心原因是：盯屏幕时眨眼次数减少约三分之一，眼部肌肉长时间保持同一焦距，导致疲劳和泪液蒸发加剧。"
+      },
+      {
+        "t": "h",
+        "x": "20-20-20 法则（最实用）"
+      },
+      {
+        "t": "p",
+        "x": "每用屏幕 20 分钟，看向 20 英尺（约 6 米）以外的地方，持续 20 秒。这让眼部聚焦肌肉得到短暂放松，是 AAO 和 AAD 一致推荐的基础护眼习惯。"
+      },
+      {
+        "t": "h",
+        "x": "其他有效的保护措施"
+      },
+      {
+        "t": "list",
+        "items": [
+          "调整屏幕亮度与环境光匹配，避免屏幕比背景暗或亮太多。",
+          "屏幕距眼睛约 50–70 cm，屏幕中心略低于视线水平。",
+          "有意识地多眨眼，必要时使用不含防腐剂的人工泪液。",
+          "夜间开启夜间模式或暖色滤镜，减少蓝光对睡眠节律的干扰。",
+          "儿童每天户外活动 1–2 小时，是预防近视进展的有效手段（阳光刺激多巴胺分泌，抑制眼轴增长）。"
+        ]
+      },
+      {
+        "t": "h",
+        "x": "何时就医"
+      },
+      {
+        "t": "list",
+        "items": [
+          "视力突然模糊、重影、视野缺失或出现闪光感，立即就诊。",
+          "成人每 1–2 年做一次全面眼科检查，40 岁以上增加青光眼筛查。"
+        ]
+      },
+      {
+        "t": "p",
+        "x": "来源：AAO「Computer Eye Strain」、NEI「Keep Your Eyes Healthy」。（健康科普，不构成医疗建议。）"
+      }
+    ]
+  },
+  {
+    "id": "u8",
+    "systems": ["gut", "nutrition"],
+    "cover": "",
+    "title": "肠道菌群：膳食纤维如何塑造你的健康",
+    "org": "Harvard Nutrition Source",
+    "author": "编译自 Harvard Nutrition Source & NIH",
+    "date": "2026-06-06",
+    "sourceName": "nutritionsource.hsph.harvard.edu",
+    "sourceUrl": "https://nutritionsource.hsph.harvard.edu/microbiome/",
+    "evidence": "B",
+    "cat": "normal",
+    "summary": "肠道里住着约 100 万亿个细菌，它们影响消化、免疫、情绪甚至大脑功能。喂好它们，是整体健康的基础之一。",
+    "body": [
+      {
+        "t": "p",
+        "x": "肠道微生物组（Microbiome）是近年营养科学中最活跃的研究领域。研究发现，肠道菌群多样性越高，与之相关的慢性炎症越低、免疫调节越好、心理健康也更稳定——肠-脑轴（gut-brain axis）是真实存在的双向联系。"
+      },
+      {
+        "t": "h",
+        "x": "膳食纤维：菌群最好的食物"
+      },
+      {
+        "t": "list",
+        "items": [
+          "可溶性纤维（燕麦、豆类、苹果）：被菌群发酵，产生短链脂肪酸，滋养肠壁细胞，降低炎症。",
+          "不可溶纤维（全谷物、蔬菜皮）：增加粪便体积，促进肠蠕动，减少有害物质滞留时间。",
+          "目标：每天 25–38 克，大多数人实际摄入不足一半。"
+        ]
+      },
+      {
+        "t": "h",
+        "x": "多样性比「吃益生菌」更重要"
+      },
+      {
+        "t": "list",
+        "items": [
+          "每周尽量吃 30 种以上不同植物性食物（蔬果、豆类、坚果、谷物各算一种）。",
+          "发酵食品（无糖酸奶、泡菜、味噌、纳豆）能直接补充活菌。",
+          "避免不必要的抗生素疗程，抗生素会大幅清除肠道菌群多样性。",
+          "减少高度加工食品与人工甜味剂，两者都与菌群失调有关联。"
+        ]
+      },
+      {
+        "t": "p",
+        "x": "来源：Harvard Nutrition Source「The Microbiome」、NIH 肠道健康研究摘要。（健康科普，不构成医疗建议。）"
+      }
+    ]
+  },
+  {
+    "id": "u9",
+    "systems": ["whole", "heart"],
+    "cover": "",
+    "title": "口腔健康：被低估的全身健康入口",
+    "org": "NIH / NIDCR",
+    "author": "编译自 NIH NIDCR & ADA（美国牙科协会）",
+    "date": "2026-06-06",
+    "sourceName": "nidcr.nih.gov",
+    "sourceUrl": "https://www.nidcr.nih.gov/health-info/oral-health",
+    "evidence": "B",
+    "cat": "normal",
+    "summary": "牙周病和心脏病、糖尿病、早产都有关联。口腔不只是牙，它是全身炎症状态的一面镜子。",
+    "body": [
+      {
+        "t": "p",
+        "x": "口腔是身体与外界接触最频繁的入口之一。牙周病（牙龈炎、牙周炎）会让口腔细菌进入血液循环，引发全身低度炎症——大量研究发现，它与心脏病、2 型糖尿病、早产、肺炎风险升高有统计学关联。"
+      },
+      {
+        "t": "h",
+        "x": "日常口腔护理的核心"
+      },
+      {
+        "t": "list",
+        "items": [
+          "每天刷牙两次（早晨和睡前），每次至少 2 分钟，使用含氟牙膏。",
+          "每天用牙线或冲牙器清洁牙缝——牙刷覆盖不到的区域占口腔约 35%。",
+          "刷完牙后不要马上漱口冲掉氟化物，让它在牙面多停留。",
+          "减少频繁摄入含糖饮料与零食，口腔细菌代谢糖产生的酸是蛀牙的根本原因。"
+        ]
+      },
+      {
+        "t": "h",
+        "x": "定期检查：早发现早处理"
+      },
+      {
+        "t": "list",
+        "items": [
+          "建议每 6–12 个月看一次牙医，做专业清洁与检查。",
+          "牙龈出血、牙齿松动、口腔溃疡超过 2 周不愈，及时就诊。",
+          "糖尿病患者、孕妇、吸烟者是牙周病高危人群，应增加检查频率。"
+        ]
+      },
+      {
+        "t": "p",
+        "x": "来源：NIH NIDCR「Oral Health」、ADA「Mouth Healthy」。（健康科普，不构成医疗建议。）"
+      }
+    ]
+  },
+  {
     "id": "a13",
     "systems": [
       "whole",
