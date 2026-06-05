@@ -1,0 +1,1074 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VitalVault · 健康知识宝库</title>
+<style>
+  :root{
+    --cream:#F0EEE6;
+    --cream-2:#FAF9F5;
+    --ink:#1F1E1D;
+    --ink-soft:#6B6862;
+    --ink-faint:#9B978F;
+    --claude:#D97757;
+    --claude-deep:#C25E3F;
+    --claude-soft:#E9A085;
+    --line:rgba(31,30,29,.08);
+    --line-2:rgba(31,30,29,.14);
+    --cell:22px;
+    --gap:3px;
+    --leaf-cell:17px;
+    --leaf-gap:3px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html,body{height:100%;}
+  body{
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
+    background:radial-gradient(120% 80% at 50% -10%, var(--cream-2), var(--cream) 60%);
+    color:var(--ink);
+    min-height:100%;
+    display:flex;flex-direction:column;
+    -webkit-font-smoothing:antialiased;
+  }
+
+  /* ===== 顶部品牌 ===== */
+  header{text-align:center;padding:40px 20px 10px;position:relative;}
+  .all-btn{
+    position:absolute;top:18px;right:18px;
+    font-size:13px;font-weight:600;color:var(--claude);
+    border:1.5px solid var(--claude);border-radius:999px;
+    padding:6px 14px;background:var(--cream-2);cursor:pointer;
+    transition:background .15s ease,color .15s ease;
+  }
+  .all-btn:hover{background:var(--claude);color:#fff;}
+  .brand{display:inline-flex;align-items:center;gap:12px;}
+  .vv{
+    width:34px;height:34px;display:grid;place-items:center;
+    color:var(--claude);font-weight:800;font-size:20px;letter-spacing:-3px;
+    border:2px solid var(--claude);border-radius:9px;
+  }
+  .brand h1{font-size:24px;font-weight:700;letter-spacing:-.5px;}
+  .brand h1 b{color:var(--claude);font-weight:700;}
+  .tagline{margin-top:8px;color:var(--ink-soft);font-size:14px;letter-spacing:.3px;}
+
+  /* ===== 舞台 / 像素人 ===== */
+  .stage{flex:1;display:grid;place-items:center;padding:24px 16px 8px;position:relative;}
+  .figure-wrap{position:relative;display:grid;place-items:center;padding:48px;}
+  .frame-square,.frame-circle{
+    position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);pointer-events:none;
+  }
+  .frame-square{width:88%;height:88%;border:1.5px solid rgba(217,119,87,.22);border-radius:6px;}
+  .frame-circle{width:96%;aspect-ratio:1/1;border:1.5px dashed rgba(217,119,87,.28);border-radius:50%;}
+
+  .grid{
+    display:grid;grid-template-columns:repeat(21,var(--cell));gap:var(--gap);
+    position:relative;z-index:2;
+  }
+  .cell{width:var(--cell);height:var(--cell);}
+  .cell.empty{visibility:hidden;}
+  .cell.block{
+    border-radius:4px;background:var(--claude-soft);cursor:pointer;
+    transition:transform .12s ease, background .12s ease, box-shadow .12s ease;
+  }
+  .p-head.block{background:#E2865E;}
+  .p-chest.block{background:#D97757;}
+  .p-abdomen.block{background:#DD8160;}
+  .p-pelvis.block{background:#D2704F;}
+  .p-arms.block{background:#E59A7C;}
+  .p-legs.block{background:#E08E6E;}
+  .cell.block.active{
+    background:var(--claude-deep);transform:translateY(-1px) scale(1.06);
+    box-shadow:0 4px 12px rgba(194,94,63,.30);
+  }
+
+  /* ===== 左下角：医学参考 R 按键 ===== */
+  .ref-btn{
+    position:absolute;left:calc(var(--cell) - 10px);bottom:-12px;z-index:3;
+    width:34px;height:34px;display:grid;place-items:center;
+    color:#3A4F6B;font-weight:800;font-size:20px;
+    border:2px solid #3A4F6B;border-radius:9px;
+    background:var(--cream-2);cursor:pointer;
+    transition:all .14s ease;
+  }
+  .ref-btn:hover{background:#3A4F6B;color:#fff;transform:translateY(-2px);}
+
+  /* ===== 医学参考视图 ===== */
+  .ref-view{max-width:600px;margin:0 auto;padding:18px 16px 60px;}
+  .ref-banner{
+    background:linear-gradient(135deg,#EEF1F5,#FAF9F5);
+    border:1px solid rgba(58,79,107,.2);border-radius:14px;
+    padding:16px 18px;margin-bottom:14px;
+  }
+  .ref-banner h2{font-size:19px;font-weight:700;color:#3A4F6B;letter-spacing:-.2px;}
+  .ref-banner p{font-size:13px;color:var(--ink-soft);margin-top:6px;line-height:1.6;}
+  .ref-tabs{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 6px;}
+  .ref-list{}
+  .ref-row{
+    border-top:1px solid var(--line);padding:13px 2px;
+  }
+  .ref-term{font-size:17px;font-weight:700;color:#3A4F6B;letter-spacing:-.1px;}
+  .ref-en{font-size:14px;color:var(--ink);font-weight:500;margin-top:2px;}
+  .ref-cn{font-size:14px;color:var(--ink-soft);}
+  .ref-meta{font-size:12.5px;color:var(--ink-faint);display:flex;flex-wrap:wrap;gap:10px;margin-top:5px;}
+  .ref-tag{
+    font-size:12px;padding:2px 8px;border-radius:6px;
+    background:rgba(58,79,107,.08);color:#3A4F6B;
+    border:1px solid rgba(58,79,107,.2);
+  }
+  .tube-dot{
+    width:11px;height:11px;border-radius:50%;
+    display:inline-block;margin-right:5px;vertical-align:middle;flex-shrink:0;
+  }
+
+  /* 右下角入口：环境树叶（完整）+ 认识与预防（半片树叶） */
+  .leaf-row{
+    position:absolute;right:-10px;bottom:-12px;z-index:3;
+    display:flex;align-items:flex-end;gap:16px;
+  }
+  .leaf,.halfleaf{
+    cursor:pointer;
+    display:grid;grid-template-columns:repeat(5,var(--leaf-cell));gap:var(--leaf-gap);
+    transition:transform .14s ease;
+  }
+  .leaf:hover,.halfleaf:hover{transform:translateY(-2px) scale(1.04);}
+  .lc{width:var(--leaf-cell);height:var(--leaf-cell);}
+  .lc.e{visibility:hidden;}
+  .lc.g{background:#5C9A4F;border-radius:5px;transition:background .14s ease, box-shadow .14s ease;}
+  .lc.s{background:#4E7E3E;border-radius:4px;transition:background .14s ease;}
+  .lc.d{border:1.5px dashed #9CC093;border-radius:5px;background:none;box-sizing:border-box;transition:border-color .14s ease;}
+  .leaf:hover .lc.g,.halfleaf:hover .lc.g{background:#4E8C43;box-shadow:0 3px 10px rgba(78,140,67,.28);}
+  .leaf:hover .lc.s,.halfleaf:hover .lc.s{background:#3C6A32;}
+  .halfleaf:hover .lc.d{border-color:#5C9A4F;}
+
+  /* 认识与预防：半身视图 */
+  .disease-home{max-width:600px;margin:0 auto;padding:10px 18px 60px;}
+  .dh-banner{
+    background:linear-gradient(135deg,#F1F6EE,#FAF9F5);
+    border:1px solid rgba(92,154,79,.25);border-radius:14px;
+    padding:18px 18px 16px;margin:8px 0 6px;
+  }
+  .dh-banner h2{font-size:20px;font-weight:700;color:#3C6A32;letter-spacing:-.2px;}
+  .dh-banner .dh-tags{margin:9px 0 11px;display:flex;gap:8px;flex-wrap:wrap;}
+  .dh-banner .dh-tag{font-size:12px;color:#4E7E3E;background:rgba(92,154,79,.12);border:1px solid rgba(92,154,79,.3);padding:3px 10px;border-radius:999px;}
+  .dh-banner p{font-size:14px;color:#5a5853;line-height:1.7;}
+  .dgrid{display:grid;grid-template-columns:repeat(11,var(--cell));gap:var(--gap);justify-content:start;margin:22px 0 6px;}
+  .dh-tip{color:var(--ink-faint);font-size:13px;line-height:1.6;margin:8px 2px 0;}
+
+  .hint{
+    position:absolute;z-index:5;left:50%;bottom:14px;transform:translateX(-50%);
+    background:rgba(31,30,29,.85);color:#fff;padding:7px 16px;border-radius:999px;
+    font-size:13px;letter-spacing:.5px;opacity:0;transition:opacity .15s ease;
+    pointer-events:none;backdrop-filter:blur(6px);
+  }
+  .hint.show{opacity:1;}
+
+  footer{text-align:center;padding:18px 24px 26px;color:var(--ink-soft);font-size:12px;line-height:1.6;}
+  footer .disc{max-width:560px;margin:0 auto;padding:12px 16px;border-radius:12px;background:rgba(31,30,29,.04);}
+
+  /* ===== 阅读器遮罩（X 风格） ===== */
+  .reader{
+    position:fixed;inset:0;z-index:40;
+    background:var(--cream-2);
+    transform:translateY(8px);opacity:0;pointer-events:none;
+    transition:opacity .25s ease, transform .25s ease;
+    display:flex;flex-direction:column;
+  }
+  .reader.open{opacity:1;transform:none;pointer-events:auto;}
+
+  .topbar{
+    position:sticky;top:0;z-index:5;
+    display:flex;align-items:center;gap:14px;
+    height:54px;padding:0 16px;
+    background:rgba(250,249,245,.86);backdrop-filter:blur(14px);
+    border-bottom:1px solid var(--line);
+  }
+  .topbar .back{
+    width:36px;height:36px;border:none;background:transparent;border-radius:50%;
+    font-size:20px;color:var(--ink);cursor:pointer;display:grid;place-items:center;
+    transition:background .15s ease;
+  }
+  .topbar .back:hover{background:var(--line);}
+  .topbar .tb-title{font-size:17px;font-weight:700;letter-spacing:-.2px;}
+  .topbar .tb-sub{font-size:12px;color:var(--ink-faint);}
+
+  .scroll{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;}
+
+  /* ===== 文章列表（信息流） ===== */
+  .feed{max-width:600px;margin:0 auto;padding:6px 0 60px;}
+  .feed-head{padding:20px 18px 8px;}
+  .feed-head h2{font-size:22px;font-weight:700;letter-spacing:-.3px;}
+  .feed-head .cnt{color:var(--ink-faint);font-size:13px;margin-top:4px;}
+
+  /* ===== 全部文章 + 搜索 ===== */
+  .all-view{max-width:600px;margin:0 auto;padding:18px 16px 60px;}
+  .all-input{
+    width:100%;box-sizing:border-box;font-size:15px;
+    padding:11px 14px;border-radius:12px;
+    border:1px solid var(--line-2);background:var(--cream-2);
+    color:var(--ink);outline:none;
+  }
+  .all-input:focus{border-color:var(--claude);}
+  .all-filters{margin:14px 0 6px;display:flex;flex-direction:column;gap:9px;}
+  .all-cats,.all-sys{display:flex;flex-wrap:wrap;gap:7px;}
+  .fchip{
+    font-size:12.5px;font-weight:600;padding:5px 11px;border-radius:999px;
+    border:1px solid var(--line-2);background:var(--cream-2);color:var(--ink-soft);
+    cursor:pointer;transition:all .14s ease;
+  }
+  .fchip:hover{border-color:var(--claude);color:var(--claude);}
+  .fchip.on{background:var(--claude);border-color:var(--claude);color:#fff;}
+  .all-cnt{color:var(--ink-faint);font-size:13px;margin:12px 0 0;padding:0 2px;}
+  .all-results .card:first-child{border-top:1px solid var(--line);}
+
+  /* ===== 收藏 / 已读 ===== */
+  .fav-btn{
+    margin-left:auto;border:none;background:none;cursor:pointer;
+    font-size:16px;line-height:1;color:var(--ink-faint);padding:2px 4px;
+    transition:color .14s ease,transform .1s ease;
+  }
+  .fav-btn:hover{color:var(--claude);transform:scale(1.12);}
+  .fav-btn.on{color:var(--claude);}
+  .read-tag{
+    font-size:11px;color:var(--ink-faint);
+    border:1px solid var(--line-2);border-radius:6px;padding:1px 6px;
+  }
+  .card.read h3{color:var(--ink-soft);}
+  .card.read .thumb{opacity:.7;}
+  .actions button.on{color:var(--claude);}
+
+  .card{
+    cursor:pointer;border-top:1px solid var(--line);
+    padding:12px 16px;display:flex;gap:13px;align-items:stretch;
+    transition:background .15s ease;
+  }
+  .card:hover{background:rgba(31,30,29,.025);}
+  .card .thumb{
+    flex:0 0 35%;max-width:35%;min-height:86px;border-radius:12px;
+    background-size:cover;background-position:center;
+    display:flex;align-items:flex-end;padding:8px 10px;color:#fff;
+    font-size:11px;font-weight:600;letter-spacing:.3px;
+    text-shadow:0 1px 3px rgba(0,0,0,.35);
+  }
+  .card .cbody{
+    flex:1;min-width:0;display:flex;flex-direction:column;justify-content:center;gap:9px;
+  }
+  .card h3{
+    font-size:15.5px;font-weight:700;line-height:1.4;letter-spacing:-.2px;
+    display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+  }
+  .card .meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap;}
+
+  .chip{
+    font-size:11px;font-weight:600;padding:3px 9px;border-radius:999px;
+    color:#fff;letter-spacing:.3px;
+  }
+  .src{font-size:12px;color:var(--ink-faint);}
+  .ev{
+    font-size:11px;font-weight:700;padding:2px 7px;border-radius:6px;
+    border:1px solid var(--line-2);color:var(--ink-soft);
+  }
+  .ev.A{color:#3F8F5B;border-color:rgba(63,143,91,.4);background:rgba(63,143,91,.08);}
+  .ev.B{color:#B07A1E;border-color:rgba(176,122,30,.4);background:rgba(176,122,30,.08);}
+  .ev.C{color:#9B978F;}
+
+  .empty-feed{padding:60px 24px;text-align:center;color:var(--ink-faint);}
+  .empty-feed .big{font-size:40px;margin-bottom:14px;opacity:.5;}
+
+  /* ===== 文章阅读页 ===== */
+  .article{max-width:680px;margin:0 auto;padding:0 20px 80px;}
+  .article .a-cover{
+    height:200px;border-radius:18px;margin:18px 0 22px;
+    display:flex;align-items:flex-end;padding:18px 20px;color:#fff;
+    font-size:13px;font-weight:600;letter-spacing:.5px;
+  }
+  .article .a-chips{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:14px;}
+  .article h1{font-size:30px;font-weight:800;line-height:1.25;letter-spacing:-.6px;}
+
+  .byline{display:flex;align-items:center;gap:12px;margin:20px 0;padding-bottom:20px;border-bottom:1px solid var(--line);}
+  .avatar{
+    width:46px;height:46px;border-radius:50%;display:grid;place-items:center;
+    color:#fff;font-weight:700;font-size:18px;flex:none;
+  }
+  .byline .bl-main{flex:1;min-width:0;}
+  .byline .bl-org{font-weight:700;font-size:15px;}
+  .byline .bl-sub{color:var(--ink-faint);font-size:13px;margin-top:2px;}
+
+  .a-body{font-size:17px;line-height:1.78;color:#26241F;}
+  .a-body p{margin:0 0 20px;}
+  .a-body h2{font-size:21px;font-weight:700;letter-spacing:-.2px;margin:30px 0 12px;}
+  .a-body blockquote{
+    margin:24px 0;padding:4px 0 4px 18px;border-left:3px solid var(--claude);
+    font-size:18px;color:var(--ink);font-weight:500;
+  }
+  .a-body ul{margin:0 0 20px;padding-left:22px;}
+  .a-body li{margin:8px 0;}
+
+  .source-box{
+    margin-top:30px;padding:16px 18px;border-radius:14px;
+    background:rgba(31,30,29,.035);font-size:13px;color:var(--ink-soft);line-height:1.7;
+  }
+  .source-box b{color:var(--ink);}
+  .source-box a{color:var(--claude-deep);text-decoration:none;word-break:break-all;}
+
+  .actions{
+    display:flex;justify-content:space-around;align-items:center;
+    margin-top:24px;padding:14px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);
+    color:var(--ink-faint);
+  }
+  .actions button{
+    border:none;background:transparent;cursor:pointer;color:inherit;
+    display:flex;align-items:center;gap:7px;font-size:14px;padding:6px 10px;border-radius:999px;
+    transition:color .15s ease, background .15s ease;
+  }
+  .actions button:hover{color:var(--claude);background:rgba(217,119,87,.08);}
+
+  .a-disc{margin-top:22px;font-size:12px;color:var(--ink-faint);line-height:1.6;text-align:center;}
+
+  @media(max-width:520px){
+    :root{--cell:14px;--gap:2px;--leaf-cell:11px;--leaf-gap:2px;}
+    .brand h1{font-size:20px;}
+    .figure-wrap{padding:30px;}
+    .article h1{font-size:25px;}
+    .a-body{font-size:16px;}
+    .leaf-row{bottom:-24px;gap:10px;}
+    .ref-btn{bottom:-24px;}
+  }
+</style>
+</head>
+<body>
+  <header>
+    <button class="all-btn" id="allBtn">全部文章</button>
+    <div class="brand">
+      <span class="vv">VV</span>
+      <h1>Vital<b>Vault</b></h1>
+    </div>
+    <p class="tagline">健康，值得珍藏 · 点亮身体的每一处，了解关于你自己的知识</p>
+  </header>
+
+  <main class="stage">
+    <div class="figure-wrap">
+      <div class="frame-circle"></div>
+      <div class="frame-square"></div>
+      <div class="grid" id="grid"></div>
+      <button class="ref-btn" id="refBtn" title="医学参考">R</button>
+      <div class="leaf-row">
+        <div class="halfleaf" id="halfleaf"></div>
+        <div class="leaf" id="leaf"></div>
+      </div>
+      <div class="hint" id="hint"></div>
+    </div>
+  </main>
+
+  <footer>
+    <div class="disc">
+      VitalVault 提供健康知识参考，不构成医疗诊断、治疗建议或专业医疗意见。<br>
+      身体不适或有具体健康问题时，请及时咨询执业医生或正规医疗机构。
+    </div>
+  </footer>
+
+  <!-- 阅读器 -->
+  <div class="reader" id="reader">
+    <div class="topbar">
+      <button class="back" id="back">←</button>
+      <div>
+        <div class="tb-title" id="tbTitle">文章</div>
+        <div class="tb-sub" id="tbSub"></div>
+      </div>
+    </div>
+    <div class="scroll" id="scroll">
+      <div class="feed" id="feed"></div>
+      <div class="article" id="article" style="display:none"></div>
+      <div class="disease-home" id="diseaseHome" style="display:none"></div>
+      <div class="all-view" id="allView" style="display:none"></div>
+      <div class="ref-view" id="refView" style="display:none"></div>
+    </div>
+  </div>
+
+<script src="articles_data.js"></script>
+<script>
+  /* ===== 像素人轮廓（配置驱动） ===== */
+  const BODY_MAP = [
+    ".........HHH.........",
+    "........HHHHH........",
+    "........HHHHH........",
+    "........HHHHH........",
+    ".........HHH.........",
+    ".......CCCCCCC.......",
+    "AAAAAAACCCCCCCAAAAAAA",
+    "AAAAAAACCCCCCCAAAAAAA",
+    ".......CCCCCCC.......",
+    "........BBBBB........",
+    "........BBBBB........",
+    "........BBBBB........",
+    ".......PPPPPPP.......",
+    ".......PPPPPPP.......",
+    ".......LLL.LLL.......",
+    ".......LLL.LLL.......",
+    ".......LLL.LLL.......",
+    ".......LLL.LLL.......",
+    ".......LLL.LLL.......",
+    ".......LLL.LLL.......",
+    "......LLLL.LLLL......"
+  ];
+  /* 环境与生态入口：像素树叶（G=叶片 S=叶柄） */
+  const LEAF_MAP = [
+    "..G..",
+    ".GGG.",
+    "GGGGG",
+    ".GGG.",
+    "..S..",
+    "..S.."
+  ];
+  /* 认识与预防入口：半片树叶（G=实叶 D=虚线缺口 S=叶柄） */
+  const HALF_LEAF_MAP = [
+    "..G..",
+    ".GGD.",
+    "GGGDD",
+    ".GGD.",
+    "..S..",
+    "..S.."
+  ];
+  const PARTS = {
+    H:{id:"head",   label:"头部"},
+    C:{id:"chest",  label:"胸部"},
+    B:{id:"abdomen",label:"腹部"},
+    P:{id:"pelvis", label:"骨盆"},
+    A:{id:"arms",   label:"上肢"},
+    L:{id:"legs",   label:"下肢"},
+    E:{id:"environment", label:"环境与生态"}
+  };
+
+  /* ===== 人体系统标签（按部位配色，呼应维特鲁威） ===== */
+  const SYSTEMS = {
+    brain:    {cn:"大脑与心智", color:"#7C6BD9"},
+    senses:   {cn:"眼睛与感官", color:"#4FA3C7"},
+    heart:    {cn:"心脏与循环", color:"#E0574B"},
+    lungs:    {cn:"肺部与呼吸", color:"#3FA9A0"},
+    immune:   {cn:"免疫系统",   color:"#5FAE63"},
+    gut:      {cn:"肠道与消化", color:"#C79237"},
+    hormones: {cn:"激素与内分泌",color:"#C76BA6"},
+    muscles:  {cn:"肌肉与骨骼", color:"#C2683F"},
+    skin:     {cn:"皮肤与外部", color:"#D98C5F"},
+    nutrition:{cn:"营养基础",   color:"#6FA84B"},
+    whole:    {cn:"全身与长寿", color:"#D97757"},
+    environment:{cn:"环境与生态", color:"#5C9A4F"}
+  };
+
+  /* 部位 → 系统标签映射 */
+  const PART_SYSTEMS = {
+    head:    ["brain","senses"],
+    chest:   ["heart","lungs","immune","whole"],
+    abdomen: ["gut","hormones","nutrition"],
+    pelvis:  ["hormones"],
+    arms:    ["muscles"],
+    legs:    ["muscles"],
+    environment:["environment"]
+  };
+
+  /* ===== 文章库（由 articles_data.js 外部加载，collect.py 自动维护） ===== */
+  const ARTICLES = (window.ARTICLES || []).slice().sort((a,b)=>(b.date||"").localeCompare(a.date||""));
+
+  /* ===== 收藏 / 已读（本地存储，隐私不外传） ===== */
+  const FAV_KEY="vv_fav", READ_KEY="vv_read";
+  const loadSet=k=>{ try{ return new Set(JSON.parse(localStorage.getItem(k)||"[]")); }catch(e){ return new Set(); } };
+  const saveSet=(k,s)=>{ try{ localStorage.setItem(k,JSON.stringify([...s])); }catch(e){} };
+  let favs=loadSet(FAV_KEY), reads=loadSet(READ_KEY);
+  const isFav=id=>favs.has(id);
+  function toggleFav(id){ favs.has(id)?favs.delete(id):favs.add(id); saveSet(FAV_KEY,favs); }
+  function markRead(id){ if(!reads.has(id)){ reads.add(id); saveSet(READ_KEY,reads); } }
+
+  /* ===== 渲染像素人 ===== */
+  const grid=document.getElementById("grid");
+  BODY_MAP.forEach(row=>{
+    for(const ch of row){
+      const cell=document.createElement("div");
+      const part=PARTS[ch];
+      if(part){ cell.className=`cell block p-${part.id}`; cell.dataset.part=part.id; }
+      else{ cell.className="cell empty"; }
+      grid.appendChild(cell);
+    }
+  });
+
+  const hint=document.getElementById("hint");
+  const labelOf=id=>Object.values(PARTS).find(p=>p.id===id).label;
+  function setActive(id,on){
+    grid.querySelectorAll(`[data-part="${id}"]`).forEach(c=>c.classList.toggle("active",on));
+  }
+  grid.addEventListener("mouseover",e=>{
+    const id=e.target.dataset.part; if(!id)return;
+    setActive(id,true); hint.textContent=labelOf(id); hint.classList.add("show");
+  });
+  grid.addEventListener("mouseout",e=>{
+    const id=e.target.dataset.part; if(!id)return;
+    setActive(id,false); hint.classList.remove("show");
+  });
+  grid.addEventListener("click",e=>{
+    const id=e.target.dataset.part; if(!id)return;
+    openPart(id);
+  });
+
+  /* 渲染像素树叶入口（环境与生态） */
+  const leaf=document.getElementById("leaf");
+  LEAF_MAP.forEach(row=>{
+    for(const ch of row){
+      const lc=document.createElement("div");
+      lc.className="lc "+(ch==="G"?"g":ch==="S"?"s":"e");
+      leaf.appendChild(lc);
+    }
+  });
+  leaf.addEventListener("mouseover",()=>{ hint.textContent="环境与生态"; hint.classList.add("show"); });
+  leaf.addEventListener("mouseout",()=>{ hint.classList.remove("show"); });
+  leaf.addEventListener("click",()=>openPart("environment"));
+
+  /* ===== 工具 ===== */
+  function el(tag,cls,text){
+    const n=document.createElement(tag);
+    if(cls)n.className=cls;
+    if(text!=null)n.textContent=text;
+    return n;
+  }
+  const coverGrad=color=>`linear-gradient(135deg, ${color}, ${color}CC)`;
+
+  /* ===== 阅读器状态 ===== */
+  const reader=document.getElementById("reader");
+  const feed=document.getElementById("feed");
+  const articleEl=document.getElementById("article");
+  const scroll=document.getElementById("scroll");
+  const tbTitle=document.getElementById("tbTitle");
+  const tbSub=document.getElementById("tbSub");
+  let state="closed"; // 'list' | 'article'
+
+  /* 封面图懒加载：滚动到视野才请求；失败则保留渐变色带 */
+  const coverIO=new IntersectionObserver((entries)=>{
+    entries.forEach(en=>{
+      if(!en.isIntersecting)return;
+      const t=en.target, url=t.dataset.cover;
+      coverIO.unobserve(t);
+      if(!url)return;
+      const img=new Image();
+      img.onload=()=>{ t.style.backgroundImage=`url("${url}")`; t.textContent=""; };
+      img.src=url;
+    });
+  },{root:scroll, rootMargin:"120px"});
+
+  /* ===== 认识与预防（半身视图） ===== */
+  const diseaseHome=document.getElementById("diseaseHome");
+  let mode="normal"; // 'normal' | 'disease'
+  /* 半身像素人：取 BODY_MAP 右半、左对齐（删左留右） */
+  const HALF_BODY = BODY_MAP.map(r=>r.slice(10));
+
+  /* 渲染半片树叶入口 */
+  const halfleaf=document.getElementById("halfleaf");
+  HALF_LEAF_MAP.forEach(row=>{
+    for(const ch of row){
+      const lc=document.createElement("div");
+      lc.className="lc "+(ch==="G"?"g":ch==="S"?"s":ch==="D"?"d":"e");
+      halfleaf.appendChild(lc);
+    }
+  });
+  halfleaf.addEventListener("mouseover",()=>{ hint.textContent="认识与预防"; hint.classList.add("show"); });
+  halfleaf.addEventListener("mouseout",()=>{ hint.classList.remove("show"); });
+  halfleaf.addEventListener("click",openDisease);
+
+  function renderDiseaseHome(){
+    diseaseHome.innerHTML="";
+    const banner=el("div","dh-banner");
+    banner.appendChild(el("h2",null,"认识与预防"));
+    const tags=el("div","dh-tags");
+    ["早识别","降风险","以普及健康知识为主线"].forEach(t=>tags.appendChild(el("span","dh-tag",t)));
+    banner.appendChild(tags);
+    banner.appendChild(el("p",null,"这里不渲染疾病的可怕，只讲实用的事：常见健康问题的早期信号、可控的风险因素，以及日常能做的预防。点亮下面半身上的部位，看看与它相关的「认识与预防」知识。"));
+    diseaseHome.appendChild(banner);
+
+    const dgrid=el("div","dgrid");
+    HALF_BODY.forEach(row=>{
+      for(const ch of row){
+        const cell=document.createElement("div");
+        const part=PARTS[ch];
+        if(part){ cell.className=`cell block p-${part.id}`; cell.dataset.part=part.id; }
+        else{ cell.className="cell empty"; }
+        dgrid.appendChild(cell);
+      }
+    });
+    dgrid.addEventListener("mouseover",e=>{const id=e.target.dataset.part;if(!id)return;dgrid.querySelectorAll(`[data-part="${id}"]`).forEach(c=>c.classList.add("active"));});
+    dgrid.addEventListener("mouseout",e=>{const id=e.target.dataset.part;if(!id)return;dgrid.querySelectorAll(`[data-part="${id}"]`).forEach(c=>c.classList.remove("active"));});
+    dgrid.addEventListener("click",e=>{const id=e.target.dataset.part;if(!id)return;openPart(id,true);});
+    diseaseHome.appendChild(dgrid);
+
+    diseaseHome.appendChild(el("div","dh-tip","内容持续收集中：早识别信号、风险因素、降风险的生活方式与就医提醒。每篇附来源，仅作健康知识参考，不构成医疗建议。"));
+  }
+
+  function openDisease(){
+    if(!diseaseHome.dataset.built){ renderDiseaseHome(); diseaseHome.dataset.built="1"; }
+    feed.style.display="none";
+    articleEl.style.display="none";
+    diseaseHome.style.display="";
+    tbTitle.textContent="认识与预防";
+    tbSub.textContent="早识别 · 降风险";
+    state="diseaseHome";
+    mode="disease";
+    reader.classList.add("open");
+    scroll.scrollTop=0;
+  }
+
+  /* ===== 全部文章 + 搜索 ===== */
+  const allView=document.getElementById("allView");
+  let _articleFrom="list";        // 文章来源：'list' | 'all'
+  let _allQuery="", _allCat="all", _allSys="";
+  let _allResults=null;
+
+  function renderAll(){
+    allView.innerHTML="";
+    const search=el("div","all-search");
+    const input=el("input","all-input");
+    input.type="text"; input.placeholder="搜索标题、来源、系统…"; input.value=_allQuery;
+    input.addEventListener("input",()=>{ _allQuery=input.value.trim().toLowerCase(); renderAllResults(); });
+    search.appendChild(input);
+    allView.appendChild(search);
+
+    const filters=el("div","all-filters");
+    const cats=el("div","all-cats");
+    [["all","全部"],["normal","健康知识"],["disease","认识 · 预防"],["fav","★ 收藏"]].forEach(([k,t])=>{
+      const c=el("span","fchip"+(_allCat===k?" on":""),t);
+      c.onclick=()=>{ _allCat=k; cats.querySelectorAll(".fchip").forEach(x=>x.classList.remove("on")); c.classList.add("on"); renderAllResults(); };
+      cats.appendChild(c);
+    });
+    filters.appendChild(cats);
+
+    const sysRow=el("div","all-sys");
+    const allSysChip=el("span","fchip"+(_allSys===""?" on":""),"全部系统");
+    allSysChip.onclick=()=>{ _allSys=""; updateSysChips(); renderAllResults(); };
+    sysRow.appendChild(allSysChip);
+    Object.keys(SYSTEMS).forEach(k=>{
+      const c=el("span","fchip"+(_allSys===k?" on":""),SYSTEMS[k].cn);
+      c.dataset.sys=k;
+      c.onclick=()=>{ _allSys=(_allSys===k?"":k); updateSysChips(); renderAllResults(); };
+      sysRow.appendChild(c);
+    });
+    function updateSysChips(){
+      allSysChip.classList.toggle("on",_allSys==="");
+      sysRow.querySelectorAll("[data-sys]").forEach(x=>x.classList.toggle("on",x.dataset.sys===_allSys));
+    }
+    filters.appendChild(sysRow);
+    allView.appendChild(filters);
+
+    _allResults=el("div","all-results");
+    allView.appendChild(_allResults);
+    renderAllResults();
+  }
+
+  function renderAllResults(){
+    const q=_allQuery;
+    const list=ARTICLES.filter(a=>{
+      if(_allCat==="fav" && !favs.has(a.id)) return false;
+      if(_allCat==="disease" && a.cat!=="disease") return false;
+      if(_allCat==="normal" && a.cat==="disease") return false;
+      if(_allSys && !a.systems.includes(_allSys)) return false;
+      if(q){
+        const hay=(a.title+" "+(a.summary||"")+" "+a.org+" "+a.systems.map(s=>SYSTEMS[s].cn).join(" ")).toLowerCase();
+        if(!hay.includes(q)) return false;
+      }
+      return true;
+    });
+    _allResults.innerHTML="";
+    const cnt=el("div","all-cnt",`共 ${list.length} 篇`);
+    _allResults.appendChild(cnt);
+    list.forEach(a=>_allResults.appendChild(buildCard(a)));
+  }
+
+  function openAll(){
+    if(!allView.dataset.built){ renderAll(); allView.dataset.built="1"; }
+    else renderAllResults();
+    feed.style.display="none";
+    articleEl.style.display="none";
+    diseaseHome.style.display="none";
+    allView.style.display="";
+    tbTitle.textContent="全部文章";
+    tbSub.textContent="搜索 · 按系统筛选";
+    state="all";
+    mode="normal";
+    reader.classList.add("open");
+    scroll.scrollTop=0;
+  }
+  document.getElementById("allBtn").onclick=openAll;
+
+  function openPart(partId,disease){
+    const sysList=PART_SYSTEMS[partId];
+    let list=ARTICLES.filter(a=>a.systems.some(s=>sysList.includes(s)));
+    list = disease ? list.filter(a=>a.cat==="disease") : list.filter(a=>a.cat!=="disease");
+    mode = disease ? "disease" : "normal";
+    renderFeed(partId,list,disease);
+    feed.style.display="";
+    articleEl.style.display="none";
+    diseaseHome.style.display="none";
+    tbTitle.textContent=labelOf(partId);
+    tbSub.textContent=`${sysList.map(s=>SYSTEMS[s].cn).join(" · ")}`;
+    state="list";
+    reader.classList.add("open");
+    scroll.scrollTop=0;
+  }
+
+  function renderFeed(partId,list,disease){
+    feed.innerHTML="";
+    const head=el("div","feed-head");
+    head.appendChild(el("h2",null,labelOf(partId)+(disease?" · 认识与预防":" · 知识")));
+    head.appendChild(el("div","cnt",list.length?`${list.length} 篇`:"暂无内容"));
+    feed.appendChild(head);
+
+    if(!list.length){
+      const e=el("div","empty-feed");
+      e.appendChild(el("div","big","✦"));
+      e.appendChild(el("div",null,disease?"该部位的「认识与预防」内容正在收集中":"该部位的知识正在收集中"));
+      feed.appendChild(e);
+      return;
+    }
+
+    list.forEach(a=>feed.appendChild(buildCard(a)));
+  }
+
+  function buildCard(a){
+    const sys=SYSTEMS[a.systems[0]];
+    const card=el("div","card"+(reads.has(a.id)?" read":""));
+    const thumb=el("div","thumb",sys.cn);
+    thumb.style.background=coverGrad(sys.color);
+    if(a.cover){ thumb.dataset.cover=a.cover; coverIO.observe(thumb); }
+    card.appendChild(thumb);
+    const cbody=el("div","cbody");
+    cbody.appendChild(el("h3",null,a.title));
+    const meta=el("div","meta");
+    const chip=el("span","chip",sys.cn); chip.style.background=sys.color;
+    meta.appendChild(chip);
+    if(a.cat==="disease"){ const dz=el("span","chip","认识 · 预防"); dz.style.background="#5C9A4F"; meta.appendChild(dz); }
+    meta.appendChild(el("span","src",a.org));
+    meta.appendChild(el("span","ev "+a.evidence,a.evidence));
+    if(reads.has(a.id)) meta.appendChild(el("span","read-tag","已读"));
+    const fav=el("button","fav-btn"+(isFav(a.id)?" on":""));
+    fav.textContent=isFav(a.id)?"★":"☆"; fav.title="收藏";
+    fav.onclick=e=>{
+      e.stopPropagation();
+      toggleFav(a.id);
+      const on=isFav(a.id); fav.classList.toggle("on",on); fav.textContent=on?"★":"☆";
+      if(state==="all"&&_allCat==="fav") renderAllResults();
+    };
+    meta.appendChild(fav);
+    cbody.appendChild(meta);
+    card.appendChild(cbody);
+    card.onclick=()=>openArticle(a.id);
+    return card;
+  }
+
+  function openArticle(id){
+    const a=ARTICLES.find(x=>x.id===id);
+    _articleFrom = state==="all" ? "all" : "list";
+    markRead(id);
+    renderArticle(a);
+    feed.style.display="none";
+    diseaseHome.style.display="none";
+    allView.style.display="none";
+    refView.style.display="none";
+    articleEl.style.display="";
+    tbTitle.textContent="文章";
+    tbSub.textContent=a.org;
+    state="article";
+    scroll.scrollTop=0;
+  }
+
+  function renderArticle(a){
+    articleEl.innerHTML="";
+    const sys=SYSTEMS[a.systems[0]];
+
+    const cover=el("div","a-cover",sys.cn);
+    cover.style.background=coverGrad(sys.color);
+    if(a.cover){ const im=new Image(); im.onload=()=>{ cover.style.backgroundImage=`url("${a.cover}")`; cover.textContent=""; }; im.src=a.cover; }
+    articleEl.appendChild(cover);
+
+    const chips=el("div","a-chips");
+    a.systems.forEach(s=>{
+      const c=el("span","chip",SYSTEMS[s].cn); c.style.background=SYSTEMS[s].color;
+      chips.appendChild(c);
+    });
+    articleEl.appendChild(chips);
+
+    articleEl.appendChild(el("h1",null,a.title));
+
+    const by=el("div","byline");
+    const av=el("div","avatar",a.org.charAt(0).toUpperCase());
+    av.style.background=sys.color;
+    by.appendChild(av);
+    const blMain=el("div","bl-main");
+    blMain.appendChild(el("div","bl-org",a.org));
+    blMain.appendChild(el("div","bl-sub",`${a.author} · ${a.date}`));
+    by.appendChild(blMain);
+    by.appendChild(el("span","ev "+a.evidence,"证据等级 "+a.evidence));
+    articleEl.appendChild(by);
+
+    const body=el("div","a-body");
+    a.body.forEach(b=>{
+      if(b.t==="p")body.appendChild(el("p",null,b.x));
+      else if(b.t==="h")body.appendChild(el("h2",null,b.x));
+      else if(b.t==="quote")body.appendChild(el("blockquote",null,b.x));
+      else if(b.t==="list"){
+        const ul=el("ul");
+        b.items.forEach(it=>ul.appendChild(el("li",null,it)));
+        body.appendChild(ul);
+      }
+    });
+    articleEl.appendChild(body);
+
+    const sb=el("div","source-box");
+    const line1=el("div");
+    line1.append("来源：");
+    const b=el("b",null,a.org); line1.appendChild(b);
+    line1.append(`　|　${a.author}　|　${a.date}`);
+    sb.appendChild(line1);
+    const line2=el("div");
+    line2.append("原文入口：");
+    const link=el("a",null,a.sourceName); link.href=a.sourceUrl; link.target="_blank"; link.rel="noopener";
+    line2.appendChild(link);
+    sb.appendChild(line2);
+    articleEl.appendChild(sb);
+
+    const acts=el("div","actions");
+    [["♡","赞"],["↻","转存"],["🔖","收藏"],["↗","分享"]].forEach(([i,t])=>{
+      const btn=el("button"); const ico=el("span",null,i); const lab=el("span",null,t);
+      btn.appendChild(ico); btn.appendChild(lab);
+      if(t==="收藏"){
+        const paint=()=>{ const on=isFav(a.id); btn.classList.toggle("on",on); lab.textContent=on?"已收藏":"收藏"; };
+        btn.onclick=()=>{ toggleFav(a.id); paint(); };
+        paint();
+      }
+      acts.appendChild(btn);
+    });
+    articleEl.appendChild(acts);
+
+    articleEl.appendChild(el("div","a-disc","本文为健康知识科普，不构成医疗建议。具体健康问题请咨询执业医生。"));
+  }
+
+  /* ===== 返回 / 关闭 ===== */
+  function back(){
+    if(state==="article"){
+      articleEl.style.display="none";
+      if(_articleFrom==="all"){
+        allView.style.display="";
+        renderAllResults();
+        tbTitle.textContent="全部文章";
+        tbSub.textContent="搜索 · 按系统筛选";
+        state="all";
+      }else{
+        feed.style.display="";
+        state="list";
+        refreshTopbarForList();
+      }
+      scroll.scrollTop=0;
+    }else if(state==="all"||state==="ref"){
+      reader.classList.remove("open");
+      state="closed";
+    }else if(state==="list"){
+      if(mode==="disease"){
+        feed.style.display="none";
+        diseaseHome.style.display="";
+        tbTitle.textContent="认识与预防";
+        tbSub.textContent="早识别 · 降风险";
+        state="diseaseHome";
+        scroll.scrollTop=0;
+      }else{
+        reader.classList.remove("open");
+        state="closed";
+      }
+    }else{
+      reader.classList.remove("open");
+      state="closed";
+      mode="normal";
+    }
+  }
+  function refreshTopbarForList(){
+    // 由当前 feed 推断部位
+    const head=feed.querySelector(".feed-head h2");
+    if(head){
+      const label=head.textContent.replace(" · 认识与预防","").replace(" · 知识","");
+      tbTitle.textContent=label;
+      const partId=Object.values(PARTS).find(p=>p.label===label)?.id;
+      if(partId)tbSub.textContent=PART_SYSTEMS[partId].map(s=>SYSTEMS[s].cn).join(" · ");
+    }
+  }
+  /* ===== 医学参考数据 ===== */
+  const REF_ABBR=[
+    {term:"BP",   en:"Blood Pressure",               cn:"血压",           use:"生命体征测量"},
+    {term:"HR",   en:"Heart Rate",                    cn:"心率",           use:"每分钟心跳次数"},
+    {term:"CBC",  en:"Complete Blood Count",          cn:"全血细胞计数",   use:"血常规检查"},
+    {term:"HbA1c",en:"Hemoglobin A1c",                cn:"糖化血红蛋白",   use:"糖尿病长期血糖监测"},
+    {term:"ECG/EKG",en:"Electrocardiogram",           cn:"心电图",         use:"记录心脏电活动"},
+    {term:"CT",   en:"Computed Tomography",           cn:"CT扫描",         use:"影像学检查"},
+    {term:"MRI",  en:"Magnetic Resonance Imaging",    cn:"磁共振成像",     use:"软组织影像"},
+    {term:"BMI",  en:"Body Mass Index",               cn:"体重指数",       use:"体重与身高比例评估"},
+    {term:"SpO2", en:"Oxygen Saturation",             cn:"血氧饱和度",     use:"指尖血氧仪测量"},
+    {term:"INR",  en:"International Normalized Ratio",cn:"国际标准化比值", use:"抗凝药监测（凝血功能）"},
+    {term:"WBC",  en:"White Blood Cell",              cn:"白细胞",         use:"免疫/感染指标"},
+    {term:"RBC",  en:"Red Blood Cell",                cn:"红细胞",         use:"贫血/血液检查"},
+    {term:"CHF",  en:"Congestive Heart Failure",      cn:"充血性心力衰竭", use:"心脏泵血不足"},
+    {term:"CAD",  en:"Coronary Artery Disease",       cn:"冠状动脉疾病",   use:"心绞痛/心梗基础病"},
+    {term:"MI",   en:"Myocardial Infarction",         cn:"心肌梗死",       use:"心脏病发作"},
+    {term:"AFib", en:"Atrial Fibrillation",           cn:"心房颤动",       use:"常见心律不齐"},
+    {term:"COPD", en:"Chronic Obstructive Pulmonary Disease",cn:"慢性阻塞性肺疾病",use:"慢性气道阻塞"},
+    {term:"bid",  en:"bis in die（拉丁）",             cn:"每天两次",       use:"处方用药频率"},
+    {term:"qd",   en:"quaque die（拉丁）",             cn:"每天一次",       use:"处方用药频率"},
+    {term:"prn",  en:"pro re nata（拉丁）",            cn:"必要时",         use:"按需用药"},
+    {term:"IV",   en:"Intravenous",                   cn:"静脉注射",       use:"给药途径"},
+    {term:"OTC",  en:"Over-the-Counter",              cn:"非处方药",       use:"无需处方可购买"},
+  ];
+
+  const REF_ORGANS=[
+    {en:"Heart",       cn:"心脏",   trad:"心臟", root:"Cardio-",     fr:"Cœur",         jp:"心臓 Shinzō"},
+    {en:"Liver",       cn:"肝脏",   trad:"肝臟", root:"Hepato-",     fr:"Foie",         jp:"肝臓 Kanzō"},
+    {en:"Kidney",      cn:"肾脏",   trad:"腎臟", root:"Nephro-",     fr:"Rein",         jp:"腎臓 Jinzō"},
+    {en:"Lung",        cn:"肺",     trad:"肺",   root:"Pulmo-/Pneumo-",fr:"Poumon",     jp:"肺 Hai"},
+    {en:"Brain",       cn:"大脑",   trad:"大腦", root:"Cerebro-/Encephalo-",fr:"Cerveau",jp:"脳 Nō"},
+    {en:"Stomach",     cn:"胃",     trad:"胃",   root:"Gastro-",     fr:"Estomac",      jp:"胃 I"},
+    {en:"Intestine",   cn:"肠",     trad:"腸",   root:"Entero-",     fr:"Intestin",     jp:"腸 Chō"},
+    {en:"Pancreas",    cn:"胰腺",   trad:"胰腺", root:"Pancreato-",  fr:"Pancréas",     jp:"膵臓 Suizō"},
+    {en:"Bone",        cn:"骨骼",   trad:"骨骼", root:"Osteo-",      fr:"Os",           jp:"骨 Hone"},
+    {en:"Skin",        cn:"皮肤",   trad:"皮膚", root:"Dermo-",      fr:"Peau",         jp:"皮膚 Hifu"},
+    {en:"Eye",         cn:"眼睛",   trad:"眼睛", root:"Oculo-/Ophthalmo-",fr:"Œil",    jp:"目 Me"},
+    {en:"Ear",         cn:"耳朵",   trad:"耳朵", root:"Oto-",        fr:"Oreille",      jp:"耳 Mimi"},
+    {en:"Artery",      cn:"动脉",   trad:"動脈", root:"Arterio-",    fr:"Artère",       jp:"動脈 Dōmyaku"},
+    {en:"Vein",        cn:"静脉",   trad:"靜脈", root:"Phleo-/Veno-",fr:"Veine",        jp:"静脈 Jōmyaku"},
+  ];
+
+  const REF_DRUGS=[
+    {inn:"Paracetamol",     brand:"Tylenol / Panadol",       cn:"对乙酰氨基酚（扑热息痛）",use:"退烧、止痛"},
+    {inn:"Ibuprofen",       brand:"Advil / Nurofen",          cn:"布洛芬",                use:"消炎、止痛、退烧"},
+    {inn:"Amoxicillin",     brand:"Amoxil",                   cn:"阿莫西林",              use:"常用抗生素"},
+    {inn:"Metformin",       brand:"Glucophage",               cn:"二甲双胍",              use:"2型糖尿病一线用药"},
+    {inn:"Atorvastatin",    brand:"Lipitor",                  cn:"阿托伐他汀",            use:"降胆固醇（他汀类）"},
+    {inn:"Aspirin",         brand:"Bayer Aspirin",            cn:"阿司匹林",              use:"抗血小板、退烧止痛"},
+    {inn:"Omeprazole",      brand:"Prilosec / Losec",         cn:"奥美拉唑",              use:"胃酸抑制（质子泵）"},
+    {inn:"Salbutamol",      brand:"Ventolin",                 cn:"沙丁胺醇",              use:"哮喘/COPD急性扩张气道"},
+    {inn:"Metoprolol",      brand:"Lopressor / Toprol-XL",   cn:"美托洛尔",              use:"β阻滞剂，控心率/降压"},
+    {inn:"Lisinopril",      brand:"Prinivil / Zestril",       cn:"赖诺普利",              use:"ACE抑制剂，降压/心衰"},
+    {inn:"Losartan",        brand:"Cozaar",                   cn:"氯沙坦",                use:"ARB类，降压"},
+    {inn:"Warfarin",        brand:"Coumadin",                 cn:"华法林",                use:"抗凝血（需监测INR）"},
+    {inn:"Cholecalciferol", brand:"Vitamin D3",               cn:"胆钙化醇（维生素D3）",  use:"骨骼健康、免疫支持"},
+    {inn:"Cetirizine",      brand:"Zyrtec",                   cn:"西替利嗪",              use:"抗组胺、过敏症状"},
+  ];
+
+  const REF_TUBES=[
+    {color:"紫色 / Lavender",dot:"#8B5CF6",additive:"EDTA",cn:"乙二胺四乙酸",tests:"CBC 血常规、血型鉴定"},
+    {color:"绿色 / Green",   dot:"#22C55E",additive:"肝素 Heparin",cn:"",     tests:"血气、电解质、快速化学指标"},
+    {color:"红/金 / Red·Gold SST",dot:"#EF4444",additive:"无添加/促凝",cn:"",tests:"肝功能、血脂、激素、血清学检查"},
+    {color:"蓝色 / Light Blue",dot:"#3B82F6",additive:"柠檬酸钠 Citrate",cn:"",tests:"凝血功能（PT/INR/APTT）"},
+    {color:"黑色 / Black",    dot:"#1F2937",additive:"柠檬酸钠 Citrate",cn:"高浓度",tests:"血沉（ESR）"},
+    {color:"灰色 / Grey",     dot:"#9CA3AF",additive:"氟化钠/草酸钾",cn:"",    tests:"血糖、乳酸（需抑制糖酵解）"},
+  ];
+
+  /* ===== 医学参考逻辑 ===== */
+  const refView=document.getElementById("refView");
+  let _refTab="abbr", _refQuery="", _refList=null;
+  const REF_TABS_DEF=[
+    ["abbr","缩写"],["organs","器官对照"],["drugs","药物 INN"],["tubes","试管颜色"]
+  ];
+
+  function renderRef(){
+    refView.innerHTML="";
+    const banner=el("div","ref-banner");
+    banner.appendChild(el("h2",null,"医学参考"));
+    banner.appendChild(el("p",null,"常见缩写、器官多语言对照、药物国际通用名（INN）与化验试管速查。内容来自 MedlinePlus、WHO INN、ICON Project。"));
+    refView.appendChild(banner);
+
+    const inp=el("input","all-input"); inp.type="text"; inp.placeholder="搜索术语、中文名…"; inp.value=_refQuery;
+    inp.addEventListener("input",()=>{ _refQuery=inp.value.trim().toLowerCase(); renderRefResults(); });
+    refView.appendChild(inp);
+
+    const tabs=el("div","ref-tabs");
+    REF_TABS_DEF.forEach(([k,t])=>{
+      const c=el("span","fchip"+(_refTab===k?" on":""),t);
+      c.onclick=()=>{ _refTab=k; tabs.querySelectorAll(".fchip").forEach(x=>x.classList.remove("on")); c.classList.add("on"); renderRefResults(); };
+      tabs.appendChild(c);
+    });
+    refView.appendChild(tabs);
+
+    _refList=el("div","ref-list"); refView.appendChild(_refList);
+    renderRefResults();
+  }
+
+  function renderRefResults(){
+    _refList.innerHTML="";
+    const q=_refQuery;
+    function match(row){ return !q||Object.values(row).join(" ").toLowerCase().includes(q); }
+
+    if(_refTab==="abbr"){
+      REF_ABBR.filter(match).forEach(r=>{
+        const row=el("div","ref-row");
+        row.appendChild(el("div","ref-term",r.term));
+        row.appendChild(el("div","ref-en",r.en));
+        const meta=el("div","ref-meta");
+        meta.appendChild(el("span","ref-tag",r.cn));
+        meta.appendChild(el("span","",r.use));
+        row.appendChild(meta);
+        _refList.appendChild(row);
+      });
+    } else if(_refTab==="organs"){
+      REF_ORGANS.filter(match).forEach(r=>{
+        const row=el("div","ref-row");
+        row.appendChild(el("div","ref-term",r.en));
+        const cn=el("div","ref-cn"); cn.textContent=`${r.cn}　繁：${r.trad}`; row.appendChild(cn);
+        const meta=el("div","ref-meta");
+        [{v:r.root,l:"词根"},{v:r.fr,l:"法文"},{v:r.jp,l:"日文"}].forEach(({v,l})=>{
+          if(v){ const t=el("span","ref-tag"); t.textContent=`${l}：${v}`; meta.appendChild(t); }
+        });
+        row.appendChild(meta);
+        _refList.appendChild(row);
+      });
+    } else if(_refTab==="drugs"){
+      REF_DRUGS.filter(match).forEach(r=>{
+        const row=el("div","ref-row");
+        row.appendChild(el("div","ref-term",r.inn));
+        row.appendChild(el("div","ref-en","品牌："+r.brand));
+        const meta=el("div","ref-meta");
+        meta.appendChild(el("span","ref-tag",r.cn||r.inn));
+        meta.appendChild(el("span","",r.use));
+        row.appendChild(meta);
+        _refList.appendChild(row);
+      });
+    } else {
+      REF_TUBES.filter(match).forEach(r=>{
+        const row=el("div","ref-row");
+        const termLine=el("div","ref-term");
+        const dot=document.createElement("span"); dot.className="tube-dot"; dot.style.background=r.dot;
+        termLine.appendChild(dot); termLine.append(r.color);
+        row.appendChild(termLine);
+        row.appendChild(el("div","ref-en","添加剂："+r.additive+(r.cn?" ("+r.cn+")":"")));
+        row.appendChild(el("div","ref-cn","检测："+r.tests));
+        _refList.appendChild(row);
+      });
+    }
+
+    if(!_refList.children.length){
+      const e=el("div","empty-feed");
+      e.appendChild(el("div","big","✦"));
+      e.appendChild(el("div",null,"没有匹配结果"));
+      _refList.appendChild(e);
+    }
+  }
+
+  function openRef(){
+    if(!refView.dataset.built){ renderRef(); refView.dataset.built="1"; }
+    feed.style.display="none";
+    articleEl.style.display="none";
+    diseaseHome.style.display="none";
+    allView.style.display="none";
+    refView.style.display="";
+    tbTitle.textContent="医学参考";
+    tbSub.textContent="缩写 · 器官 · 药物 · 试管";
+    state="ref";
+    mode="normal";
+    reader.classList.add("open");
+    scroll.scrollTop=0;
+  }
+  document.getElementById("refBtn").onclick=openRef;
+
+  document.getElementById("back").onclick=back;
+  document.addEventListener("keydown",e=>{if(e.key==="Escape"&&state!=="closed")back();});
+</script>
+</body>
+</html>
