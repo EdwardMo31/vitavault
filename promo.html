@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VitalVault · 宣传页</title>
+<style>
+  :root{
+    --orange:#D97757;
+    --orange-deep:#C25E3F;
+    --orange-soft:#F2C4AC;
+    --cream:#F0EEE6;
+    --cream-2:#FAF9F5;
+    --ink:#1F1E1D;
+    --ink-soft:#6B6862;
+    --ink-faint:#9B978F;
+    --green:#5C9A4F;
+    --navy:#3A4F6B;
+    --r:14px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html{scroll-behavior:smooth;}
+  body{
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
+    background:var(--cream);
+    color:var(--ink);
+    -webkit-font-smoothing:antialiased;
+    max-width:480px;
+    margin:0 auto;
+  }
+
+  /* ─── Hero ─── */
+  .hero{
+    background:var(--cream-2);
+    padding:56px 28px 48px;
+    text-align:center;
+    position:relative;
+    overflow:hidden;
+  }
+  .hero::before{
+    content:'';
+    position:absolute;inset:0;
+    background:radial-gradient(ellipse 80% 60% at 50% -10%, #f5e0d4 0%, transparent 70%);
+    pointer-events:none;
+  }
+  .hero-badge{
+    display:inline-flex;align-items:center;gap:10px;
+    margin-bottom:24px;
+  }
+  .vv-logo{
+    width:44px;height:44px;
+    display:grid;place-items:center;
+    background:var(--cream-2);
+    border:2.5px solid var(--orange);
+    border-radius:11px;
+    color:var(--orange);
+    font-weight:800;font-size:17px;letter-spacing:-3px;
+  }
+  .hero-brand{
+    font-size:26px;font-weight:800;
+    color:var(--ink);letter-spacing:-.5px;
+  }
+  .hero-brand b{color:var(--orange);}
+  .hero-tagline{
+    font-size:30px;font-weight:800;
+    line-height:1.25;letter-spacing:-.5px;
+    color:var(--ink);
+    margin-bottom:16px;
+  }
+  .hero-tagline em{
+    font-style:normal;
+    color:var(--orange);
+  }
+  .hero-sub{
+    font-size:15px;line-height:1.8;
+    color:var(--ink-soft);
+    margin-bottom:32px;
+  }
+  .hero-cta{
+    display:inline-block;
+    background:var(--orange);color:#fff;
+    font-size:15px;font-weight:700;
+    padding:13px 28px;border-radius:999px;
+    text-decoration:none;
+    box-shadow:0 4px 18px rgba(217,119,87,.35);
+    transition:transform .15s;
+  }
+  .hero-cta:hover{transform:translateY(-2px);}
+
+  /* ─── 像素人 插图 ─── */
+  .pixel-section{
+    padding:40px 28px;
+    text-align:center;
+    background:var(--cream-2);
+    border-top:1px solid rgba(31,30,29,.07);
+  }
+  .pixel-art{
+    display:inline-block;
+    position:relative;
+    margin-bottom:20px;
+  }
+  /* CSS pixel person — simplified 10×18 */
+  .px{
+    display:grid;
+    grid-template-columns:repeat(10,14px);
+    gap:2px;
+    margin:0 auto;
+  }
+  .px div{width:14px;height:14px;border-radius:2px;}
+  .px .h{background:#D97757;}
+  .px .c{background:#E9A085;}
+  .px .b{background:#C25E3F;}
+  .px .g{background:#5C9A4F;}
+  .px .n{background:transparent;}
+  .px .s{background:#3A4F6B;}
+
+  .pixel-caption{
+    font-size:13px;color:var(--ink-faint);
+    margin-top:8px;
+  }
+
+  /* ─── 宣言 ─── */
+  .manifesto{
+    padding:44px 28px;
+    background:var(--orange);
+    color:#fff;
+  }
+  .manifesto-kicker{
+    font-size:12px;font-weight:700;letter-spacing:2px;
+    text-transform:uppercase;
+    opacity:.7;margin-bottom:14px;
+  }
+  .manifesto-title{
+    font-size:24px;font-weight:800;line-height:1.3;
+    margin-bottom:20px;
+  }
+  .manifesto-body{
+    font-size:15px;line-height:1.9;
+    opacity:.92;
+  }
+  .manifesto-body p{margin-bottom:12px;}
+  .manifesto-body b{font-weight:700;}
+
+  /* ─── 特性卡片 ─── */
+  .features{
+    padding:44px 28px;
+    background:var(--cream-2);
+  }
+  .section-title{
+    font-size:20px;font-weight:800;
+    color:var(--ink);margin-bottom:6px;
+  }
+  .section-sub{
+    font-size:14px;color:var(--ink-faint);
+    margin-bottom:28px;
+    line-height:1.6;
+  }
+  .feat-grid{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:12px;
+  }
+  .feat-card{
+    background:var(--cream);
+    border-radius:14px;
+    padding:18px 16px;
+    border:1.5px solid rgba(31,30,29,.07);
+  }
+  .feat-card.wide{grid-column:1/-1;}
+  .feat-icon{
+    font-size:24px;margin-bottom:10px;
+    display:block;
+  }
+  .feat-name{
+    font-size:14px;font-weight:700;
+    color:var(--ink);margin-bottom:4px;
+  }
+  .feat-desc{
+    font-size:12px;color:var(--ink-soft);
+    line-height:1.6;
+  }
+
+  /* ─── 品牌故事 ─── */
+  .brand-story{
+    padding:44px 28px;
+    background:var(--cream);
+    border-top:1px solid rgba(31,30,29,.07);
+  }
+  .brand-row{
+    display:flex;align-items:flex-start;gap:16px;
+    margin-bottom:20px;
+  }
+  .brand-word{
+    flex-shrink:0;
+    background:var(--orange);color:#fff;
+    font-size:20px;font-weight:900;
+    width:56px;height:56px;
+    border-radius:12px;
+    display:grid;place-items:center;
+  }
+  .brand-def{
+    flex:1;
+  }
+  .brand-def strong{
+    display:block;
+    font-size:15px;font-weight:700;
+    color:var(--ink);margin-bottom:3px;
+  }
+  .brand-def span{
+    font-size:13px;color:var(--ink-soft);
+    line-height:1.6;
+  }
+  .brand-together{
+    background:var(--cream-2);
+    border-radius:12px;
+    padding:16px 18px;
+    border-left:3px solid var(--orange);
+    font-size:14px;line-height:1.8;
+    color:var(--ink-soft);
+  }
+  .brand-together b{color:var(--ink);font-weight:700;}
+
+  /* ─── 调性说明 ─── */
+  .tone{
+    padding:44px 28px;
+    background:var(--cream-2);
+  }
+  .tone-list{
+    list-style:none;
+    display:flex;flex-direction:column;gap:10px;
+    margin-top:20px;
+  }
+  .tone-list li{
+    display:flex;align-items:flex-start;gap:12px;
+    font-size:14px;line-height:1.7;color:var(--ink-soft);
+  }
+  .tone-yes{
+    flex-shrink:0;
+    width:22px;height:22px;border-radius:50%;
+    display:grid;place-items:center;
+    font-size:11px;font-weight:800;
+  }
+  .tone-yes.y{background:#E8F4E6;color:var(--green);}
+  .tone-yes.n{background:#FDE8E0;color:var(--orange-deep);}
+
+  /* ─── 医学参考 R ─── */
+  .ref-section{
+    padding:44px 28px;
+    background:var(--cream);
+    border-top:1px solid rgba(31,30,29,.07);
+  }
+  .ref-demo{
+    background:var(--cream-2);
+    border-radius:14px;
+    border:1.5px solid rgba(31,30,29,.08);
+    padding:18px;
+    margin-top:20px;
+  }
+  .ref-tabs{
+    display:flex;gap:6px;flex-wrap:wrap;
+    margin-bottom:14px;
+  }
+  .ref-tab{
+    padding:4px 12px;border-radius:999px;
+    font-size:12px;font-weight:600;
+    background:rgba(58,79,107,.1);
+    color:var(--navy);
+  }
+  .ref-tab.on{background:var(--navy);color:#fff;}
+  .ref-row-demo{
+    display:flex;gap:10px;align-items:center;
+    padding:8px 0;
+    border-bottom:1px solid rgba(31,30,29,.06);
+    font-size:13px;
+  }
+  .ref-term{font-weight:700;color:var(--navy);width:52px;flex-shrink:0;}
+  .ref-cn{color:var(--ink-soft);}
+
+  /* ─── 反馈/CTA ─── */
+  .cta{
+    padding:48px 28px;
+    background:var(--ink);
+    color:#fff;
+    text-align:center;
+  }
+  .cta-title{
+    font-size:22px;font-weight:800;
+    line-height:1.3;
+    margin-bottom:12px;
+  }
+  .cta-title em{font-style:normal;color:var(--orange-soft);}
+  .cta-body{
+    font-size:14px;line-height:1.9;
+    color:rgba(255,255,255,.7);
+    margin-bottom:28px;
+  }
+  .cta-btn{
+    display:inline-block;
+    background:var(--orange);color:#fff;
+    font-size:15px;font-weight:700;
+    padding:13px 32px;border-radius:999px;
+    text-decoration:none;
+    margin-bottom:20px;
+  }
+  .cta-note{
+    font-size:12px;color:rgba(255,255,255,.4);
+    line-height:1.7;
+  }
+
+  /* ─── 免责 ─── */
+  .disclaimer{
+    padding:20px 28px;
+    background:var(--cream);
+    font-size:11px;color:var(--ink-faint);
+    line-height:1.7;
+    text-align:center;
+  }
+</style>
+</head>
+<body>
+
+<!-- ① Hero -->
+<section class="hero">
+  <div class="hero-badge">
+    <div class="vv-logo">VV</div>
+    <span class="hero-brand">Vital<b>Vault</b></span>
+  </div>
+  <h1 class="hero-tagline">用知识，<br>修护<em>身体</em>。</h1>
+  <p class="hero-sub">
+    一个把人体健康知识系统化收集、<br>并向所有人开放的知识平台。
+  </p>
+  <a class="hero-cta" href="https://EdwardMo31.github.io/vitavault/" target="_blank">
+    立即体验 →
+  </a>
+</section>
+
+<!-- ② 宣言 -->
+<section class="manifesto">
+  <div class="manifesto-kicker">我们的主张</div>
+  <h2 class="manifesto-title">它不是诊所，<br>而是一座知识宝库。</h2>
+  <div class="manifesto-body">
+    <p>它不诊断、不开药、不替你看病。</p>
+    <p><b>它收集并分享关于人体健康的全部知识，</b>让任何人都能在这里普及医学常识，主动地关心身体。</p>
+    <p><b>它面向每一个人。</b>了解健康知识不应该有门槛。</p>
+  </div>
+</section>
+
+<!-- ③ 功能特色 -->
+<section class="features">
+  <h2 class="section-title">它能做什么？</h2>
+  <p class="section-sub">六个功能，一个目标——让健康常识触手可及。</p>
+  <div class="feat-grid">
+    <div class="feat-card">
+      <span class="feat-icon">🧍</span>
+      <div class="feat-name">像素人身体地图</div>
+      <div class="feat-desc">点击身体部位，查看对应系统的健康知识。</div>
+    </div>
+    <div class="feat-card">
+      <span class="feat-icon">🛡️</span>
+      <div class="feat-name">疾病预防专区</div>
+      <div class="feat-desc">血压、血糖、癌症……只讲预防，不讲恐吓。</div>
+    </div>
+    <div class="feat-card">
+      <span class="feat-icon">🔍</span>
+      <div class="feat-name">全库搜索</div>
+      <div class="feat-desc">关键词搜索 + 系统筛选，快速找到想要的内容。</div>
+    </div>
+    <div class="feat-card">
+      <span class="feat-icon">🌿</span>
+      <div class="feat-name">环境与生态</div>
+      <div class="feat-desc">空气、饮水、绿色生活方式，健康从环境开始。</div>
+    </div>
+    <div class="feat-card">
+      <span class="feat-icon">⭐</span>
+      <div class="feat-name">收藏 / 已读</div>
+      <div class="feat-desc">无需注册，本地存储，隐私优先。</div>
+    </div>
+    <div class="feat-card">
+      <span class="feat-icon">R</span>
+      <div class="feat-name">医学参考 R</div>
+      <div class="feat-desc">看懂 BP、ECG、INN……随时查的医学词典。</div>
+    </div>
+  </div>
+</section>
+
+<!-- ④ 医学参考展示 -->
+<section class="ref-section">
+  <h2 class="section-title">医学参考 R</h2>
+  <p class="section-sub">看健康资讯时遇到不懂的缩写、器官名、药物名——这里都有。</p>
+  <div class="ref-demo">
+    <div class="ref-tabs">
+      <div class="ref-tab on">缩写</div>
+      <div class="ref-tab">器官对照</div>
+      <div class="ref-tab">药物 INN</div>
+      <div class="ref-tab">化验试管</div>
+    </div>
+    <div class="ref-row-demo">
+      <div class="ref-term">BP</div>
+      <div class="ref-cn">血压 · Blood Pressure · 生命体征测量</div>
+    </div>
+    <div class="ref-row-demo">
+      <div class="ref-term">BMI</div>
+      <div class="ref-cn">体质指数 · Body Mass Index · 体重评估</div>
+    </div>
+    <div class="ref-row-demo">
+      <div class="ref-term">ECG</div>
+      <div class="ref-cn">心电图 · Electrocardiogram · 心脏筛查</div>
+    </div>
+    <div class="ref-row-demo" style="border-bottom:none">
+      <div class="ref-term">HDL</div>
+      <div class="ref-cn">高密度脂蛋白 · "好胆固醇" · 心血管评估</div>
+    </div>
+  </div>
+</section>
+
+<!-- ⑤ 品牌故事 -->
+<section class="brand-story">
+  <h2 class="section-title">为什么叫 VitalVault？</h2>
+  <p class="section-sub" style="margin-bottom:24px">两个英文单词，一个简单的信念。</p>
+  <div class="brand-row">
+    <div class="brand-word">V</div>
+    <div class="brand-def">
+      <strong>Vital — 生命力 / 至关重要</strong>
+      <span>关乎生命本身，不可或缺。</span>
+    </div>
+  </div>
+  <div class="brand-row">
+    <div class="brand-word" style="background:var(--orange-deep)">V</div>
+    <div class="brand-def">
+      <strong>Vault — 珍藏宝物的宝库</strong>
+      <span>银行金库、酒窖、博物馆藏室——存放最重要的东西。</span>
+    </div>
+  </div>
+  <div class="brand-together">
+    合起来：<b>珍藏要紧之物的地方。</b><br>
+    把健康知识当作宝藏来收集与守护——这就是 VitalVault 最初的想法，也是它持续生长的理由。
+  </div>
+</section>
+
+<!-- ⑥ 调性 -->
+<section class="tone">
+  <h2 class="section-title">我们讲什么，不讲什么</h2>
+  <ul class="tone-list">
+    <li>
+      <div class="tone-yes y">✓</div>
+      <span>早期识别风险因素，主动预防</span>
+    </li>
+    <li>
+      <div class="tone-yes y">✓</div>
+      <span>降低风险的生活方式建议</span>
+    </li>
+    <li>
+      <div class="tone-yes y">✓</div>
+      <span>何时应该去看医生</span>
+    </li>
+    <li>
+      <div class="tone-yes y">✓</div>
+      <span>来自 WHO、CDC、NIH、Harvard Health 等权威来源</span>
+    </li>
+    <li>
+      <div class="tone-yes n">✕</div>
+      <span>诊断、用药、治疗细节</span>
+    </li>
+    <li>
+      <div class="tone-yes n">✕</div>
+      <span>统计恐吓、生存率、猎奇内容</span>
+    </li>
+    <li>
+      <div class="tone-yes n">✕</div>
+      <span>替代专业医疗建议</span>
+    </li>
+  </ul>
+</section>
+
+<!-- ⑦ CTA / 反馈 -->
+<section class="cta">
+  <h2 class="cta-title">VitalVault<br>还在<em>持续生长</em>中。</h2>
+  <p class="cta-body">
+    文章库在持续更新，医学参考内容在扩充，新功能也在路上。<br><br>
+    如果你觉得某个健康主题值得加进来，或者有任何想法与建议——<b style="color:#fff">欢迎留言告诉我们。</b><br><br>
+    每一条反馈，都可能成为下一篇知识卡片的起点。
+  </p>
+  <a class="cta-btn" href="https://EdwardMo31.github.io/vitavault/" target="_blank">
+    打开 VitalVault
+  </a>
+  <p class="cta-note">
+    免费 · 无需注册 · 无广告 · 完全开放<br>
+    https://EdwardMo31.github.io/vitavault/
+  </p>
+</section>
+
+<!-- ⑧ 免责 -->
+<div class="disclaimer">
+  本页面内容仅供健康教育与信息参考，不构成医疗建议、诊断或治疗方案。<br>
+  如有健康问题，请咨询执业医生或正规医疗机构。
+</div>
+
+</body>
+</html>
