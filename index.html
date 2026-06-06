@@ -246,6 +246,11 @@
     font-size:11px;color:var(--ink-faint);
     border:1px solid var(--line-2);border-radius:6px;padding:1px 6px;
   }
+  .new-tag{
+    font-size:11px;font-weight:700;color:#fff;
+    background:var(--claude);border-radius:6px;padding:1px 7px;
+    letter-spacing:.3px;
+  }
   .card.read h3{color:var(--ink-soft);}
   .card.read .thumb{opacity:.7;}
   .actions button.on{color:var(--claude);}
@@ -757,6 +762,7 @@
     meta.appendChild(el("span","src",a.org));
     meta.appendChild(el("span","ev "+a.evidence,a.evidence));
     if(reads.has(a.id)) meta.appendChild(el("span","read-tag","已读"));
+    if(a.date&&(new Date()-new Date(a.date))<7*24*60*60*1000) meta.appendChild(el("span","new-tag","NEW"));
     const fav=el("button","fav-btn"+(isFav(a.id)?" on":""));
     fav.textContent=isFav(a.id)?"★":"☆"; fav.title="收藏";
     fav.onclick=e=>{
