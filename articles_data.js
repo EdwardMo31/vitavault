@@ -1,5 +1,87 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
+{
+  "id": "u10",
+  "systems": [
+    "gut"
+  ],
+  "cover": "",
+  "title": "你的牙刷是你家中最被忽视的抗真菌工具。",
+  "org": "@FarvingCo",
+  "author": "编译自 @FarvingCo",
+  "date": "2026-06-06",
+  "sourceName": "x.com",
+  "sourceUrl": "https://x.com/farvingco/status/2062931840680309048?s=46&t=hSQNXJuH--JxYohSz_IVHw",
+  "evidence": "B",
+  "cat": "normal",
+  "summary": "一项日本研究发现，在进食后60秒内刷牙可以将肠道念珠菌降低多达100倍。 每次你跳过刷牙时，都会发生以下情况： > 食物残留在你的舌头上 > 念珠菌在几分钟内就会在其上定殖 > 每次吞咽都会直接将其送入你的肠道 腹部脂肪。大脑迷雾。…",
+  "body": [
+    {
+      "t": "p",
+      "x": "一项日本研究发现，在进食后60秒内刷牙可以将肠道念珠菌降低多达100倍。"
+    },
+    {
+      "t": "p",
+      "x": "每次你跳过刷牙时，都会发生以下情况："
+    },
+    {
+      "t": "p",
+      "x": "> 食物残留在你的舌头上"
+    },
+    {
+      "t": "p",
+      "x": "> 念珠菌在几分钟内就会在其上定殖"
+    },
+    {
+      "t": "p",
+      "x": "> 每次吞咽都会直接将其送入你的肠道"
+    },
+    {
+      "t": "p",
+      "x": "腹部脂肪。大脑迷雾。饭后疲惫。"
+    },
+    {
+      "t": "p",
+      "x": "你并不是因为吃了什么而腹胀。你是因为舌头上先长出的东西而腹胀。"
+    },
+    {
+      "t": "p",
+      "x": "Your toothbrush is the most OVERLOOKED ANTIFUNGAL in your house."
+    },
+    {
+      "t": "p",
+      "x": "A Japanese study found that brushing within 60 seconds of eating lowered candida in the gut by UP TO 100x."
+    },
+    {
+      "t": "p",
+      "x": "Here's what happens every time you skip the brush:"
+    },
+    {
+      "t": "p",
+      "x": "> Food sits on your tongue"
+    },
+    {
+      "t": "p",
+      "x": "> Candida colonizes it in minutes"
+    },
+    {
+      "t": "p",
+      "x": "> Every swallow delivers straight to your gut"
+    },
+    {
+      "t": "p",
+      "x": "Belly fat. Brain fog. Exhaustion after meals."
+    },
+    {
+      "t": "p",
+      "x": "You're not bloated from what you ate. You're bloated from what grew on your tongue first."
+    },
+    {
+      "t": "p",
+      "x": "（健康科普，不构成医疗建议。）"
+    }
+  ]
+},
   {
     "id": "u5",
     "systems": [
