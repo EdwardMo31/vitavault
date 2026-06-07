@@ -341,6 +341,13 @@
   }
   .actions button:hover{color:var(--claude);background:rgba(217,119,87,.08);}
   .actions button.tts-on{color:var(--claude);}
+  .tts-wrap{position:relative;display:flex;align-items:center;gap:2px;}
+  .tts-gear{border:none;background:transparent;cursor:pointer;color:var(--ink-faint);font-size:13px;padding:4px 5px;border-radius:6px;transition:color .15s;}
+  .tts-gear:hover{color:var(--claude);}
+  .tts-picker{position:absolute;bottom:calc(100% + 6px);right:0;background:var(--cream-2);border:1px solid var(--line);border-radius:10px;box-shadow:0 4px 18px rgba(0,0,0,.12);padding:6px;min-width:160px;z-index:99;}
+  .tts-opt{padding:7px 12px;border-radius:7px;font-size:13px;cursor:pointer;color:var(--ink);transition:background .12s;}
+  .tts-opt:hover{background:rgba(217,119,87,.1);}
+  .tts-opt.sel{color:var(--claude);font-weight:600;}
 
   .a-disc{margin-top:22px;font-size:12px;color:var(--ink-faint);line-height:1.6;text-align:center;}
 
@@ -490,7 +497,22 @@
   const ARTICLES = (window.ARTICLES || []).slice().sort((a,b)=>(b.date||"").localeCompare(a.date||""));
 
   /* ===== 收藏 / 已读（本地存储，隐私不外传） ===== */
-  const FAV_KEY="vv_fav", READ_KEY="vv_read";
+  const FAV_KEY="vv_fav", READ_KEY="vv_read", TTS_KEY="vv_tts_voice";
+
+  /* ===== TTS 声音管理 ===== */
+  const TTS_PRIORITY=["Microsoft Huihui","Microsoft Yaoyao","Microsoft Kangkang",
+    "Google 普通话（台灣）","Google 普通话","Tingting","Meijia","Sinji",
+    "Google 国语（台灣）","Lekha"];
+  let _ttsVoice=null;
+  function ttsVoices(){ return speechSynthesis.getVoices().filter(v=>v.lang.startsWith("zh")||v.lang.startsWith("cmn")); }
+  function bestVoice(){
+    const saved=localStorage.getItem(TTS_KEY);
+    const all=ttsVoices();
+    if(saved){ const v=all.find(v=>v.name===saved); if(v) return v; }
+    for(const p of TTS_PRIORITY){ const v=all.find(v=>v.name===p); if(v) return v; }
+    return all[0]||null;
+  }
+  speechSynthesis.onvoiceschanged=()=>{ _ttsVoice=bestVoice(); };
   const loadSet=k=>{ try{ return new Set(JSON.parse(localStorage.getItem(k)||"[]")); }catch(e){ return new Set(); } };
   const saveSet=(k,s)=>{ try{ localStorage.setItem(k,JSON.stringify([...s])); }catch(e){} };
   let favs=loadSet(FAV_KEY), reads=loadSet(READ_KEY);
@@ -861,18 +883,38 @@
       }
       acts.appendChild(btn);
     });
+    const ttsWrap=el("div","tts-wrap");
     const ttsBtn=el("button"); const ttsIco=el("span",null,"▶"); const ttsLab=el("span",null,"朗读");
     ttsBtn.appendChild(ttsIco); ttsBtn.appendChild(ttsLab);
     ttsBtn.onclick=()=>{
       if(speechSynthesis.speaking){ speechSynthesis.cancel(); ttsIco.textContent="▶"; ttsLab.textContent="朗读"; ttsBtn.classList.remove("tts-on"); return; }
       const text=[a.title, ...a.body.filter(b=>b.t==="p"||b.t==="h").map(b=>b.x)].join("。");
       const utt=new SpeechSynthesisUtterance(text);
+      const v=_ttsVoice||bestVoice(); if(v) utt.voice=v;
       utt.lang="zh-CN"; utt.rate=0.95;
       utt.onend=()=>{ ttsIco.textContent="▶"; ttsLab.textContent="朗读"; ttsBtn.classList.remove("tts-on"); };
       speechSynthesis.speak(utt);
       ttsIco.textContent="■"; ttsLab.textContent="停止"; ttsBtn.classList.add("tts-on");
     };
-    acts.appendChild(ttsBtn);
+    ttsWrap.appendChild(ttsBtn);
+    const ttsGear=el("button","tts-gear","⚙"); ttsGear.title="选择声音";
+    ttsGear.onclick=(e)=>{
+      e.stopPropagation();
+      document.querySelector(".tts-picker")?.remove();
+      const voices=ttsVoices(); if(!voices.length){ alert("当前设备暂无中文声音"); return; }
+      const picker=el("div","tts-picker");
+      const cur=(_ttsVoice||bestVoice())?.name;
+      voices.forEach(v=>{
+        const opt=el("div","tts-opt"+(v.name===cur?" sel":""),v.name.replace("Microsoft ","").replace("Google ",""));
+        opt.title=v.name;
+        opt.onclick=()=>{ _ttsVoice=v; localStorage.setItem(TTS_KEY,v.name); document.querySelector(".tts-picker")?.remove(); };
+        picker.appendChild(opt);
+      });
+      ttsWrap.appendChild(picker);
+      setTimeout(()=>document.addEventListener("click",()=>document.querySelector(".tts-picker")?.remove(),{once:true}),0);
+    };
+    ttsWrap.appendChild(ttsGear);
+    acts.appendChild(ttsWrap);
     articleEl.appendChild(acts);
 
     articleEl.appendChild(el("div","a-disc","本文为健康知识科普，不构成医疗建议。具体健康问题请咨询执业医生。"));
