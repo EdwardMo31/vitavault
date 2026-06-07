@@ -76,6 +76,10 @@ FEEDS = [
     {"org": "Patient.info", "name": "Patient.info", "evidence": "B",
      "url": "https://patient.info/rss"},
 
+    # ---- 医学研究速递 ----
+    {"org": "2 Minute Medicine", "name": "2 Minute Medicine", "evidence": "A",
+     "url": "https://www.2minutemedicine.com/feed/"},
+
     # ---- 心理健康专项（SSL 自动降级）----
     {"org": "NIMH", "name": "NIMH 心理健康研究", "evidence": "A",
      "url": "https://www.nimh.nih.gov/rss.xml"},
