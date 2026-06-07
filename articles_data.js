@@ -393,6 +393,69 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c5b5349aa98",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "Expanding Mental Health Support for Children and Families through Teleconsultation",
+    "org": "SAMHSA",
+    "author": "SAMHSA 心理健康",
+    "date": "2026-06-07",
+    "sourceName": "samhsa.gov",
+    "sourceUrl": "https://www.samhsa.gov/blog/expanding-mental-health-support-children-families-through-teleconsultation",
+    "evidence": "A",
+    "summary": "When a child is struggling with anxiety, depression, or behavioral changes, parents often turn first to someone they already know and trust—a…",
+    "body": [
+      {
+        "t": "p",
+        "x": "When a child is struggling with anxiety, depression, or behavioral changes, parents often turn first to someone they already know and trust—a…"
+      }
+    ]
+  },
+  {
+    "id": "ce616a7444d",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "One Student's Quick Thinking Shows Coordinated Action Through SAMHSA Program on Youth Mental Health Works",
+    "org": "SAMHSA",
+    "author": "SAMHSA 心理健康",
+    "date": "2026-06-07",
+    "sourceName": "samhsa.gov",
+    "sourceUrl": "https://www.samhsa.gov/blog/one-students-quick-thinking-shows-coordinated-action-through-samhsa-program-youth-mental-health-works",
+    "evidence": "A",
+    "summary": "In one New Hampshire school last year, a sixth-grade student noticed that something was wrong with a close friend.…",
+    "body": [
+      {
+        "t": "p",
+        "x": "In one New Hampshire school last year, a sixth-grade student noticed that something was wrong with a close friend.…"
+      }
+    ]
+  },
+  {
+    "id": "c9d3c624c80",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "Every Mental Health Journey Begins with Being Seen",
+    "org": "SAMHSA",
+    "author": "SAMHSA 心理健康",
+    "date": "2026-06-07",
+    "sourceName": "samhsa.gov",
+    "sourceUrl": "https://www.samhsa.gov/blog/every-mental-health-journey-begins-being-seen",
+    "evidence": "A",
+    "summary": "Every year, tens of millions of Americans experience mental illness—but too many still struggle to be seen, heard,…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Every year, tens of millions of Americans experience mental illness—but too many still struggle to be seen, heard,…"
+      }
+    ]
+  },
+  {
     "id": "u10",
     "systems": [
       "gut"

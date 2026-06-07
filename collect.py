@@ -75,6 +75,12 @@ FEEDS = [
      "url": "https://medicalxpress.com/rss-feed/"},
     {"org": "Patient.info", "name": "Patient.info", "evidence": "B",
      "url": "https://patient.info/rss"},
+
+    # ---- 心理健康专项（SSL 自动降级）----
+    {"org": "NIMH", "name": "NIMH 心理健康研究", "evidence": "A",
+     "url": "https://www.nimh.nih.gov/rss.xml"},
+    {"org": "SAMHSA", "name": "SAMHSA 心理健康", "evidence": "A",
+     "url": "https://www.samhsa.gov/blog/rss"},
 ]
 
 # ============================================================
@@ -133,9 +139,19 @@ def is_blocked(title, summary):
 
 # ---------------- 工具函数 ----------------
 def fetch(url):
+    import ssl
     req = urllib.request.Request(url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
-        return r.read()
+    try:
+        with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
+            return r.read()
+    except Exception as e:
+        if "SSL" in str(e) or "certificate" in str(e).lower():
+            ctx = ssl.create_default_context()
+            ctx.check_hostname = False
+            ctx.verify_mode = ssl.CERT_NONE
+            with urllib.request.urlopen(req, timeout=TIMEOUT, context=ctx) as r:
+                return r.read()
+        raise
 
 
 def strip_html(s):
