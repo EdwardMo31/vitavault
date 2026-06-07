@@ -1,89 +1,47 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
-{
-  "id": "u15",
-  "systems": [
-    "brain"
-  ],
-  "cover": "",
-  "title": "A remarkable new study has found that simply sniffing rosemary could boost your memory by an astonishing 7.5 percent. Scientists discovered that the scent of this common herb helps the brain break down a compound called acetylcholine — a key chemical that supports learning, focus, and memory retention.",
-  "org": "@SmartScience",
-  "author": "编译自 @SmartScience",
-  "date": "2026-06-07",
-  "sourceName": "x.com",
-  "sourceUrl": "https://x.com/SmartScience/status/2063487436299104303?s=20",
-  "evidence": "B",
-  "cat": "environment",
-  "summary": "Acetylcholine acts like a messenger in the brain, allowing nerve cells to communicate quickly and clearly. As we age or …",
-  "body": [
-    {
-      "t": "p",
-      "x": "Acetylcholine acts like a messenger in the brain, allowing nerve cells to communicate quickly and clearly. As we age or experience stress, levels of this chemical drop, often leading to forgetfulness or mental fog. But rosemary’s natural compounds — particularly cineole — have been shown to slow this breakdown, keeping brain signals sharp and steady."
-    },
-    {
-      "t": "p",
-      "x": "In controlled tests, participants exposed to rosemary aroma performed significantly better on memory tasks than those in unscented rooms. They remembered to complete tasks, followed instructions more accurately, and showed improved reaction times."
-    },
-    {
-      "t": "p",
-      "x": "The best part? This powerful brain boost doesn’t require pills, supplements, or hours of training. Just a few minutes of breathing in rosemary’s earthy scent — through essential oils, fresh herbs, or even rosemary-infused air sprays — could help your brain stay alert and focused."
-    },
-    {
-      "t": "p",
-      "x": "Researchers believe rosemary may offer a safe, natural way to enhance cognitive performance in students, professionals, and even older adults facing memory decline."
-    },
-    {
-      "t": "p",
-      "x": "One small sniff. One massive impact. Rosemary is no longer just a kitchen herb — it may be one of nature’s most effective tools for keeping the mind sharp."
-    },
-    {
-      "t": "p",
-      "x": "（健康科普，不构成医疗建议。）"
-    }
-  ]
-},
-{
-  "id": "u14",
-  "systems": [
-    "brain"
-  ],
-  "cover": "",
-  "title": "A remarkable new study has found that simply sniffing rosemary could boost your memory by an astonishing 7.5 percent. Scientists discovered that the scent of this common herb helps the brain break down a compound called acetylcholine — a key chemical that supports learning, focus, and memory retention.",
-  "org": "@SmartScience",
-  "author": "编译自 @SmartScience",
-  "date": "2026-06-07",
-  "sourceName": "x.com",
-  "sourceUrl": "https://x.com/SmartScience/status/2063487436299104303?s=20",
-  "evidence": "B",
-  "cat": "environment",
-  "summary": "Acetylcholine acts like a messenger in the brain, allowing nerve cells to communicate quickly and clearly. As we age or …",
-  "body": [
-    {
-      "t": "p",
-      "x": "Acetylcholine acts like a messenger in the brain, allowing nerve cells to communicate quickly and clearly. As we age or experience stress, levels of this chemical drop, often leading to forgetfulness or mental fog. But rosemary’s natural compounds — particularly cineole — have been shown to slow this breakdown, keeping brain signals sharp and steady."
-    },
-    {
-      "t": "p",
-      "x": "In controlled tests, participants exposed to rosemary aroma performed significantly better on memory tasks than those in unscented rooms. They remembered to complete tasks, followed instructions more accurately, and showed improved reaction times."
-    },
-    {
-      "t": "p",
-      "x": "The best part? This powerful brain boost doesn’t require pills, supplements, or hours of training. Just a few minutes of breathing in rosemary’s earthy scent — through essential oils, fresh herbs, or even rosemary-infused air sprays — could help your brain stay alert and focused."
-    },
-    {
-      "t": "p",
-      "x": "Researchers believe rosemary may offer a safe, natural way to enhance cognitive performance in students, professionals, and even older adults facing memory decline."
-    },
-    {
-      "t": "p",
-      "x": "One small sniff. One massive impact. Rosemary is no longer just a kitchen herb — it may be one of nature’s most effective tools for keeping the mind sharp."
-    },
-    {
-      "t": "p",
-      "x": "（健康科普，不构成医疗建议。）"
-    }
-  ]
-},
+  {
+    "id": "u14",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "A remarkable new study has found that simply sniffing rosemary could boost your memory by an astonishing 7.5 percent. Scientists discovered that the scent of this common herb helps the brain break down a compound called acetylcholine — a key chemical that supports learning, focus, and memory retention.",
+    "org": "@SmartScience",
+    "author": "编译自 @SmartScience",
+    "date": "2026-06-07",
+    "sourceName": "x.com",
+    "sourceUrl": "https://x.com/SmartScience/status/2063487436299104303?s=20",
+    "evidence": "B",
+    "cat": "environment",
+    "summary": "Acetylcholine acts like a messenger in the brain, allowing nerve cells to communicate quickly and clearly. As we age or …",
+    "body": [
+      {
+        "t": "p",
+        "x": "Acetylcholine acts like a messenger in the brain, allowing nerve cells to communicate quickly and clearly. As we age or experience stress, levels of this chemical drop, often leading to forgetfulness or mental fog. But rosemary’s natural compounds — particularly cineole — have been shown to slow this breakdown, keeping brain signals sharp and steady."
+      },
+      {
+        "t": "p",
+        "x": "In controlled tests, participants exposed to rosemary aroma performed significantly better on memory tasks than those in unscented rooms. They remembered to complete tasks, followed instructions more accurately, and showed improved reaction times."
+      },
+      {
+        "t": "p",
+        "x": "The best part? This powerful brain boost doesn’t require pills, supplements, or hours of training. Just a few minutes of breathing in rosemary’s earthy scent — through essential oils, fresh herbs, or even rosemary-infused air sprays — could help your brain stay alert and focused."
+      },
+      {
+        "t": "p",
+        "x": "Researchers believe rosemary may offer a safe, natural way to enhance cognitive performance in students, professionals, and even older adults facing memory decline."
+      },
+      {
+        "t": "p",
+        "x": "One small sniff. One massive impact. Rosemary is no longer just a kitchen herb — it may be one of nature’s most effective tools for keeping the mind sharp."
+      },
+      {
+        "t": "p",
+        "x": "（健康科普，不构成医疗建议。）"
+      }
+    ]
+  },
   {
     "id": "c5b5349aa98",
     "systems": [
