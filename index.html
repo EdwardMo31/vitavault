@@ -341,6 +341,9 @@
   }
   .actions button:hover{color:var(--claude);background:rgba(217,119,87,.08);}
   .actions button.tts-on{color:var(--claude);}
+  .trans-btn{border:none;background:transparent;cursor:pointer;font-size:11px;color:var(--ink-faint);padding:2px 6px;border-radius:5px;border:1px solid var(--line);transition:all .12s;white-space:nowrap;}
+  .trans-btn:hover{color:var(--claude);border-color:var(--claude);}
+  .trans-btn.on{color:var(--claude);border-color:var(--claude);}
   .tts-wrap{position:relative;display:flex;align-items:center;gap:2px;}
   .tts-gear{border:none;background:transparent;cursor:pointer;color:var(--ink-faint);font-size:13px;padding:4px 5px;border-radius:6px;transition:color .15s;}
   .tts-gear:hover{color:var(--claude);}
@@ -498,6 +501,20 @@
 
   /* ===== 收藏 / 已读（本地存储，隐私不外传） ===== */
   const FAV_KEY="vv_fav", READ_KEY="vv_read", TTS_KEY="vv_tts_voice";
+
+  /* ===== 按需翻译（MyMemory 免费 API）===== */
+  const _transCache={};
+  async function translateText(text){
+    if(!text||!text.trim()) return text;
+    if(_transCache[text]) return _transCache[text];
+    try{
+      const r=await fetch(`https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=en|zh`);
+      const d=await r.json();
+      const t=d?.responseData?.translatedText||"";
+      if(t && t.toUpperCase()!==text.toUpperCase()){ _transCache[text]=t; return t; }
+    }catch(e){}
+    return text;
+  }
 
   /* ===== TTS 声音管理 ===== */
   const TTS_PRIORITY=["Microsoft Huihui","Microsoft Yaoyao","Microsoft Kangkang",
@@ -786,6 +803,17 @@
     meta.appendChild(el("span","ev "+a.evidence,a.evidence));
     if(reads.has(a.id)) meta.appendChild(el("span","read-tag","已读"));
     if(a.date&&(new Date()-new Date(a.date))<7*24*60*60*1000) meta.appendChild(el("span","new-tag","NEW"));
+    const h3=cbody.querySelector("h3");
+    const transBtn=el("button","trans-btn","译"); transBtn.title="翻译标题";
+    let _translated=false, _origTitle=a.title;
+    transBtn.onclick=async e=>{
+      e.stopPropagation();
+      if(_translated){ h3.textContent=_origTitle; transBtn.textContent="译"; transBtn.classList.remove("on"); _translated=false; return; }
+      transBtn.textContent="…"; transBtn.disabled=true;
+      const t=await translateText(_origTitle);
+      h3.textContent=t; transBtn.textContent="原文"; transBtn.classList.add("on"); transBtn.disabled=false; _translated=true;
+    };
+    meta.appendChild(transBtn);
     const fav=el("button","fav-btn"+(isFav(a.id)?" on":""));
     fav.textContent=isFav(a.id)?"★":"☆"; fav.title="收藏";
     fav.onclick=e=>{
@@ -883,6 +911,27 @@
       }
       acts.appendChild(btn);
     });
+    const artTransBtn=el("button"); const artTransIco=el("span",null,"🌐"); const artTransLab=el("span",null,"翻译");
+    artTransBtn.appendChild(artTransIco); artTransBtn.appendChild(artTransLab);
+    let _artTranslated=false;
+    const _origH1=a.title;
+    const _origBody=a.body.map(b=>b.x);
+    artTransBtn.onclick=async()=>{
+      if(_artTranslated){
+        articleEl.querySelector("h1").textContent=_origH1;
+        articleEl.querySelectorAll(".a-body p, .a-body h2, .a-body blockquote").forEach((el,i)=>{ if(_origBody[i]!==undefined) el.textContent=_origBody[i]; });
+        artTransLab.textContent="翻译"; artTransBtn.classList.remove("tts-on"); _artTranslated=false; return;
+      }
+      artTransLab.textContent="翻译中…"; artTransBtn.disabled=true;
+      const h1=articleEl.querySelector("h1");
+      h1.textContent=await translateText(_origH1);
+      const bodyEls=articleEl.querySelectorAll(".a-body p, .a-body h2, .a-body blockquote");
+      for(let i=0;i<bodyEls.length;i++){
+        if(_origBody[i]) bodyEls[i].textContent=await translateText(_origBody[i]);
+      }
+      artTransLab.textContent="原文"; artTransBtn.classList.add("tts-on"); artTransBtn.disabled=false; _artTranslated=true;
+    };
+    acts.appendChild(artTransBtn);
     const ttsWrap=el("div","tts-wrap");
     const ttsBtn=el("button"); const ttsIco=el("span",null,"▶"); const ttsLab=el("span",null,"朗读");
     ttsBtn.appendChild(ttsIco); ttsBtn.appendChild(ttsLab);
