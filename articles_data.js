@@ -1,6 +1,241 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
 {
+  "id": "u13",
+  "systems": [
+    "brain",
+    "nutrition"
+  ],
+  "cover": "",
+  "title": "🚨🚨 医生们永远不会告诉你这些：",
+  "org": "@Fa21519230",
+  "author": "编译自 @Fa21519230",
+  "date": "2026-06-07",
+  "sourceName": "x.com",
+  "sourceUrl": "https://x.com/Fa21519230/status/2063213943351320611?s=20",
+  "evidence": "B",
+  "cat": "disease",
+  "summary": "1. 焦虑 – 镁、B6、Omega-3 2. 抑郁 – D、B12、Omega3 3. 易怒 – B1、B6、镁 4. 脑雾 – B1、B12、Omega3 5. 失眠 – 镁、B12、D 6. 性欲低下 – 锌、D、B3 7. 便秘 …",
+  "body": [
+    {
+      "t": "p",
+      "x": "1. 焦虑 – 镁、B6、Omega-3"
+    },
+    {
+      "t": "p",
+      "x": "2. 抑郁 – D、B12、Omega3"
+    },
+    {
+      "t": "p",
+      "x": "3. 易怒 – B1、B6、镁"
+    },
+    {
+      "t": "p",
+      "x": "4. 脑雾 – B1、B12、Omega3"
+    },
+    {
+      "t": "p",
+      "x": "5. 失眠 – 镁、B12、D"
+    },
+    {
+      "t": "p",
+      "x": "6. 性欲低下 – 锌、D、B3"
+    },
+    {
+      "t": "p",
+      "x": "7. 便秘 – 镁、C、纤维"
+    },
+    {
+      "t": "p",
+      "x": "8. 眼部痉挛 – 镁、B12、钾"
+    },
+    {
+      "t": "p",
+      "x": "9. 糖瘾 – 铬、镁、锌"
+    },
+    {
+      "t": "p",
+      "x": "10. 手冷：铁"
+    },
+    {
+      "t": "p",
+      "x": "11. 食欲不振：锌"
+    },
+    {
+      "t": "p",
+      "x": "12. 眼睛干涩：维生素A"
+    },
+    {
+      "t": "p",
+      "x": "13. 气短：铁"
+    },
+    {
+      "t": "p",
+      "x": "14. 脱发：铁"
+    },
+    {
+      "t": "p",
+      "x": "15. 口干：维生素A"
+    },
+    {
+      "t": "p",
+      "x": "16. 指甲易断：生物素（B7）"
+    },
+    {
+      "t": "p",
+      "x": "17. 全天疲惫：维生素D"
+    },
+    {
+      "t": "p",
+      "x": "18. 情绪低落：维生素B6"
+    },
+    {
+      "t": "p",
+      "x": "19. 健忘：Omega 3"
+    },
+    {
+      "t": "p",
+      "x": "20. 腿部抽筋：镁"
+    },
+    {
+      "t": "p",
+      "x": "21. 脑雾：维生素B12"
+    },
+    {
+      "t": "p",
+      "x": "22. 肌肉无力：钾"
+    },
+    {
+      "t": "p",
+      "x": "23. 刺痛或麻木：维生素B6"
+    },
+    {
+      "t": "p",
+      "x": "24. 睡眠质量差：镁"
+    },
+    {
+      "t": "p",
+      "x": "🚨🚨 你的“心理健康”和其他症状可能只是微量营养素缺乏的伪装……"
+    },
+    {
+      "t": "p",
+      "x": "永远咨询你的医生，尽管我担心他们在营养方面知之甚少，他是开处方合成药物来缓解症状的专家，而找出疾病根源对他们的商业模式没有兴趣……"
+    },
+    {
+      "t": "p",
+      "x": "🚨🚨 LOS MÉDICOS NUNCA TE DIRAN ESTO:"
+    },
+    {
+      "t": "p",
+      "x": "1. Ansiedad – Magnesio, B6, Omega-3"
+    },
+    {
+      "t": "p",
+      "x": "2. Depresión – D, B12, Omega3"
+    },
+    {
+      "t": "p",
+      "x": "3. Irritabilidad – B1, B6, Magnesio"
+    },
+    {
+      "t": "p",
+      "x": "4. Niebla mental – B1, B12, Omega3"
+    },
+    {
+      "t": "p",
+      "x": "5. Insomnio – Magnesio, B12, D"
+    },
+    {
+      "t": "p",
+      "x": "6. Baja libido – Zinc, D, B3"
+    },
+    {
+      "t": "p",
+      "x": "7. Estreñimiento – Magnesio, C, Fibra"
+    },
+    {
+      "t": "p",
+      "x": "8. Espasmos oculares – Magnesio, B12, Potasio"
+    },
+    {
+      "t": "p",
+      "x": "9. Antojos de azúcar – Cromo, Magnesio, Zinc"
+    },
+    {
+      "t": "p",
+      "x": "10. Manos frías: Hierro"
+    },
+    {
+      "t": "p",
+      "x": "11.  Falta de apetito: Zinc"
+    },
+    {
+      "t": "p",
+      "x": "12. Ojos secos: Vitamina A"
+    },
+    {
+      "t": "p",
+      "x": "13.  Falta de aliento: Hierro"
+    },
+    {
+      "t": "p",
+      "x": "14.  Caída del cabello: Hierro"
+    },
+    {
+      "t": "p",
+      "x": "15.  Boca seca: Vitamina A"
+    },
+    {
+      "t": "p",
+      "x": "16.  Uñas quebradizas: Biotina (B7)"
+    },
+    {
+      "t": "p",
+      "x": "17.  Cansancio todo el día: Vitamina D"
+    },
+    {
+      "t": "p",
+      "x": "18.  Sentirse decaído: Vitamina B6"
+    },
+    {
+      "t": "p",
+      "x": "19. Olvidos: Omega 3"
+    },
+    {
+      "t": "p",
+      "x": "20. Calambres en las piernas: Magnesio"
+    },
+    {
+      "t": "p",
+      "x": "21.  Niebla mental: Vitamina B12"
+    },
+    {
+      "t": "p",
+      "x": "22.  Debilidad muscular: Potasio"
+    },
+    {
+      "t": "p",
+      "x": "23.  Hormigueo o entumecimiento: Vitamina B6"
+    },
+    {
+      "t": "p",
+      "x": "24.  Mala calidad del sueño: Magnesio"
+    },
+    {
+      "t": "p",
+      "x": "🚨🚨 Tu \"salud mental\" y otros síntomas podrían ser una simple deficiencia de micronutrientes disfrazada..."
+    },
+    {
+      "t": "p",
+      "x": "Consulta siempre con tu médico, aunque me temo que de nutrición poca idea, el es experto recetando drogas sintéticas para paliar síntomas, encontrar la raíz de las enfermedades no interesa al modelo de negocio..."
+    },
+    {
+      "t": "p",
+      "x": "（健康科普，不构成医疗建议。）"
+    }
+  ]
+},
+{
   "id": "u12",
   "systems": [
     "senses"
