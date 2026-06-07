@@ -1,374 +1,479 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
-{
-  "id": "u13",
-  "systems": [
-    "brain",
-    "nutrition"
-  ],
-  "cover": "",
-  "title": "🚨🚨 医生们永远不会告诉你这些：",
-  "org": "@Fa21519230",
-  "author": "编译自 @Fa21519230",
-  "date": "2026-06-07",
-  "sourceName": "x.com",
-  "sourceUrl": "https://x.com/Fa21519230/status/2063213943351320611?s=20",
-  "evidence": "B",
-  "cat": "disease",
-  "summary": "1. 焦虑 – 镁、B6、Omega-3 2. 抑郁 – D、B12、Omega3 3. 易怒 – B1、B6、镁 4. 脑雾 – B1、B12、Omega3 5. 失眠 – 镁、B12、D 6. 性欲低下 – 锌、D、B3 7. 便秘 …",
-  "body": [
-    {
-      "t": "p",
-      "x": "1. 焦虑 – 镁、B6、Omega-3"
-    },
-    {
-      "t": "p",
-      "x": "2. 抑郁 – D、B12、Omega3"
-    },
-    {
-      "t": "p",
-      "x": "3. 易怒 – B1、B6、镁"
-    },
-    {
-      "t": "p",
-      "x": "4. 脑雾 – B1、B12、Omega3"
-    },
-    {
-      "t": "p",
-      "x": "5. 失眠 – 镁、B12、D"
-    },
-    {
-      "t": "p",
-      "x": "6. 性欲低下 – 锌、D、B3"
-    },
-    {
-      "t": "p",
-      "x": "7. 便秘 – 镁、C、纤维"
-    },
-    {
-      "t": "p",
-      "x": "8. 眼部痉挛 – 镁、B12、钾"
-    },
-    {
-      "t": "p",
-      "x": "9. 糖瘾 – 铬、镁、锌"
-    },
-    {
-      "t": "p",
-      "x": "10. 手冷：铁"
-    },
-    {
-      "t": "p",
-      "x": "11. 食欲不振：锌"
-    },
-    {
-      "t": "p",
-      "x": "12. 眼睛干涩：维生素A"
-    },
-    {
-      "t": "p",
-      "x": "13. 气短：铁"
-    },
-    {
-      "t": "p",
-      "x": "14. 脱发：铁"
-    },
-    {
-      "t": "p",
-      "x": "15. 口干：维生素A"
-    },
-    {
-      "t": "p",
-      "x": "16. 指甲易断：生物素（B7）"
-    },
-    {
-      "t": "p",
-      "x": "17. 全天疲惫：维生素D"
-    },
-    {
-      "t": "p",
-      "x": "18. 情绪低落：维生素B6"
-    },
-    {
-      "t": "p",
-      "x": "19. 健忘：Omega 3"
-    },
-    {
-      "t": "p",
-      "x": "20. 腿部抽筋：镁"
-    },
-    {
-      "t": "p",
-      "x": "21. 脑雾：维生素B12"
-    },
-    {
-      "t": "p",
-      "x": "22. 肌肉无力：钾"
-    },
-    {
-      "t": "p",
-      "x": "23. 刺痛或麻木：维生素B6"
-    },
-    {
-      "t": "p",
-      "x": "24. 睡眠质量差：镁"
-    },
-    {
-      "t": "p",
-      "x": "🚨🚨 你的“心理健康”和其他症状可能只是微量营养素缺乏的伪装……"
-    },
-    {
-      "t": "p",
-      "x": "永远咨询你的医生，尽管我担心他们在营养方面知之甚少，他是开处方合成药物来缓解症状的专家，而找出疾病根源对他们的商业模式没有兴趣……"
-    },
-    {
-      "t": "p",
-      "x": "🚨🚨 LOS MÉDICOS NUNCA TE DIRAN ESTO:"
-    },
-    {
-      "t": "p",
-      "x": "1. Ansiedad – Magnesio, B6, Omega-3"
-    },
-    {
-      "t": "p",
-      "x": "2. Depresión – D, B12, Omega3"
-    },
-    {
-      "t": "p",
-      "x": "3. Irritabilidad – B1, B6, Magnesio"
-    },
-    {
-      "t": "p",
-      "x": "4. Niebla mental – B1, B12, Omega3"
-    },
-    {
-      "t": "p",
-      "x": "5. Insomnio – Magnesio, B12, D"
-    },
-    {
-      "t": "p",
-      "x": "6. Baja libido – Zinc, D, B3"
-    },
-    {
-      "t": "p",
-      "x": "7. Estreñimiento – Magnesio, C, Fibra"
-    },
-    {
-      "t": "p",
-      "x": "8. Espasmos oculares – Magnesio, B12, Potasio"
-    },
-    {
-      "t": "p",
-      "x": "9. Antojos de azúcar – Cromo, Magnesio, Zinc"
-    },
-    {
-      "t": "p",
-      "x": "10. Manos frías: Hierro"
-    },
-    {
-      "t": "p",
-      "x": "11.  Falta de apetito: Zinc"
-    },
-    {
-      "t": "p",
-      "x": "12. Ojos secos: Vitamina A"
-    },
-    {
-      "t": "p",
-      "x": "13.  Falta de aliento: Hierro"
-    },
-    {
-      "t": "p",
-      "x": "14.  Caída del cabello: Hierro"
-    },
-    {
-      "t": "p",
-      "x": "15.  Boca seca: Vitamina A"
-    },
-    {
-      "t": "p",
-      "x": "16.  Uñas quebradizas: Biotina (B7)"
-    },
-    {
-      "t": "p",
-      "x": "17.  Cansancio todo el día: Vitamina D"
-    },
-    {
-      "t": "p",
-      "x": "18.  Sentirse decaído: Vitamina B6"
-    },
-    {
-      "t": "p",
-      "x": "19. Olvidos: Omega 3"
-    },
-    {
-      "t": "p",
-      "x": "20. Calambres en las piernas: Magnesio"
-    },
-    {
-      "t": "p",
-      "x": "21.  Niebla mental: Vitamina B12"
-    },
-    {
-      "t": "p",
-      "x": "22.  Debilidad muscular: Potasio"
-    },
-    {
-      "t": "p",
-      "x": "23.  Hormigueo o entumecimiento: Vitamina B6"
-    },
-    {
-      "t": "p",
-      "x": "24.  Mala calidad del sueño: Magnesio"
-    },
-    {
-      "t": "p",
-      "x": "🚨🚨 Tu \"salud mental\" y otros síntomas podrían ser una simple deficiencia de micronutrientes disfrazada..."
-    },
-    {
-      "t": "p",
-      "x": "Consulta siempre con tu médico, aunque me temo que de nutrición poca idea, el es experto recetando drogas sintéticas para paliar síntomas, encontrar la raíz de las enfermedades no interesa al modelo de negocio..."
-    },
-    {
-      "t": "p",
-      "x": "（健康科普，不构成医疗建议。）"
-    }
-  ]
-},
-{
-  "id": "u12",
-  "systems": [
-    "senses"
-  ],
-  "cover": "",
-  "title": "刚刚🚨：中国正在研发可能将人类寿命延长至150年的药丸。",
-  "org": "@NightSkyToday",
-  "author": "编译自 @NightSkyToday",
-  "date": "2026-06-07",
-  "sourceName": "x.com",
-  "sourceUrl": "https://x.com/NightSkyToday/status/2063267165378322804?s=20",
-  "evidence": "B",
-  "cat": "normal",
-  "summary": "JUST IN🚨: China is developing pills that could extend human life upto 150 years.",
-  "body": [
-    {
-      "t": "p",
-      "x": "JUST IN🚨: China is developing pills that could extend human life upto 150 years."
-    },
-    {
-      "t": "p",
-      "x": "（健康科普，不构成医疗建议。）"
-    }
-  ]
-},
-{
-  "id": "u11",
-  "systems": [
-    "whole"
-  ],
-  "cover": "",
-  "title": "刚刚：科学家们已开发出一种抗病毒口香糖，能够减少高达95%的流感病毒和口腔疱疹病毒。",
-  "org": "@NightSkyToday",
-  "author": "编译自 @NightSkyToday",
-  "date": "2026-06-07",
-  "sourceName": "x.com",
-  "sourceUrl": "https://x.com/NightSkyToday/status/2063283018601750924?s=20",
-  "evidence": "B",
-  "cat": "disease",
-  "summary": "JUST IN: Scientists have created an Antiviral Gum capable of reducing upto 95% of Flu Viruses and Oral Herpes.",
-  "body": [
-    {
-      "t": "p",
-      "x": "JUST IN: Scientists have created an Antiviral Gum capable of reducing upto 95% of Flu Viruses and Oral Herpes."
-    },
-    {
-      "t": "p",
-      "x": "（健康科普，不构成医疗建议。）"
-    }
-  ]
-},
-{
-  "id": "u10",
-  "systems": [
-    "gut"
-  ],
-  "cover": "",
-  "title": "你的牙刷是你家中最被忽视的抗真菌工具。",
-  "org": "@FarvingCo",
-  "author": "编译自 @FarvingCo",
-  "date": "2026-06-06",
-  "sourceName": "x.com",
-  "sourceUrl": "https://x.com/farvingco/status/2062931840680309048?s=46&t=hSQNXJuH--JxYohSz_IVHw",
-  "evidence": "B",
-  "cat": "normal",
-  "summary": "一项日本研究发现，在进食后60秒内刷牙可以将肠道念珠菌降低多达100倍。 每次你跳过刷牙时，都会发生以下情况： > 食物残留在你的舌头上 > 念珠菌在几分钟内就会在其上定殖 > 每次吞咽都会直接将其送入你的肠道 腹部脂肪。大脑迷雾。…",
-  "body": [
-    {
-      "t": "p",
-      "x": "一项日本研究发现，在进食后60秒内刷牙可以将肠道念珠菌降低多达100倍。"
-    },
-    {
-      "t": "p",
-      "x": "每次你跳过刷牙时，都会发生以下情况："
-    },
-    {
-      "t": "p",
-      "x": "> 食物残留在你的舌头上"
-    },
-    {
-      "t": "p",
-      "x": "> 念珠菌在几分钟内就会在其上定殖"
-    },
-    {
-      "t": "p",
-      "x": "> 每次吞咽都会直接将其送入你的肠道"
-    },
-    {
-      "t": "p",
-      "x": "腹部脂肪。大脑迷雾。饭后疲惫。"
-    },
-    {
-      "t": "p",
-      "x": "你并不是因为吃了什么而腹胀。你是因为舌头上先长出的东西而腹胀。"
-    },
-    {
-      "t": "p",
-      "x": "Your toothbrush is the most OVERLOOKED ANTIFUNGAL in your house."
-    },
-    {
-      "t": "p",
-      "x": "A Japanese study found that brushing within 60 seconds of eating lowered candida in the gut by UP TO 100x."
-    },
-    {
-      "t": "p",
-      "x": "Here's what happens every time you skip the brush:"
-    },
-    {
-      "t": "p",
-      "x": "> Food sits on your tongue"
-    },
-    {
-      "t": "p",
-      "x": "> Candida colonizes it in minutes"
-    },
-    {
-      "t": "p",
-      "x": "> Every swallow delivers straight to your gut"
-    },
-    {
-      "t": "p",
-      "x": "Belly fat. Brain fog. Exhaustion after meals."
-    },
-    {
-      "t": "p",
-      "x": "You're not bloated from what you ate. You're bloated from what grew on your tongue first."
-    },
-    {
-      "t": "p",
-      "x": "（健康科普，不构成医疗建议。）"
-    }
-  ]
-},
+  {
+    "id": "u13",
+    "systems": [
+      "brain",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "🚨🚨 医生们永远不会告诉你这些：",
+    "org": "@Fa21519230",
+    "author": "编译自 @Fa21519230",
+    "date": "2026-06-07",
+    "sourceName": "x.com",
+    "sourceUrl": "https://x.com/Fa21519230/status/2063213943351320611?s=20",
+    "evidence": "B",
+    "cat": "disease",
+    "summary": "1. 焦虑 – 镁、B6、Omega-3 2. 抑郁 – D、B12、Omega3 3. 易怒 – B1、B6、镁 4. 脑雾 – B1、B12、Omega3 5. 失眠 – 镁、B12、D 6. 性欲低下 – 锌、D、B3 7. 便秘 …",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. 焦虑 – 镁、B6、Omega-3"
+      },
+      {
+        "t": "p",
+        "x": "2. 抑郁 – D、B12、Omega3"
+      },
+      {
+        "t": "p",
+        "x": "3. 易怒 – B1、B6、镁"
+      },
+      {
+        "t": "p",
+        "x": "4. 脑雾 – B1、B12、Omega3"
+      },
+      {
+        "t": "p",
+        "x": "5. 失眠 – 镁、B12、D"
+      },
+      {
+        "t": "p",
+        "x": "6. 性欲低下 – 锌、D、B3"
+      },
+      {
+        "t": "p",
+        "x": "7. 便秘 – 镁、C、纤维"
+      },
+      {
+        "t": "p",
+        "x": "8. 眼部痉挛 – 镁、B12、钾"
+      },
+      {
+        "t": "p",
+        "x": "9. 糖瘾 – 铬、镁、锌"
+      },
+      {
+        "t": "p",
+        "x": "10. 手冷：铁"
+      },
+      {
+        "t": "p",
+        "x": "11. 食欲不振：锌"
+      },
+      {
+        "t": "p",
+        "x": "12. 眼睛干涩：维生素A"
+      },
+      {
+        "t": "p",
+        "x": "13. 气短：铁"
+      },
+      {
+        "t": "p",
+        "x": "14. 脱发：铁"
+      },
+      {
+        "t": "p",
+        "x": "15. 口干：维生素A"
+      },
+      {
+        "t": "p",
+        "x": "16. 指甲易断：生物素（B7）"
+      },
+      {
+        "t": "p",
+        "x": "17. 全天疲惫：维生素D"
+      },
+      {
+        "t": "p",
+        "x": "18. 情绪低落：维生素B6"
+      },
+      {
+        "t": "p",
+        "x": "19. 健忘：Omega 3"
+      },
+      {
+        "t": "p",
+        "x": "20. 腿部抽筋：镁"
+      },
+      {
+        "t": "p",
+        "x": "21. 脑雾：维生素B12"
+      },
+      {
+        "t": "p",
+        "x": "22. 肌肉无力：钾"
+      },
+      {
+        "t": "p",
+        "x": "23. 刺痛或麻木：维生素B6"
+      },
+      {
+        "t": "p",
+        "x": "24. 睡眠质量差：镁"
+      },
+      {
+        "t": "p",
+        "x": "🚨🚨 你的“心理健康”和其他症状可能只是微量营养素缺乏的伪装……"
+      },
+      {
+        "t": "p",
+        "x": "永远咨询你的医生，尽管我担心他们在营养方面知之甚少，他是开处方合成药物来缓解症状的专家，而找出疾病根源对他们的商业模式没有兴趣……"
+      },
+      {
+        "t": "p",
+        "x": "🚨🚨 LOS MÉDICOS NUNCA TE DIRAN ESTO:"
+      },
+      {
+        "t": "p",
+        "x": "1. Ansiedad – Magnesio, B6, Omega-3"
+      },
+      {
+        "t": "p",
+        "x": "2. Depresión – D, B12, Omega3"
+      },
+      {
+        "t": "p",
+        "x": "3. Irritabilidad – B1, B6, Magnesio"
+      },
+      {
+        "t": "p",
+        "x": "4. Niebla mental – B1, B12, Omega3"
+      },
+      {
+        "t": "p",
+        "x": "5. Insomnio – Magnesio, B12, D"
+      },
+      {
+        "t": "p",
+        "x": "6. Baja libido – Zinc, D, B3"
+      },
+      {
+        "t": "p",
+        "x": "7. Estreñimiento – Magnesio, C, Fibra"
+      },
+      {
+        "t": "p",
+        "x": "8. Espasmos oculares – Magnesio, B12, Potasio"
+      },
+      {
+        "t": "p",
+        "x": "9. Antojos de azúcar – Cromo, Magnesio, Zinc"
+      },
+      {
+        "t": "p",
+        "x": "10. Manos frías: Hierro"
+      },
+      {
+        "t": "p",
+        "x": "11.  Falta de apetito: Zinc"
+      },
+      {
+        "t": "p",
+        "x": "12. Ojos secos: Vitamina A"
+      },
+      {
+        "t": "p",
+        "x": "13.  Falta de aliento: Hierro"
+      },
+      {
+        "t": "p",
+        "x": "14.  Caída del cabello: Hierro"
+      },
+      {
+        "t": "p",
+        "x": "15.  Boca seca: Vitamina A"
+      },
+      {
+        "t": "p",
+        "x": "16.  Uñas quebradizas: Biotina (B7)"
+      },
+      {
+        "t": "p",
+        "x": "17.  Cansancio todo el día: Vitamina D"
+      },
+      {
+        "t": "p",
+        "x": "18.  Sentirse decaído: Vitamina B6"
+      },
+      {
+        "t": "p",
+        "x": "19. Olvidos: Omega 3"
+      },
+      {
+        "t": "p",
+        "x": "20. Calambres en las piernas: Magnesio"
+      },
+      {
+        "t": "p",
+        "x": "21.  Niebla mental: Vitamina B12"
+      },
+      {
+        "t": "p",
+        "x": "22.  Debilidad muscular: Potasio"
+      },
+      {
+        "t": "p",
+        "x": "23.  Hormigueo o entumecimiento: Vitamina B6"
+      },
+      {
+        "t": "p",
+        "x": "24.  Mala calidad del sueño: Magnesio"
+      },
+      {
+        "t": "p",
+        "x": "🚨🚨 Tu \"salud mental\" y otros síntomas podrían ser una simple deficiencia de micronutrientes disfrazada..."
+      },
+      {
+        "t": "p",
+        "x": "Consulta siempre con tu médico, aunque me temo que de nutrición poca idea, el es experto recetando drogas sintéticas para paliar síntomas, encontrar la raíz de las enfermedades no interesa al modelo de negocio..."
+      },
+      {
+        "t": "p",
+        "x": "（健康科普，不构成医疗建议。）"
+      }
+    ]
+  },
+  {
+    "id": "u12",
+    "systems": [
+      "senses"
+    ],
+    "cover": "",
+    "title": "刚刚🚨：中国正在研发可能将人类寿命延长至150年的药丸。",
+    "org": "@NightSkyToday",
+    "author": "编译自 @NightSkyToday",
+    "date": "2026-06-07",
+    "sourceName": "x.com",
+    "sourceUrl": "https://x.com/NightSkyToday/status/2063267165378322804?s=20",
+    "evidence": "B",
+    "cat": "normal",
+    "summary": "JUST IN🚨: China is developing pills that could extend human life upto 150 years.",
+    "body": [
+      {
+        "t": "p",
+        "x": "JUST IN🚨: China is developing pills that could extend human life upto 150 years."
+      },
+      {
+        "t": "p",
+        "x": "（健康科普，不构成医疗建议。）"
+      }
+    ]
+  },
+  {
+    "id": "u11",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "刚刚：科学家们已开发出一种抗病毒口香糖，能够减少高达95%的流感病毒和口腔疱疹病毒。",
+    "org": "@NightSkyToday",
+    "author": "编译自 @NightSkyToday",
+    "date": "2026-06-07",
+    "sourceName": "x.com",
+    "sourceUrl": "https://x.com/NightSkyToday/status/2063283018601750924?s=20",
+    "evidence": "B",
+    "cat": "disease",
+    "summary": "JUST IN: Scientists have created an Antiviral Gum capable of reducing upto 95% of Flu Viruses and Oral Herpes.",
+    "body": [
+      {
+        "t": "p",
+        "x": "JUST IN: Scientists have created an Antiviral Gum capable of reducing upto 95% of Flu Viruses and Oral Herpes."
+      },
+      {
+        "t": "p",
+        "x": "（健康科普，不构成医疗建议。）"
+      }
+    ]
+  },
+  {
+    "id": "cb6a09454e3",
+    "systems": [
+      "skin"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/1mSMbhb9JfpUtss861W87r/02e8425a1f5a8598b8bc81b40d7d8a76/shutterstock_2402117355_Cropped.jpg",
+    "title": "How to relieve itchy eyes in the summer",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-06-07",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/eye-care/how-to-look-after-your-eyes-in-summer",
+    "evidence": "B",
+    "summary": "We all know the importance of wearing sunscreen and protecting our skin from the sun in the summer,…",
+    "body": [
+      {
+        "t": "p",
+        "x": "We all know the importance of wearing sunscreen and protecting our skin from the sun in the summer,…"
+      }
+    ]
+  },
+  {
+    "id": "ca4b4e70deb",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/69SyYWdh14HYTPslSr2QzX/8b735066ddad09868fe232a5561a2a76/shutterstock_2774783899_Cropped.jpg",
+    "title": "How to work out in a heatwave",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-06-07",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/how-to-work-out-in-a-heatwave",
+    "evidence": "B",
+    "summary": "When it's hot and humid out, your usual morning run can feel like torture - and ice cream in the shade may seem preferable to hitting the gym.…",
+    "body": [
+      {
+        "t": "p",
+        "x": "When it's hot and humid out, your usual morning run can feel like torture - and ice cream in the shade may seem preferable to hitting the gym.…"
+      }
+    ]
+  },
+  {
+    "id": "cae0a19e2d6",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/5HKgWCe0PuJw7sFXaDJrxK/d4d2dd1a85a74126b38bd1853ba7760c/shutterstock_1069315856_Cropped.jpg",
+    "title": "Can your diet and lifestyle improve fertility?",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-06-07",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/sexual-health/can-your-diet-and-lifestyle-improve-fertility",
+    "evidence": "B",
+    "summary": "Our everyday habits have a powerful influence on our health - shaping everything from our energy levels and mood to our long-term wellbeing.…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Our everyday habits have a powerful influence on our health - shaping everything from our energy levels and mood to our long-term wellbeing.…"
+      }
+    ]
+  },
+  {
+    "id": "c85baa6a2b0",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/4VFVmEhL4sYfcr3rudJMB5/9323e311d4745f431c93bad16c64e39d/shutterstock_1746421997__1__Cropped.jpg",
+    "title": "What is weather change sickness?",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-06-07",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/general-health/what-is-weather-change-sickness",
+    "evidence": "B",
+    "summary": "If you've ever felt under the weather when the seasons change - or when temperatures have significantly soared or plummeted - then you're not alone.…",
+    "body": [
+      {
+        "t": "p",
+        "x": "If you've ever felt under the weather when the seasons change - or when temperatures have significantly soared or plummeted - then you're not alone.…"
+      }
+    ]
+  },
+  {
+    "id": "cc1d6e95f69",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/2Sc9M5Bd3K5EfjoAcZ4x0q/8637d92a1aa4c049dc89f286a1578a87/shutterstock_1705115692_Cropped.jpg",
+    "title": "Could your 'morning dread' be a sign of perimenopause?",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-06-07",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/hormones/could-your-morning-dread-be-a-sign-of-perimenopause",
+    "evidence": "B",
+    "summary": "If you’re going through perimenopause, you may be familiar with the sudden wave of dread or anxiety that can hit hardest first thing in the morning.…",
+    "body": [
+      {
+        "t": "p",
+        "x": "If you’re going through perimenopause, you may be familiar with the sudden wave of dread or anxiety that can hit hardest first thing in the morning.…"
+      }
+    ]
+  },
+  {
+    "id": "u10",
+    "systems": [
+      "gut"
+    ],
+    "cover": "",
+    "title": "你的牙刷是你家中最被忽视的抗真菌工具。",
+    "org": "@FarvingCo",
+    "author": "编译自 @FarvingCo",
+    "date": "2026-06-06",
+    "sourceName": "x.com",
+    "sourceUrl": "https://x.com/farvingco/status/2062931840680309048?s=46&t=hSQNXJuH--JxYohSz_IVHw",
+    "evidence": "B",
+    "cat": "normal",
+    "summary": "一项日本研究发现，在进食后60秒内刷牙可以将肠道念珠菌降低多达100倍。 每次你跳过刷牙时，都会发生以下情况： > 食物残留在你的舌头上 > 念珠菌在几分钟内就会在其上定殖 > 每次吞咽都会直接将其送入你的肠道 腹部脂肪。大脑迷雾。…",
+    "body": [
+      {
+        "t": "p",
+        "x": "一项日本研究发现，在进食后60秒内刷牙可以将肠道念珠菌降低多达100倍。"
+      },
+      {
+        "t": "p",
+        "x": "每次你跳过刷牙时，都会发生以下情况："
+      },
+      {
+        "t": "p",
+        "x": "> 食物残留在你的舌头上"
+      },
+      {
+        "t": "p",
+        "x": "> 念珠菌在几分钟内就会在其上定殖"
+      },
+      {
+        "t": "p",
+        "x": "> 每次吞咽都会直接将其送入你的肠道"
+      },
+      {
+        "t": "p",
+        "x": "腹部脂肪。大脑迷雾。饭后疲惫。"
+      },
+      {
+        "t": "p",
+        "x": "你并不是因为吃了什么而腹胀。你是因为舌头上先长出的东西而腹胀。"
+      },
+      {
+        "t": "p",
+        "x": "Your toothbrush is the most OVERLOOKED ANTIFUNGAL in your house."
+      },
+      {
+        "t": "p",
+        "x": "A Japanese study found that brushing within 60 seconds of eating lowered candida in the gut by UP TO 100x."
+      },
+      {
+        "t": "p",
+        "x": "Here's what happens every time you skip the brush:"
+      },
+      {
+        "t": "p",
+        "x": "> Food sits on your tongue"
+      },
+      {
+        "t": "p",
+        "x": "> Candida colonizes it in minutes"
+      },
+      {
+        "t": "p",
+        "x": "> Every swallow delivers straight to your gut"
+      },
+      {
+        "t": "p",
+        "x": "Belly fat. Brain fog. Exhaustion after meals."
+      },
+      {
+        "t": "p",
+        "x": "You're not bloated from what you ate. You're bloated from what grew on your tongue first."
+      },
+      {
+        "t": "p",
+        "x": "（健康科普，不构成医疗建议。）"
+      }
+    ]
+  },
   {
     "id": "u5",
     "systems": [
@@ -634,6 +739,69 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "来源：NIH NIDCR「Oral Health」、ADA「Mouth Healthy」。（健康科普，不构成医疗建议。）"
+      }
+    ]
+  },
+  {
+    "id": "c75850a3be4",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "The supplements older adults actually need and the ones they don't",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-06-06",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260605023408.htm",
+    "evidence": "B",
+    "summary": "Supplements are often marketed as shortcuts to better health, but for many older adults, the real issue is whether they have a specific deficiency.…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Supplements are often marketed as shortcuts to better health, but for many older adults, the real issue is whether they have a specific deficiency.…"
+      }
+    ]
+  },
+  {
+    "id": "c3035929106",
+    "systems": [
+      "lungs"
+    ],
+    "cover": "",
+    "title": "New PET tracer identifies DVT in legs and lungs",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-06",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-pet-tracer-dvt-legs-lungs.html",
+    "evidence": "B",
+    "summary": "A novel PET radiotracer can accurately detect deep vein thrombosis in the legs and reveal whether clots have migrated to the lungs.…",
+    "body": [
+      {
+        "t": "p",
+        "x": "A novel PET radiotracer can accurately detect deep vein thrombosis in the legs and reveal whether clots have migrated to the lungs.…"
+      }
+    ]
+  },
+  {
+    "id": "c9fbed89e67",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "Researchers develop world's first AI for objective pain assessment",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-06",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-world-ai-pain.html",
+    "evidence": "B",
+    "summary": "A research team has developed technology that uses artificial intelligence to analyze electroencephalogram signals triggered by thermal stimuli and…",
+    "body": [
+      {
+        "t": "p",
+        "x": "A research team has developed technology that uses artificial intelligence to analyze electroencephalogram signals triggered by thermal stimuli and…"
       }
     ]
   },
@@ -1450,6 +1618,27 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c442f251f89",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "Is Personalized Genetic Testing Worth It?",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-05-28",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/is-personalized-genetic-testing-worth-it/",
+    "evidence": "B",
+    "summary": "Overrated “precision medicine” may just be serving vested interests, and consumer DNA testing can be useless—or even worse.…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Overrated “precision medicine” may just be serving vested interests, and consumer DNA testing can be useless—or even worse.…"
+      }
+    ]
+  },
+  {
     "id": "c5464a198bd",
     "systems": [
       "hormones",
@@ -1617,6 +1806,28 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c36ee09f6d7",
+    "systems": [
+      "nutrition",
+      "whole"
+    ],
+    "cover": "",
+    "title": "Does Less Protein Increase FGF21 for Longevity?",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-05-21",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/does-less-protein-increase-fgf21-for-longevity/",
+    "evidence": "B",
+    "summary": "Fasting and exercise can boost the longevity hormone FGF21, but what can we eat—or avoid eating—to get similar effects?…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Fasting and exercise can boost the longevity hormone FGF21, but what can we eat—or avoid eating—to get similar effects?…"
+      }
+    ]
+  },
+  {
     "id": "a7",
     "systems": [
       "muscles"
@@ -1692,6 +1903,28 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c1b0973a9f8",
+    "systems": [
+      "hormones",
+      "whole"
+    ],
+    "cover": "",
+    "title": "How to Boost Your Longevity Hormone",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-05-19",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/how-to-boost-your-longevity-hormone/",
+    "evidence": "B",
+    "summary": "What can we do to boost the longevity hormone FGF21? In the year 2000, a new human hormone was discovered. It was the 21st documented […]",
+    "body": [
+      {
+        "t": "p",
+        "x": "What can we do to boost the longevity hormone FGF21? In the year 2000, a new human hormone was discovered. It was the 21st documented […]"
+      }
+    ]
+  },
+  {
     "id": "e2",
     "systems": [
       "environment",
@@ -1734,6 +1967,27 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "cdc7a17d783",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "Barley, Farro, Sorghum and More: 9 Whole Grains to Try",
+    "org": "MedlinePlus",
+    "author": "MedlinePlus 营养",
+    "date": "2026-05-15",
+    "sourceName": "hopkinsmedicine.org",
+    "sourceUrl": "https://www.hopkinsmedicine.org/health/expert-qa/barley-farro-sorghum-and-more-9-whole-grains-to-try",
+    "evidence": "A",
+    "summary": "Source: Johns Hopkins Medicine",
+    "body": [
+      {
+        "t": "p",
+        "x": "Source: Johns Hopkins Medicine"
+      }
+    ]
+  },
+  {
     "id": "c53877d2866",
     "systems": [
       "nutrition"
@@ -1751,6 +2005,92 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Why minerals are not synthetic, isolated nutrients can work, and choosing the right form still matters"
+      }
+    ]
+  },
+  {
+    "id": "cdf8b872a87",
+    "systems": [
+      "heart",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "7 Whole-Grain Foods You Should Try",
+    "org": "MedlinePlus",
+    "author": "MedlinePlus 营养",
+    "date": "2026-05-14",
+    "sourceName": "heart.org",
+    "sourceUrl": "https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/types-of-whole-grains",
+    "evidence": "A",
+    "summary": "Source: American Heart Association",
+    "body": [
+      {
+        "t": "p",
+        "x": "Source: American Heart Association"
+      }
+    ]
+  },
+  {
+    "id": "c1506457701",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "Strategies for Eating Well on a Budget",
+    "org": "MedlinePlus",
+    "author": "MedlinePlus 营养",
+    "date": "2026-05-14",
+    "sourceName": "nutritionsource.hsph.harvard.edu",
+    "sourceUrl": "https://nutritionsource.hsph.harvard.edu/strategies-nutrition-budget/",
+    "evidence": "A",
+    "summary": "Source: Harvard Medical School",
+    "body": [
+      {
+        "t": "p",
+        "x": "Source: Harvard Medical School"
+      }
+    ]
+  },
+  {
+    "id": "cc7c885be5f",
+    "systems": [
+      "heart",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "Your Guide to Healthy Eating Habits That Stick",
+    "org": "MedlinePlus",
+    "author": "MedlinePlus 营养",
+    "date": "2026-05-14",
+    "sourceName": "heart.org",
+    "sourceUrl": "https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/your-guide-to-healthy-eating-habits-that-stick",
+    "evidence": "A",
+    "summary": "Source: American Heart Association",
+    "body": [
+      {
+        "t": "p",
+        "x": "Source: American Heart Association"
+      }
+    ]
+  },
+  {
+    "id": "c222dcced75",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "Nutrition",
+    "org": "MedlinePlus",
+    "author": "MedlinePlus 营养",
+    "date": "2026-05-14",
+    "sourceName": "healthychildren.org",
+    "sourceUrl": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/default.aspx",
+    "evidence": "A",
+    "summary": "Source: American Academy of Pediatrics",
+    "body": [
+      {
+        "t": "p",
+        "x": "Source: American Academy of Pediatrics"
       }
     ]
   },
@@ -2510,6 +2850,27 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c08ed40771c",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "Dietary Guidelines for Americans 2025-2030: Progress on added sugar, protein hype, saturated fat contradictions",
+    "org": "Harvard Nutrition",
+    "author": "哈佛营养学院",
+    "date": "2026-01-09",
+    "sourceName": "nutritionsource.hsph.harvard.edu",
+    "sourceUrl": "https://nutritionsource.hsph.harvard.edu/2026/01/09/dietary-guidelines-for-americans-2025-2030/",
+    "evidence": "A",
+    "summary": "The 2025–2030 Dietary Guidelines for Americans (DGAs) were released this week with the tagline “eat real food,” and a stronger stance on limiting…",
+    "body": [
+      {
+        "t": "p",
+        "x": "The 2025–2030 Dietary Guidelines for Americans (DGAs) were released this week with the tagline “eat real food,” and a stronger stance on limiting…"
+      }
+    ]
+  },
+  {
     "id": "c48d6335240",
     "systems": [
       "brain"
@@ -2611,6 +2972,112 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "这些建议没有一条是“必须”，它们更像一种邀请：在忙碌与效率之外，给自己留一点柔软、好奇与欢喜的余地。"
+      }
+    ]
+  },
+  {
+    "id": "cf3f5220d29",
+    "systems": [
+      "gut",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "Healthy Living Guide 2023/2024",
+    "org": "Harvard Nutrition",
+    "author": "哈佛营养学院",
+    "date": "2024-01-02",
+    "sourceName": "nutritionsource.hsph.harvard.edu",
+    "sourceUrl": "https://nutritionsource.hsph.harvard.edu/2024/01/02/healthy-living-guide-2023-2024/",
+    "evidence": "A",
+    "summary": "A Digest on Healthy Eating and Healthy Living “The apple in your hand is the body of the cosmos.” – Thich Nhat Hanh Happy New Year,…",
+    "body": [
+      {
+        "t": "p",
+        "x": "A Digest on Healthy Eating and Healthy Living “The apple in your hand is the body of the cosmos.” – Thich Nhat Hanh Happy New Year,…"
+      }
+    ]
+  },
+  {
+    "id": "c5219aecdff",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "WHO releases updated guidelines on defining healthy diets",
+    "org": "Harvard Nutrition",
+    "author": "哈佛营养学院",
+    "date": "2023-07-18",
+    "sourceName": "nutritionsource.hsph.harvard.edu",
+    "sourceUrl": "https://nutritionsource.hsph.harvard.edu/2023/07/17/who-updated-guidelines-healthy-diets-total-fat/",
+    "evidence": "A",
+    "summary": "Harvard experts say most recommendations are well-supported, but guidance on total fat intake omits decades of evidence The World Health Organization…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Harvard experts say most recommendations are well-supported, but guidance on total fat intake omits decades of evidence The World Health Organization…"
+      }
+    ]
+  },
+  {
+    "id": "cd227e21849",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "Unpacking WHO guidelines on non-sugar sweeteners",
+    "org": "Harvard Nutrition",
+    "author": "哈佛营养学院",
+    "date": "2023-06-06",
+    "sourceName": "nutritionsource.hsph.harvard.edu",
+    "sourceUrl": "https://nutritionsource.hsph.harvard.edu/2023/06/06/who-guidelines-non-sugar-sweeteners/",
+    "evidence": "A",
+    "summary": "The World Health Organization (WHO) released a new guideline on non-sugar sweeteners (NSS)—often referred to as artificial or low-calorie…",
+    "body": [
+      {
+        "t": "p",
+        "x": "The World Health Organization (WHO) released a new guideline on non-sugar sweeteners (NSS)—often referred to as artificial or low-calorie…"
+      }
+    ]
+  },
+  {
+    "id": "cee3f9c40b4",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "Healthy Living Guide 2022/2023",
+    "org": "Harvard Nutrition",
+    "author": "哈佛营养学院",
+    "date": "2023-01-04",
+    "sourceName": "nutritionsource.hsph.harvard.edu",
+    "sourceUrl": "https://nutritionsource.hsph.harvard.edu/2023/01/04/healthy-living-guide-2022-2023/",
+    "evidence": "A",
+    "summary": "A Digest on Healthy Eating and Healthy Living Throughout 2022, food and nutrition were often in the spotlight,…",
+    "body": [
+      {
+        "t": "p",
+        "x": "A Digest on Healthy Eating and Healthy Living Throughout 2022, food and nutrition were often in the spotlight,…"
+      }
+    ]
+  },
+  {
+    "id": "c978b6e0053",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "Navigating infant formula shortages",
+    "org": "Harvard Nutrition",
+    "author": "哈佛营养学院",
+    "date": "2022-05-17",
+    "sourceName": "nutritionsource.hsph.harvard.edu",
+    "sourceUrl": "https://nutritionsource.hsph.harvard.edu/2022/05/17/infant-formula-shortage/",
+    "evidence": "A",
+    "summary": "Infant formula shortages in the U.S. have occurred in the past two years largely due to widespread pandemic-related supply-chain problems.…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Infant formula shortages in the U.S. have occurred in the past two years largely due to widespread pandemic-related supply-chain problems.…"
       }
     ]
   }
