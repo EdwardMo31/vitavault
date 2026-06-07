@@ -340,6 +340,7 @@
     transition:color .15s ease, background .15s ease;
   }
   .actions button:hover{color:var(--claude);background:rgba(217,119,87,.08);}
+  .actions button.tts-on{color:var(--claude);}
 
   .a-disc{margin-top:22px;font-size:12px;color:var(--ink-faint);line-height:1.6;text-align:center;}
 
@@ -860,6 +861,18 @@
       }
       acts.appendChild(btn);
     });
+    const ttsBtn=el("button"); const ttsIco=el("span",null,"▶"); const ttsLab=el("span",null,"朗读");
+    ttsBtn.appendChild(ttsIco); ttsBtn.appendChild(ttsLab);
+    ttsBtn.onclick=()=>{
+      if(speechSynthesis.speaking){ speechSynthesis.cancel(); ttsIco.textContent="▶"; ttsLab.textContent="朗读"; ttsBtn.classList.remove("tts-on"); return; }
+      const text=[a.title, ...a.body.filter(b=>b.t==="p"||b.t==="h").map(b=>b.x)].join("。");
+      const utt=new SpeechSynthesisUtterance(text);
+      utt.lang="zh-CN"; utt.rate=0.95;
+      utt.onend=()=>{ ttsIco.textContent="▶"; ttsLab.textContent="朗读"; ttsBtn.classList.remove("tts-on"); };
+      speechSynthesis.speak(utt);
+      ttsIco.textContent="■"; ttsLab.textContent="停止"; ttsBtn.classList.add("tts-on");
+    };
+    acts.appendChild(ttsBtn);
     articleEl.appendChild(acts);
 
     articleEl.appendChild(el("div","a-disc","本文为健康知识科普，不构成医疗建议。具体健康问题请咨询执业医生。"));
@@ -867,6 +880,7 @@
 
   /* ===== 返回 / 关闭 ===== */
   function back(){
+    if(speechSynthesis.speaking) speechSynthesis.cancel();
     if(state==="article"){
       articleEl.style.display="none";
       if(_articleFrom==="all"){
