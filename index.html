@@ -502,9 +502,9 @@
   /* ===== TTS 声音管理 ===== */
   const TTS_PRIORITY=["Microsoft Huihui","Microsoft Yaoyao","Microsoft Kangkang",
     "Google 普通话（台灣）","Google 普通话","Tingting","Meijia","Sinji",
-    "Google 国语（台灣）","Lekha"];
+    "Microsoft Tracy","Microsoft Danny","Google 粤语","Google 国语（台灣）","Lekha"];
   let _ttsVoice=null;
-  function ttsVoices(){ return speechSynthesis.getVoices().filter(v=>v.lang.startsWith("zh")||v.lang.startsWith("cmn")); }
+  function ttsVoices(){ return speechSynthesis.getVoices().filter(v=>v.lang.startsWith("zh")||v.lang.startsWith("cmn")||v.lang.startsWith("yue")||v.lang==="zh-HK"); }
   function bestVoice(){
     const saved=localStorage.getItem(TTS_KEY);
     const all=ttsVoices();
