@@ -344,6 +344,10 @@
   .trans-btn{border:none;background:transparent;cursor:pointer;font-size:11px;color:var(--ink-faint);padding:2px 6px;border-radius:5px;border:1px solid var(--line);transition:all .12s;white-space:nowrap;}
   .trans-btn:hover{color:var(--claude);border-color:var(--claude);}
   .trans-btn.on{color:var(--claude);border-color:var(--claude);}
+  .trans-bar{display:flex;justify-content:flex-end;margin:10px 0 4px;}
+  .trans-bar-btn{border:1px solid var(--line);background:transparent;cursor:pointer;font-size:12px;color:var(--ink-faint);padding:4px 12px;border-radius:999px;transition:all .12s;}
+  .trans-bar-btn:hover{color:var(--claude);border-color:var(--claude);}
+  .trans-bar-btn.on{color:var(--claude);border-color:var(--claude);}
   .tts-wrap{position:relative;display:flex;align-items:center;gap:2px;}
   .tts-gear{border:none;background:transparent;cursor:pointer;color:var(--ink-faint);font-size:13px;padding:4px 5px;border-radius:6px;transition:color .15s;}
   .tts-gear:hover{color:var(--claude);}
@@ -874,6 +878,34 @@
     by.appendChild(el("span","ev "+a.evidence,"证据等级 "+a.evidence));
     articleEl.appendChild(by);
 
+    const transBar=el("div","trans-bar");
+    const artTransBtn=el("button","trans-bar-btn"); const artTransLab=el("span",null,"翻译");
+    artTransBtn.appendChild(artTransLab);
+    transBar.appendChild(artTransBtn);
+    articleEl.appendChild(transBar);
+
+    let _artTranslated=false;
+    const _origH1=a.title;
+    const _origBody=a.body.map(b=>b.x);
+    artTransBtn.onclick=async()=>{
+      const st=scroll.scrollTop;
+      if(_artTranslated){
+        articleEl.querySelector("h1").textContent=_origH1;
+        articleEl.querySelectorAll(".a-body p,.a-body h2,.a-body blockquote").forEach((n,i)=>{ if(_origBody[i]!==undefined) n.textContent=_origBody[i]; });
+        artTransLab.textContent="翻译"; artTransBtn.classList.remove("on"); _artTranslated=false;
+        scroll.scrollTop=st; return;
+      }
+      artTransLab.textContent="翻译中…"; artTransBtn.disabled=true;
+      const h1=articleEl.querySelector("h1");
+      h1.textContent=await translateText(_origH1);
+      const bodyEls=articleEl.querySelectorAll(".a-body p,.a-body h2,.a-body blockquote");
+      for(let i=0;i<bodyEls.length;i++){
+        if(_origBody[i]) bodyEls[i].textContent=await translateText(_origBody[i]);
+      }
+      artTransLab.textContent="原文"; artTransBtn.classList.add("on"); artTransBtn.disabled=false; _artTranslated=true;
+      scroll.scrollTop=st;
+    };
+
     const body=el("div","a-body");
     a.body.forEach(b=>{
       if(b.t==="p")body.appendChild(el("p",null,b.x));
@@ -914,27 +946,6 @@
       else{ navigator.clipboard?.writeText(`https://EdwardMo31.github.io/vitavault/`).then(()=>alert("链接已复制")); }
     };
     acts.appendChild(shareBtn);
-    const artTransBtn=el("button"); const artTransLab=el("span",null,"翻译");
-    artTransBtn.appendChild(artTransLab);
-    let _artTranslated=false;
-    const _origH1=a.title;
-    const _origBody=a.body.map(b=>b.x);
-    artTransBtn.onclick=async()=>{
-      if(_artTranslated){
-        articleEl.querySelector("h1").textContent=_origH1;
-        articleEl.querySelectorAll(".a-body p, .a-body h2, .a-body blockquote").forEach((el,i)=>{ if(_origBody[i]!==undefined) el.textContent=_origBody[i]; });
-        artTransLab.textContent="翻译"; artTransBtn.classList.remove("tts-on"); _artTranslated=false; return;
-      }
-      artTransLab.textContent="翻译中…"; artTransBtn.disabled=true;
-      const h1=articleEl.querySelector("h1");
-      h1.textContent=await translateText(_origH1);
-      const bodyEls=articleEl.querySelectorAll(".a-body p, .a-body h2, .a-body blockquote");
-      for(let i=0;i<bodyEls.length;i++){
-        if(_origBody[i]) bodyEls[i].textContent=await translateText(_origBody[i]);
-      }
-      artTransLab.textContent="原文"; artTransBtn.classList.add("tts-on"); artTransBtn.disabled=false; _artTranslated=true;
-    };
-    acts.appendChild(artTransBtn);
     const ttsWrap=el("div","tts-wrap");
     const ttsBtn=el("button"); const ttsIco=el("span",null,"▶"); const ttsLab=el("span",null,"朗读");
     ttsBtn.appendChild(ttsIco); ttsBtn.appendChild(ttsLab);
