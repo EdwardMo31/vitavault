@@ -937,7 +937,9 @@
     ttsBtn.appendChild(ttsIco); ttsBtn.appendChild(ttsLab);
     ttsBtn.onclick=()=>{
       if(speechSynthesis.speaking){ speechSynthesis.cancel(); ttsIco.textContent="▶"; ttsLab.textContent="朗读"; ttsBtn.classList.remove("tts-on"); return; }
-      const text=[a.title, ...a.body.filter(b=>b.t==="p"||b.t==="h").map(b=>b.x)].join("。");
+      const h1=articleEl.querySelector("h1");
+      const bodyEls=articleEl.querySelectorAll(".a-body p, .a-body h2, .a-body blockquote");
+      const text=[h1?h1.textContent:"", ...[...bodyEls].map(e=>e.textContent)].filter(Boolean).join("。");
       const utt=new SpeechSynthesisUtterance(text);
       const v=_ttsVoice||bestVoice(); if(v) utt.voice=v;
       utt.lang="zh-CN"; utt.rate=0.95;
