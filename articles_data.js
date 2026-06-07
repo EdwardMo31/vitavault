@@ -6,14 +6,14 @@ window.ARTICLES = [
       "brain"
     ],
     "cover": "",
-    "title": "Expanding Mental Health Support for Children and Families through Teleconsultation",
+    "title": "通过远程咨询扩大对儿童和家庭的心理健康支持",
     "org": "SAMHSA",
     "author": "SAMHSA 心理健康",
     "date": "2026-06-07",
     "sourceName": "samhsa.gov",
     "sourceUrl": "https://www.samhsa.gov/blog/expanding-mental-health-support-children-families-through-teleconsultation",
     "evidence": "A",
-    "summary": "When a child is struggling with anxiety, depression, or behavioral changes, parents often turn first to someone they already know and trust—a…",
+    "summary": "当孩子在焦虑、抑郁或行为改变中挣扎时，父母往往会首先求助于他们已经认识和信任的人--一个……",
     "body": [
       {
         "t": "p",
@@ -27,14 +27,14 @@ window.ARTICLES = [
       "whole"
     ],
     "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/4VFVmEhL4sYfcr3rudJMB5/9323e311d4745f431c93bad16c64e39d/shutterstock_1746421997__1__Cropped.jpg",
-    "title": "What is weather change sickness?",
+    "title": "什么是天气变化病？",
     "org": "Patient.info",
     "author": "Patient.info",
     "date": "2026-06-07",
     "sourceName": "patient.info",
     "sourceUrl": "https://patient.info/features/general-health/what-is-weather-change-sickness",
     "evidence": "B",
-    "summary": "If you've ever felt under the weather when the seasons change - or when temperatures have significantly soared or plummeted - then you're not alone.…",
+    "summary": "如果您曾经在季节变化或气温大幅飙升或骤降时感到恶劣，那么您并不孤单。……",
     "body": [
       {
         "t": "p",
@@ -48,14 +48,14 @@ window.ARTICLES = [
       "brain"
     ],
     "cover": "",
-    "title": "Every Mental Health Journey Begins with Being Seen",
+    "title": "每一次心理健康之旅都始于被看见",
     "org": "SAMHSA",
     "author": "SAMHSA 心理健康",
     "date": "2026-06-07",
     "sourceName": "samhsa.gov",
     "sourceUrl": "https://www.samhsa.gov/blog/every-mental-health-journey-begins-being-seen",
     "evidence": "A",
-    "summary": "Every year, tens of millions of Americans experience mental illness—but too many still struggle to be seen, heard,…",
+    "summary": "每年，数以千万计的美国人患有精神疾病，但仍有太多人难以被看到、听到……",
     "body": [
       {
         "t": "p",
@@ -69,14 +69,14 @@ window.ARTICLES = [
       "whole"
     ],
     "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/69SyYWdh14HYTPslSr2QzX/8b735066ddad09868fe232a5561a2a76/shutterstock_2774783899_Cropped.jpg",
-    "title": "How to work out in a heatwave",
+    "title": "如何在热浪中锻炼身体",
     "org": "Patient.info",
     "author": "Patient.info",
     "date": "2026-06-07",
     "sourceName": "patient.info",
     "sourceUrl": "https://patient.info/features/healthy-living/how-to-work-out-in-a-heatwave",
     "evidence": "B",
-    "summary": "When it's hot and humid out, your usual morning run can feel like torture - and ice cream in the shade may seem preferable to hitting the gym.…",
+    "summary": "当天气炎热潮湿时，您平常的晨跑会让人觉得很痛苦--阴凉处的冰淇淋似乎比去健身房更可取。……",
     "body": [
       {
         "t": "p",
@@ -90,14 +90,14 @@ window.ARTICLES = [
       "whole"
     ],
     "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/5HKgWCe0PuJw7sFXaDJrxK/d4d2dd1a85a74126b38bd1853ba7760c/shutterstock_1069315856_Cropped.jpg",
-    "title": "Can your diet and lifestyle improve fertility?",
+    "title": "您的饮食和生活方式可以提高生育能力吗？",
     "org": "Patient.info",
     "author": "Patient.info",
     "date": "2026-06-07",
     "sourceName": "patient.info",
     "sourceUrl": "https://patient.info/features/sexual-health/can-your-diet-and-lifestyle-improve-fertility",
     "evidence": "B",
-    "summary": "Our everyday habits have a powerful influence on our health - shaping everything from our energy levels and mood to our long-term wellbeing.…",
+    "summary": "我们的日常习惯对我们的健康有着强大的影响-塑造从我们的能量水平和情绪到我们的长期健康。……",
     "body": [
       {
         "t": "p",
@@ -111,14 +111,14 @@ window.ARTICLES = [
       "skin"
     ],
     "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/1mSMbhb9JfpUtss861W87r/02e8425a1f5a8598b8bc81b40d7d8a76/shutterstock_2402117355_Cropped.jpg",
-    "title": "How to relieve itchy eyes in the summer",
+    "title": "如何在夏天缓解眼睛发痒",
     "org": "Patient.info",
     "author": "Patient.info",
     "date": "2026-06-07",
     "sourceName": "patient.info",
     "sourceUrl": "https://patient.info/features/eye-care/how-to-look-after-your-eyes-in-summer",
     "evidence": "B",
-    "summary": "We all know the importance of wearing sunscreen and protecting our skin from the sun in the summer,…",
+    "summary": "我们都知道在夏天涂防晒霜和保护皮肤免受阳光照射的重要性， ……",
     "body": [
       {
         "t": "p",
@@ -132,14 +132,14 @@ window.ARTICLES = [
       "brain"
     ],
     "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/2Sc9M5Bd3K5EfjoAcZ4x0q/8637d92a1aa4c049dc89f286a1578a87/shutterstock_1705115692_Cropped.jpg",
-    "title": "Could your 'morning dread' be a sign of perimenopause?",
+    "title": "您的“早晨恐惧”可能是围绝经期的征兆吗？",
     "org": "Patient.info",
     "author": "Patient.info",
     "date": "2026-06-07",
     "sourceName": "patient.info",
     "sourceUrl": "https://patient.info/features/hormones/could-your-morning-dread-be-a-sign-of-perimenopause",
     "evidence": "B",
-    "summary": "If you’re going through perimenopause, you may be familiar with the sudden wave of dread or anxiety that can hit hardest first thing in the morning.…",
+    "summary": "如果您正在经历围绝经期，您可能熟悉突如其来的恐惧或焦虑浪潮，这些恐惧或焦虑浪潮可能会在早上的第一件事中受到最严重的打击。……",
     "body": [
       {
         "t": "p",
@@ -153,14 +153,14 @@ window.ARTICLES = [
       "brain"
     ],
     "cover": "",
-    "title": "One Student's Quick Thinking Shows Coordinated Action Through SAMHSA Program on Youth Mental Health Works",
+    "title": "一名学生的快速思维展示了通过SAMHSA青少年心理健康工作计划采取的协调行动",
     "org": "SAMHSA",
     "author": "SAMHSA 心理健康",
     "date": "2026-06-07",
     "sourceName": "samhsa.gov",
     "sourceUrl": "https://www.samhsa.gov/blog/one-students-quick-thinking-shows-coordinated-action-through-samhsa-program-youth-mental-health-works",
     "evidence": "A",
-    "summary": "In one New Hampshire school last year, a sixth-grade student noticed that something was wrong with a close friend.…",
+    "summary": "去年，在新罕布什尔州的一所学校，一名六年级学生注意到一位亲密的朋友出了问题。……",
     "body": [
       {
         "t": "p",
@@ -182,7 +182,7 @@ window.ARTICLES = [
     "sourceUrl": "https://x.com/NightSkyToday/status/2063283018601750924?s=20",
     "evidence": "B",
     "cat": "disease",
-    "summary": "JUST IN: Scientists have created an Antiviral Gum capable of reducing upto 95% of Flu Viruses and Oral Herpes.",
+    "summary": "恰到好处：科学家们创造了一种抗病毒口香糖，能够减少高达95%的流感病毒和口腔疱疹。",
     "body": [
       {
         "t": "p",
@@ -208,7 +208,7 @@ window.ARTICLES = [
     "sourceUrl": "https://x.com/NightSkyToday/status/2063267165378322804?s=20",
     "evidence": "B",
     "cat": "normal",
-    "summary": "JUST IN🚨: China is developing pills that could extend human life upto 150 years.",
+    "summary": "恰到好处🚨：中国正在开发可将人类寿命延长至150年的药丸。",
     "body": [
       {
         "t": "p",
@@ -461,14 +461,14 @@ window.ARTICLES = [
       "lungs"
     ],
     "cover": "",
-    "title": "New PET tracer identifies DVT in legs and lungs",
+    "title": "新的PET示踪剂可识别腿部和肺部的DVT",
     "org": "Medical Xpress",
     "author": "Medical Xpress",
     "date": "2026-06-06",
     "sourceName": "medicalxpress.com",
     "sourceUrl": "https://medicalxpress.com/news/2026-06-pet-tracer-dvt-legs-lungs.html",
     "evidence": "B",
-    "summary": "A novel PET radiotracer can accurately detect deep vein thrombosis in the legs and reveal whether clots have migrated to the lungs.…",
+    "summary": "一种新型PET放射性示踪剂可以准确检测腿部深静脉血栓形成，并揭示血块是否已迁移到肺部。……",
     "body": [
       {
         "t": "p",
@@ -482,14 +482,14 @@ window.ARTICLES = [
       "whole"
     ],
     "cover": "",
-    "title": "The supplements older adults actually need and the ones they don't",
+    "title": "老年人实际需要的补充剂和他们不需要的补充剂",
     "org": "ScienceDaily",
     "author": "ScienceDaily 营养",
     "date": "2026-06-06",
     "sourceName": "sciencedaily.com",
     "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260605023408.htm",
     "evidence": "B",
-    "summary": "Supplements are often marketed as shortcuts to better health, but for many older adults, the real issue is whether they have a specific deficiency.…",
+    "summary": "补充剂通常被认为是改善健康的捷径，但对于许多老年人来说，真正的问题是他们是否有特定的缺陷。……",
     "body": [
       {
         "t": "p",
@@ -503,14 +503,14 @@ window.ARTICLES = [
       "whole"
     ],
     "cover": "",
-    "title": "Researchers develop world's first AI for objective pain assessment",
+    "title": "研究人员开发了世界上第一个用于客观疼痛评估的人工智能",
     "org": "Medical Xpress",
     "author": "Medical Xpress",
     "date": "2026-06-06",
     "sourceName": "medicalxpress.com",
     "sourceUrl": "https://medicalxpress.com/news/2026-06-world-ai-pain.html",
     "evidence": "B",
-    "summary": "A research team has developed technology that uses artificial intelligence to analyze electroencephalogram signals triggered by thermal stimuli and…",
+    "summary": "一个研究小组开发了一种技术，该技术使用人工智能来分析由热刺激触发的脑电图信号，并……",
     "body": [
       {
         "t": "p",
@@ -1254,14 +1254,14 @@ window.ARTICLES = [
       "brain"
     ],
     "cover": "",
-    "title": "Scientists reverse anxiety by fixing a tiny brain circuit",
+    "title": "科学家通过修复一个微小的大脑回路来扭转焦虑",
     "org": "ScienceDaily",
     "author": "ScienceDaily 心理",
     "date": "2026-06-03",
     "sourceName": "sciencedaily.com",
     "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260603015356.htm",
     "evidence": "B",
-    "summary": "A newly identified group of amygdala neurons appears to play a central role in anxiety and social behavior.…",
+    "summary": "新发现的一组杏仁核神经元似乎在焦虑和社交行为中发挥着核心作用。……",
     "body": [
       {
         "t": "p",
@@ -1613,14 +1613,14 @@ window.ARTICLES = [
       "brain"
     ],
     "cover": "",
-    "title": "Caffeine reversed memory problems caused by sleep deprivation",
+    "title": "咖啡因逆转了睡眠剥夺引起的记忆问题",
     "org": "ScienceDaily",
     "author": "ScienceDaily 心理",
     "date": "2026-05-30",
     "sourceName": "sciencedaily.com",
     "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260529043654.htm",
     "evidence": "B",
-    "summary": "Scientists discovered that sleep deprivation damages a key brain circuit responsible for social memory,…",
+    "summary": "科学家们发现，睡眠剥夺会损害负责社交记忆的关键大脑回路。",
     "body": [
       {
         "t": "p",
@@ -1686,14 +1686,14 @@ window.ARTICLES = [
       "whole"
     ],
     "cover": "",
-    "title": "Is Personalized Genetic Testing Worth It?",
+    "title": "个性化基因检测是否值得？",
     "org": "NutritionFacts",
     "author": "NutritionFacts.org",
     "date": "2026-05-28",
     "sourceName": "nutritionfacts.org",
     "sourceUrl": "https://nutritionfacts.org/blog/is-personalized-genetic-testing-worth-it/",
     "evidence": "B",
-    "summary": "Overrated “precision medicine” may just be serving vested interests, and consumer DNA testing can be useless—or even worse.…",
+    "summary": "被高估的“精准医学”可能只是服务于既得利益，而消费者DNA测试可能毫无用处，甚至更糟。……",
     "body": [
       {
         "t": "p",
@@ -1707,14 +1707,14 @@ window.ARTICLES = [
       "gut"
     ],
     "cover": "https://substackcdn.com/image/fetch/$s_!A7Ni!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff77714e7-1e10-4e2a-a85f-4f358bc2b1aa_1160x882.png",
-    "title": "The Art of Visceral Self-Massage for Gut Flow",
+    "title": "肠流内脏自我按摩的艺术",
     "org": "The Cell Lab",
     "author": "Variana Volk",
     "date": "2026-05-26",
     "sourceName": "notes.theracellab.com",
     "sourceUrl": "https://notes.theracellab.com/p/the-art-of-visceral-self-massage",
     "evidence": "C",
-    "summary": "An old-school abdominal practice for moving bile, waking up motility, and restoring the mechanical layer of digestion.",
+    "summary": "一种古老的腹部练习，用于移动胆汁、唤醒运动能力和恢复机械消化层。",
     "body": [
       {
         "t": "p",
@@ -1801,14 +1801,14 @@ window.ARTICLES = [
       "brain"
     ],
     "cover": "",
-    "title": "Scientists discover hidden driver of aging — Simple supplement reversed brain decline",
+    "title": "科学家发现衰老的隐藏驱动因素—简单的补充剂可逆转大脑衰退",
     "org": "ScienceDaily",
     "author": "ScienceDaily 健身",
     "date": "2026-05-24",
     "sourceName": "sciencedaily.com",
     "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260524012959.htm",
     "evidence": "B",
-    "summary": "A newly identified brain protein may play a major role in how the body ages. Researchers discovered that declining levels of Menin in the…",
+    "summary": "新发现的脑蛋白可能在身体衰老过程中发挥重要作用。研究人员发现，在…中的Menin水平下降",
     "body": [
       {
         "t": "p",
@@ -1875,14 +1875,14 @@ window.ARTICLES = [
       "whole"
     ],
     "cover": "",
-    "title": "Does Less Protein Increase FGF21 for Longevity?",
+    "title": "少量蛋白质是否会增加FGF21的寿命？",
     "org": "NutritionFacts",
     "author": "NutritionFacts.org",
     "date": "2026-05-21",
     "sourceName": "nutritionfacts.org",
     "sourceUrl": "https://nutritionfacts.org/blog/does-less-protein-increase-fgf21-for-longevity/",
     "evidence": "B",
-    "summary": "Fasting and exercise can boost the longevity hormone FGF21, but what can we eat—or avoid eating—to get similar effects?…",
+    "summary": "禁食和锻炼可以促进长寿荷尔蒙FGF21 ，但我们可以吃什么或避免吃什么来获得类似的效果？ ……",
     "body": [
       {
         "t": "p",
@@ -1972,14 +1972,14 @@ window.ARTICLES = [
       "whole"
     ],
     "cover": "",
-    "title": "How to Boost Your Longevity Hormone",
+    "title": "如何提高你的长寿荷尔蒙",
     "org": "NutritionFacts",
     "author": "NutritionFacts.org",
     "date": "2026-05-19",
     "sourceName": "nutritionfacts.org",
     "sourceUrl": "https://nutritionfacts.org/blog/how-to-boost-your-longevity-hormone/",
     "evidence": "B",
-    "summary": "What can we do to boost the longevity hormone FGF21? In the year 2000, a new human hormone was discovered. It was the 21st documented […]",
+    "summary": "我们可以做些什么来提高长寿激素FGF21 ？ 2000年，一种新的人类荷尔蒙被发现。这是第21次记录[…]",
     "body": [
       {
         "t": "p",
@@ -2035,14 +2035,14 @@ window.ARTICLES = [
       "whole"
     ],
     "cover": "",
-    "title": "Barley, Farro, Sorghum and More: 9 Whole Grains to Try",
+    "title": "大麦、法罗、高粱等：尝试9种全谷物",
     "org": "MedlinePlus",
     "author": "MedlinePlus 营养",
     "date": "2026-05-15",
     "sourceName": "hopkinsmedicine.org",
     "sourceUrl": "https://www.hopkinsmedicine.org/health/expert-qa/barley-farro-sorghum-and-more-9-whole-grains-to-try",
     "evidence": "A",
-    "summary": "Source: Johns Hopkins Medicine",
+    "summary": "资料来源：约翰霍普金斯医学",
     "body": [
       {
         "t": "p",
@@ -2056,14 +2056,14 @@ window.ARTICLES = [
       "nutrition"
     ],
     "cover": "",
-    "title": "Strategies for Eating Well on a Budget",
+    "title": "合理饮食的策略",
     "org": "MedlinePlus",
     "author": "MedlinePlus 营养",
     "date": "2026-05-14",
     "sourceName": "nutritionsource.hsph.harvard.edu",
     "sourceUrl": "https://nutritionsource.hsph.harvard.edu/strategies-nutrition-budget/",
     "evidence": "A",
-    "summary": "Source: Harvard Medical School",
+    "summary": "资料来源：哈佛医学院",
     "body": [
       {
         "t": "p",
@@ -2077,14 +2077,14 @@ window.ARTICLES = [
       "nutrition"
     ],
     "cover": "",
-    "title": "Nutrition",
+    "title": "营养成分",
     "org": "MedlinePlus",
     "author": "MedlinePlus 营养",
     "date": "2026-05-14",
     "sourceName": "healthychildren.org",
     "sourceUrl": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/default.aspx",
     "evidence": "A",
-    "summary": "Source: American Academy of Pediatrics",
+    "summary": "资料来源：美国儿科学会",
     "body": [
       {
         "t": "p",
@@ -2098,14 +2098,14 @@ window.ARTICLES = [
       "nutrition"
     ],
     "cover": "https://substackcdn.com/image/fetch/$s_!rChI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F54e63934-db44-4581-82ad-1118b0f2fc1d_1594x1586.png",
-    "title": "The Supplement Debate Is Getting Chemistry Wrong",
+    "title": "补充剂的争论是化学反应出错",
     "org": "The Cell Lab",
     "author": "Variana Volk",
     "date": "2026-05-14",
     "sourceName": "notes.theracellab.com",
     "sourceUrl": "https://notes.theracellab.com/p/the-supplement-debate-is-getting",
     "evidence": "C",
-    "summary": "Why minerals are not synthetic, isolated nutrients can work, and choosing the right form still matters",
+    "summary": "为什么矿物质不是合成的，分离的营养素可以起作用，选择正确的形式仍然很重要",
     "body": [
       {
         "t": "p",
@@ -2120,14 +2120,14 @@ window.ARTICLES = [
       "nutrition"
     ],
     "cover": "",
-    "title": "Your Guide to Healthy Eating Habits That Stick",
+    "title": "您的健康饮食习惯指南",
     "org": "MedlinePlus",
     "author": "MedlinePlus 营养",
     "date": "2026-05-14",
     "sourceName": "heart.org",
     "sourceUrl": "https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/your-guide-to-healthy-eating-habits-that-stick",
     "evidence": "A",
-    "summary": "Source: American Heart Association",
+    "summary": "资料来源：美国心脏协会",
     "body": [
       {
         "t": "p",
@@ -2142,14 +2142,14 @@ window.ARTICLES = [
       "nutrition"
     ],
     "cover": "",
-    "title": "7 Whole-Grain Foods You Should Try",
+    "title": "您应该尝试的7种全谷物食品",
     "org": "MedlinePlus",
     "author": "MedlinePlus 营养",
     "date": "2026-05-14",
     "sourceName": "heart.org",
     "sourceUrl": "https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/types-of-whole-grains",
     "evidence": "A",
-    "summary": "Source: American Heart Association",
+    "summary": "资料来源：美国心脏协会",
     "body": [
       {
         "t": "p",
@@ -2163,14 +2163,14 @@ window.ARTICLES = [
       "whole"
     ],
     "cover": "https://substackcdn.com/image/fetch/$s_!dYvU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d881590-6952-4308-9561-54d19d4fc1b2_3024x4032.heic",
-    "title": "My Grandmother, My Mother, and My Daughters",
+    "title": "我的祖母、母亲和女儿",
     "org": "Dr. Mary Claire",
     "author": "Dr. Mary Claire Haver",
     "date": "2026-05-13",
     "sourceName": "drmaryclairehaver.substack.com",
     "sourceUrl": "https://drmaryclairehaver.substack.com/p/my-grandmother-my-mother-and-my-daughters",
     "evidence": "C",
-    "summary": "The Generational Cost of What Women Were Never Told About Midlife Health",
+    "summary": "女性从未被告知的中年健康代价",
     "body": [
       {
         "t": "p",
@@ -2233,14 +2233,14 @@ window.ARTICLES = [
       "whole"
     ],
     "cover": "https://substackcdn.com/image/fetch/$s_!tTdY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F411379aa-af4c-459e-9253-c0f8079526d6_1696x2048.jpeg",
-    "title": "The Beauty Products My Mom Loved",
+    "title": "我妈妈喜欢的美容产品",
     "org": "The RightDose",
     "author": "The RightDose",
     "date": "2026-05-12",
     "sourceName": "rightdose.substack.com",
     "sourceUrl": "https://rightdose.substack.com/p/the-beauty-products-my-mom-loved",
     "evidence": "C",
-    "summary": "I always thought they were harmless. Then I learned how many toxic chemicals hide in everyday cosmetics and what that really means for women’s health…",
+    "summary": "我一直认为它们是无害的。然后我了解到日常化妆品中隐藏着多少有毒化学物质，以及这对女性健康的真正意义……",
     "body": [
       {
         "t": "p",
@@ -2254,14 +2254,14 @@ window.ARTICLES = [
       "whole"
     ],
     "cover": "https://substackcdn.com/image/fetch/$s_!fapZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e5c5d15-255e-4d08-8993-d262f90cb332_2098x1142.png",
-    "title": "The Old Clinical Trick for a Sluggish Gallbladder",
+    "title": "缓慢胆囊的旧临床技巧",
     "org": "The Cell Lab",
     "author": "Variana Volk",
     "date": "2026-05-10",
     "sourceName": "notes.theracellab.com",
     "sourceUrl": "https://notes.theracellab.com/p/the-old-clinical-trick-for-a-sluggish",
     "evidence": "C",
-    "summary": "A powerful sanatorium procedure for stimulating gallbladder contraction, draining stagnant bile, and restoring flow",
+    "summary": "强大的疗养程序，用于刺激胆囊收缩、排出滞留的胆汁和恢复血流",
     "body": [
       {
         "t": "p",
@@ -2308,14 +2308,14 @@ window.ARTICLES = [
       "hormones"
     ],
     "cover": "https://substackcdn.com/image/fetch/$s_!ei9H!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc359ba7b-8c1f-4962-8379-56b8f3167b59_4500x3499.heic",
-    "title": "What You Really Need to Know About Histamine, Mast Cells, and Your Hormones",
+    "title": "关于组胺、肥大细胞和荷尔蒙，您真正需要知道什么",
     "org": "Dr. Mary Claire",
     "author": "Dr. Mary Claire Haver",
     "date": "2026-05-04",
     "sourceName": "drmaryclairehaver.substack.com",
     "sourceUrl": "https://drmaryclairehaver.substack.com/p/what-you-really-need-to-know-about",
     "evidence": "C",
-    "summary": "The conversation no one had with us in medical school. With Dr. Zachary Rubin.",
+    "summary": "在医学院没有人与我们的谈话。与Zachary Rubin博士。",
     "body": [
       {
         "t": "p",
@@ -2446,14 +2446,14 @@ window.ARTICLES = [
       "hormones"
     ],
     "cover": "https://substackcdn.com/image/fetch/$s_!7PPB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F75e305f2-cb8d-4203-bf2f-5ff4049c481f_998x868.png",
-    "title": "The Fluid That Decides How You Age, Detox, and Make Hormones",
+    "title": "决定您如何衰老、排毒和制造激素的液体",
     "org": "The Cell Lab",
     "author": "Variana Volk",
     "date": "2026-04-23",
     "sourceName": "notes.theracellab.com",
     "sourceUrl": "https://notes.theracellab.com/p/the-fluid-that-decides-how-you-age",
     "evidence": "C",
-    "summary": "Countless metabolic problems trace back to it",
+    "summary": "无数的代谢问题可以追溯到",
     "body": [
       {
         "t": "p",
@@ -2505,14 +2505,14 @@ window.ARTICLES = [
       "skin"
     ],
     "cover": "https://substackcdn.com/image/fetch/$s_!oBwX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6998df79-5d34-4658-9939-97ef0d5eeb79_2048x2048.jpeg",
-    "title": "What Parabens Really Do to Your Body, And How to Think About Them",
+    "title": "对羟基苯甲酸酯对身体的真正影响，以及如何看待它们",
     "org": "The RightDose",
     "author": "The RightDose",
     "date": "2026-04-14",
     "sourceName": "rightdose.substack.com",
     "sourceUrl": "https://rightdose.substack.com/p/what-parabens-really-do-to-your-body",
     "evidence": "C",
-    "summary": "Parabens are everywhere in skincare, cosmetics, and personal care products. Understanding what they are and how to make choices around them can help…",
+    "summary": "对羟基苯甲酸酯在护肤品、化妆品和个人护理产品中无处不在。了解他们是什么以及如何围绕他们做出选择可以帮助……",
     "body": [
       {
         "t": "p",
@@ -2563,14 +2563,14 @@ window.ARTICLES = [
       "whole"
     ],
     "cover": "https://substackcdn.com/image/fetch/$s_!Bdss!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb19ae114-cca5-42fd-ad7c-44361e11cd6d_2048x2048.jpeg",
-    "title": "Why Most People Quit “Healthy Living” After Three Weeks",
+    "title": "为什么大多数人在三周后放弃“健康生活”",
     "org": "The RightDose",
     "author": "The RightDose",
     "date": "2026-03-31",
     "sourceName": "rightdose.substack.com",
     "sourceUrl": "https://rightdose.substack.com/p/why-most-people-quit-healthy-living",
     "evidence": "C",
-    "summary": "We tell ourselves the problem is motivation. The truth is more hopeful.",
+    "summary": "我们告诉自己，问题在于动机。真相更加充满希望。",
     "body": [
       {
         "t": "p",
@@ -2918,14 +2918,14 @@ window.ARTICLES = [
       "nutrition"
     ],
     "cover": "",
-    "title": "Dietary Guidelines for Americans 2025-2030: Progress on added sugar, protein hype, saturated fat contradictions",
+    "title": "美国人膳食指南2025-2030 ：添加糖、蛋白质炒作、饱和脂肪矛盾的进展",
     "org": "Harvard Nutrition",
     "author": "哈佛营养学院",
     "date": "2026-01-09",
     "sourceName": "nutritionsource.hsph.harvard.edu",
     "sourceUrl": "https://nutritionsource.hsph.harvard.edu/2026/01/09/dietary-guidelines-for-americans-2025-2030/",
     "evidence": "A",
-    "summary": "The 2025–2030 Dietary Guidelines for Americans (DGAs) were released this week with the tagline “eat real food,” and a stronger stance on limiting…",
+    "summary": "本周发布了《2025–2030年美国人膳食指南》（ DGAs ） ，其口号是“吃真正的食物” ，并在限制……方面采取了更强硬的立场",
     "body": [
       {
         "t": "p",
@@ -2971,14 +2971,14 @@ window.ARTICLES = [
       "brain"
     ],
     "cover": "",
-    "title": "Can’t sleep, can’t focus, can’t thrive? ADHD and insomnia may be a vicious cycle",
+    "title": "睡不着，不能集中注意力，不能茁壮成长？多动症和失眠可能是一个恶性循环",
     "org": "ScienceDaily",
     "author": "ScienceDaily 睡眠",
     "date": "2025-07-16",
     "sourceName": "sciencedaily.com",
     "sourceUrl": "https://www.sciencedaily.com/releases/2025/07/250716000843.htm",
     "evidence": "B",
-    "summary": "Struggling to sleep might be the hidden reason why adults with ADHD traits often feel less satisfied with life.…",
+    "summary": "睡眠困难可能是患有多动症的成年人对生活感到不太满意的隐藏原因。……",
     "body": [
       {
         "t": "p",
@@ -3045,14 +3045,14 @@ window.ARTICLES = [
       "nutrition"
     ],
     "cover": "",
-    "title": "Healthy Living Guide 2023/2024",
+    "title": "2023/2024年健康生活指南",
     "org": "Harvard Nutrition",
     "author": "哈佛营养学院",
     "date": "2024-01-02",
     "sourceName": "nutritionsource.hsph.harvard.edu",
     "sourceUrl": "https://nutritionsource.hsph.harvard.edu/2024/01/02/healthy-living-guide-2023-2024/",
     "evidence": "A",
-    "summary": "A Digest on Healthy Eating and Healthy Living “The apple in your hand is the body of the cosmos.” – Thich Nhat Hanh Happy New Year,…",
+    "summary": "健康饮食和健康生活文摘“你手中的苹果是宇宙的身体。– Thich Nhat Hanh新年快乐， ……",
     "body": [
       {
         "t": "p",
@@ -3066,14 +3066,14 @@ window.ARTICLES = [
       "nutrition"
     ],
     "cover": "",
-    "title": "WHO releases updated guidelines on defining healthy diets",
+    "title": "世卫组织发布了定义健康饮食的最新指南",
     "org": "Harvard Nutrition",
     "author": "哈佛营养学院",
     "date": "2023-07-18",
     "sourceName": "nutritionsource.hsph.harvard.edu",
     "sourceUrl": "https://nutritionsource.hsph.harvard.edu/2023/07/17/who-updated-guidelines-healthy-diets-total-fat/",
     "evidence": "A",
-    "summary": "Harvard experts say most recommendations are well-supported, but guidance on total fat intake omits decades of evidence The World Health Organization…",
+    "summary": "哈佛大学的专家说，大多数建议都得到了很好的支持，但关于总脂肪摄入量的指导忽略了数十年的证据世界卫生组织……",
     "body": [
       {
         "t": "p",
@@ -3087,14 +3087,14 @@ window.ARTICLES = [
       "nutrition"
     ],
     "cover": "",
-    "title": "Unpacking WHO guidelines on non-sugar sweeteners",
+    "title": "打开世卫组织非糖甜味剂指南的包装",
     "org": "Harvard Nutrition",
     "author": "哈佛营养学院",
     "date": "2023-06-06",
     "sourceName": "nutritionsource.hsph.harvard.edu",
     "sourceUrl": "https://nutritionsource.hsph.harvard.edu/2023/06/06/who-guidelines-non-sugar-sweeteners/",
     "evidence": "A",
-    "summary": "The World Health Organization (WHO) released a new guideline on non-sugar sweeteners (NSS)—often referred to as artificial or low-calorie…",
+    "summary": "世界卫生组织（ WHO ）发布了关于无糖甜味剂（ NSS ）的新指南-通常被称为人工或低热量……",
     "body": [
       {
         "t": "p",
@@ -3108,14 +3108,14 @@ window.ARTICLES = [
       "nutrition"
     ],
     "cover": "",
-    "title": "Healthy Living Guide 2022/2023",
+    "title": "2022/2023年健康生活指南",
     "org": "Harvard Nutrition",
     "author": "哈佛营养学院",
     "date": "2023-01-04",
     "sourceName": "nutritionsource.hsph.harvard.edu",
     "sourceUrl": "https://nutritionsource.hsph.harvard.edu/2023/01/04/healthy-living-guide-2022-2023/",
     "evidence": "A",
-    "summary": "A Digest on Healthy Eating and Healthy Living Throughout 2022, food and nutrition were often in the spotlight,…",
+    "summary": "《健康饮食和健康生活摘要》纵观2022年，食物和营养常常成为人们关注的焦点……",
     "body": [
       {
         "t": "p",
@@ -3129,14 +3129,14 @@ window.ARTICLES = [
       "whole"
     ],
     "cover": "",
-    "title": "Navigating infant formula shortages",
+    "title": "应对婴幼儿配方奶粉短缺问题",
     "org": "Harvard Nutrition",
     "author": "哈佛营养学院",
     "date": "2022-05-17",
     "sourceName": "nutritionsource.hsph.harvard.edu",
     "sourceUrl": "https://nutritionsource.hsph.harvard.edu/2022/05/17/infant-formula-shortage/",
     "evidence": "A",
-    "summary": "Infant formula shortages in the U.S. have occurred in the past two years largely due to widespread pandemic-related supply-chain problems.…",
+    "summary": "过去两年，美国婴儿配方奶粉短缺主要是由于大流行相关的供应链问题。……",
     "body": [
       {
         "t": "p",
