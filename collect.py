@@ -21,6 +21,7 @@ import json
 import time
 import hashlib
 import urllib.request
+import urllib.parse
 from datetime import date
 from email.utils import parsedate_to_datetime
 from html import unescape
@@ -139,6 +140,30 @@ BLOCKLIST = [
 def is_blocked(title, summary):
     text = (title + " " + summary).lower()
     return any(w in text for w in BLOCKLIST)
+
+
+def is_english(text):
+    ascii_count = sum(1 for c in text if ord(c) < 128)
+    return len(text) > 0 and ascii_count / len(text) > 0.8
+
+
+def translate_zh(text):
+    """用 MyMemory 免费 API 把英文翻译成中文，失败则返回原文。"""
+    if not text or not is_english(text):
+        return text
+    try:
+        import json as _json
+        q = urllib.parse.quote(text[:400])
+        url = f"https://api.mymemory.translated.net/get?q={q}&langpair=en|zh"
+        req = urllib.request.Request(url, headers={"User-Agent": UA})
+        with urllib.request.urlopen(req, timeout=8) as r:
+            data = _json.loads(r.read())
+        translated = data.get("responseData", {}).get("translatedText", "")
+        if translated and translated.upper() != text.upper():
+            return translated
+    except Exception:
+        pass
+    return text
 
 
 # ---------------- 工具函数 ----------------
@@ -356,6 +381,12 @@ def main():
     if not new_items:
         print("没有新内容。数据文件保持不变。")
         return
+
+    print(f"翻译标题/摘要（英文→中文）…")
+    for it in new_items:
+        it["title"]   = translate_zh(it["title"])
+        it["summary"] = translate_zh(it["summary"])
+        time.sleep(0.3)  # 避免触发 MyMemory 频率限制
 
     merged = existing + new_items
     write_out(merged)
