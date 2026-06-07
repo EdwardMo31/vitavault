@@ -901,16 +901,19 @@
     articleEl.appendChild(sb);
 
     const acts=el("div","actions");
-    [["♡","赞"],["↻","转存"],["🔖","收藏"],["↗","分享"]].forEach(([i,t])=>{
-      const btn=el("button"); const ico=el("span",null,i); const lab=el("span",null,t);
-      btn.appendChild(ico); btn.appendChild(lab);
-      if(t==="收藏"){
-        const paint=()=>{ const on=isFav(a.id); btn.classList.toggle("on",on); lab.textContent=on?"已收藏":"收藏"; };
-        btn.onclick=()=>{ toggleFav(a.id); paint(); };
-        paint();
-      }
-      acts.appendChild(btn);
-    });
+    // 收藏
+    const favBtn=el("button"); const favIco=el("span",null,"🔖"); const favLab=el("span",null,"收藏");
+    favBtn.appendChild(favIco); favBtn.appendChild(favLab);
+    const paintFav=()=>{ const on=isFav(a.id); favBtn.classList.toggle("on",on); favLab.textContent=on?"已收藏":"收藏"; };
+    favBtn.onclick=()=>{ toggleFav(a.id); paintFav(); }; paintFav();
+    acts.appendChild(favBtn);
+    // 分享
+    const shareBtn=el("button"); shareBtn.appendChild(el("span",null,"↗")); shareBtn.appendChild(el("span",null,"分享"));
+    shareBtn.onclick=()=>{
+      if(navigator.share){ navigator.share({title:a.title, text:a.summary||a.title, url:`https://EdwardMo31.github.io/vitavault/`}); }
+      else{ navigator.clipboard?.writeText(`https://EdwardMo31.github.io/vitavault/`).then(()=>alert("链接已复制")); }
+    };
+    acts.appendChild(shareBtn);
     const artTransBtn=el("button"); const artTransLab=el("span",null,"翻译");
     artTransBtn.appendChild(artTransLab);
     let _artTranslated=false;
