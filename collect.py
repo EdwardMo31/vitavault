@@ -56,8 +56,25 @@ FEEDS = [
      "url": "https://drmaryclairehaver.substack.com/feed"},
     {"org": "The Cell Lab", "name": "Variana Volk", "evidence": "C",
      "url": "https://varianavolk.substack.com/feed"},
-    # 在此继续添加你的 Tier-1 来源 RSS：
-    # {"org": "...", "name": "...", "evidence": "A", "url": "https://.../feed"},
+    # ---- MedlinePlus（美国国立医学图书馆，A 级权威）----
+    {"org": "MedlinePlus", "name": "MedlinePlus 营养", "evidence": "A",
+     "url": "https://medlineplus.gov/feeds/topics/nutrition.xml"},
+    {"org": "MedlinePlus", "name": "MedlinePlus 运动", "evidence": "A",
+     "url": "https://medlineplus.gov/feeds/topics/exerciseandphysicalfitness.xml"},
+    {"org": "MedlinePlus", "name": "MedlinePlus 心理健康", "evidence": "A",
+     "url": "https://medlineplus.gov/feeds/topics/mentalhealth.xml"},
+
+    # ---- Harvard & 专业营养 ----
+    {"org": "Harvard Nutrition", "name": "哈佛营养学院", "evidence": "A",
+     "url": "https://www.hsph.harvard.edu/nutritionsource/feed/"},
+    {"org": "NutritionFacts", "name": "NutritionFacts.org", "evidence": "B",
+     "url": "https://nutritionfacts.org/feed/"},
+
+    # ---- 医学研究新闻 ----
+    {"org": "Medical Xpress", "name": "Medical Xpress", "evidence": "B",
+     "url": "https://medicalxpress.com/rss-feed/"},
+    {"org": "Patient.info", "name": "Patient.info", "evidence": "B",
+     "url": "https://patient.info/rss"},
 ]
 
 # ============================================================
