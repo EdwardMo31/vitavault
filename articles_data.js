@@ -1,6 +1,32 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
 {
+  "id": "u11",
+  "systems": [
+    "whole"
+  ],
+  "cover": "",
+  "title": "刚刚：科学家们已开发出一种抗病毒口香糖，能够减少高达95%的流感病毒和口腔疱疹病毒。",
+  "org": "@NightSkyToday",
+  "author": "编译自 @NightSkyToday",
+  "date": "2026-06-07",
+  "sourceName": "x.com",
+  "sourceUrl": "https://x.com/NightSkyToday/status/2063283018601750924?s=20",
+  "evidence": "B",
+  "cat": "disease",
+  "summary": "JUST IN: Scientists have created an Antiviral Gum capable of reducing upto 95% of Flu Viruses and Oral Herpes.",
+  "body": [
+    {
+      "t": "p",
+      "x": "JUST IN: Scientists have created an Antiviral Gum capable of reducing upto 95% of Flu Viruses and Oral Herpes."
+    },
+    {
+      "t": "p",
+      "x": "（健康科普，不构成医疗建议。）"
+    }
+  ]
+},
+{
   "id": "u10",
   "systems": [
     "gut"
