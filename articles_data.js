@@ -1,6 +1,226 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c5b5349aa98",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "Expanding Mental Health Support for Children and Families through Teleconsultation",
+    "org": "SAMHSA",
+    "author": "SAMHSA 心理健康",
+    "date": "2026-06-07",
+    "sourceName": "samhsa.gov",
+    "sourceUrl": "https://www.samhsa.gov/blog/expanding-mental-health-support-children-families-through-teleconsultation",
+    "evidence": "A",
+    "summary": "When a child is struggling with anxiety, depression, or behavioral changes, parents often turn first to someone they already know and trust—a…",
+    "body": [
+      {
+        "t": "p",
+        "x": "When a child is struggling with anxiety, depression, or behavioral changes, parents often turn first to someone they already know and trust—a…"
+      }
+    ]
+  },
+  {
+    "id": "c85baa6a2b0",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/4VFVmEhL4sYfcr3rudJMB5/9323e311d4745f431c93bad16c64e39d/shutterstock_1746421997__1__Cropped.jpg",
+    "title": "What is weather change sickness?",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-06-07",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/general-health/what-is-weather-change-sickness",
+    "evidence": "B",
+    "summary": "If you've ever felt under the weather when the seasons change - or when temperatures have significantly soared or plummeted - then you're not alone.…",
+    "body": [
+      {
+        "t": "p",
+        "x": "If you've ever felt under the weather when the seasons change - or when temperatures have significantly soared or plummeted - then you're not alone.…"
+      }
+    ]
+  },
+  {
+    "id": "c9d3c624c80",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "Every Mental Health Journey Begins with Being Seen",
+    "org": "SAMHSA",
+    "author": "SAMHSA 心理健康",
+    "date": "2026-06-07",
+    "sourceName": "samhsa.gov",
+    "sourceUrl": "https://www.samhsa.gov/blog/every-mental-health-journey-begins-being-seen",
+    "evidence": "A",
+    "summary": "Every year, tens of millions of Americans experience mental illness—but too many still struggle to be seen, heard,…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Every year, tens of millions of Americans experience mental illness—but too many still struggle to be seen, heard,…"
+      }
+    ]
+  },
+  {
+    "id": "ca4b4e70deb",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/69SyYWdh14HYTPslSr2QzX/8b735066ddad09868fe232a5561a2a76/shutterstock_2774783899_Cropped.jpg",
+    "title": "How to work out in a heatwave",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-06-07",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/how-to-work-out-in-a-heatwave",
+    "evidence": "B",
+    "summary": "When it's hot and humid out, your usual morning run can feel like torture - and ice cream in the shade may seem preferable to hitting the gym.…",
+    "body": [
+      {
+        "t": "p",
+        "x": "When it's hot and humid out, your usual morning run can feel like torture - and ice cream in the shade may seem preferable to hitting the gym.…"
+      }
+    ]
+  },
+  {
+    "id": "cae0a19e2d6",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/5HKgWCe0PuJw7sFXaDJrxK/d4d2dd1a85a74126b38bd1853ba7760c/shutterstock_1069315856_Cropped.jpg",
+    "title": "Can your diet and lifestyle improve fertility?",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-06-07",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/sexual-health/can-your-diet-and-lifestyle-improve-fertility",
+    "evidence": "B",
+    "summary": "Our everyday habits have a powerful influence on our health - shaping everything from our energy levels and mood to our long-term wellbeing.…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Our everyday habits have a powerful influence on our health - shaping everything from our energy levels and mood to our long-term wellbeing.…"
+      }
+    ]
+  },
+  {
+    "id": "cb6a09454e3",
+    "systems": [
+      "skin"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/1mSMbhb9JfpUtss861W87r/02e8425a1f5a8598b8bc81b40d7d8a76/shutterstock_2402117355_Cropped.jpg",
+    "title": "How to relieve itchy eyes in the summer",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-06-07",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/eye-care/how-to-look-after-your-eyes-in-summer",
+    "evidence": "B",
+    "summary": "We all know the importance of wearing sunscreen and protecting our skin from the sun in the summer,…",
+    "body": [
+      {
+        "t": "p",
+        "x": "We all know the importance of wearing sunscreen and protecting our skin from the sun in the summer,…"
+      }
+    ]
+  },
+  {
+    "id": "cc1d6e95f69",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/2Sc9M5Bd3K5EfjoAcZ4x0q/8637d92a1aa4c049dc89f286a1578a87/shutterstock_1705115692_Cropped.jpg",
+    "title": "Could your 'morning dread' be a sign of perimenopause?",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-06-07",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/hormones/could-your-morning-dread-be-a-sign-of-perimenopause",
+    "evidence": "B",
+    "summary": "If you’re going through perimenopause, you may be familiar with the sudden wave of dread or anxiety that can hit hardest first thing in the morning.…",
+    "body": [
+      {
+        "t": "p",
+        "x": "If you’re going through perimenopause, you may be familiar with the sudden wave of dread or anxiety that can hit hardest first thing in the morning.…"
+      }
+    ]
+  },
+  {
+    "id": "ce616a7444d",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "One Student's Quick Thinking Shows Coordinated Action Through SAMHSA Program on Youth Mental Health Works",
+    "org": "SAMHSA",
+    "author": "SAMHSA 心理健康",
+    "date": "2026-06-07",
+    "sourceName": "samhsa.gov",
+    "sourceUrl": "https://www.samhsa.gov/blog/one-students-quick-thinking-shows-coordinated-action-through-samhsa-program-youth-mental-health-works",
+    "evidence": "A",
+    "summary": "In one New Hampshire school last year, a sixth-grade student noticed that something was wrong with a close friend.…",
+    "body": [
+      {
+        "t": "p",
+        "x": "In one New Hampshire school last year, a sixth-grade student noticed that something was wrong with a close friend.…"
+      }
+    ]
+  },
+  {
+    "id": "u11",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "刚刚：科学家们已开发出一种抗病毒口香糖，能够减少高达95%的流感病毒和口腔疱疹病毒。",
+    "org": "@NightSkyToday",
+    "author": "编译自 @NightSkyToday",
+    "date": "2026-06-07",
+    "sourceName": "x.com",
+    "sourceUrl": "https://x.com/NightSkyToday/status/2063283018601750924?s=20",
+    "evidence": "B",
+    "cat": "disease",
+    "summary": "JUST IN: Scientists have created an Antiviral Gum capable of reducing upto 95% of Flu Viruses and Oral Herpes.",
+    "body": [
+      {
+        "t": "p",
+        "x": "JUST IN: Scientists have created an Antiviral Gum capable of reducing upto 95% of Flu Viruses and Oral Herpes."
+      },
+      {
+        "t": "p",
+        "x": "（健康科普，不构成医疗建议。）"
+      }
+    ]
+  },
+  {
+    "id": "u12",
+    "systems": [
+      "senses"
+    ],
+    "cover": "",
+    "title": "刚刚🚨：中国正在研发可能将人类寿命延长至150年的药丸。",
+    "org": "@NightSkyToday",
+    "author": "编译自 @NightSkyToday",
+    "date": "2026-06-07",
+    "sourceName": "x.com",
+    "sourceUrl": "https://x.com/NightSkyToday/status/2063267165378322804?s=20",
+    "evidence": "B",
+    "cat": "normal",
+    "summary": "JUST IN🚨: China is developing pills that could extend human life upto 150 years.",
+    "body": [
+      {
+        "t": "p",
+        "x": "JUST IN🚨: China is developing pills that could extend human life upto 150 years."
+      },
+      {
+        "t": "p",
+        "x": "（健康科普，不构成医疗建议。）"
+      }
+    ]
+  },
+  {
     "id": "u13",
     "systems": [
       "brain",
@@ -236,222 +456,65 @@ window.ARTICLES = [
     ]
   },
   {
-    "id": "u12",
+    "id": "c3035929106",
     "systems": [
-      "senses"
+      "lungs"
     ],
     "cover": "",
-    "title": "刚刚🚨：中国正在研发可能将人类寿命延长至150年的药丸。",
-    "org": "@NightSkyToday",
-    "author": "编译自 @NightSkyToday",
-    "date": "2026-06-07",
-    "sourceName": "x.com",
-    "sourceUrl": "https://x.com/NightSkyToday/status/2063267165378322804?s=20",
+    "title": "New PET tracer identifies DVT in legs and lungs",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-06",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-pet-tracer-dvt-legs-lungs.html",
     "evidence": "B",
-    "cat": "normal",
-    "summary": "JUST IN🚨: China is developing pills that could extend human life upto 150 years.",
+    "summary": "A novel PET radiotracer can accurately detect deep vein thrombosis in the legs and reveal whether clots have migrated to the lungs.…",
     "body": [
       {
         "t": "p",
-        "x": "JUST IN🚨: China is developing pills that could extend human life upto 150 years."
-      },
-      {
-        "t": "p",
-        "x": "（健康科普，不构成医疗建议。）"
+        "x": "A novel PET radiotracer can accurately detect deep vein thrombosis in the legs and reveal whether clots have migrated to the lungs.…"
       }
     ]
   },
   {
-    "id": "u11",
+    "id": "c75850a3be4",
     "systems": [
       "whole"
     ],
     "cover": "",
-    "title": "刚刚：科学家们已开发出一种抗病毒口香糖，能够减少高达95%的流感病毒和口腔疱疹病毒。",
-    "org": "@NightSkyToday",
-    "author": "编译自 @NightSkyToday",
-    "date": "2026-06-07",
-    "sourceName": "x.com",
-    "sourceUrl": "https://x.com/NightSkyToday/status/2063283018601750924?s=20",
+    "title": "The supplements older adults actually need and the ones they don't",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-06-06",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260605023408.htm",
     "evidence": "B",
-    "cat": "disease",
-    "summary": "JUST IN: Scientists have created an Antiviral Gum capable of reducing upto 95% of Flu Viruses and Oral Herpes.",
+    "summary": "Supplements are often marketed as shortcuts to better health, but for many older adults, the real issue is whether they have a specific deficiency.…",
     "body": [
       {
         "t": "p",
-        "x": "JUST IN: Scientists have created an Antiviral Gum capable of reducing upto 95% of Flu Viruses and Oral Herpes."
-      },
-      {
-        "t": "p",
-        "x": "（健康科普，不构成医疗建议。）"
+        "x": "Supplements are often marketed as shortcuts to better health, but for many older adults, the real issue is whether they have a specific deficiency.…"
       }
     ]
   },
   {
-    "id": "cb6a09454e3",
-    "systems": [
-      "skin"
-    ],
-    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/1mSMbhb9JfpUtss861W87r/02e8425a1f5a8598b8bc81b40d7d8a76/shutterstock_2402117355_Cropped.jpg",
-    "title": "How to relieve itchy eyes in the summer",
-    "org": "Patient.info",
-    "author": "Patient.info",
-    "date": "2026-06-07",
-    "sourceName": "patient.info",
-    "sourceUrl": "https://patient.info/features/eye-care/how-to-look-after-your-eyes-in-summer",
-    "evidence": "B",
-    "summary": "We all know the importance of wearing sunscreen and protecting our skin from the sun in the summer,…",
-    "body": [
-      {
-        "t": "p",
-        "x": "We all know the importance of wearing sunscreen and protecting our skin from the sun in the summer,…"
-      }
-    ]
-  },
-  {
-    "id": "ca4b4e70deb",
+    "id": "c9fbed89e67",
     "systems": [
       "whole"
     ],
-    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/69SyYWdh14HYTPslSr2QzX/8b735066ddad09868fe232a5561a2a76/shutterstock_2774783899_Cropped.jpg",
-    "title": "How to work out in a heatwave",
-    "org": "Patient.info",
-    "author": "Patient.info",
-    "date": "2026-06-07",
-    "sourceName": "patient.info",
-    "sourceUrl": "https://patient.info/features/healthy-living/how-to-work-out-in-a-heatwave",
-    "evidence": "B",
-    "summary": "When it's hot and humid out, your usual morning run can feel like torture - and ice cream in the shade may seem preferable to hitting the gym.…",
-    "body": [
-      {
-        "t": "p",
-        "x": "When it's hot and humid out, your usual morning run can feel like torture - and ice cream in the shade may seem preferable to hitting the gym.…"
-      }
-    ]
-  },
-  {
-    "id": "cae0a19e2d6",
-    "systems": [
-      "whole"
-    ],
-    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/5HKgWCe0PuJw7sFXaDJrxK/d4d2dd1a85a74126b38bd1853ba7760c/shutterstock_1069315856_Cropped.jpg",
-    "title": "Can your diet and lifestyle improve fertility?",
-    "org": "Patient.info",
-    "author": "Patient.info",
-    "date": "2026-06-07",
-    "sourceName": "patient.info",
-    "sourceUrl": "https://patient.info/features/sexual-health/can-your-diet-and-lifestyle-improve-fertility",
-    "evidence": "B",
-    "summary": "Our everyday habits have a powerful influence on our health - shaping everything from our energy levels and mood to our long-term wellbeing.…",
-    "body": [
-      {
-        "t": "p",
-        "x": "Our everyday habits have a powerful influence on our health - shaping everything from our energy levels and mood to our long-term wellbeing.…"
-      }
-    ]
-  },
-  {
-    "id": "c85baa6a2b0",
-    "systems": [
-      "whole"
-    ],
-    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/4VFVmEhL4sYfcr3rudJMB5/9323e311d4745f431c93bad16c64e39d/shutterstock_1746421997__1__Cropped.jpg",
-    "title": "What is weather change sickness?",
-    "org": "Patient.info",
-    "author": "Patient.info",
-    "date": "2026-06-07",
-    "sourceName": "patient.info",
-    "sourceUrl": "https://patient.info/features/general-health/what-is-weather-change-sickness",
-    "evidence": "B",
-    "summary": "If you've ever felt under the weather when the seasons change - or when temperatures have significantly soared or plummeted - then you're not alone.…",
-    "body": [
-      {
-        "t": "p",
-        "x": "If you've ever felt under the weather when the seasons change - or when temperatures have significantly soared or plummeted - then you're not alone.…"
-      }
-    ]
-  },
-  {
-    "id": "cc1d6e95f69",
-    "systems": [
-      "brain"
-    ],
-    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/2Sc9M5Bd3K5EfjoAcZ4x0q/8637d92a1aa4c049dc89f286a1578a87/shutterstock_1705115692_Cropped.jpg",
-    "title": "Could your 'morning dread' be a sign of perimenopause?",
-    "org": "Patient.info",
-    "author": "Patient.info",
-    "date": "2026-06-07",
-    "sourceName": "patient.info",
-    "sourceUrl": "https://patient.info/features/hormones/could-your-morning-dread-be-a-sign-of-perimenopause",
-    "evidence": "B",
-    "summary": "If you’re going through perimenopause, you may be familiar with the sudden wave of dread or anxiety that can hit hardest first thing in the morning.…",
-    "body": [
-      {
-        "t": "p",
-        "x": "If you’re going through perimenopause, you may be familiar with the sudden wave of dread or anxiety that can hit hardest first thing in the morning.…"
-      }
-    ]
-  },
-  {
-    "id": "c5b5349aa98",
-    "systems": [
-      "brain"
-    ],
     "cover": "",
-    "title": "Expanding Mental Health Support for Children and Families through Teleconsultation",
-    "org": "SAMHSA",
-    "author": "SAMHSA 心理健康",
-    "date": "2026-06-07",
-    "sourceName": "samhsa.gov",
-    "sourceUrl": "https://www.samhsa.gov/blog/expanding-mental-health-support-children-families-through-teleconsultation",
-    "evidence": "A",
-    "summary": "When a child is struggling with anxiety, depression, or behavioral changes, parents often turn first to someone they already know and trust—a…",
+    "title": "Researchers develop world's first AI for objective pain assessment",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-06",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-world-ai-pain.html",
+    "evidence": "B",
+    "summary": "A research team has developed technology that uses artificial intelligence to analyze electroencephalogram signals triggered by thermal stimuli and…",
     "body": [
       {
         "t": "p",
-        "x": "When a child is struggling with anxiety, depression, or behavioral changes, parents often turn first to someone they already know and trust—a…"
-      }
-    ]
-  },
-  {
-    "id": "ce616a7444d",
-    "systems": [
-      "brain"
-    ],
-    "cover": "",
-    "title": "One Student's Quick Thinking Shows Coordinated Action Through SAMHSA Program on Youth Mental Health Works",
-    "org": "SAMHSA",
-    "author": "SAMHSA 心理健康",
-    "date": "2026-06-07",
-    "sourceName": "samhsa.gov",
-    "sourceUrl": "https://www.samhsa.gov/blog/one-students-quick-thinking-shows-coordinated-action-through-samhsa-program-youth-mental-health-works",
-    "evidence": "A",
-    "summary": "In one New Hampshire school last year, a sixth-grade student noticed that something was wrong with a close friend.…",
-    "body": [
-      {
-        "t": "p",
-        "x": "In one New Hampshire school last year, a sixth-grade student noticed that something was wrong with a close friend.…"
-      }
-    ]
-  },
-  {
-    "id": "c9d3c624c80",
-    "systems": [
-      "brain"
-    ],
-    "cover": "",
-    "title": "Every Mental Health Journey Begins with Being Seen",
-    "org": "SAMHSA",
-    "author": "SAMHSA 心理健康",
-    "date": "2026-06-07",
-    "sourceName": "samhsa.gov",
-    "sourceUrl": "https://www.samhsa.gov/blog/every-mental-health-journey-begins-being-seen",
-    "evidence": "A",
-    "summary": "Every year, tens of millions of Americans experience mental illness—but too many still struggle to be seen, heard,…",
-    "body": [
-      {
-        "t": "p",
-        "x": "Every year, tens of millions of Americans experience mental illness—but too many still struggle to be seen, heard,…"
+        "x": "A research team has developed technology that uses artificial intelligence to analyze electroencephalogram signals triggered by thermal stimuli and…"
       }
     ]
   },
@@ -806,69 +869,6 @@ window.ARTICLES = [
     ]
   },
   {
-    "id": "c75850a3be4",
-    "systems": [
-      "whole"
-    ],
-    "cover": "",
-    "title": "The supplements older adults actually need and the ones they don't",
-    "org": "ScienceDaily",
-    "author": "ScienceDaily 营养",
-    "date": "2026-06-06",
-    "sourceName": "sciencedaily.com",
-    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260605023408.htm",
-    "evidence": "B",
-    "summary": "Supplements are often marketed as shortcuts to better health, but for many older adults, the real issue is whether they have a specific deficiency.…",
-    "body": [
-      {
-        "t": "p",
-        "x": "Supplements are often marketed as shortcuts to better health, but for many older adults, the real issue is whether they have a specific deficiency.…"
-      }
-    ]
-  },
-  {
-    "id": "c3035929106",
-    "systems": [
-      "lungs"
-    ],
-    "cover": "",
-    "title": "New PET tracer identifies DVT in legs and lungs",
-    "org": "Medical Xpress",
-    "author": "Medical Xpress",
-    "date": "2026-06-06",
-    "sourceName": "medicalxpress.com",
-    "sourceUrl": "https://medicalxpress.com/news/2026-06-pet-tracer-dvt-legs-lungs.html",
-    "evidence": "B",
-    "summary": "A novel PET radiotracer can accurately detect deep vein thrombosis in the legs and reveal whether clots have migrated to the lungs.…",
-    "body": [
-      {
-        "t": "p",
-        "x": "A novel PET radiotracer can accurately detect deep vein thrombosis in the legs and reveal whether clots have migrated to the lungs.…"
-      }
-    ]
-  },
-  {
-    "id": "c9fbed89e67",
-    "systems": [
-      "whole"
-    ],
-    "cover": "",
-    "title": "Researchers develop world's first AI for objective pain assessment",
-    "org": "Medical Xpress",
-    "author": "Medical Xpress",
-    "date": "2026-06-06",
-    "sourceName": "medicalxpress.com",
-    "sourceUrl": "https://medicalxpress.com/news/2026-06-world-ai-pain.html",
-    "evidence": "B",
-    "summary": "A research team has developed technology that uses artificial intelligence to analyze electroencephalogram signals triggered by thermal stimuli and…",
-    "body": [
-      {
-        "t": "p",
-        "x": "A research team has developed technology that uses artificial intelligence to analyze electroencephalogram signals triggered by thermal stimuli and…"
-      }
-    ]
-  },
-  {
     "id": "a13",
     "systems": [
       "whole",
@@ -1066,40 +1066,6 @@ window.ARTICLES = [
     ]
   },
   {
-    "id": "ce32ed981b2",
-    "systems": [
-      "nutrition",
-      "heart"
-    ],
-    "cover": "",
-    "title": "8300 人研究：那个不经意的“加盐”习惯",
-    "org": "ScienceDaily",
-    "author": "ScienceDaily 营养 · 编译开头",
-    "date": "2026-06-04",
-    "sourceName": "sciencedaily.com",
-    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260604044304.htm",
-    "evidence": "B",
-    "summary": "一项针对 8300 名巴西老年人的研究发现，在餐桌上额外加盐仍很常见，男性尤甚。少放一点盐，是性价比很高的健康习惯。",
-    "body": [
-      {
-        "t": "p",
-        "x": "针对 8300 名老年人的研究发现，吃饭时再往菜里加盐的习惯依然普遍，男性比例更高（约 12.7% vs 女性 9.4%）。过量盐与高血压、认知下降等风险相关。"
-      },
-      {
-        "t": "list",
-        "items": [
-          "用香草、天然香料替代部分食盐来提味。",
-          "别把盐罐常摆在餐桌上，减少“顺手加盐”。",
-          "女性的加盐行为更受整体饮食结构影响，可从改善整体饮食入手。"
-        ]
-      },
-      {
-        "t": "p",
-        "x": "（以上为开头与要点的编译，完整研究见下方来源链接。）"
-      }
-    ]
-  },
-  {
     "id": "a10",
     "systems": [
       "senses"
@@ -1249,53 +1215,36 @@ window.ARTICLES = [
     ]
   },
   {
-    "id": "u3",
+    "id": "ce32ed981b2",
     "systems": [
-      "hormones",
-      "whole"
+      "nutrition",
+      "heart"
     ],
     "cover": "",
-    "title": "更年期主动体检清单：可以打印出来带给医生的那一页",
-    "org": "The 'Pause Life",
-    "author": "Dr. Mary Claire Haver, MD · 编译自 Substack",
-    "date": "2026-06-03",
-    "sourceName": "drmaryclairehaver.substack.com",
-    "sourceUrl": "https://drmaryclairehaver.substack.com/p/the-labs-i-run-on-every-menopausal",
-    "evidence": "C",
-    "summary": "更年期不该只靠“感觉”应对。一位妇科医生整理出她为每位患者主动安排的体检清单，帮你把握身体的真实指标，把对话权握回自己手中。",
+    "title": "8300 人研究：那个不经意的“加盐”习惯",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养 · 编译开头",
+    "date": "2026-06-04",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260604044304.htm",
+    "evidence": "B",
+    "summary": "一项针对 8300 名巴西老年人的研究发现，在餐桌上额外加盐仍很常见，男性尤甚。少放一点盐，是性价比很高的健康习惯。",
     "body": [
       {
         "t": "p",
-        "x": "进入更年期前后，身体的代谢、骨骼与激素都在悄悄变化。作者是一位长期关注更年期健康的妇科医生，她主张：与其凭感觉焦虑，不如用一份清晰的体检清单，主动了解身体的真实状态。"
-      },
-      {
-        "t": "h",
-        "x": "她会为患者关注的几类指标"
-      },
-      {
-        "t": "p",
-        "x": "以下是她整理的、可以打印出来与自己的医生讨论的检查方向。重点在“主动筛查、提前知道”，而非等到出现问题才被动应对。"
+        "x": "针对 8300 名老年人的研究发现，吃饭时再往菜里加盐的习惯依然普遍，男性比例更高（约 12.7% vs 女性 9.4%）。过量盐与高血压、认知下降等风险相关。"
       },
       {
         "t": "list",
         "items": [
-          "进阶血脂：除常规外，关注 ApoB 与 Lp(a) 等更细的心血管风险指标。",
-          "血糖与胰岛素：空腹血糖、胰岛素，了解代谢弹性。",
-          "骨骼：DEXA 骨密度扫描，以及维生素 D 水平。",
-          "甲状腺功能：评估能量与代谢的“调速器”。",
-          "铁与铁蛋白：排查疲惫背后的常见原因。",
-          "B12、叶酸与同型半胱氨酸：关乎神经与心血管。",
-          "炎症水平：高敏 C 反应蛋白（hsCRP）。",
-          "激素相关指标：结合个人情况评估。"
+          "用香草、天然香料替代部分食盐来提味。",
+          "别把盐罐常摆在餐桌上，减少“顺手加盐”。",
+          "女性的加盐行为更受整体饮食结构影响，可从改善整体饮食入手。"
         ]
       },
       {
-        "t": "quote",
-        "x": "知道自己的数字，就能更从容地做选择。"
-      },
-      {
         "t": "p",
-        "x": "这份清单不是诊断，也不替代医生的判断；它更像一张“对话提纲”，帮你在就诊时问对问题、把健康的主导权握在自己手里。"
+        "x": "（以上为开头与要点的编译，完整研究见下方来源链接。）"
       }
     ]
   },
@@ -1467,6 +1416,57 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "（健康知识科普，重在认识与预防，不构成诊断或治疗建议。心理困扰请及时寻求专业帮助。）"
+      }
+    ]
+  },
+  {
+    "id": "u3",
+    "systems": [
+      "hormones",
+      "whole"
+    ],
+    "cover": "",
+    "title": "更年期主动体检清单：可以打印出来带给医生的那一页",
+    "org": "The 'Pause Life",
+    "author": "Dr. Mary Claire Haver, MD · 编译自 Substack",
+    "date": "2026-06-03",
+    "sourceName": "drmaryclairehaver.substack.com",
+    "sourceUrl": "https://drmaryclairehaver.substack.com/p/the-labs-i-run-on-every-menopausal",
+    "evidence": "C",
+    "summary": "更年期不该只靠“感觉”应对。一位妇科医生整理出她为每位患者主动安排的体检清单，帮你把握身体的真实指标，把对话权握回自己手中。",
+    "body": [
+      {
+        "t": "p",
+        "x": "进入更年期前后，身体的代谢、骨骼与激素都在悄悄变化。作者是一位长期关注更年期健康的妇科医生，她主张：与其凭感觉焦虑，不如用一份清晰的体检清单，主动了解身体的真实状态。"
+      },
+      {
+        "t": "h",
+        "x": "她会为患者关注的几类指标"
+      },
+      {
+        "t": "p",
+        "x": "以下是她整理的、可以打印出来与自己的医生讨论的检查方向。重点在“主动筛查、提前知道”，而非等到出现问题才被动应对。"
+      },
+      {
+        "t": "list",
+        "items": [
+          "进阶血脂：除常规外，关注 ApoB 与 Lp(a) 等更细的心血管风险指标。",
+          "血糖与胰岛素：空腹血糖、胰岛素，了解代谢弹性。",
+          "骨骼：DEXA 骨密度扫描，以及维生素 D 水平。",
+          "甲状腺功能：评估能量与代谢的“调速器”。",
+          "铁与铁蛋白：排查疲惫背后的常见原因。",
+          "B12、叶酸与同型半胱氨酸：关乎神经与心血管。",
+          "炎症水平：高敏 C 反应蛋白（hsCRP）。",
+          "激素相关指标：结合个人情况评估。"
+        ]
+      },
+      {
+        "t": "quote",
+        "x": "知道自己的数字，就能更从容地做选择。"
+      },
+      {
+        "t": "p",
+        "x": "这份清单不是诊断，也不替代医生的判断；它更像一张“对话提纲”，帮你在就诊时问对问题、把健康的主导权握在自己手里。"
       }
     ]
   },
@@ -1702,6 +1702,27 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c100205f9cb",
+    "systems": [
+      "gut"
+    ],
+    "cover": "https://substackcdn.com/image/fetch/$s_!A7Ni!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff77714e7-1e10-4e2a-a85f-4f358bc2b1aa_1160x882.png",
+    "title": "The Art of Visceral Self-Massage for Gut Flow",
+    "org": "The Cell Lab",
+    "author": "Variana Volk",
+    "date": "2026-05-26",
+    "sourceName": "notes.theracellab.com",
+    "sourceUrl": "https://notes.theracellab.com/p/the-art-of-visceral-self-massage",
+    "evidence": "C",
+    "summary": "An old-school abdominal practice for moving bile, waking up motility, and restoring the mechanical layer of digestion.",
+    "body": [
+      {
+        "t": "p",
+        "x": "An old-school abdominal practice for moving bile, waking up motility, and restoring the mechanical layer of digestion."
+      }
+    ]
+  },
+  {
     "id": "c5464a198bd",
     "systems": [
       "hormones",
@@ -1733,27 +1754,6 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "（以上为开头与要点的编译，完整论述见下方英文原文。）"
-      }
-    ]
-  },
-  {
-    "id": "c100205f9cb",
-    "systems": [
-      "gut"
-    ],
-    "cover": "https://substackcdn.com/image/fetch/$s_!A7Ni!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff77714e7-1e10-4e2a-a85f-4f358bc2b1aa_1160x882.png",
-    "title": "The Art of Visceral Self-Massage for Gut Flow",
-    "org": "The Cell Lab",
-    "author": "Variana Volk",
-    "date": "2026-05-26",
-    "sourceName": "notes.theracellab.com",
-    "sourceUrl": "https://notes.theracellab.com/p/the-art-of-visceral-self-massage",
-    "evidence": "C",
-    "summary": "An old-school abdominal practice for moving bile, waking up motility, and restoring the mechanical layer of digestion.",
-    "body": [
-      {
-        "t": "p",
-        "x": "An old-school abdominal practice for moving bile, waking up motility, and restoring the mechanical layer of digestion."
       }
     ]
   },
@@ -2051,49 +2051,6 @@ window.ARTICLES = [
     ]
   },
   {
-    "id": "c53877d2866",
-    "systems": [
-      "nutrition"
-    ],
-    "cover": "https://substackcdn.com/image/fetch/$s_!rChI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F54e63934-db44-4581-82ad-1118b0f2fc1d_1594x1586.png",
-    "title": "The Supplement Debate Is Getting Chemistry Wrong",
-    "org": "The Cell Lab",
-    "author": "Variana Volk",
-    "date": "2026-05-14",
-    "sourceName": "notes.theracellab.com",
-    "sourceUrl": "https://notes.theracellab.com/p/the-supplement-debate-is-getting",
-    "evidence": "C",
-    "summary": "Why minerals are not synthetic, isolated nutrients can work, and choosing the right form still matters",
-    "body": [
-      {
-        "t": "p",
-        "x": "Why minerals are not synthetic, isolated nutrients can work, and choosing the right form still matters"
-      }
-    ]
-  },
-  {
-    "id": "cdf8b872a87",
-    "systems": [
-      "heart",
-      "nutrition"
-    ],
-    "cover": "",
-    "title": "7 Whole-Grain Foods You Should Try",
-    "org": "MedlinePlus",
-    "author": "MedlinePlus 营养",
-    "date": "2026-05-14",
-    "sourceName": "heart.org",
-    "sourceUrl": "https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/types-of-whole-grains",
-    "evidence": "A",
-    "summary": "Source: American Heart Association",
-    "body": [
-      {
-        "t": "p",
-        "x": "Source: American Heart Association"
-      }
-    ]
-  },
-  {
     "id": "c1506457701",
     "systems": [
       "nutrition"
@@ -2111,6 +2068,48 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Source: Harvard Medical School"
+      }
+    ]
+  },
+  {
+    "id": "c222dcced75",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "Nutrition",
+    "org": "MedlinePlus",
+    "author": "MedlinePlus 营养",
+    "date": "2026-05-14",
+    "sourceName": "healthychildren.org",
+    "sourceUrl": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/default.aspx",
+    "evidence": "A",
+    "summary": "Source: American Academy of Pediatrics",
+    "body": [
+      {
+        "t": "p",
+        "x": "Source: American Academy of Pediatrics"
+      }
+    ]
+  },
+  {
+    "id": "c53877d2866",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "https://substackcdn.com/image/fetch/$s_!rChI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F54e63934-db44-4581-82ad-1118b0f2fc1d_1594x1586.png",
+    "title": "The Supplement Debate Is Getting Chemistry Wrong",
+    "org": "The Cell Lab",
+    "author": "Variana Volk",
+    "date": "2026-05-14",
+    "sourceName": "notes.theracellab.com",
+    "sourceUrl": "https://notes.theracellab.com/p/the-supplement-debate-is-getting",
+    "evidence": "C",
+    "summary": "Why minerals are not synthetic, isolated nutrients can work, and choosing the right form still matters",
+    "body": [
+      {
+        "t": "p",
+        "x": "Why minerals are not synthetic, isolated nutrients can work, and choosing the right form still matters"
       }
     ]
   },
@@ -2137,23 +2136,24 @@ window.ARTICLES = [
     ]
   },
   {
-    "id": "c222dcced75",
+    "id": "cdf8b872a87",
     "systems": [
+      "heart",
       "nutrition"
     ],
     "cover": "",
-    "title": "Nutrition",
+    "title": "7 Whole-Grain Foods You Should Try",
     "org": "MedlinePlus",
     "author": "MedlinePlus 营养",
     "date": "2026-05-14",
-    "sourceName": "healthychildren.org",
-    "sourceUrl": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/default.aspx",
+    "sourceName": "heart.org",
+    "sourceUrl": "https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/types-of-whole-grains",
     "evidence": "A",
-    "summary": "Source: American Academy of Pediatrics",
+    "summary": "Source: American Heart Association",
     "body": [
       {
         "t": "p",
-        "x": "Source: American Academy of Pediatrics"
+        "x": "Source: American Heart Association"
       }
     ]
   },

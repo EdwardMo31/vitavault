@@ -341,7 +341,8 @@ def load_denylist():
 
 
 def write_out(articles):
-    articles.sort(key=lambda a: a.get("date", ""), reverse=True)
+    articles.sort(key=lambda a: a.get("id", ""))                        # 次排：ID 正序（c* 在 u* 前）
+    articles.sort(key=lambda a: a.get("date", ""), reverse=True)        # 主排：日期倒序
     payload = json.dumps(articles, ensure_ascii=False, indent=2)
     with open(OUT, "w", encoding="utf-8") as f:
         f.write("// VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）\n")
