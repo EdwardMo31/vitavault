@@ -1,6 +1,32 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
 {
+  "id": "u12",
+  "systems": [
+    "senses"
+  ],
+  "cover": "",
+  "title": "刚刚🚨：中国正在研发可能将人类寿命延长至150年的药丸。",
+  "org": "@NightSkyToday",
+  "author": "编译自 @NightSkyToday",
+  "date": "2026-06-07",
+  "sourceName": "x.com",
+  "sourceUrl": "https://x.com/NightSkyToday/status/2063267165378322804?s=20",
+  "evidence": "B",
+  "cat": "normal",
+  "summary": "JUST IN🚨: China is developing pills that could extend human life upto 150 years.",
+  "body": [
+    {
+      "t": "p",
+      "x": "JUST IN🚨: China is developing pills that could extend human life upto 150 years."
+    },
+    {
+      "t": "p",
+      "x": "（健康科普，不构成医疗建议。）"
+    }
+  ]
+},
+{
   "id": "u11",
   "systems": [
     "whole"
