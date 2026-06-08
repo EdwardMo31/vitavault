@@ -1,6 +1,32 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
 {
+  "id": "u17",
+  "systems": [
+    "muscles"
+  ],
+  "cover": "",
+  "title": "日本研发出一种能完全再生骨骼并彻底逆转骨质疏松症的药丸",
+  "org": "@ScienceXnature",
+  "author": "编译自 @ScienceXnature",
+  "date": "2026-06-08",
+  "sourceName": "x.com",
+  "sourceUrl": "https://x.com/ScienceXnature/status/2063569743387545664?s=20",
+  "evidence": "B",
+  "cat": "disease",
+  "summary": "日本研发出一种能完全再生骨骼并彻底逆转骨质疏松症的药丸",
+  "body": [
+    {
+      "t": "p",
+      "x": "日本研发出一种能完全再生骨骼并彻底逆转骨质疏松症的药丸"
+    },
+    {
+      "t": "p",
+      "x": "（健康科普，不构成医疗建议。）"
+    }
+  ]
+},
+{
   "id": "u16",
   "systems": [
     "brain",
