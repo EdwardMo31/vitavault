@@ -94,6 +94,12 @@
     background:var(--claude-deep);transform:translateY(-1px) scale(1.06);
     box-shadow:0 4px 12px rgba(194,94,63,.30);
   }
+  @keyframes partFlash{
+    0%  {box-shadow:inset 0 0 0 2px var(--fc,#fff);}
+    55% {box-shadow:inset 0 0 0 2px var(--fc,#fff);}
+    100%{box-shadow:none;}
+  }
+  .cell.flash{animation:partFlash .42s ease-out forwards;}
 
   /* ===== 左下角：医学参考 R 按键 ===== */
   .ref-btn{
@@ -1210,6 +1216,29 @@
 
   document.getElementById("back").onclick=back;
   document.addEventListener("keydown",e=>{if(e.key==="Escape"&&state!=="closed")back();});
+
+  // 像素人分区引导闪烁（每次打开，从上到下依次描边）
+  const FLASH_SEQ=[
+    {id:"head",   color:"#7C6BD9"},
+    {id:"chest",  color:"#E0574B"},
+    {id:"arms",   color:"#C2683F"},
+    {id:"abdomen",color:"#C79237"},
+    {id:"pelvis", color:"#C76BA6"},
+    {id:"legs",   color:"#C2683F"},
+  ];
+  function runBodyFlash(){
+    FLASH_SEQ.forEach(({id,color},i)=>{
+      setTimeout(()=>{
+        grid.querySelectorAll(`.p-${id}`).forEach(c=>{
+          c.style.setProperty("--fc",color);
+          c.classList.remove("flash");
+          void c.offsetWidth;
+          c.classList.add("flash");
+        });
+      },i*260);
+    });
+  }
+  setTimeout(runBodyFlash,600);
 </script>
 <script data-goatcounter="https://vitavault.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
