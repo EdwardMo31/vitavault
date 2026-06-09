@@ -1,6 +1,69 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c5851f024c8",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "研究人员表示，多动症的“掩蔽”可能有助于人们融入，但会损害心理健康",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-08",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-adhd-masking-people-blend-mental.html",
+    "evidence": "B",
+    "summary": "对于患有多动症的成年人来说，融入社交生活可能非常困难。但是，试图隐藏多动症的明显迹象可能会损害他们的心理健康……",
+    "body": [
+      {
+        "t": "p",
+        "x": "It can be incredibly difficult for adults with ADHD to fit in socially. But trying to hide the telltale signs of ADHD could cost their mental health…"
+      }
+    ]
+  },
+  {
+    "id": "c63e1457770",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "试验表明，在线治疗可减少65岁及以上成年人的失眠和焦虑",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-08",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-online-therapy-insomnia-anxiety-adults.html",
+    "evidence": "B",
+    "summary": "失眠认知行为疗法（ CBT-I ）越来越多地在线提供，以提高可及性。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Cognitive behavioral therapies for insomnia (CBT-I) are increasingly being delivered online to improve accessibility.…"
+      }
+    ]
+  },
+  {
+    "id": "c94e12ec773",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "问答：屏幕时间什么时候健康，什么时候不健康？",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-08",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-qa-screen-healthy.html",
+    "evidence": "B",
+    "summary": "智能手机与许多现代问题有关，包括孤独、体力活动减少……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Smartphones have been connected to a host of modern problems including loneliness, decreased physical activity,…"
+      }
+    ]
+  },
+  {
     "id": "u17",
     "systems": [
       "muscles"
