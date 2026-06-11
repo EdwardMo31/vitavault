@@ -1,6 +1,216 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c51ab60848e",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/5OXqhPDstz8uo87G7xihhm/16161ec6fd3548a68bbae84ab5ce37d4/shutterstock_2643050913_Cropped__1_.jpg",
+    "title": "自豪感、归属感以及为什么健康不仅仅是医疗保健",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-06-11",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/pride-belonging-and-why-health-is-about-more-than-healthcare",
+    "evidence": "B",
+    "summary": "骄傲月不仅是一个曝光和庆祝的时间，它还提供了一个机会，可以更广泛地思考身份、归属感……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Pride Month isn’t only a time for visibility and celebration - it also offers a chance to think more broadly about how identity, belonging,…"
+      }
+    ]
+  },
+  {
+    "id": "c5664725172",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/7hfHkGC8kw7VZNv8d6PQ8T/7ff56b1219b63ad6548ed8cf64c62dce/shutterstock_1760696669_Cropped.jpg",
+    "title": "Aftersun是做什么的，你真的需要它吗？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-06-11",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/skin-conditions/what-does-aftersun-do-and-do-you-really-need-it",
+    "evidence": "B",
+    "summary": "在夏季参观任何英国海滩，您可能会看到粉红色和红色的晒伤身体景观。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Visit any British beach in summertime and you'll likely see a landscape of pink and red sunburned bodies.…"
+      }
+    ]
+  },
+  {
+    "id": "c85eba3b716",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/56meGT7fRPgEtGlzkdoFbN/6a7f2f2f9618c9abb00707c50714fc79/shutterstock_2245312365_Cropped__1_.jpg",
+    "title": "蜂蜜可能是您锻炼所需的自然嗡嗡声",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-06-11",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/diet-and-nutrition/honey-may-be-the-natural-buzz-you-need-to-fuel-your-workouts",
+    "evidence": "B",
+    "summary": "几千年来，蜂蜜一直被人类用作天然甜味剂和能量来源，以维持工作和身体表现。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Honey has been used by humans as a natural sweetener and energy source to sustain work and physical performance for thousands of years.…"
+      }
+    ]
+  },
+  {
+    "id": "ca75e5135a4",
+    "systems": [
+      "heart"
+    ],
+    "cover": "",
+    "title": "视觉讲故事和分享圈揭示社区主导的土著心脏健康之路",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-11",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-visual-storytelling-circles-reveal-community.html",
+    "evidence": "B",
+    "summary": "在加拿大土著社区中进行的一项利用共享圈作为定性数据收集的主要方法的新研究表明，心脏......",
+    "body": [
+      {
+        "t": "p",
+        "x": "A novel study among Indigenous communities in Canada utilizing sharing circles as the primary method of qualitative data collection shows that heart…"
+      }
+    ]
+  },
+  {
+    "id": "c4fdd652c3e",
+    "systems": [
+      "heart"
+    ],
+    "cover": "",
+    "title": "与梗死前口服负荷相比，心肌梗死期间静脉注射阿托伐他汀可减少心肌损伤",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-10",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-iv-atorvastatin-myocardial-infarction-pre.html",
+    "evidence": "B",
+    "summary": "减少心肌梗死期间心脏遭受的损伤仍然是心脏病学的主要挑战之一， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Reducing the damage sustained by the heart during a myocardial infarction remains one of the major challenges in cardiology,…"
+      }
+    ]
+  },
+  {
+    "id": "c80fe1e99e5",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "到2030年，未投保的加利福尼亚人数量可能会翻一番",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-10",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-uninsured-californians.html",
+    "evidence": "B",
+    "summary": "由于联邦政府大幅削减…… ，加利福尼亚州没有保险的居民人数可能在未来四年内增加近一倍，达到近460万人。",
+    "body": [
+      {
+        "t": "p",
+        "x": "California's ranks of uninsured residents could nearly double in the next four years—to nearly 4.6 million people—because of deep federal cuts to…"
+      }
+    ]
+  },
+  {
+    "id": "c87d57ec4bd",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "科学家绘制了果蝇的每一个神经连接，并发现了一个惊喜",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-06-10",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260610003047.htm",
+    "evidence": "B",
+    "summary": "一个突破性的新连接组映射了成年果蝇中枢神经系统的每个神经连接， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A groundbreaking new connectome maps every neural connection in an adult fruit fly’s central nervous system,…"
+      }
+    ]
+  },
+  {
+    "id": "cd0186548bf",
+    "systems": [
+      "lungs"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2014/11/Bronchoscopy.jpg",
+    "title": "与支气管镜肺活检中的钳子相比，冷冻探针提高了诊断率",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-06-10",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/cryoprobe-improves-diagnostic-yield-compared-with-forceps-in-bronchoscopic-lung-biopsy/",
+    "evidence": "A",
+    "summary": "1.与传统的镊子活检相比，使用冷冻探针进行的经支气管活检显示出显着更高的诊断率…",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Transbronchial biopsy performed with a cryoprobe demonstrated a significantly higher diagnostic yield compared to conventional forceps biopsy in…"
+      }
+    ]
+  },
+  {
+    "id": "cdf1aa89ed2",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2019/10/surgery-PD.jpg",
+    "title": "与传统的单吻合胃旁路术相比，环形扩张单吻合胃旁路术可能无法改善体重减轻",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-06-10",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/ring-augmented-one-anastomosis-gastric-bypass-may-not-improve-weight-loss-compared-to-conventional-one-anastomosis-gastric-bypass/",
+    "evidence": "A",
+    "summary": "1.环状扩张单吻合胃旁路（ OAGB ）的安全性与1年时的常规OAGB相当。…",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Ring-augmented one-anastomosis gastric bypass (OAGB) is comparable in safety to conventional OAGB at 1 year.…"
+      }
+    ]
+  },
+  {
+    "id": "ce4c7c103ab",
+    "systems": [
+      "senses"
+    ],
+    "cover": "",
+    "title": "塑造患者护理的人工智能工具正在监管监督之外运作。研究人员表示，是时候改变这种状况了",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-10",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-ai-tools-patient-regulatory-oversight.html",
+    "evidence": "B",
+    "summary": "每天，在成千上万的美国医院中，人工智能都在悄悄地塑造决定患者结局的决策。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Every day, across thousands of American hospitals, artificial intelligence quietly shapes decisions that determine patient outcomes.…"
+      }
+    ]
+  },
+  {
     "id": "c69372c65d8",
     "systems": [
       "brain"
