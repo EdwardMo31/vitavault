@@ -1,6 +1,69 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c25e9415472",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/72OKv6CiAqnCbc25lZTlef/35caf8f3d4ad88a412c642ec70faf39d/shutterstock_1858343629_Cropped.jpg",
+    "title": "什么是办公椅屁股？您如何预防？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-06-12",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/bones-joints-muscles/what-is-office-chair-butt-and-how-do-you-prevent-it",
+    "evidence": "B",
+    "summary": "医疗保健专业人员很少认可社交媒体的健康趋势， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "It's rare for healthcare professionals to endorse a social media health trend,…"
+      }
+    ]
+  },
+  {
+    "id": "c5a5442e7aa",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/1GOOXN1pG2owc0Kun9HEA1/39ed5871af6b716e9e5d40b0bc3bb235/foot-pain.jpg",
+    "title": "是什么导致您的脚疼痛？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-06-12",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/foot-care/what-causes-foot-pain",
+    "evidence": "B",
+    "summary": "从早上第一件事就是捅脚跟疼痛，到脚球的灼热感， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "From stabbing heel pain first thing in the morning to burning sensations in the ball of the foot,…"
+      }
+    ]
+  },
+  {
+    "id": "cf94e9badc2",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "科学家发现了延长寿命的力量训练甜蜜点",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-06-12",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260611024609.htm",
+    "evidence": "B",
+    "summary": "每周90–120分钟的力量训练可能会带来一些最大的长期健康奖励， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Just 90–120 minutes of strength training a week may deliver some of the biggest long-term health rewards,…"
+      }
+    ]
+  },
+  {
     "id": "c51ab60848e",
     "systems": [
       "whole"
@@ -81,6 +144,48 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "A novel study among Indigenous communities in Canada utilizing sharing circles as the primary method of qualitative data collection shows that heart…"
+      }
+    ]
+  },
+  {
+    "id": "cc601246b44",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2018/08/pregnancy3_PD_edited.jpg",
+    "title": "与自然受孕的儿童相比，通过不孕症治疗受孕的儿童可能具有相似的生长",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-06-11",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/children-conceived-through-infertility-treatments-may-have-similar-growth-compared-to-naturally-conceived-children/",
+    "evidence": "A",
+    "summary": "1.在考虑多重因素后，通过不孕症治疗怀孕的儿童与自然怀孕的儿童表现出相似的生长轨迹。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. After accounting for plurality, children conceived through infertility treatments showed similar growth trajectories to those conceived naturally.…"
+      }
+    ]
+  },
+  {
+    "id": "cdf6a7cf7f1",
+    "systems": [
+      "heart"
+    ],
+    "cover": "",
+    "title": "摄入适量的碳水化合物可以降低心血管风险，同时还可以降低“坏”胆固醇",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-11",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-consuming-moderate-amount-carbs-cardiovascular.html",
+    "evidence": "B",
+    "summary": "许多人将面包、意大利面和土豆从菜单上划掉，希望减肥并改善心脏健康。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Many people cross bread, pasta and potatoes off their menus, hoping to drop pounds and improve their heart health.…"
       }
     ]
   },
