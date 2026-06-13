@@ -1,6 +1,27 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "cbd868abe6f",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "心理学家说，祖父母是儿童心理健康危机的重要资源",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-13",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-grandparents-vital-resource-child-mental.html",
+    "evidence": "B",
+    "summary": "由于超过40%的美国青少年表示持续感到悲伤或绝望， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "As more than 40% of American teenagers report persistent feelings of sadness or hopelessness,…"
+      }
+    ]
+  },
+  {
     "id": "c25e9415472",
     "systems": [
       "whole"
@@ -39,6 +60,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "From stabbing heel pain first thing in the morning to burning sensations in the ball of the foot,…"
+      }
+    ]
+  },
+  {
+    "id": "ca8e00ddd7c",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "问答：专家们表示，美国取消全球援助是一场连锁危机",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-12",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-qa-dismantling-global-aid-cascading.html",
+    "evidence": "B",
+    "summary": "2025年取消美国国际开发署计划的行政命令取消了该机构90 ％的合同和赠款， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The 2025 executive order dismantling U.S. Agency for International Development programs canceled 90% of the agency's contracts and grants,…"
       }
     ]
   },
