@@ -1,5 +1,48 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
+{
+  "id": "u26",
+  "systems": [
+    "muscles",
+    "whole"
+  ],
+  "cover": "",
+  "title": "你的手握力可能预示你的未来",
+  "org": "@scitechgirl",
+  "author": "编译自 @scitechgirl",
+  "date": "2026-06-13",
+  "sourceName": "x.com",
+  "sourceUrl": "https://x.com/scitechgirl/status/2065580078587695172?s=20",
+  "evidence": "B",
+  "cat": "disease",
+  "summary": "科学家们表示，你的手握力可能揭示出关于你寿命长短的惊人线索。研究显示，握力更强的人往往拥有更好的心脏健康、更强壮的肌肉，以及较低的疾病风险。 更令人震惊的是？握力较弱与更快的衰老和更高的健康风险有关联。专家认为，…",
+  "body": [
+    {
+      "t": "p",
+      "x": "科学家们表示，你的手握力可能揭示出关于你寿命长短的惊人线索。研究显示，握力更强的人往往拥有更好的心脏健康、更强壮的肌肉，以及较低的疾病风险。"
+    },
+    {
+      "t": "p",
+      "x": "更令人震惊的是？握力较弱与更快的衰老和更高的健康风险有关联。专家认为，这种简单的测试可能反映出身体的整体力量和韧性。"
+    },
+    {
+      "t": "p",
+      "x": "像锻炼、举重和保持活跃这样的日常小习惯，可以帮助改善握力，并支持更长久、更健康的生活。"
+    },
+    {
+      "t": "p",
+      "x": "来源："
+    },
+    {
+      "t": "p",
+      "x": "Harvard Health Publishing. Handgrip strength: An important predictor of health. Harvard Medical School."
+    },
+    {
+      "t": "p",
+      "x": "（健康科普，不构成医疗建议。）"
+    }
+  ]
+},
   {
     "id": "cbd868abe6f",
     "systems": [
