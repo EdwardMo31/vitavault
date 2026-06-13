@@ -422,231 +422,24 @@ window.ARTICLES = [
     ]
   },
   {
-    "id": "u19",
-    "systems": [
-      "gut",
-      "brain"
-    ],
-    "cover": "",
-    "title": "医生会开具咀嚼口香糖的处方，以在手术后重启你的肠道功能。",
-    "org": "@FarvingCo",
-    "author": "编译自 @FarvingCo",
-    "date": "2026-06-09",
-    "sourceName": "x.com",
-    "sourceUrl": "https://x.com/FarvingCo/status/2064266567093743829?s=20",
-    "evidence": "B",
-    "cat": "normal",
-    "summary": "不是药物。不是补充剂。 就是口香糖。81项研究。9072名患者。 咀嚼能激活迷走神经——你体内最长的神经，从大脑延伸到肠道。 它控制胃酸、消化酶以及肠道蠕动。当它停止工作时，你的消化就会减缓。 人类的颌骨天生就适合每天咀嚼数小时。…",
-    "body": [
-      {
-        "t": "p",
-        "x": "不是药物。不是补充剂。"
-      },
-      {
-        "t": "p",
-        "x": "就是口香糖。81项研究。9072名患者。"
-      },
-      {
-        "t": "p",
-        "x": "咀嚼能激活迷走神经——你体内最长的神经，从大脑延伸到肠道。"
-      },
-      {
-        "t": "p",
-        "x": "它控制胃酸、消化酶以及肠道蠕动。当它停止工作时，你的消化就会减缓。"
-      },
-      {
-        "t": "p",
-        "x": "人类的颌骨天生就适合每天咀嚼数小时。你却只咀嚼几分钟。你的迷走神经几乎没有被激活。"
-      },
-      {
-        "t": "p",
-        "x": "乳香胶。"
-      },
-      {
-        "t": "p",
-        "x": "来自希腊希俄斯岛的树脂。使用2500年。第一次咀嚼它，五分钟内你的下巴就会酸痛。这就是它起效的信号。"
-      },
-      {
-        "t": "p",
-        "x": "而且它不只是激活迷走神经——它还能杀死幽门螺杆菌，这种细菌是大多数胃溃疡的罪魁祸首；它能减轻肠道炎症、强化你的下巴，并对抗口腔中的有害细菌。"
-      },
-      {
-        "t": "p",
-        "x": "你的消化系统不是因为你吃的东西而崩溃。它是因为你停止咀嚼而崩溃。"
-      },
-      {
-        "t": "p",
-        "x": "我每天都嚼它。不可妥协。"
-      },
-      {
-        "t": "p",
-        "x": "（健康科普，不构成医疗建议。）"
-      }
-    ]
-  },
-  {
-    "id": "u20",
-    "systems": [
-      "nutrition",
-      "gut"
-    ],
-    "cover": "data:image/jpeg;base64,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",
-    "title": "Food scientists have studied how cooking and cooling certain starchy foods can change their chemical structure. When foods like rice, potatoes, or pasta are cooled after cooking, some of the digestible starch converts into resistant starch.",
-    "org": "@ShiningScience",
-    "author": "编译自 @ShiningScience",
-    "date": "2026-06-09",
-    "sourceName": "x.com",
-    "sourceUrl": "https://x.com/ShiningScience/status/2064359038515806506?s=20",
-    "evidence": "B",
-    "cat": "normal",
-    "summary": "Resistant starch behaves differently from regular starch because it passes through the small intestine without being …",
-    "body": [
-      {
-        "t": "p",
-        "x": "Resistant starch behaves differently from regular starch because it passes through the small intestine without being fully digested, functioning more like dietary fiber in the body."
-      },
-      {
-        "t": "p",
-        "x": "Because it digests more slowly, resistant starch can lead to smaller increases in blood glucose and insulin levels compared to freshly cooked starches, which is why researchers study its effects on metabolic health."
-      },
-      {
-        "t": "p",
-        "x": "Cooling and reheating rice does not dramatically change the total calories listed for the food, but it may slightly reduce the amount of starch that is rapidly absorbed, altering how the body processes it."
-      },
-      {
-        "t": "p",
-        "x": "Nutrition experts generally emphasize that overall blood sugar control depends on portion size, balanced meals, physical activity, and long-term dietary patterns, not just a single preparation method."
-      },
-      {
-        "t": "p",
-        "x": "（健康科普，不构成医疗建议。）"
-      }
-    ]
-  },
-  {
-    "id": "u21",
-    "systems": [
-      "brain",
-      "immune"
-    ],
-    "cover": "",
-    "title": "ANGER'S HIDDEN EFFECT ON YOUR BODY",
-    "org": "@scitechgirl",
-    "author": "编译自 @scitechgirl",
-    "date": "2026-06-09",
-    "sourceName": "x.com",
-    "sourceUrl": "https://x.com/scitechgirl/status/2064366768836010211?s=20",
-    "evidence": "B",
-    "cat": "normal",
-    "summary": "What if just 60 seconds of intense anger could affect your health for hours? Research suggests that anger triggers a …",
-    "body": [
-      {
-        "t": "p",
-        "x": "What if just 60 seconds of intense anger could affect your health for hours?"
-      },
-      {
-        "t": "p",
-        "x": "Research suggests that anger triggers a flood of stress hormones that may temporarily weaken immune defenses. Frequent anger can also increase inflammation and place extra strain on the heart and blood vessels over time."
-      },
-      {
-        "t": "p",
-        "x": "The mystery? The argument may end in minutes, but your body could still be feeling the effects long afterward."
-      },
-      {
-        "t": "p",
-        "x": "A calm mind may be one of the most powerful tools for protecting long-term health."
-      },
-      {
-        "t": "p",
-        "x": "Source:Goleman, D. (n.d.). Emotional intelligence: Why it can matter more than IQ. Bantam Books."
-      },
-      {
-        "t": "p",
-        "x": "（健康科普，不构成医疗建议。）"
-      }
-    ]
-  },
-  {
-    "id": "u22",
-    "systems": [
-      "brain"
-    ],
-    "cover": "",
-    "title": "Letting babies “cry it out” may seem harmless — but neuroscience says otherwise.",
-    "org": "@SmartScience",
-    "author": "编译自 @SmartScience",
-    "date": "2026-06-09",
-    "sourceName": "x.com",
-    "sourceUrl": "https://x.com/SmartScience/status/2064158240431370661?s=20",
-    "evidence": "B",
-    "cat": "environment",
-    "summary": "Find out what long-term harm it can cause. Letting babies “cry it out”—a common sleep-training method—has deep …",
-    "body": [
-      {
-        "t": "p",
-        "x": "Find out what long-term harm it can cause."
-      },
-      {
-        "t": "p",
-        "x": "Letting babies “cry it out”—a common sleep-training method—has deep historical roots in outdated science and a poor understanding of child development."
-      },
-      {
-        "t": "p",
-        "x": "Once promoted by behaviorists in the early 20th century, this method assumes that ignoring a baby's cries encourages independence."
-      },
-      {
-        "t": "p",
-        "x": "But modern neuroscience tells a different story: babies cry to communicate needs, and consistent caregiver response is vital for healthy emotional and neurological development. When babies are left to cry without comfort, stress hormones like cortisol flood their systems, potentially damaging brain connections and undermining the foundations of trust and self-regulation."
-      },
-      {
-        "t": "p",
-        "x": "Research shows that responsive caregiving—soothing infants before distress escalates—lays the groundwork for independence, emotional resilience, and mental health. Prolonged crying can disrupt vagus nerve function, impair the stress-response system, and contribute to anxiety, digestive disorders, and emotional insecurity later in life. Rather than teaching independence, “cry it out” may breed mistrust and emotional withdrawal. As developmental psychologists increasingly affirm, comforting infants isn’t indulgence—it’s essential. A responsive caregiver doesn't just ease tears; they shape a more confident, secure, and socially capable human being."
-      },
-      {
-        "t": "p",
-        "x": "Source: Narvaez, D., et al. (2024). \"Dangers of ‘Crying It Out’.\" Psychology Today, May 17, 2024."
-      },
-      {
-        "t": "p",
-        "x": "（健康科普，不构成医疗建议。）"
-      }
-    ]
-  },
-  {
-    "id": "u23",
+    "id": "u25",
     "systems": [
       "whole"
     ],
     "cover": "",
-    "title": "7个州刚刚对实验室培育肉说不",
-    "org": "@NextScience",
-    "author": "编译自 @NextScience",
-    "date": "2026-06-09",
+    "title": "震惊科学家的洋葱汁生发惊人效果",
+    "org": "@SmartScience",
+    "author": "编译自 @SmartScience",
+    "date": "2026-06-13",
     "sourceName": "x.com",
-    "sourceUrl": "https://x.com/NextScience/status/2064331728882106828?s=20",
+    "sourceUrl": "https://x.com/SmartScience/status/2065709100235730961?s=20",
     "evidence": "B",
     "cat": "normal",
-    "summary": "食品的未来正变成一场战场。阿肯色州已加入美国其他六个州，禁止实验室培育肉——这种肉是在实验室中从动物细胞培育出来的，而不是在农场中饲养的。 支持者称其为革命性的食品技术。 批评者则表示仍有太多未解之谜。随着辩论升温，…",
+    "summary": "2002年一项小型但引人入胜的临床试验揭示了一个几乎难以置信的结果。那些饱受斑秃困扰的人们将简单的洋葱汁涂抹在头皮上——结果令人瞠目结舌。头发再生在短短两周内就开始了，到八周时，许多参与者实现了完全恢复。",
     "body": [
       {
         "t": "p",
-        "x": "食品的未来正变成一场战场。阿肯色州已加入美国其他六个州，禁止实验室培育肉——这种肉是在实验室中从动物细胞培育出来的，而不是在农场中饲养的。"
-      },
-      {
-        "t": "p",
-        "x": "支持者称其为革命性的食品技术。"
-      },
-      {
-        "t": "p",
-        "x": "批评者则表示仍有太多未解之谜。随着辩论升温，一个谜团依然存在：实验室培育肉会改变我们吃的食物，还是在抵达大多数餐桌之前就消失？"
-      },
-      {
-        "t": "p",
-        "x": "来源："
-      },
-      {
-        "t": "p",
-        "x": "阿肯色州立法机构。（无日期）。关于培养肉产品的立法。"
+        "x": "2002年一项小型但引人入胜的临床试验揭示了一个几乎难以置信的结果。那些饱受斑秃困扰的人们将简单的洋葱汁涂抹在头皮上——结果令人瞠目结舌。头发再生在短短两周内就开始了，到八周时，许多参与者实现了完全恢复。"
       },
       {
         "t": "p",
@@ -722,6 +515,239 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "来源：哈里·珀金斯医学研究所 / npj Precision Oncology（西亚拉·达菲博士等人）"
+      },
+      {
+        "t": "p",
+        "x": "（健康科普，不构成医疗建议。）"
+      }
+    ]
+  },
+  {
+    "id": "u23",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "7个州刚刚对实验室培育肉说不",
+    "org": "@NextScience",
+    "author": "编译自 @NextScience",
+    "date": "2026-06-09",
+    "sourceName": "x.com",
+    "sourceUrl": "https://x.com/NextScience/status/2064331728882106828?s=20",
+    "evidence": "B",
+    "cat": "normal",
+    "summary": "食品的未来正变成一场战场。阿肯色州已加入美国其他六个州，禁止实验室培育肉——这种肉是在实验室中从动物细胞培育出来的，而不是在农场中饲养的。 支持者称其为革命性的食品技术。 批评者则表示仍有太多未解之谜。随着辩论升温，…",
+    "body": [
+      {
+        "t": "p",
+        "x": "食品的未来正变成一场战场。阿肯色州已加入美国其他六个州，禁止实验室培育肉——这种肉是在实验室中从动物细胞培育出来的，而不是在农场中饲养的。"
+      },
+      {
+        "t": "p",
+        "x": "支持者称其为革命性的食品技术。"
+      },
+      {
+        "t": "p",
+        "x": "批评者则表示仍有太多未解之谜。随着辩论升温，一个谜团依然存在：实验室培育肉会改变我们吃的食物，还是在抵达大多数餐桌之前就消失？"
+      },
+      {
+        "t": "p",
+        "x": "来源："
+      },
+      {
+        "t": "p",
+        "x": "阿肯色州立法机构。（无日期）。关于培养肉产品的立法。"
+      },
+      {
+        "t": "p",
+        "x": "（健康科普，不构成医疗建议。）"
+      }
+    ]
+  },
+  {
+    "id": "u22",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "Letting babies “cry it out” may seem harmless — but neuroscience says otherwise.",
+    "org": "@SmartScience",
+    "author": "编译自 @SmartScience",
+    "date": "2026-06-09",
+    "sourceName": "x.com",
+    "sourceUrl": "https://x.com/SmartScience/status/2064158240431370661?s=20",
+    "evidence": "B",
+    "cat": "environment",
+    "summary": "Find out what long-term harm it can cause. Letting babies “cry it out”—a common sleep-training method—has deep …",
+    "body": [
+      {
+        "t": "p",
+        "x": "Find out what long-term harm it can cause."
+      },
+      {
+        "t": "p",
+        "x": "Letting babies “cry it out”—a common sleep-training method—has deep historical roots in outdated science and a poor understanding of child development."
+      },
+      {
+        "t": "p",
+        "x": "Once promoted by behaviorists in the early 20th century, this method assumes that ignoring a baby's cries encourages independence."
+      },
+      {
+        "t": "p",
+        "x": "But modern neuroscience tells a different story: babies cry to communicate needs, and consistent caregiver response is vital for healthy emotional and neurological development. When babies are left to cry without comfort, stress hormones like cortisol flood their systems, potentially damaging brain connections and undermining the foundations of trust and self-regulation."
+      },
+      {
+        "t": "p",
+        "x": "Research shows that responsive caregiving—soothing infants before distress escalates—lays the groundwork for independence, emotional resilience, and mental health. Prolonged crying can disrupt vagus nerve function, impair the stress-response system, and contribute to anxiety, digestive disorders, and emotional insecurity later in life. Rather than teaching independence, “cry it out” may breed mistrust and emotional withdrawal. As developmental psychologists increasingly affirm, comforting infants isn’t indulgence—it’s essential. A responsive caregiver doesn't just ease tears; they shape a more confident, secure, and socially capable human being."
+      },
+      {
+        "t": "p",
+        "x": "Source: Narvaez, D., et al. (2024). \"Dangers of ‘Crying It Out’.\" Psychology Today, May 17, 2024."
+      },
+      {
+        "t": "p",
+        "x": "（健康科普，不构成医疗建议。）"
+      }
+    ]
+  },
+  {
+    "id": "u21",
+    "systems": [
+      "brain",
+      "immune"
+    ],
+    "cover": "",
+    "title": "ANGER'S HIDDEN EFFECT ON YOUR BODY",
+    "org": "@scitechgirl",
+    "author": "编译自 @scitechgirl",
+    "date": "2026-06-09",
+    "sourceName": "x.com",
+    "sourceUrl": "https://x.com/scitechgirl/status/2064366768836010211?s=20",
+    "evidence": "B",
+    "cat": "normal",
+    "summary": "What if just 60 seconds of intense anger could affect your health for hours? Research suggests that anger triggers a …",
+    "body": [
+      {
+        "t": "p",
+        "x": "What if just 60 seconds of intense anger could affect your health for hours?"
+      },
+      {
+        "t": "p",
+        "x": "Research suggests that anger triggers a flood of stress hormones that may temporarily weaken immune defenses. Frequent anger can also increase inflammation and place extra strain on the heart and blood vessels over time."
+      },
+      {
+        "t": "p",
+        "x": "The mystery? The argument may end in minutes, but your body could still be feeling the effects long afterward."
+      },
+      {
+        "t": "p",
+        "x": "A calm mind may be one of the most powerful tools for protecting long-term health."
+      },
+      {
+        "t": "p",
+        "x": "Source:Goleman, D. (n.d.). Emotional intelligence: Why it can matter more than IQ. Bantam Books."
+      },
+      {
+        "t": "p",
+        "x": "（健康科普，不构成医疗建议。）"
+      }
+    ]
+  },
+  {
+    "id": "u20",
+    "systems": [
+      "nutrition",
+      "gut"
+    ],
+    "cover": "data:image/jpeg;base64,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",
+    "title": "Food scientists have studied how cooking and cooling certain starchy foods can change their chemical structure. When foods like rice, potatoes, or pasta are cooled after cooking, some of the digestible starch converts into resistant starch.",
+    "org": "@ShiningScience",
+    "author": "编译自 @ShiningScience",
+    "date": "2026-06-09",
+    "sourceName": "x.com",
+    "sourceUrl": "https://x.com/ShiningScience/status/2064359038515806506?s=20",
+    "evidence": "B",
+    "cat": "normal",
+    "summary": "Resistant starch behaves differently from regular starch because it passes through the small intestine without being …",
+    "body": [
+      {
+        "t": "p",
+        "x": "Resistant starch behaves differently from regular starch because it passes through the small intestine without being fully digested, functioning more like dietary fiber in the body."
+      },
+      {
+        "t": "p",
+        "x": "Because it digests more slowly, resistant starch can lead to smaller increases in blood glucose and insulin levels compared to freshly cooked starches, which is why researchers study its effects on metabolic health."
+      },
+      {
+        "t": "p",
+        "x": "Cooling and reheating rice does not dramatically change the total calories listed for the food, but it may slightly reduce the amount of starch that is rapidly absorbed, altering how the body processes it."
+      },
+      {
+        "t": "p",
+        "x": "Nutrition experts generally emphasize that overall blood sugar control depends on portion size, balanced meals, physical activity, and long-term dietary patterns, not just a single preparation method."
+      },
+      {
+        "t": "p",
+        "x": "（健康科普，不构成医疗建议。）"
+      }
+    ]
+  },
+  {
+    "id": "u19",
+    "systems": [
+      "gut",
+      "brain"
+    ],
+    "cover": "",
+    "title": "医生会开具咀嚼口香糖的处方，以在手术后重启你的肠道功能。",
+    "org": "@FarvingCo",
+    "author": "编译自 @FarvingCo",
+    "date": "2026-06-09",
+    "sourceName": "x.com",
+    "sourceUrl": "https://x.com/FarvingCo/status/2064266567093743829?s=20",
+    "evidence": "B",
+    "cat": "normal",
+    "summary": "不是药物。不是补充剂。 就是口香糖。81项研究。9072名患者。 咀嚼能激活迷走神经——你体内最长的神经，从大脑延伸到肠道。 它控制胃酸、消化酶以及肠道蠕动。当它停止工作时，你的消化就会减缓。 人类的颌骨天生就适合每天咀嚼数小时。…",
+    "body": [
+      {
+        "t": "p",
+        "x": "不是药物。不是补充剂。"
+      },
+      {
+        "t": "p",
+        "x": "就是口香糖。81项研究。9072名患者。"
+      },
+      {
+        "t": "p",
+        "x": "咀嚼能激活迷走神经——你体内最长的神经，从大脑延伸到肠道。"
+      },
+      {
+        "t": "p",
+        "x": "它控制胃酸、消化酶以及肠道蠕动。当它停止工作时，你的消化就会减缓。"
+      },
+      {
+        "t": "p",
+        "x": "人类的颌骨天生就适合每天咀嚼数小时。你却只咀嚼几分钟。你的迷走神经几乎没有被激活。"
+      },
+      {
+        "t": "p",
+        "x": "乳香胶。"
+      },
+      {
+        "t": "p",
+        "x": "来自希腊希俄斯岛的树脂。使用2500年。第一次咀嚼它，五分钟内你的下巴就会酸痛。这就是它起效的信号。"
+      },
+      {
+        "t": "p",
+        "x": "而且它不只是激活迷走神经——它还能杀死幽门螺杆菌，这种细菌是大多数胃溃疡的罪魁祸首；它能减轻肠道炎症、强化你的下巴，并对抗口腔中的有害细菌。"
+      },
+      {
+        "t": "p",
+        "x": "你的消化系统不是因为你吃的东西而崩溃。它是因为你停止咀嚼而崩溃。"
+      },
+      {
+        "t": "p",
+        "x": "我每天都嚼它。不可妥协。"
       },
       {
         "t": "p",
