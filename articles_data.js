@@ -1,59 +1,165 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
-{
-  "id": "u29",
-  "systems": [
-    "whole"
-  ],
-  "cover": "",
-  "title": "日本科学家成功去除导致唐氏综合征的额外染色体",
-  "org": "@turningpointjpn",
-  "author": "编译自 @turningpointjpn",
-  "date": "2026-06-14",
-  "sourceName": "x.com",
-  "sourceUrl": "https://x.com/turningpointjpn/status/2066012219696173063?s=20",
-  "evidence": "B",
-  "cat": "normal",
-  "summary": "三重大学的桥津良太郎博士团队开发的是“等位基因特异性编辑”技术。 唐氏综合征的成因是“21号染色体多出一条”。 他们成功使用CRISPR将这条额外染色体整体删除。 在三条染色体中，精准瞄准并击中那条多余的一条，而不触及健康的另外两条。 …",
-  "body": [
-    {
-      "t": "p",
-      "x": "三重大学的桥津良太郎博士团队开发的是“等位基因特异性编辑”技术。"
-    },
-    {
-      "t": "p",
-      "x": "唐氏综合征的成因是“21号染色体多出一条”。"
-    },
-    {
-      "t": "p",
-      "x": "他们成功使用CRISPR将这条额外染色体整体删除。"
-    },
-    {
-      "t": "p",
-      "x": "在三条染色体中，精准瞄准并击中那条多余的一条，而不触及健康的另外两条。"
-    },
-    {
-      "t": "p",
-      "x": "额外染色体消失后的细胞中，与炎症和代谢相关的过量基因得到抑制，与大脑发育相关的基因被激活，细胞分裂速度也恢复正常。"
-    },
-    {
-      "t": "p",
-      "x": "唐氏综合征的出生比例为每700人中1人。此前的治疗仅限于“症状管理”。"
-    },
-    {
-      "t": "p",
-      "x": "这是世界上首次直接针对病因进行干预。"
-    },
-    {
-      "t": "p",
-      "x": "“The video was generated using AI（Grok）”"
-    },
-    {
-      "t": "p",
-      "x": "（健康科普，不构成医疗建议。）"
-    }
-  ]
-},
+  {
+    "id": "c15ff144aa7",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "一半的父母报告跟踪他们的成年子女，四分之一的跟踪器表示这会增加他们的焦虑",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-15",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-parents-tracking-adult-kids-trackers.html",
+    "evidence": "B",
+    "summary": "内置的智能手机应用程序和位置共享功能允许父母随时查看孩子的位置：他们是否安全抵达？ ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Built-in smartphone apps and location-sharing features allow parents to see where their children are at any moment: Did they arrive safely?…"
+      }
+    ]
+  },
+  {
+    "id": "c8fa95b9685",
+    "systems": [
+      "hormones",
+      "muscles"
+    ],
+    "cover": "",
+    "title": "回顾性研究发现，更年期激素治疗可将低骨密度风险降低69%",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-15",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-menopausal-hormone-therapy-bone-mineral.html",
+    "evidence": "B",
+    "summary": "与未使用更年期激素治疗的女性相比，接受更年期激素治疗的女性骨密度低的风险降低， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Women on menopausal hormone therapy face a decreased risk of low bone mineral density compared with those not using it,…"
+      }
+    ]
+  },
+  {
+    "id": "cc611b2439a",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "科学家发现无糖饮食存在一个令人惊讶的问题",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-06-14",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260614011843.htm",
+    "evidence": "B",
+    "summary": "一项令人惊讶的新研究表明，完全消除糖可能会适得其反。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A surprising new study suggests that completely eliminating sugar may backfire.…"
+      }
+    ]
+  },
+  {
+    "id": "ccdfdf4a99b",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "更顺滑、更美味的蛋白质奶昔背后的秘密",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-06-14",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260614011855.htm",
+    "evidence": "B",
+    "summary": "一种新的乳清蛋白制造技术可以使蛋白质奶昔味道更好，口感更顺畅。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new whey protein manufacturing technique could make protein shakes taste better and feel smoother in the mouth.…"
+      }
+    ]
+  },
+  {
+    "id": "ce3996a15e2",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "蚊帐仍然是抗击疟疾的强大武器，但研究警告其长期有效性受到威胁",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-14",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-mosquito-nets-powerful-weapon-malaria.html",
+    "evidence": "B",
+    "summary": "对非洲和亚洲25项研究的主要分析发现，驱虫蚊帐可将疟疾病例减少多达68% ，但也凸显了挑战……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A major analysis of 25 studies across Africa and Asia finds that insecticide-treated nets cut malaria cases by up to 68%—but highlights challenges…"
+      }
+    ]
+  },
+  {
+    "id": "u29",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "日本科学家成功去除导致唐氏综合征的额外染色体",
+    "org": "@turningpointjpn",
+    "author": "编译自 @turningpointjpn",
+    "date": "2026-06-14",
+    "sourceName": "x.com",
+    "sourceUrl": "https://x.com/turningpointjpn/status/2066012219696173063?s=20",
+    "evidence": "B",
+    "cat": "normal",
+    "summary": "三重大学的桥津良太郎博士团队开发的是“等位基因特异性编辑”技术。 唐氏综合征的成因是“21号染色体多出一条”。 他们成功使用CRISPR将这条额外染色体整体删除。 在三条染色体中，精准瞄准并击中那条多余的一条，而不触及健康的另外两条。 …",
+    "body": [
+      {
+        "t": "p",
+        "x": "三重大学的桥津良太郎博士团队开发的是“等位基因特异性编辑”技术。"
+      },
+      {
+        "t": "p",
+        "x": "唐氏综合征的成因是“21号染色体多出一条”。"
+      },
+      {
+        "t": "p",
+        "x": "他们成功使用CRISPR将这条额外染色体整体删除。"
+      },
+      {
+        "t": "p",
+        "x": "在三条染色体中，精准瞄准并击中那条多余的一条，而不触及健康的另外两条。"
+      },
+      {
+        "t": "p",
+        "x": "额外染色体消失后的细胞中，与炎症和代谢相关的过量基因得到抑制，与大脑发育相关的基因被激活，细胞分裂速度也恢复正常。"
+      },
+      {
+        "t": "p",
+        "x": "唐氏综合征的出生比例为每700人中1人。此前的治疗仅限于“症状管理”。"
+      },
+      {
+        "t": "p",
+        "x": "这是世界上首次直接针对病因进行干预。"
+      },
+      {
+        "t": "p",
+        "x": "“The video was generated using AI（Grok）”"
+      },
+      {
+        "t": "p",
+        "x": "（健康科普，不构成医疗建议。）"
+      }
+    ]
+  },
   {
     "id": "c0ee28ec225",
     "systems": [
@@ -221,6 +327,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "As more than 40% of American teenagers report persistent feelings of sadness or hopelessness,…"
+      }
+    ]
+  },
+  {
+    "id": "cdaa4c89414",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "为什么中年正在成为美国的转折点",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-06-13",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260613215430.htm",
+    "evidence": "B",
+    "summary": "一项新的国际研究发现，中年美国人更孤独、更抑郁……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new international study finds that middle-aged Americans are lonelier, more depressed,…"
       }
     ]
   },
