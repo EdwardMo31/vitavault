@@ -1,6 +1,48 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c23e10f527e",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/1E3VAFCCJMDqAjiVj5rgZ7/4dd57f608ef549fff85849bfe7c47245/mounjaro-weight-loss.jpg",
+    "title": "Mounjaro如何减肥？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-06-16",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/treatment-and-medication/how-does-mounjaro-work-for-weight-loss",
+    "evidence": "B",
+    "summary": "Mounjaro很快成为最受关注的减肥注射剂之一， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Mounjaro has quickly become one of the most talked-about weight loss injections,…"
+      }
+    ]
+  },
+  {
+    "id": "cbb2678e291",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "拥抱猫可能会让我们在压力下感觉更糟",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-16",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-cuddling-cats-worse-stress.html",
+    "evidence": "B",
+    "summary": "研究人员距离解决猫或狗能否养出更好的宠物这个古老问题又近了一步。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers just got one step closer to solving the age-old question of whether cats or dogs make better pets.…"
+      }
+    ]
+  },
+  {
     "id": "c15ff144aa7",
     "systems": [
       "brain"
@@ -18,6 +60,28 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Built-in smartphone apps and location-sharing features allow parents to see where their children are at any moment: Did they arrive safely?…"
+      }
+    ]
+  },
+  {
+    "id": "c60b2fb9e84",
+    "systems": [
+      "muscles",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "数百万人服用钙和维生素D来增强骨骼。重大审核发现收效甚微",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-06-15",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260614011852.htm",
+    "evidence": "B",
+    "summary": "多年来，钙和维生素D补充剂一直被推广为老年人保护骨骼和预防跌倒的简单方法。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "For years, calcium and vitamin D supplements have been promoted as a simple way for older adults to protect their bones and prevent falls.…"
       }
     ]
   },
@@ -40,6 +104,48 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Women on menopausal hormone therapy face a decreased risk of low bone mineral density compared with those not using it,…"
+      }
+    ]
+  },
+  {
+    "id": "cb0a526736e",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "新工具包旨在改善少数民族妇女的更年期护理",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-15",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-toolkit-aims-menopause-women-minority.html",
+    "evidence": "B",
+    "summary": "利物浦大学的研究人员开发了一个新的工具包，以支持医疗保健专业人员提供文化知识……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers at the University of Liverpool have developed a new toolkit to support health care professionals in delivering culturally informed…"
+      }
+    ]
+  },
+  {
+    "id": "cc877d01e53",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "这种流行的大脑补充剂与男性寿命缩短有关",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-06-15",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260615025119.htm",
+    "evidence": "B",
+    "summary": "一项大规模研究表明，氨基酸酪氨酸水平较高的男性可能寿命较短， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A large-scale study suggests that men with higher levels of the amino acid tyrosine may have shorter lifespans,…"
       }
     ]
   },
