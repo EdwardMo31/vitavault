@@ -1,6 +1,133 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c6275540853",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/74j8UONrmd1DZsyWP3GkPx/b519f958afd3819a60782042555c0ded/shutterstock_2447602095_Cropped.jpg",
+    "title": "鱼素饮食：优点、缺点和可以吃的东西",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-06-18",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/diet-and-nutrition/pescatarian-diet-pros-cons-and-what-you-can-eat",
+    "evidence": "B",
+    "summary": "鱼素饮食越来越受欢迎。在这里，我们来看看你可以和不能吃什么，有什么健康益处， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The pescatarian diet continues to grow in popularity. Here we look at what you can and can't eat, what are the health benefits,…"
+      }
+    ]
+  },
+  {
+    "id": "c758419dc03",
+    "systems": [
+      "senses"
+    ],
+    "cover": "",
+    "title": "美国人负担得起的医疗保健能力降至5年来的最低水平",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-18",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-americans-ability-health-falls-year.html",
+    "evidence": "B",
+    "summary": "美国West Health-Gallup医疗保健中心发布的新研究发现，不到一半的美国人（ 49 ％ ）被认为是“成本......",
+    "body": [
+      {
+        "t": "p",
+        "x": "New research released from the West Health-Gallup Center on Healthcare in America finds that fewer than half of Americans (49%) are considered \"Cost…"
+      }
+    ]
+  },
+  {
+    "id": "c939162cd88",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/4qi7qcFQt6HtyMghyhTdBt/630c2fed1b861aa0be501230e994a72f/shutterstock_2446105017_Cropped.jpg",
+    "title": "世界杯可以教会我们如何保持活跃",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-06-18",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/what-the-world-cup-can-teach-us-about-staying-active",
+    "evidence": "B",
+    "summary": "世界杯正在进行中，全球数百万人被粘在屏幕上，被技巧、戏剧、……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The World Cup is underway, and millions around the globe are glued to their screens, captivated by the skill, drama,…"
+      }
+    ]
+  },
+  {
+    "id": "ce346d5418b",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "父母因手机而分心的青少年可能更不安全",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-18",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-teenagers-parents-distracted-insecure.html",
+    "evidence": "B",
+    "summary": "我们担心孩子们使用屏幕的时间，但如果他们的照顾者在手机上花费的时间也是有害的呢？ ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "We worry about the time kids spend using screens—but what if the time their caregivers spend on phones is also harmful?…"
+      }
+    ]
+  },
+  {
+    "id": "c08cde0c175",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "研究发现，约15%的美国孕妇报告在过去30天内饮酒",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-17",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-percent-pregnant-women-days.html",
+    "evidence": "B",
+    "summary": "根据美国发表的研究报告，从2021年到2024年， 15.2%的美国孕妇报告在过去30天内饮酒……",
+    "body": [
+      {
+        "t": "p",
+        "x": "From 2021 to 2024, 15.2% of U.S. pregnant women reported drinking alcohol in the past 30 days, according to research published in the U.S.…"
+      }
+    ]
+  },
+  {
+    "id": "c1d010c334b",
+    "systems": [
+      "brain",
+      "muscles"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2016/04/computer_PD-edited.jpg",
+    "title": "医院面临人工智能治理的新考验",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-06-17",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/hospitals-face-a-new-test-of-artificial-intelligence-governance/",
+    "evidence": "A",
+    "summary": "1.联合委员会启动了一项自愿认证计划，专注于在医疗保健领域负责任地使用人工智能……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. The Joint Commission has launched a voluntary certification program focused on responsible artificial intelligence use in healthcare…"
+      }
+    ]
+  },
+  {
     "id": "c21e0d6b2d0",
     "systems": [
       "brain"
@@ -22,6 +149,27 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c320c0d2a8a",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "社区主导的倡议解决塞拉利昂农村的献血短缺问题",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-17",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-community-blood-donation-shortages-rural.html",
+    "evidence": "B",
+    "summary": "一项由社区主导的创新举措改变了塞拉利昂农村地区的献血实践……",
+    "body": [
+      {
+        "t": "p",
+        "x": "An innovative community-led initiative has transformed blood donation practices in rural Sierra Leone,…"
+      }
+    ]
+  },
+  {
     "id": "c520a9394f9",
     "systems": [
       "brain"
@@ -39,6 +187,90 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "A recent study in PsyCh Journal has uncovered numerous limitations in applying a popular framework for assessing social–emotional skills (such as…"
+      }
+    ]
+  },
+  {
+    "id": "c63151bee33",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "新研究中与终身焦虑有关的常见塑料化学物质",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-06-17",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260616102221.htm",
+    "evidence": "B",
+    "summary": "在出生前后不久接触一种常见的塑料化学物质可能会对行为产生持久的影响。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Exposure to a common plastic chemical before and shortly after birth may have lasting effects on behavior.…"
+      }
+    ]
+  },
+  {
+    "id": "cb5e11fcde5",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "问答：科学对植物作为药物有什么看法？",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-17",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-qa-science-medicine.html",
+    "evidence": "B",
+    "summary": "根据Kent Vrana、Elliot S. ……的说法，植物在传统医学和治疗实践中一直发挥着不可或缺的作用。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Plants have always played an integral role in traditional medicine and healing practices, according to Kent Vrana, Elliot S.…"
+      }
+    ]
+  },
+  {
+    "id": "cb662c6367f",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "夏威夷原住民成年人在生命早期面临行动不便的挑战",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-17",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-native-hawaiian-adults-mobility-earlier.html",
+    "evidence": "B",
+    "summary": "夏威夷原住民成年人的行动能力受到限制，包括敏捷性、步态等方面的挑战……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Native Hawaiian adults experience mobility limitations—including challenges with agility, gait,…"
+      }
+    ]
+  },
+  {
+    "id": "ccd14c18505",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "科学家说，你食物中的大部分东西仍然是一个谜",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-06-17",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260614012011.htm",
+    "evidence": "B",
+    "summary": "科学家们开始探索一个隐藏着数千种食品化学物质的世界，这些化学物质远远超出了营养标签上列出的营养成分。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists are beginning to explore a hidden world of thousands of food chemicals that go far beyond the nutrients listed on nutrition labels.…"
       }
     ]
   },
