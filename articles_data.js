@@ -1,6 +1,48 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c83ed5fd8b6",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "视频帮助新爸爸在带新生儿回家之前了解婴儿安全",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-19",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-videos-dads-infant-safety-newborn.html",
+    "evidence": "B",
+    "summary": "在医院新生儿托儿所播放的简短视频可能是教育新生儿父亲有关婴儿护理主题的有效方法，例如安全睡眠， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Brief videos shown in the hospital newborn nursery may be an effective way to educate first-time fathers on infant care topics, such as safe sleep,…"
+      }
+    ]
+  },
+  {
+    "id": "c04b0909d48",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "如何赢得禁止反式脂肪的斗争",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-06-18",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/how-the-fight-to-ban-trans-fat-was-won/",
+    "evidence": "B",
+    "summary": "在过去监管食品行业的尝试失败时，公共卫生界取得胜利的秘诀是什么？ ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "What was the secret to the public health community’s triumph when past attempts to regulate the food industry failed?…"
+      }
+    ]
+  },
+  {
     "id": "c6275540853",
     "systems": [
       "nutrition"
@@ -39,6 +81,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "New research released from the West Health-Gallup Center on Healthcare in America finds that fewer than half of Americans (49%) are considered \"Cost…"
+      }
+    ]
+  },
+  {
+    "id": "c768f269336",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2016/03/hospital.jpg",
+    "title": "儿科医院采用生成式人工智能进行文档和护理协调",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-06-18",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/generative-tools-move-into-pediatric-care/",
+    "evidence": "A",
+    "summary": "儿科医院开始将生成式人工智能用于文档、护理协调和工作流程支持……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Pediatric hospitals are beginning to use generative AI for documentation, care coordination, and workflow support,…"
       }
     ]
   },
