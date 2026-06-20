@@ -1,6 +1,48 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c30b54eb8a1",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/3kOwLlgoviRrkiVgMO2MY1/16f12e7182a58b3161392b73ac18a60e/shutterstock_2498727075_Cropped.jpg",
+    "title": "什么是炎症-为什么女性应该关心？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-06-20",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/general-health/what-is-inflammaging-and-why-should-women-care",
+    "evidence": "B",
+    "summary": "炎症学听起来不像是一个科学术语，更像是TikTok的下一个大热潮。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Inflammaging sounds less like a scientific term and more like the next big TikTok craze.…"
+      }
+    ]
+  },
+  {
+    "id": "c151deaee03",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "世界杯：足球运动员的合适身高是多少？",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-19",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-world-cup-height-soccer-player.html",
+    "evidence": "B",
+    "summary": "这是运动场上的达尔文式丛林。拥有合适物品的玩家被选中，而没有合适物品的玩家最终会被淘汰。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "It's a Darwinian jungle out there in sportsland. Players with the right stuff are selected, and those without it end up on the sidelines.…"
+      }
+    ]
+  },
+  {
     "id": "c83ed5fd8b6",
     "systems": [
       "brain"
@@ -18,6 +60,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Brief videos shown in the hospital newborn nursery may be an effective way to educate first-time fathers on infant care topics, such as safe sleep,…"
+      }
+    ]
+  },
+  {
+    "id": "cb73778785d",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "您认为自己的饮食健康吗？您可能会错过这种保护心脏的营养素",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-06-19",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260619020512.htm",
+    "evidence": "B",
+    "summary": "如果你缺少富含黄烷醇的食物，吃五份水果和蔬菜可能是不够的， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Eating five servings of fruits and vegetables may not be enough if you're missing foods rich in flavanols,…"
       }
     ]
   },
