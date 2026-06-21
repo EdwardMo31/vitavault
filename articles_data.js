@@ -1,6 +1,27 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c16b990e692",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "多巴胺如何在行为成瘾模型中调节动机的大脑回路",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-20",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-dopamine-modulates-brain-circuits-behavioral.html",
+    "evidence": "B",
+    "summary": "金泽大学的研究人员在行为成瘾的小鼠模型中发现了多巴胺驱动的动机神经机制， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers at Kanazawa University identified dopamine-driven neural mechanisms of motivation in a mouse model of behavioral addiction,…"
+      }
+    ]
+  },
+  {
     "id": "c30b54eb8a1",
     "systems": [
       "whole"
@@ -18,6 +39,69 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Inflammaging sounds less like a scientific term and more like the next big TikTok craze.…"
+      }
+    ]
+  },
+  {
+    "id": "c3647d2a02b",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "大多数在美国寻求肾脏移植的人从未进入等待名单",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-20",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-people-kidney-transplant-waitlist.html",
+    "evidence": "B",
+    "summary": "将近一半被转诊接受移植的肾功能衰竭美国人从未开始考虑接受新器官的过程， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Nearly half of Americans with kidney failure who are referred for transplantation never begin the process required to be considered for a new organ,…"
+      }
+    ]
+  },
+  {
+    "id": "c46a83ea8fb",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "新研究试图调和关于饮酒益处与风险的矛盾发现",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-20",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-conflicting-benefits-alcohol-consumption.html",
+    "evidence": "B",
+    "summary": "关于酒精对健康影响的研究提供了相互矛盾的发现，一些研究表明每天喝一杯红酒是有益的，而另一些研究表明……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Studies of alcohol's effects on health have offered contradictory findings, with some suggesting a glass of red wine a day is beneficial and others…"
+      }
+    ]
+  },
+  {
+    "id": "cc3811b96f6",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "冷冻水果和罐头蔬菜便宜，但它们是否与新鲜食品一样健康？",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-20",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-frozen-fruit-canned-veg-cheap.html",
+    "evidence": "B",
+    "summary": "您可能知道水果和蔬菜对您有好处，我们大多数人都吃得不够。",
+    "body": [
+      {
+        "t": "p",
+        "x": "You probably know fruit and vegetables are good for you, and most of us don't eat enough of them."
       }
     ]
   },
