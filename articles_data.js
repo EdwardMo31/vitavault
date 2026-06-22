@@ -1,43 +1,85 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
-{
-  "id": "u31",
-  "systems": [
-    "whole"
-  ],
-  "cover": "",
-  "title": "冷冻蓝莓在营养益处方面可能优于新鲜蓝莓，尤其是在抗氧化剂生物利用率方面。",
-  "org": "@Rainmaker1973",
-  "author": "编译自 @Rainmaker1973",
-  "date": "2026-06-21",
-  "sourceName": "x.com",
-  "sourceUrl": "https://x.com/Rainmaker1973/status/2068536891327049914?s=20",
-  "evidence": "B",
-  "cat": "normal",
-  "summary": "关键在于冷冻过程：当蓝莓在最佳成熟度时进行快速冷冻，冰晶就会形成并破坏果实的细胞壁。这种破坏使得花青素——赋予蓝莓鲜艳颜色并支持抗炎、大脑健康以及整体健康益处的强大抗氧化剂——更容易被人体获取和吸收。 相比之下，…",
-  "body": [
-    {
-      "t": "p",
-      "x": "关键在于冷冻过程：当蓝莓在最佳成熟度时进行快速冷冻，冰晶就会形成并破坏果实的细胞壁。这种破坏使得花青素——赋予蓝莓鲜艳颜色并支持抗炎、大脑健康以及整体健康益处的强大抗氧化剂——更容易被人体获取和吸收。"
-    },
-    {
-      "t": "p",
-      "x": "相比之下，新鲜浆果往往要经历数天或数周的运输和货架时间，在此期间营养水平可能会逐渐下降。商业冷冻蓝莓在营养巅峰期收获并保存，避免了这种降解，并提供全年可靠的高效营养供应。"
-    },
-    {
-      "t": "p",
-      "x": "除了更好的花青素可用性，选择冷冻品种还能通过减少食物浪费来支持可持续性，提供更大的便利性和经济性，并确保为奶昔、燕麦片或零食提供一致的超级食物提升——当地新鲜浆果不在季节时尤为理想。"
-    },
-    {
-      "t": "p",
-      "x": "[Baylor Scott & White Health. (2024). Frozen vs. Fresh: Why Your Freezer Might Hold the Healthiest Blueberries. Baylor Scott & White Health]"
-    },
-    {
-      "t": "p",
-      "x": "（健康科普，不构成医疗建议。）"
-    }
-  ]
-},
+  {
+    "id": "c4998a6c800",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "在压力下表现？对于运动员来说，这取决于3个关键因素",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-21",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-pressure-athletes-key.html",
+    "evidence": "B",
+    "summary": "为什么有些人似乎在压力下茁壮成长，而另一些人似乎褶皱或皱褶？",
+    "body": [
+      {
+        "t": "p",
+        "x": "Why do some people seem to thrive under pressure while others seem to fold or crumple?"
+      }
+    ]
+  },
+  {
+    "id": "cea145b8d48",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "科学家发现神经元必须破坏DNA才能构建大脑",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-06-21",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260620100422.htm",
+    "evidence": "B",
+    "summary": "当新生神经元穿过发育中的大脑时，它们必须挤过极其狭窄的空间才能到达最终目的地。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "As newborn neurons make their way through the developing brain, they must squeeze through incredibly tight spaces to reach their final destinations.…"
+      }
+    ]
+  },
+  {
+    "id": "u31",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "冷冻蓝莓在营养益处方面可能优于新鲜蓝莓，尤其是在抗氧化剂生物利用率方面。",
+    "org": "@Rainmaker1973",
+    "author": "编译自 @Rainmaker1973",
+    "date": "2026-06-21",
+    "sourceName": "x.com",
+    "sourceUrl": "https://x.com/Rainmaker1973/status/2068536891327049914?s=20",
+    "evidence": "B",
+    "cat": "normal",
+    "summary": "关键在于冷冻过程：当蓝莓在最佳成熟度时进行快速冷冻，冰晶就会形成并破坏果实的细胞壁。这种破坏使得花青素——赋予蓝莓鲜艳颜色并支持抗炎、大脑健康以及整体健康益处的强大抗氧化剂——更容易被人体获取和吸收。 相比之下，…",
+    "body": [
+      {
+        "t": "p",
+        "x": "关键在于冷冻过程：当蓝莓在最佳成熟度时进行快速冷冻，冰晶就会形成并破坏果实的细胞壁。这种破坏使得花青素——赋予蓝莓鲜艳颜色并支持抗炎、大脑健康以及整体健康益处的强大抗氧化剂——更容易被人体获取和吸收。"
+      },
+      {
+        "t": "p",
+        "x": "相比之下，新鲜浆果往往要经历数天或数周的运输和货架时间，在此期间营养水平可能会逐渐下降。商业冷冻蓝莓在营养巅峰期收获并保存，避免了这种降解，并提供全年可靠的高效营养供应。"
+      },
+      {
+        "t": "p",
+        "x": "除了更好的花青素可用性，选择冷冻品种还能通过减少食物浪费来支持可持续性，提供更大的便利性和经济性，并确保为奶昔、燕麦片或零食提供一致的超级食物提升——当地新鲜浆果不在季节时尤为理想。"
+      },
+      {
+        "t": "p",
+        "x": "[Baylor Scott & White Health. (2024). Frozen vs. Fresh: Why Your Freezer Might Hold the Healthiest Blueberries. Baylor Scott & White Health]"
+      },
+      {
+        "t": "p",
+        "x": "（健康科普，不构成医疗建议。）"
+      }
+    ]
+  },
   {
     "id": "c16b990e692",
     "systems": [
