@@ -1,6 +1,90 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c01444dd766",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2017/08/tablets_PD_edited.jpg",
+    "title": "单纯性憩室炎的抗生素处方仍然很高",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-06-22",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/antibiotic-prescribing-remains-high-for-uncomplicated-diverticulitis/",
+    "evidence": "A",
+    "summary": "1.在这项研究中， 2015年至2025年期间，几乎所有单纯性憩室炎访视都开了抗生素处方， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this study, antibiotics were prescribed in nearly all visits for uncomplicated diverticulitis between 2015 and 2025,…"
+      }
+    ]
+  },
+  {
+    "id": "c0d17bd64e4",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "研究表明，与20世纪70年代相比，墨西哥、意大利和其他国家的热应激时间长达两个月",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-22",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-mexico-italy-months-stress-1970s.html",
+    "evidence": "B",
+    "summary": "墨西哥、肯尼亚、意大利和世界其他国家正经历比几十年前多一到两个月的热应激， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Mexico, Kenya, Italy and other nations around the world are experiencing one to two more months of heat stress than they were several decades ago,…"
+      }
+    ]
+  },
+  {
+    "id": "c70c1bd0643",
+    "systems": [
+      "heart"
+    ],
+    "cover": "",
+    "title": "AI工具揭示高血压造成的隐性器官损伤",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-22",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-ai-tool-reveals-hidden-high.html",
+    "evidence": "B",
+    "summary": "研究人员开发了一种人工智能工具，可以帮助医生更好地了解高血压如何损害不同人的不同器官。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers have developed an AI tool that may help doctors better understand how high blood pressure damages different organs in different people.…"
+      }
+    ]
+  },
+  {
+    "id": "cd775fb0bd6",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "科学家说，大多数人需要的蛋白质比目前的指导方针建议的要多",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-06-22",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260622091429.htm",
+    "evidence": "B",
+    "summary": "一项新的综述表明，比目前的最低建议进行更多的运动和摄入更多的蛋白质可以帮助人们保持更强壮、更敏锐……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new review suggests that doing more exercise and eating more protein than current minimum recommendations may help people stay stronger, sharper,…"
+      }
+    ]
+  },
+  {
     "id": "c4998a6c800",
     "systems": [
       "whole"
