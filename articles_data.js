@@ -1,6 +1,195 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "ce7f0708044",
+    "systems": [
+      "skin"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/0M6z3trUgk6WBodwLprLF/b93fa20b81d48678fa3d0706d3e96606/shutterstock_2642498683_Cropped.jpg",
+    "title": "胶束水：护肤益处和用途",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-06-24",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/skin-conditions/micellar-water-skincare-benefits-and-uses",
+    "evidence": "B",
+    "summary": "近年来，胶束水已成为相当时髦的护肤品，人们在日常生活的各个阶段都会使用它。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Micellar water has become quite the trendy skincare product over recent years, with people swearing by it for various stages in their routine.…"
+      }
+    ]
+  },
+  {
+    "id": "cee317d0f0b",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/45hOwwffHDJF8jIZNUerDX/2992cfbc724a4c3228c0662404dd2bb2/shutterstock_2605471771_Cropped.jpg",
+    "title": "想尝试野外游泳吗？请先阅读此内容",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-06-24",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/general-health/thinking-of-trying-wild-swimming-read-this-first",
+    "evidence": "B",
+    "summary": "简而言之，野外游泳是在天然水中游泳，而不是在游泳池或控制环境（如当地浴室）中游泳。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Wild swimming, put simply, is swimming in natural water rather than in a pool or controlled environment such as your local baths.…"
+      }
+    ]
+  },
+  {
+    "id": "c1b54d47c2a",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "新的大脑研究显示，言语学习的工作方式与我们想象的不同",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-06-23",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260619020514.htm",
+    "evidence": "B",
+    "summary": "一项新的研究表明，学习和记忆语音更多地依赖于大脑如何处理声音和感觉，而不是依赖于控制声音和感觉的区域。",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new study suggests that learning and remembering speech relies more on how the brain processes sounds and sensations than on the areas that control…"
+      }
+    ]
+  },
+  {
+    "id": "c2650f61885",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "超加工食品是否可以通过调整营养素来修复？",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-06-23",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/can-ultra-processed-foods-be-fixed-by-tweaking-their-nutrients/",
+    "evidence": "B",
+    "summary": "在第一项随机对照试验中，当超加工食品的卡路里、糖、脂肪和铁含量相匹配时会发生什么？ ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "What happened when ultra-processed foods were matched for calories, sugar, fat, and ﬁber content in the first randomized controlled trial?…"
+      }
+    ]
+  },
+  {
+    "id": "c3189e23b9f",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "试验显示，机器人可以改善老年人的健康状况",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-23",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-robots-health-older-people-trial.html",
+    "evidence": "B",
+    "summary": "一项新的试验表明，使用远程呈现机器人在家中支持老年人的福祉和健康可以改善身体……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new trial has shown that using telepresence robots to support the well-being and health of older people in their homes can improve physical…"
+      }
+    ]
+  },
+  {
+    "id": "c41447b7c2a",
+    "systems": [
+      "senses"
+    ],
+    "cover": "",
+    "title": "康普茶中的茶不仅仅是口味的变化",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-06-23",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260621060313.htm",
+    "evidence": "B",
+    "summary": "科学家发现，康普茶的味道、化学成分和抗氧化活性因制作它的茶而异。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists discovered that kombucha’s flavor, chemistry, and antioxidant activity vary dramatically depending on the tea used to make it.…"
+      }
+    ]
+  },
+  {
+    "id": "c7b3d39b57f",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "印第安纳州通过限制向雇主收取的价格来对抗强大的医院",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-23",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-indiana-powerful-hospitals-capping-prices.html",
+    "evidence": "B",
+    "summary": "共和党控制的印第安纳州厌倦了看着其雇主努力支付医疗保健费用，正在尝试一种传统的自由主义策略来……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Tired of watching its employers struggle to afford the cost of health care, Republican-controlled Indiana is trying a traditionally liberal tactic to…"
+      }
+    ]
+  },
+  {
+    "id": "cace9933ed6",
+    "systems": [
+      "lungs"
+    ],
+    "cover": "",
+    "title": "科学家终于解决了H5N1禽流感如何隐藏在奶牛体内的问题",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-06-23",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260620100315.htm",
+    "evidence": "B",
+    "summary": "研究人员揭示了为什么H5N1禽流感会攻击牛的乳房而不是肺部：该病毒的首选受体集中在乳房…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers uncovered why H5N1 bird flu attacks cows’ udders instead of their lungs: the virus’s preferred receptors are concentrated in mammary…"
+      }
+    ]
+  },
+  {
+    "id": "ce8f311c7a5",
+    "systems": [
+      "heart"
+    ],
+    "cover": "",
+    "title": "对于慢性膝关节疼痛，膝动脉栓塞提供了一种新的替代方案",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-23",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-chronic-knee-pain-genicular-artery.html",
+    "evidence": "B",
+    "summary": "手术“非常”成功。这就是74岁的辛西娅·施拉夫-弗莱彻（ Cynthia Schraf-Fletcher ）如何描述她在膝动脉栓塞（ GAE ）方面的经历， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The procedure was \"remarkably\" successful. That's how Cynthia Schraf-Fletcher, 74, describes her experience with genicular artery embolization (GAE),…"
+      }
+    ]
+  },
+  {
     "id": "c01444dd766",
     "systems": [
       "whole"
