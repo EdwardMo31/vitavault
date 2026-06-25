@@ -1,6 +1,111 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c6d810cc111",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "骨质减少症正在无声地削弱数百万人的骨骼",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-06-25",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260624025511.htm",
+    "evidence": "B",
+    "summary": "骨质减少是一种常见但经常被忽视的疾病，会导致骨骼变得不那么密集和更脆弱。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Osteopenia is a common but often overlooked condition that causes bones to become less dense and more fragile.…"
+      }
+    ]
+  },
+  {
+    "id": "c21ae1e4630",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "研究挑战了关于维生素D和阳光的共同信念",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-06-24",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260623083104.htm",
+    "evidence": "B",
+    "summary": "一项针对英国北部近300人的研究发现，在风险最高的群体中，维生素D水平通常全年保持低水平。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A study of nearly 300 people across northern Britain found that vitamin D levels often stay low all year in groups most at risk.…"
+      }
+    ]
+  },
+  {
+    "id": "c598b2b8eda",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "科学家发现有助于阻止干扰的古老脑细胞",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-06-24",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260624025426.htm",
+    "evidence": "B",
+    "summary": "科学家在一个古老的大脑区域发现了一小群神经元，它们的作用就像一个内置的焦点过滤器……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists have discovered a tiny group of neurons in an ancient brain region that acts like a built-in focus filter,…"
+      }
+    ]
+  },
+  {
+    "id": "c9a5fd8c553",
+    "systems": [
+      "immune"
+    ],
+    "cover": "",
+    "title": "映射关键免疫传感器的隐藏规则",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-24",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-hidden-key-immune-sensor.html",
+    "evidence": "B",
+    "summary": "免疫系统依赖于检测细胞内危险的分子警报。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The immune system depends on molecular alarms that detect danger inside cells.…"
+      }
+    ]
+  },
+  {
+    "id": "cc97476c676",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "UnitedHealth、Humana和CVS以一些最高的比率拒绝了院后护理",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-24",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-unitedhealth-humana-cvs-denied-hospital.html",
+    "evidence": "B",
+    "summary": "三大Medicare Advantage保险公司以主要计划中最高的费率拒绝了院后护理请求， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The three largest Medicare Advantage insurers turned down requests for post-hospital care at some of the highest rates among major plans,…"
+      }
+    ]
+  },
+  {
     "id": "ce7f0708044",
     "systems": [
       "skin"
