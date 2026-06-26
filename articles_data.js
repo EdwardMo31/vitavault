@@ -1,6 +1,48 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c1482c22e30",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "卢旺达如何使用无人机改善医疗保健",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-25",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-rwanda-drones-health.html",
+    "evidence": "B",
+    "summary": "2016年，卢旺达政府开始使用无人机绕过该国的丘陵地带，加快向医院运送血液制品的速度。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "In 2016, the government of Rwanda began using drones to bypass the country's hilly terrain and speed up the delivery of blood products to hospitals.…"
+      }
+    ]
+  },
+  {
+    "id": "c4e4d59ef00",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "最好的便便姿势是什么？",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-06-25",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/what-is-the-best-poop-position/",
+    "evidence": "B",
+    "summary": "Squatty Potty经过测试。之前，我已经谈到了李子和无花果干的潜在功效，以保持我们的正常。什么[…]",
+    "body": [
+      {
+        "t": "p",
+        "x": "The Squatty Potty is put to the test. Previously, I’ve talked about the potential efficacy of prunes and dried figs to keep us regular. What […]"
+      }
+    ]
+  },
+  {
     "id": "c6d810cc111",
     "systems": [
       "muscles"
@@ -18,6 +60,69 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Osteopenia is a common but often overlooked condition that causes bones to become less dense and more fragile.…"
+      }
+    ]
+  },
+  {
+    "id": "c859e7d9302",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2019/02/pills2_PD_edited.jpg",
+    "title": "Semaglutide （ Ozempic ）引发了关于情绪和无反应的问题",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-06-25",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/semaglutide-ozempic-raises-questions-about-mood-and-nonresponse/",
+    "evidence": "A",
+    "summary": "1.关于一些semaglutide （ Ozempic ）使用者情绪扁平化的报告引起了人们对胰高血糖素样肽-1受体如何…",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Reports of emotional flattening among some users of semaglutide (Ozempic) have brought new attention to how glucagon-like peptide-1 receptor…"
+      }
+    ]
+  },
+  {
+    "id": "cbb02e65c7c",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "研究发现， 86%的巴西残疾肌肉骨骼疼痛儿童康复",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-25",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-brazilian-children-disabling-musculoskeletal-pain.html",
+    "evidence": "B",
+    "summary": "每10名巴西儿童和青少年中就有3人抱怨肌肉骨骼疼痛（影响骨骼、韧带和肌肉）。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Three out of every 10 Brazilian children and adolescents complain of musculoskeletal pain (affecting bones, ligaments and muscles).…"
+      }
+    ]
+  },
+  {
+    "id": "ccff8905056",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "这种常见的维生素缺乏症可以模仿正常衰老",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-06-25",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260623083116.htm",
+    "evidence": "B",
+    "summary": "微量维生素B12是必需的，但维生素B12短缺会对健康和能量产生重大影响。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Vitamin B12 is needed in microscopic amounts, but a shortage can have major effects on health and energy.…"
       }
     ]
   },
