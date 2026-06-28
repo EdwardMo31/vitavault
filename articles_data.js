@@ -1,6 +1,69 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c0cf6de1d65",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "随着年龄的增长，科学家发现触发腹部脂肪的原因",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-06-27",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260624115133.htm",
+    "evidence": "B",
+    "summary": "衰老可能会引发专门的干细胞的出现，这些干细胞可以增强身体产生新腹部脂肪的能力。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Aging may trigger the appearance of specialized stem cells that supercharge the body's ability to create new belly fat.…"
+      }
+    ]
+  },
+  {
+    "id": "c694d051ede",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "将人工智能心理健康支持与治疗相混淆的危险",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-27",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-danger-ai-mental-health-therapy.html",
+    "evidence": "B",
+    "summary": "在最近一集英国情景喜剧《Amandaland》中， Anne Flynn向ChatGPT寻求帮助，与她十几岁的儿子谈论性。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "In a recent episode of British sitcom Amandaland, Anne Flynn turns to ChatGPT for help talking to her teenage son about sex.…"
+      }
+    ]
+  },
+  {
+    "id": "cb31add0bb5",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "新的纽扣电池技术显示出希望，但吞咽仍然是一个紧急情况",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-27",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-button-battery-technology-swallowing-emergency.html",
+    "evidence": "B",
+    "summary": "最近发布的旨在减少意外摄入危险的儿童安全电池显示出巨大的前景， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A recently released child-safety battery designed to reduce the danger from accidental ingestion is showing significant promise,…"
+      }
+    ]
+  },
+  {
     "id": "cc155e7a5e8",
     "systems": [
       "whole"
