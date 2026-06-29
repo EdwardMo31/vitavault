@@ -1,32 +1,74 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
-{
-  "id": "u33",
-  "systems": [
-    "muscles",
-    "skin"
-  ],
-  "cover": "",
-  "title": "在炎热的天气或剧烈运动后，用冷流水冲洗手腕可以帮助身体感觉更凉爽。",
-  "org": "@ShiningScience",
-  "author": "编译自 @ShiningScience",
-  "date": "2026-06-29",
-  "sourceName": "x.com",
-  "sourceUrl": "https://x.com/ShiningScience/status/2071190473327407444?s=20",
-  "evidence": "B",
-  "cat": "disease",
-  "summary": "手腕处有靠近皮肤的血管，这使得热量能够更有效地传递到较冷的流水中。随着这些血液循环，它可能有助于减轻过热感，并支持身体的自然降温过程。虽然这不能替代适当的水分补充或针对热病症的医疗治疗，但它可以提供快速的、暂时的缓解。",
-  "body": [
-    {
-      "t": "p",
-      "x": "手腕处有靠近皮肤的血管，这使得热量能够更有效地传递到较冷的流水中。随着这些血液循环，它可能有助于减轻过热感，并支持身体的自然降温过程。虽然这不能替代适当的水分补充或针对热病症的医疗治疗，但它可以提供快速的、暂时的缓解。"
-    },
-    {
-      "t": "p",
-      "x": "（健康科普，不构成医疗建议。）"
-    }
-  ]
-},
+  {
+    "id": "cc286886f01",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "调查发现，十分之三的年轻人没有医生；如果他们没有，大多数人都不会去看医生",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-29",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-survey-young-adults-dont-doctor.html",
+    "evidence": "B",
+    "summary": "俄亥俄州立大学韦克斯纳医学中心委托进行的一项新调查发现，年轻人错过了拥有…",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new survey commissioned by The Ohio State University Wexner Medical Center finds young adults are missing out on the health benefits of having a…"
+      }
+    ]
+  },
+  {
+    "id": "u33",
+    "systems": [
+      "muscles",
+      "skin"
+    ],
+    "cover": "",
+    "title": "在炎热的天气或剧烈运动后，用冷流水冲洗手腕可以帮助身体感觉更凉爽。",
+    "org": "@ShiningScience",
+    "author": "编译自 @ShiningScience",
+    "date": "2026-06-29",
+    "sourceName": "x.com",
+    "sourceUrl": "https://x.com/ShiningScience/status/2071190473327407444?s=20",
+    "evidence": "B",
+    "cat": "disease",
+    "summary": "手腕处有靠近皮肤的血管，这使得热量能够更有效地传递到较冷的流水中。随着这些血液循环，它可能有助于减轻过热感，并支持身体的自然降温过程。虽然这不能替代适当的水分补充或针对热病症的医疗治疗，但它可以提供快速的、暂时的缓解。",
+    "body": [
+      {
+        "t": "p",
+        "x": "手腕处有靠近皮肤的血管，这使得热量能够更有效地传递到较冷的流水中。随着这些血液循环，它可能有助于减轻过热感，并支持身体的自然降温过程。虽然这不能替代适当的水分补充或针对热病症的医疗治疗，但它可以提供快速的、暂时的缓解。"
+      },
+      {
+        "t": "p",
+        "x": "（健康科普，不构成医疗建议。）"
+      }
+    ]
+  },
+  {
+    "id": "c6986ea4a52",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "骨骼与身体其他部位沟通，以支持整体健康：以下是骨骼背后的科学",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-28",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-bones-communicate-rest-body-health.html",
+    "evidence": "B",
+    "summary": "在美国，医生每年治疗600多万例骨折。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Each year, doctors treat more than 6 million bone fractures in the United States.…"
+      }
+    ]
+  },
   {
     "id": "c0cf6de1d65",
     "systems": [
