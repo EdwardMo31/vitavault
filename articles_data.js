@@ -1,6 +1,90 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c1d0ce0e8d9",
+    "systems": [
+      "immune"
+    ],
+    "cover": "",
+    "title": "终止学校疫苗接种要求的努力在佛罗里达州陷入困境",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-29",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-efforts-school-vaccine-mandates-wall.html",
+    "evidence": "B",
+    "summary": "每个州以及华盛顿特区都要求儿童在上学或托儿所之前接种某些疫苗。这些要求……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Every state, along with Washington, D.C., requires children to obtain certain vaccinations before they can attend school or childcare These mandates…"
+      }
+    ]
+  },
+  {
+    "id": "c3a38a50a83",
+    "systems": [
+      "skin"
+    ],
+    "cover": "",
+    "title": "问答：防晒安全和基本皮肤保护提示",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-29",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-qa-sunscreen-safety-essential-skin.html",
+    "evidence": "B",
+    "summary": "Michael Girardi博士从小就认识到防晒霜的重要性。他小时候，叔叔死于黑色素瘤。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Dr. Michael Girardi understood the importance of sunscreen from an early age. When he was a child, his uncle died of melanoma."
+      }
+    ]
+  },
+  {
+    "id": "c4319f3731b",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2018/02/diabetes.jpeg",
+    "title": "双周胰高血糖素样肽-1受体激动剂bofanglutide改善血糖控制",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-06-29",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/biweekly-glucagon-like-peptide-1-receptor-agonist-bofanglutide-improves-glycemic-control/",
+    "evidence": "A",
+    "summary": "1.在这项随机对照试验中，每两周注射一次新型胰高血糖素样肽-1受体激动剂（ GLP-1RA ） bofanglutide导致…",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this randomized controlled trial, biweekly injections of the novel glucagon-like peptide-1 receptor agonist (GLP-1RA) bofanglutide resulted in…"
+      }
+    ]
+  },
+  {
+    "id": "c704eca1d19",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "与较低的压力和更好的工作绩效相关的远程员工的每日步数",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-29",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-daily-remote-workers-stress.html",
+    "evidence": "B",
+    "summary": "筑波大学的研究人员在《美国健康促进杂志》上发表的一项研究发现，较高的每日步数是……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A study by researchers at the University of Tsukuba published in the American Journal of Health Promotion found that higher daily step counts were…"
+      }
+    ]
+  },
+  {
     "id": "cc286886f01",
     "systems": [
       "whole"
@@ -66,6 +150,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Each year, doctors treat more than 6 million bone fractures in the United States.…"
+      }
+    ]
+  },
+  {
+    "id": "c76e5303066",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "麻醉下的大脑活动挑战了我们对意识的了解",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-06-28",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260624025514.htm",
+    "evidence": "B",
+    "summary": "无意识的大脑似乎比科学家曾经认为的要强大得多。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The unconscious brain appears to be far more capable than scientists once believed.…"
       }
     ]
   },
