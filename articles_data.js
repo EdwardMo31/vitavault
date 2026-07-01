@@ -1,6 +1,133 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c36f76fdbae",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/t305gt0Q6u3hesKfhrUYc/cdce5d28281b9f24f79ff9b7efafb2a9/why-cant-i-sleep.jpg",
+    "title": "Why can't I sleep? 12 common causes and what to do",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-07-01",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/understanding-the-cause-of-your-sleep-problems",
+    "evidence": "B",
+    "summary": "Struggling to fall asleep can be frustrating. Whether you're lying awake for hours, waking up repeatedly during the night,…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Struggling to fall asleep can be frustrating. Whether you're lying awake for hours, waking up repeatedly during the night,…"
+      }
+    ]
+  },
+  {
+    "id": "c2928940b51",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "Scientists say creatine may help fight depression",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-06-30",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260630020231.htm",
+    "evidence": "B",
+    "summary": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting…"
+      }
+    ]
+  },
+  {
+    "id": "c3059650f96",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "Real-time pollen data perceived as valuable among some with seasonal allergies",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-30",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-real-pollen-valuable-seasonal-allergies.html",
+    "evidence": "B",
+    "summary": "There are unmet informational needs among individuals with seasonal allergies, according to a study published June 1 in Frontiers in Allergy.",
+    "body": [
+      {
+        "t": "p",
+        "x": "There are unmet informational needs among individuals with seasonal allergies, according to a study published June 1 in Frontiers in Allergy."
+      }
+    ]
+  },
+  {
+    "id": "c87108f0242",
+    "systems": [
+      "heart",
+      "lungs"
+    ],
+    "cover": "",
+    "title": "How a Single Meal Can Cripple Your Arteries and Lungs",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-06-30",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/how-a-single-meal-can-cripple-your-arteries-and-lungs/",
+    "evidence": "B",
+    "summary": "What happens within hours of eating a high-fat meal? We are only as old as our arteries. What can we do to preserve arterial function […]",
+    "body": [
+      {
+        "t": "p",
+        "x": "What happens within hours of eating a high-fat meal? We are only as old as our arteries. What can we do to preserve arterial function […]"
+      }
+    ]
+  },
+  {
+    "id": "c89533ef038",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2018/11/kidsplaying2_PD_edited.jpg",
+    "title": "The association between parental and offspring body mass index may be due to genetic confounding",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-06-30",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/the-association-between-parental-and-offspring-body-mass-index-may-be-due-to-genetic-confounding/",
+    "evidence": "A",
+    "summary": "1. The association between parental body mass index (BMI) and offspring BMI from age 6 months to 8 years may primarily be due to genetic confounding.…",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. The association between parental body mass index (BMI) and offspring BMI from age 6 months to 8 years may primarily be due to genetic confounding.…"
+      }
+    ]
+  },
+  {
+    "id": "cbcd8b91b26",
+    "systems": [
+      "immune"
+    ],
+    "cover": "",
+    "title": "Mussel-inspired vaccine aims to close the immunization gap with long-lasting immune protection",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-06-30",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-06-mussel-vaccine-aims-immunization-gap.html",
+    "evidence": "B",
+    "summary": "A research team in Korea has developed a vaccine technology that delivers long-lasting immune protection from a single dose by applying the powerful…",
+    "body": [
+      {
+        "t": "p",
+        "x": "A research team in Korea has developed a vaccine technology that delivers long-lasting immune protection from a single dose by applying the powerful…"
+      }
+    ]
+  },
+  {
     "id": "c1d0ce0e8d9",
     "systems": [
       "immune"
