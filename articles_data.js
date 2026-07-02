@@ -1,6 +1,90 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c6d93c10709",
+    "systems": [
+      "skin"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/3aNwlYd1RPpGqIDvg262Pk/a4a632c9a09dc4f85d5466034c3510d0/shutterstock_2577489593_Cropped.jpg",
+    "title": "保护您的皮肤免受有害污染",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-07-02",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/general-health/what-is-air-pollution-doing-to-your-skin",
+    "evidence": "B",
+    "summary": "您不仅需要考虑炎热时的防晒霜-停滞不前的夏天会使空气污染特别严重。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "It's not just sun cream you need to think about when it's hot - stagnant summer days can make air pollution especially high.…"
+      }
+    ]
+  },
+  {
+    "id": "c7c7c8b7e2b",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/6xnDanJ1dBX3UIeU9lPILs/aa4ab93482ba7c70f6a76f778b1177bd/endocannabinoid-system.jpg",
+    "title": "什么是内源性大麻素系统-为什么它很重要？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-07-02",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/general-health-and-lifestyle/what-is-the-endocannabinoid-system",
+    "evidence": "B",
+    "summary": "内源性大麻素系统（ ECS ）是人体最重要的调节网络之一，但大多数人从未听说过它。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The endocannabinoid system (ECS) is one of the most important regulatory networks in the human body - yet most people have never heard of it.…"
+      }
+    ]
+  },
+  {
+    "id": "c9c08efa98a",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/3E07749Z4F93zcNOi6sBcJ/ed5fb1d0981d7b9559776130ced75846/shutterstock_2738290313_Cropped.jpg",
+    "title": "什么是“凉爽” -它对您的健康有益吗？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-07-02",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/feaetures/healthy-living/what-is-a-coolcation-and-could-it-be-better-for-your-health",
+    "evidence": "B",
+    "summary": "您可能听说过“coolcation”这个词在网上流传。它指的是一种日益增长的旅游趋势，在这种趋势中，度假者正在取代传统的……",
+    "body": [
+      {
+        "t": "p",
+        "x": "You may have heard the term ‘coolcation’ circulating online. It refers to a growing travel trend in which holidaymakers are swapping traditional…"
+      }
+    ]
+  },
+  {
+    "id": "ce47df69596",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/4VZHnfEbGu3JvXjtKhbM9v/01bdccd1437ae6988b55da2b9ae89cdd/how-to-stop-snoring-ruining-sleep.jpg",
+    "title": "如何停止打鼾破坏睡眠",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-07-02",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/how-to-stop-snoring-wrecking-your-sleep",
+    "evidence": "B",
+    "summary": "在我们五分之二的人打鼾的情况下，你可能是发出噪音的人，也可能是躺在床上听声音的人。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "With two in five of us snoring, chances are you're either the one making the noise or the one lying awake listening to it.…"
+      }
+    ]
+  },
+  {
     "id": "c36f76fdbae",
     "systems": [
       "brain"
@@ -18,6 +102,91 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Struggling to fall asleep can be frustrating. Whether you're lying awake for hours, waking up repeatedly during the night,…"
+      }
+    ]
+  },
+  {
+    "id": "c44bff88f18",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "英美贸易协议将意味着NHS必须从其他服务中转移数十亿美元，以支付更多新药",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-01",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-uk-nhs-billions-pay-medicines.html",
+    "evidence": "B",
+    "summary": "到2036年，大约450亿英镑的NHS资金将从其他NHS护理中转移出来，用于支付英美新药的更多费用……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Around £45 billion in NHS funding will be diverted from other NHS care by 2036 to pay more for new medicines under the UK-U.S.…"
+      }
+    ]
+  },
+  {
+    "id": "c7702e07417",
+    "systems": [
+      "brain",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "科学家发现维生素C与大脑健康之间存在令人惊讶的联系",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-07-01",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260626030428.htm",
+    "evidence": "B",
+    "summary": "像维生素C这样简单的东西能帮助支持更健康的大脑衰老吗？在一项针对日本2000多名老年人的研究中， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Could something as simple as vitamin C help support a healthier aging brain? In a study of more than 2,000 older adults in Japan,…"
+      }
+    ]
+  },
+  {
+    "id": "caec0b5659a",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "数字正念干预有益于晚年抑郁症",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-01",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-digital-mindfulness-intervention-beneficial-late.html",
+    "evidence": "B",
+    "summary": "通过脑电图（ EEG ）反馈进行数字正念干预--FocusZen正念减压系统--减少抑郁， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A digital mindfulness intervention with electroencephalogram (EEG) feedback—the FocusZen Mindfulness Stress Reduction System—reduces depression,…"
+      }
+    ]
+  },
+  {
+    "id": "cef1844c041",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "针对烟熏三文鱼和其他即食食品的新李斯特菌标签",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-01",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-listeria-salmon-ready-foods.html",
+    "evidence": "B",
+    "summary": "DTU国家食品研究所的研究人员提出了一种新的标签方案，旨在为消费者提供更好的选择机会……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers from the DTU National Food Institute are proposing a new labeling scheme designed to give consumers a better opportunity to choose…"
       }
     ]
   },
