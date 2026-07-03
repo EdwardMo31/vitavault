@@ -22,6 +22,28 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c7695c009a9",
+    "systems": [
+      "muscles",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "运动可以抵消高脂肪膳食吗？",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-07-02",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/can-exercise-counteract-a-high-fat-meal/",
+    "evidence": "B",
+    "summary": "有一个时间窗口，在这个时间窗口中，足够的体力活动可以帮助调解进食不健康膳食造成的一些损害。我已经[…]",
+    "body": [
+      {
+        "t": "p",
+        "x": "There is a window of time in which sufficient physical activity can help mediate some of the damage caused by eating an unhealthy meal. I’ve […]"
+      }
+    ]
+  },
+  {
     "id": "c7c7c8b7e2b",
     "systems": [
       "whole"
@@ -60,6 +82,69 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "You may have heard the term ‘coolcation’ circulating online. It refers to a growing travel trend in which holidaymakers are swapping traditional…"
+      }
+    ]
+  },
+  {
+    "id": "ca4a9c6f9ac",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "有助于防止体重增加的特殊食品添加剂在欧盟获得批准",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-02",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-special-food-additive-weight-gain.html",
+    "evidence": "B",
+    "summary": "一种可以阻止人们体重增加的开创性食品添加剂已经出现在欧盟的新颖食品清单上， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A pioneering food additive that can stop people from gaining weight has appeared on the EU's Novel Food List,…"
+      }
+    ]
+  },
+  {
+    "id": "caa9093458f",
+    "systems": [
+      "immune"
+    ],
+    "cover": "",
+    "title": "血清素如何通过被忽视的免疫细胞帮助驱动长期过敏性炎症",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-02",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-serotonin-term-allergic-inflammation-overlooked.html",
+    "evidence": "B",
+    "summary": "卡罗林斯卡研究所的研究人员发现了5-羟色胺相关代谢如何帮助调节参与过敏反应的免疫细胞。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers at Karolinska Institutet have uncovered how serotonin-related metabolism helps regulate an understudied immune cell involved in allergic…"
+      }
+    ]
+  },
+  {
+    "id": "cc62c0a43c2",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "科学家发现一种燃烧脂肪并阻断新脂肪细胞的蛋白质开关",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-07-02",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260624115324.htm",
+    "evidence": "B",
+    "summary": "一种名为“Mitch”的蛋白质可能是新一代肥胖治疗的关键。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A protein called “Mitch” may hold the key to a new generation of obesity treatments.…"
       }
     ]
   },
