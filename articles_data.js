@@ -1,6 +1,154 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c34378ea45f",
+    "systems": [
+      "brain",
+      "muscles"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/3zr9CP4swJa6XII9CxnMiT/58475768b422f5825e74dadf3450c110/shutterstock_765783730_Cropped.jpg",
+    "title": "温布尔登网球公开赛提醒您：认真对待关节疼痛",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-07-04",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/bones-joints-muscles/wimbledon-serves-as-a-reminder-take-your-joint-pain-seriously",
+    "evidence": "B",
+    "summary": "随着温布尔登网球锦标赛吸引了国家的注意力，一位领先的膝盖专家正在敦促我们所有人-特别是网球爱好者-不要忽视我们的关节......",
+    "body": [
+      {
+        "t": "p",
+        "x": "As Wimbledon captures the nation’s attention, a leading knee specialist is urging us all - especially tennis enthusiasts - not to neglect our joint…"
+      }
+    ]
+  },
+  {
+    "id": "cceb6e4158e",
+    "systems": [
+      "heart"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/2cocOXw5sNParBA0ZiZ5A4/bc5cadc018fc1d0ee771a63842dbe18e/shutterstock_1628878108_Cropped.jpg",
+    "title": "热浪如何影响血压",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-07-04",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/heart-health/how-heatwaves-affect-your-blood-pressure",
+    "evidence": "B",
+    "summary": "虽然英国夏季天气温暖是正常的，但极端炎热会使事情变得更具挑战性。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "While warmer days are normal during British summers, extreme heat can make things far more challenging.…"
+      }
+    ]
+  },
+  {
+    "id": "c333a37ae0e",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "你可以在醒着的时候做梦。清醒和睡眠之间的界限比你想象的要模糊得多",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-03",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-youre-boundary-lot-blurrier-youd.html",
+    "evidence": "B",
+    "summary": "今晚，当你在床上闭上眼睛时，奇怪的事情会发生在你身上：你的思想将从一个普通的想法漂移到一个梦中， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Tonight, as you close your eyes in bed, something strange will happen to you: Your mind will drift from an ordinary thought to a dream,…"
+      }
+    ]
+  },
+  {
+    "id": "c67b9b31f77",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "新的子宫腺肌病图谱揭示了可能保留健康子宫组织的病灶特异性信号",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-03",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-adenomyosis-atlas-reveals-lesion-specific.html",
+    "evidence": "B",
+    "summary": "利物浦大学的研究人员已经确定了子宫腺肌病病变中的独特生物学特征，这可能有助于铺平…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers at the University of Liverpool have identified distinctive biological characteristics within adenomyosis lesions that could help pave the…"
+      }
+    ]
+  },
+  {
+    "id": "c6f84e66a6d",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "澳大利亚人错过了创新与患者护理之间的“重大差距”",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-03",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-australians-major-gap-patient.html",
+    "evidence": "B",
+    "summary": "寻求在发生严重健康问题之前预测风险的有前途的健康工具很少用于日常健康……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Promising health tools that seek to predict a person's risk of serious health problems before they happen are rarely being used in everyday health…"
+      }
+    ]
+  },
+  {
+    "id": "ca40bfd8dca",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "专家为在高温下进行耐力赛提供建议",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-03",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-experts-advice-events-excessive.html",
+    "evidence": "B",
+    "summary": "由于职业自行车队一直在为周六环法自行车赛的开赛做准备，极端炎热的天气席卷了整个西欧， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "As pro cycling teams have been preparing for the start of the Tour de France on Saturday, extreme heat has rolled across Western Europe,…"
+      }
+    ]
+  },
+  {
+    "id": "cefac67558f",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "Vellore队列揭示了印度学龄儿童日益严重的双重营养不良负担",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-03",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-vellore-cohort-reveals-india-burden.html",
+    "evidence": "B",
+    "summary": "在韦洛尔低收入城市社区长大的儿童现在同时面临两种看似相反的营养不良形式：持续性……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Children growing up in a low-income urban community in Vellore are now facing two seemingly opposite forms of malnutrition simultaneously: persistent…"
+      }
+    ]
+  },
+  {
     "id": "c6d93c10709",
     "systems": [
       "skin"
