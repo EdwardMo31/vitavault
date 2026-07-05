@@ -1,6 +1,27 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c1612e67b88",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "健身追踪的五大隐患",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-04",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-hidden-pitfalls-tracking.html",
+    "evidence": "B",
+    "summary": "英国的许多人现在使用应用程序、智能手表或可穿戴设备来跟踪他们的身体活动。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Many people in the U.K. now use apps, smartwatches or wearable devices to track their physical activity.…"
+      }
+    ]
+  },
+  {
     "id": "c34378ea45f",
     "systems": [
       "brain",
@@ -23,6 +44,69 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c4b40b19714",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "童年创伤的记忆随着时间的推移保持稳定，但儿童的变化比成人更频繁",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-04",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-memories-childhood-trauma-stable-children.html",
+    "evidence": "B",
+    "summary": "随着时间的推移，童年虐待的创伤记忆通常保持一致， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Traumatic memories of childhood maltreatment typically remain consistent over time,…"
+      }
+    ]
+  },
+  {
+    "id": "cb8ec7864a4",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "孩子可以在几秒钟内淹死。医生希望更多家庭做好准备",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-04",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-child-seconds-doctors-families.html",
+    "evidence": "B",
+    "summary": "医生和其他人正在敲响警钟：近年来，越来越多的美国儿童溺水身亡。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Doctors and others are sounding an alarm: More U.S. children have been drowning in recent years."
+      }
+    ]
+  },
+  {
+    "id": "ccd3673465a",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "人类如何在视觉上区分材料？",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-04",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-humans-visually-discriminate-materials.html",
+    "evidence": "B",
+    "summary": "来自认知神经技术部门、视觉和行动实验室的研究人员……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers from the Cognitive Neurotechnology Unit, Vision and Action Laboratory,…"
+      }
+    ]
+  },
+  {
     "id": "cceb6e4158e",
     "systems": [
       "heart"
@@ -40,6 +124,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "While warmer days are normal during British summers, extreme heat can make things far more challenging.…"
+      }
+    ]
+  },
+  {
+    "id": "ce98d090ab3",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "调查显示，欧洲人在4个国家支持国家资助的生育护理和胚胎研究",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-04",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-survey-europeans-state-funded-fertility.html",
+    "evidence": "B",
+    "summary": "在第42届欧洲人类生殖与胚胎学学会（ ESHRE ）年会期间发起的一项全欧洲范围的新调查表明，广泛的…",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new Europe-wide survey launched during the 42nd Annual Meeting of the European Society of Human Reproduction and Embryology (ESHRE) suggests broad…"
       }
     ]
   },
