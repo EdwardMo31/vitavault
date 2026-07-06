@@ -1,6 +1,90 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c66dbc36176",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "科学家发现深度睡眠循环可以锻炼肌肉、燃烧脂肪和增强大脑",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-07-05",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260626030433.htm",
+    "evidence": "B",
+    "summary": "研究人员已经确定了将深度睡眠与生长激素释放联系起来的大脑回路，揭示了两者如何相互调节。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers have identified the brain circuitry that links deep sleep with the release of growth hormone, revealing how the two regulate each other.…"
+      }
+    ]
+  },
+  {
+    "id": "c93ae695d10",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "血糖水平升高与大脑衰老加快有关",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-05",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-higher-blood-glucose-linked-faster.html",
+    "evidence": "B",
+    "summary": "众所周知，人类的大脑会随着年龄的增长而自然变化，在人们达到30多岁或40多岁后，大脑的大小和体积会缩小。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The human brain is known to naturally change with age, shrinking in size and volume after people reach their 30s or 40s.…"
+      }
+    ]
+  },
+  {
+    "id": "c9d64663652",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "尽管捐赠了卵子，但子宫老化与49岁后较差的妊娠结局有关",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-05",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-uterine-aging-linked-poorer-pregnancy.html",
+    "evidence": "B",
+    "summary": "一项重要的新研究表明，与子宫年龄相关的变化可能导致妊娠结局较差， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A major new study suggests that age-related changes in the uterus may contribute to poorer pregnancy outcomes,…"
+      }
+    ]
+  },
+  {
+    "id": "ce9825701d3",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "说另一种语言可以减缓大脑的衰老",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-05",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-language-aging-brain.html",
+    "evidence": "B",
+    "summary": "根据欧洲神经科学联合会（ Federation of European Neuroscience ）发表的研究报告，说一种以上语言的人似乎拥有更年轻的大脑……",
+    "body": [
+      {
+        "t": "p",
+        "x": "People who speak more than one language seem to have younger brains, according to research presented at the Federation of European Neuroscience…"
+      }
+    ]
+  },
+  {
     "id": "c1612e67b88",
     "systems": [
       "muscles"
@@ -208,6 +292,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Promising health tools that seek to predict a person's risk of serious health problems before they happen are rarely being used in everyday health…"
+      }
+    ]
+  },
+  {
+    "id": "c90404f2f15",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "饮酒以应对压力可能会永久性地重新连接您的大脑",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-07-03",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260626030437.htm",
+    "evidence": "B",
+    "summary": "年轻时使用酒精来应对压力可能会永久改变大脑， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Using alcohol to cope with stress when young may permanently alter the brain,…"
       }
     ]
   },
