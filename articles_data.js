@@ -1,6 +1,132 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c222262086f",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "新的研究揭示了同日护理如何缓解NHS的紧急压力",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-06",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-reveals-day-ease-nhs-emergency.html",
+    "evidence": "B",
+    "summary": "由谢菲尔德大学领导并在BMJ公开赛上发表的一项新研究发现，高达三分之一的A ＆ E出席率和五分之二的急性......",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new study led by the University of Sheffield and published in BMJ Open has found that up to one-third of A&E attendances and two-fifths of acute…"
+      }
+    ]
+  },
+  {
+    "id": "c315eef284f",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2016/04/cirrhosis1.jpg",
+    "title": "卡维地洛与降低肝硬化并发症风险相关",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-07-06",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/carvedilol-linked-to-lower-cirrhosis-complication-risk/",
+    "evidence": "A",
+    "summary": "1.在这项回顾性队列研究中，与纳多洛尔和…相比，卡维地洛与主要肝脏失代偿的风险较低。",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this retrospective cohort study, carvedilol was associated with a lower risk of major liver decompensation compared with nadolol and…"
+      }
+    ]
+  },
+  {
+    "id": "c623f66e937",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "在TBI、神经系统诊断之间发现双向关联",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-06",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-bidirectional-association-tbi-neurological.html",
+    "evidence": "B",
+    "summary": "创伤性脑损伤（ TBI ）与某些神经系统疾病之间存在双向关联， …",
+    "body": [
+      {
+        "t": "p",
+        "x": "There is a bidirectional association between traumatic brain injury (TBI) and certain neurological conditions,…"
+      }
+    ]
+  },
+  {
+    "id": "cbad380e475",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2017/08/scale3_PD_final.jpg",
+    "title": "睡眠限制会促进高风险成年人的体重增加",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-07-06",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/sleep-restriction-promotes-weight-gain-in-high-risk-adults/",
+    "evidence": "A",
+    "summary": "1.在这项随机交叉试验的汇总分析中，慢性轻度睡眠限制与体重适度增加有关， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this pooled analysis of randomized crossover trials, chronic mild sleep restriction was associated with modest increases in body weight,…"
+      }
+    ]
+  },
+  {
+    "id": "cbebf2739fa",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "研究发现，魁北克赌博成瘾治疗未得到充分利用",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-06",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-gambling-addiction-treatment-underused-quebec.html",
+    "evidence": "B",
+    "summary": "一项新的研究发现，魁北克的公共专业赌博成瘾治疗服务未得到充分利用， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new study finds public specialized gambling addiction treatment services are underused in Quebec,…"
+      }
+    ]
+  },
+  {
+    "id": "cf7580f3633",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "二十二碳六烯酸补充剂不能改善认知能力",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-06",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-docosahexaenoic-acid-supplement-cognitive.html",
+    "evidence": "B",
+    "summary": "大剂量二十二碳六烯酸（ DHA ）补充剂在24个月内不会导致大脑体积或认知表现的变化， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "High-dose docosahexaenoic acid (DHA) supplementation does not yield a change in brain volume or cognitive performance over 24 months,…"
+      }
+    ]
+  },
+  {
     "id": "c66dbc36176",
     "systems": [
       "brain"
