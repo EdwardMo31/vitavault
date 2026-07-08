@@ -1,6 +1,69 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c75a133ddab",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "使用这些食物保护您的动脉免受饱和脂肪的侵害",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-07-07",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/protect-your-arteries-from-saturated-fat-with-these-foods/",
+    "evidence": "B",
+    "summary": "如果您要吃一些不健康的东西，您是否可以用它来帮助减轻它可能造成的损害？如果您[…]",
+    "body": [
+      {
+        "t": "p",
+        "x": "If you’re going to have something unhealthy, is there anything you can eat with it to help mitigate the damage it may cause? If you […]"
+      }
+    ]
+  },
+  {
+    "id": "c8bcb939feb",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "外卖含盐量高于广告，研究发现",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-07-07",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260625060218.htm",
+    "evidence": "B",
+    "summary": "几乎一半的外卖餐含有比宣传的更多的盐， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Almost half of the takeaway meals tested contained more salt than advertised,…"
+      }
+    ]
+  },
+  {
+    "id": "cf48bfccfc4",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "局部伊维菌素和封装的过氧化苯甲酰对酒渣鼻的作用优于甲硝唑",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-07",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-topical-ivermectin-encapsulated-benzoyl-peroxide.html",
+    "evidence": "B",
+    "summary": "对于酒渣鼻的成年人，局部伊维菌素和封装的过氧化苯甲酰比甲硝唑更有效……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Topical ivermectin and encapsulated benzoyl peroxide are more efficacious than metronidazole for adults with rosacea,…"
+      }
+    ]
+  },
+  {
     "id": "c222262086f",
     "systems": [
       "whole"
