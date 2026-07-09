@@ -1,6 +1,70 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c35ca85f5d8",
+    "systems": [
+      "senses",
+      "muscles"
+    ],
+    "cover": "",
+    "title": "黑巧克力的味道可以使腿部锻炼更容易，即使是在空腹的情况下",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-09",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-dark-chocolate-leg-workout-easier.html",
+    "evidence": "B",
+    "summary": "巧克力飘过健身房的气味会让力量训练变得更容易，或者至少更愉快吗？ ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Could the smell of chocolate wafting through the gym make strength training easier, or at least more pleasant?…"
+      }
+    ]
+  },
+  {
+    "id": "c6ba8758e6b",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "不能坚持节食吗？间歇性禁食可能比计算卡路里以减轻体重更容易",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-07-08",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260701015247.htm",
+    "evidence": "B",
+    "summary": "间歇性禁食可以帮助人们减掉和限制卡路里一样多的体重， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Intermittent fasting helped people lose as much weight as calorie restriction,…"
+      }
+    ]
+  },
+  {
+    "id": "cda7a29c113",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "子宫输液帮助肾功能衰竭的胎儿在出生后存活",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-08",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-womb-fluid-infusions-fetuses-kidney.html",
+    "evidence": "B",
+    "summary": "在妊娠早期被诊断为胎儿缺乏足够的肾功能使作为重要羊水的尿液长期…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Women diagnosed early in pregnancy with a fetus lacking adequate kidney function to make the urine that serves as vital amniotic fluid have long…"
+      }
+    ]
+  },
+  {
     "id": "c75a133ddab",
     "systems": [
       "nutrition"
