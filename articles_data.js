@@ -1,6 +1,69 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c0e748391f0",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "令人惊讶的蔬菜治疗失眠的方法",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-07-09",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/a-surprising-vegetable-approach-to-insomnia/",
+    "evidence": "B",
+    "summary": "莴苣的催眠成分乳糖素在一项随机、双盲、安慰剂对照的莴苣种子试验中进行了测试。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Lactucin, the hypnotic component of lettuce, is put to the test in a randomized, double-blind, placebo-controlled trial of lettuce seeds.…"
+      }
+    ]
+  },
+  {
+    "id": "c192b04b285",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "从蚊子飞行范围到温度的影响：了解欧洲登革热传播",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-09",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-mosquito-flight-range-impact-temperatures.html",
+    "evidence": "B",
+    "summary": "登革热由登革热病毒引起，并通过蚊虫叮咬传播。传统上在热带地区流行，如拉丁美洲和……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Dengue is caused by the dengue virus and transmitted by mosquito bites. Traditionally endemic in tropical regions such as Latin America and the…"
+      }
+    ]
+  },
+  {
+    "id": "c30d9165ad8",
+    "systems": [
+      "senses"
+    ],
+    "cover": "",
+    "title": "《平价医疗法案》（ Affordable Care Act ）保险公司希望随着入保人数下降而增加更多保费",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-09",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-premium-enrollment-sags.html",
+    "evidence": "B",
+    "summary": "连续第二年，许多《平价医疗法案》保险公司提议增加两位数的保费……",
+    "body": [
+      {
+        "t": "p",
+        "x": "For the second year in a row, many Affordable Care Act insurers are proposing double-digit premium increases,…"
+      }
+    ]
+  },
+  {
     "id": "c35ca85f5d8",
     "systems": [
       "senses",
@@ -19,6 +82,69 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Could the smell of chocolate wafting through the gym make strength training easier, or at least more pleasant?…"
+      }
+    ]
+  },
+  {
+    "id": "c486814f625",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "科学家们发现了一种长寿饮食，可以帮助老鼠吃得更多，减肥",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-07-09",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260708022206.htm",
+    "evidence": "B",
+    "summary": "科学家发现，含有低蛋白质和足够蛋氨酸的改良地中海式饮食有助于小鼠过上更健康的生活，同时减少……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists found that a modified Mediterranean-style diet with low protein and just enough methionine helped mice live healthier lives while reducing…"
+      }
+    ]
+  },
+  {
+    "id": "c519cf55f72",
+    "systems": [
+      "senses"
+    ],
+    "cover": "",
+    "title": "维生素A的发现正在改变科学家对视力的了解",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-07-09",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260708022214.htm",
+    "evidence": "B",
+    "summary": "一项令人惊讶的发现正在重塑科学家对人类如何在出生前形成锐利中心视力的理解。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A surprising discovery is reshaping scientists' understanding of how humans develop sharp central vision before birth.…"
+      }
+    ]
+  },
+  {
+    "id": "c61a6e46440",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "与选择远程医疗流产相关的粮食不安全",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-09",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-food-insecurity-linked-choice-telehealth.html",
+    "evidence": "B",
+    "summary": "寻求堕胎的个人面临着相当大的挑战，包括高昂的成本、旅行和依赖性护理等后勤困难……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Individuals seeking abortion face considerable challenges, including high costs, logistical difficulties such as travel and dependent care,…"
       }
     ]
   },
