@@ -1,6 +1,49 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "ca35c36dd2a",
+    "systems": [
+      "brain",
+      "senses"
+    ],
+    "cover": "",
+    "title": "你的梦里有气味吗？关于“盲人思维”的新研究揭示了想象力的巨大差异",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-10",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-minds-reveals-vast-differences.html",
+    "evidence": "B",
+    "summary": "人们普遍认为我们都有相似的生活经历。但是，我们对别人隐藏的想法了解得越多， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "It's common to think we all have similar experiences of life. But the more we learn about other people's hidden thoughts,…"
+      }
+    ]
+  },
+  {
+    "id": "cc7e7d260f4",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2013/05/11694_lores-e1393787565963.jpg",
+    "title": "强的松（ δ-松）中添加来氟米特（阿糖胞苷）可能不会改善高安动脉炎的缓解率",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-07-10",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/the-addition-of-leflunomide-to-prednisone-may-not-improve-rate-of-remission-in-takayasu-arteritis/",
+    "evidence": "A",
+    "summary": "1.来氟米特（ LEF ）加强的松耐受性良好，但与…相比，未显著增加Takayasu动脉炎（ TAK ）的临床缓解。",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Leflunomide (LEF) plus prednisone was well tolerated but did not significantly increase clinical remission of Takayasu arteritis (TAK) compared to…"
+      }
+    ]
+  },
+  {
     "id": "c0e748391f0",
     "systems": [
       "whole"
