@@ -1,6 +1,49 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "cc24a9ca9be",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "第二次怀孕以令人惊讶的新方式改变大脑",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-07-11",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260711010125.htm",
+    "evidence": "B",
+    "summary": "研究人员发现，每次怀孕都会以自己的方式重新连接大脑，第二次怀孕带来的变化模式与…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers found that every pregnancy rewires the brain in its own way, with a second pregnancy bringing a different pattern of changes than the…"
+      }
+    ]
+  },
+  {
+    "id": "c259b63978b",
+    "systems": [
+      "immune",
+      "gut"
+    ],
+    "cover": "",
+    "title": "科学家发现一种有益于寄生虫的营养物质离不开",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-07-10",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260707054114.htm",
+    "evidence": "B",
+    "summary": "一项新的研究发现，膳食纤维可以确定有益的肠道蠕虫是否有助于减少炎症或变得基本不活动。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new study found that dietary fiber can determine whether beneficial intestinal worms help reduce inflammation or become essentially inactive.…"
+      }
+    ]
+  },
+  {
     "id": "ca35c36dd2a",
     "systems": [
       "brain",
