@@ -1,6 +1,132 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c2139fcb9be",
+    "systems": [
+      "lungs"
+    ],
+    "cover": "",
+    "title": "正常氧气水平可能会错过二氧化碳引起的严重呼吸困难",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-12",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-oxygen-severe-breathlessness-driven-carbon.html",
+    "evidence": "B",
+    "summary": "由加州大学河滨分校的生物医学科学家Erica Heinrich领导的一项研究……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A study led by biomedical scientist Erica Heinrich at the University of California, Riverside,…"
+      }
+    ]
+  },
+  {
+    "id": "c513f7206df",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "人体自身的细胞间信息包被研究作为下一代药物的基础",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-12",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-body-cell-messaging-packets-basis.html",
+    "evidence": "B",
+    "summary": "血液和组织库正在研究如何治疗性地制造和使用人体细胞释放的一种纳米颗粒来沟通……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The Blood and Tissue Bank is studying how to therapeutically manufacture and use a type of nanoparticles released by the body's cells to communicate…"
+      }
+    ]
+  },
+  {
+    "id": "c93c90ced74",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "关于更年期的注意事项：赋予女性权力的最新指南",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-12",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-menopause-latest-guidance-empower-women.html",
+    "evidence": "B",
+    "summary": "更年期。突然间，这个话题在头条新闻、我们的新闻源、播客中随处可见。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Menopause. Suddenly, the topic is everywhere in the headlines, in our news feeds, on podcasts.…"
+      }
+    ]
+  },
+  {
+    "id": "ce05b42371c",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "急诊医生压力过大，患者的刺激起着重要作用",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-12",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-emergency-doctors-stressed-patient-plays.html",
+    "evidence": "B",
+    "summary": "HBO的紧急部门戏剧“皮特”在很大程度上已经成为一个热门话题，因为它显示了急诊医学的深刻人命损失......",
+    "body": [
+      {
+        "t": "p",
+        "x": "HBO's emergency-department drama \"The Pitt\" has become a smash hit in large part because it shows the deeply human toll that emergency medicine…"
+      }
+    ]
+  },
+  {
+    "id": "cec425bec0b",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "科学家发现大脑如何将自身重组为真正的多任务",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-07-12",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260712011912.htm",
+    "evidence": "B",
+    "summary": "练习可能不仅仅是完美。研究人员发现，大量的训练会在身体上重组大脑， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Practice may do more than make perfect. Researchers found that extensive training physically reorganizes the brain,…"
+      }
+    ]
+  },
+  {
+    "id": "cec7e72b52f",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "基因发现可能解锁不孕症、更年期早期线索",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-12",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-gene-discovery-infertility-early-menopause.html",
+    "evidence": "B",
+    "summary": "大多数女性都知道生育率会随着年龄的增长而急剧下降。这主要是由于卵巢中的卵子和卵泡逐渐减少， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Most women are aware that fertility declines dramatically with age. This is mainly due to the gradual loss of eggs and follicles from the ovaries,…"
+      }
+    ]
+  },
+  {
     "id": "cc24a9ca9be",
     "systems": [
       "brain"
