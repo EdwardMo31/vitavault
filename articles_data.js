@@ -1,6 +1,195 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c531244ffa9",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2018/11/surgeryPD.jpg",
+    "title": "隔膜成形术比偏离隔膜的医疗管理更昂贵，但更有效",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-07-13",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/septoplasty-is-more-costly-but-more-effective-than-medical-management-for-deviated-septum/",
+    "evidence": "A",
+    "summary": "1.对于偏离的隔膜，即时隔膜成形术比医疗管理更昂贵，但临床效果更佳。2. …",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Immediate septoplasty is more costly but more clinically effective than medical management for deviated septum. 2.…"
+      }
+    ]
+  },
+  {
+    "id": "c5ac89e2d86",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2016/06/GDM_PD_edited.jpg",
+    "title": "GLP-1RAs可能会增加缺血性视神经病变的风险",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-07-13",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/glp-1ras-may-increase-ischemic-optic-neuropathy-risk/",
+    "evidence": "A",
+    "summary": "1.在这种靶向试验模拟中，胰高血糖素样肽-1受体激动剂（ GLP-1RA ）的使用与…",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this target trial emulation, glucagon-like peptide-1 receptor agonist (GLP-1RA) use was associated with a small increase in the risk of…"
+      }
+    ]
+  },
+  {
+    "id": "c5ed0d3dd93",
+    "systems": [
+      "senses"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2016/01/diabetes2_edited.jpg",
+    "title": "瑞典研究报告使用GLP-1RA的视力丧失风险低",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-07-13",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/swedish-study-reports-low-vision-loss-risk-with-glp-1ras/",
+    "evidence": "A",
+    "summary": "1.在这项队列研究中，胰高血糖素样肽-1受体激动剂（ GLP-1RA ）的使用与前部缺血性视力的较高风险相关…",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this cohort study, glucagon-like peptide-1 receptor agonist (GLP-1RA) use was associated with a higher risk of anterior ischemic optic…"
+      }
+    ]
+  },
+  {
+    "id": "c974b621ea6",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "每晚只失去80分钟的睡眠可能会使您体重增加",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-07-13",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260713000800.htm",
+    "evidence": "B",
+    "summary": "每晚睡眠时间减少约1小时20分钟，持续6周，导致参与者体重增加，不活动的时间增加。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Sleeping about an hour and 20 minutes less each night for six weeks caused participants to gain weight and spend more time inactive.…"
+      }
+    ]
+  },
+  {
+    "id": "cc697e3a118",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2018/02/pregnancy2_PD_edited.jpg",
+    "title": "三分之一的美国卫生中心缺乏现场产前护理",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-07-13",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/one-third-of-us-health-centers-lack-onsite-prenatal-care/",
+    "evidence": "A",
+    "summary": "1.在这项横断面研究中，美国三分之一的联邦合格卫生中心（ FQHC ）没有提供现场产前护理……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this cross-sectional study, one-third of federally qualified health centers (FQHCs) in the United States did not provide onsite prenatal care…"
+      }
+    ]
+  },
+  {
+    "id": "ce4fc3f7f24",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "科学家发现大脑不会像我们想象的那样做出决定",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-07-13",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260712011757.htm",
+    "evidence": "B",
+    "summary": "一项新的研究表明，大脑开始做出决定的时间比科学家此前认为的要早得多。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new study suggests the brain begins making decisions much earlier than scientists previously thought.…"
+      }
+    ]
+  },
+  {
+    "id": "ceb31de663a",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "发现吸电子烟或吸烟会使年轻人的健康状况降低15 ％",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-13",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-vaping-young-people.html",
+    "evidence": "B",
+    "summary": "吸电子烟或吸烟的年轻人血管功能下降， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Young people who vape or smoke cigarettes have reduced blood vessel function,…"
+      }
+    ]
+  },
+  {
+    "id": "cf23d2588cf",
+    "systems": [
+      "hormones"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2018/02/diabetes.jpeg",
+    "title": "GLP-1RAs对基础胰岛素停药没有优势",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-07-13",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/glp-1ras-showed-no-advantage-for-basal-insulin-discontinuation/",
+    "evidence": "A",
+    "summary": "1.在这种靶向试验模拟中，启动胰高血糖素样肽-1受体激动剂（ GLP-1RA ）与较高的基础…",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this target trial emulation, initiating a glucagon-like peptide-1 receptor agonist (GLP-1RA) was not associated with higher rates of basal…"
+      }
+    ]
+  },
+  {
+    "id": "cf75485cc20",
+    "systems": [
+      "gut"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2014/01/800px-20101212_200110_LactobacillusAcidophilus.jpg",
+    "title": "研究人员说，肠道保健品行业已经超越了科学",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-07-13",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/the-gut-health-supplement-industry-has-outrun-the-science-researchers-say/",
+    "evidence": "A",
+    "summary": "1. 2026年6月NPR的一项调查发现，商业肠道微生物组市场远远领先于科学的实际支持……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. A June 2026 NPR investigation found the commercial gut microbiome market has run far ahead of what the science actually supports,…"
+      }
+    ]
+  },
+  {
     "id": "c2139fcb9be",
     "systems": [
       "lungs"
