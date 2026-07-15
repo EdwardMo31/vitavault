@@ -1,6 +1,27 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "cef3ba4f7a0",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "担心你年迈的父母？欢迎来到护理俱乐部",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-14",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-aging-parents-caregiving-club.html",
+    "evidence": "B",
+    "summary": "根据2025年皮尤的研究，十分之一的美国人表示他们是65岁或以上父母的照顾者。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "One in 10 Americans say they are a caregiver for a parent 65 or older, according to 2025 Pew research.…"
+      }
+    ]
+  },
+  {
     "id": "c531244ffa9",
     "systems": [
       "whole"
