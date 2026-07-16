@@ -1,6 +1,133 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "cca3126ec17",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "新的研究显示，越来越多的吸烟者从非法来源购买烟草",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-16",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-smokers-buying-tobacco-illicit-sources.html",
+    "evidence": "B",
+    "summary": "发表在《尼古丁与烟草研究》（ Nicotine & Tobacco Research ）杂志上的研究分析了9,996名年龄在16岁及以上的参与者的反复横断面调查数据，这些",
+    "body": [
+      {
+        "t": "p",
+        "x": "Research published in Nicotine & Tobacco Research analyzed repeated cross-sectional survey data from 9,996 participants ages 16 and older who…"
+      }
+    ]
+  },
+  {
+    "id": "cf72c41c2e3",
+    "systems": [
+      "skin"
+    ],
+    "cover": "",
+    "title": "新的光学方法揭示皮肤扫描中看不见的早期胶原蛋白损伤",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-16",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-optical-method-reveals-early-collagen.html",
+    "evidence": "B",
+    "summary": "由广岛大学的研究人员领导的一个国际团队开发了一种新的方法来检测微妙的……",
+    "body": [
+      {
+        "t": "p",
+        "x": "An international team led by researchers at Hiroshima University has developed a new way to detect subtle,…"
+      }
+    ]
+  },
+  {
+    "id": "c19b6e9e72f",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2013/06/meds_edited.jpg",
+    "title": "Foundayo （ Orforglipron ）获批标志着口服GLP-1肥胖治疗时代的开始",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-07-15",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/foundayo-orforglipron-approval-marks-the-beginning-of-the-oral-glp-1-era-for-obesity-treatment/",
+    "evidence": "A",
+    "summary": "1. FDA于2026年4月1日批准了orforglipron （ Foundayo ） ，使其成为第一个被批准用于肥胖的非肽口服GLP-1受体激动剂……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. The FDA approved orforglipron (Foundayo) on April 1, 2026, making it the first non-peptide oral GLP-1 receptor agonist cleared for obesity…"
+      }
+    ]
+  },
+  {
+    "id": "c82b70d653b",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "去博物馆、电影院和剧院可以帮助您的身体保持年轻",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-07-15",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260714225526.htm",
+    "evidence": "B",
+    "summary": "去电影院、参观博物馆或参加音乐会可能不仅仅是娱乐。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Going to the cinema, visiting museums, or attending concerts may do more than entertain.…"
+      }
+    ]
+  },
+  {
+    "id": "c9eee58316a",
+    "systems": [
+      "senses"
+    ],
+    "cover": "",
+    "title": "新生儿筛查：为什么随着测试的扩展，清晰的沟通很重要",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-15",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-newborn-screening-communication.html",
+    "evidence": "B",
+    "summary": "“我想你一直认为这永远不会发生在我身上。“这就是一位家长描述了解到他们的新生婴儿已被识别的方式......",
+    "body": [
+      {
+        "t": "p",
+        "x": "\"I think you always believe it's never going to happen to me.\" That is how one parent described learning that their newborn baby had been identified…"
+      }
+    ]
+  },
+  {
+    "id": "cddb2896cdf",
+    "systems": [
+      "heart",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "甜菜根后咀嚼泡泡糖可能有助于降低血压",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-07-14",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260713084904.htm",
+    "evidence": "B",
+    "summary": "一项新的研究发现，在食用富含硝酸盐的蔬菜或饮用甜菜根汁后咀嚼含糖口香糖有助于身体产生更有益的……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new study found that chewing sugary gum after eating nitrate-rich vegetables or drinking beetroot juice helped the body produce more beneficial…"
+      }
+    ]
+  },
+  {
     "id": "cef3ba4f7a0",
     "systems": [
       "whole"
