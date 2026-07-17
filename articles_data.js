@@ -1,6 +1,174 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c049550f185",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/3t7G9LkjS6TVq2AOwzuXZ5/5be13bb3a3ff8dd38c0c7e226dfb9097/shutterstock_2111357993_Cropped.jpg",
+    "title": "雷暴会让你头疼吗？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-07-17",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/brain-nerves/can-thunderstorms-give-you-a-headache",
+    "evidence": "B",
+    "summary": "雷暴不仅仅是壮观的景色。对于某些人来说，它们也可能产生非常真实的身体影响-包括头痛或偏头痛……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Thunderstorms aren’t just spectacular to watch. For some people, they can also have very real physical effects - including headaches or migraine…"
+      }
+    ]
+  },
+  {
+    "id": "c895665ca9c",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/6dwKMMUSjjk5M20TNsiYed/6da0e37a63c6a6730ea6d44921f71470/shutterstock_2637791851_Cropped.jpg",
+    "title": "今年夏天如何在您的孩子身上发现多动症迹象",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-07-17",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/brain-nerves/how-to-spot-adhd-signs-in-your-child-this-summer",
+    "evidence": "B",
+    "summary": "随着英国学校暑假的到来，许多家长和家庭将比平时花更多的时间在一起。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "With the UK school summer holidays finally here, many parents and families will be spending more time together than usual.…"
+      }
+    ]
+  },
+  {
+    "id": "cb5932d0bff",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/4TDMWHgJvjR9WYxqIChilP/2463ff2f45f97893c0fac405ae399ac1/shutterstock_2445571215_Cropped.jpg",
+    "title": "如何在不觉得自己在锻炼的情况下锻炼身体",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-07-17",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/how-to-workout-without-feeling-like-youre-exercising",
+    "evidence": "B",
+    "summary": "对于我们这些不喜欢运动的人来说，保持身体健康可能是一个挑战。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "For those of us who dislike exercise, staying physically fit and healthy can be a challenge.…"
+      }
+    ]
+  },
+  {
+    "id": "c09d8eed68c",
+    "systems": [
+      "immune"
+    ],
+    "cover": "",
+    "title": "研究发现母乳喂养与儿童过敏之间存在混合关系",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-16",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-associations-breastfeeding-childhood-allergies.html",
+    "evidence": "B",
+    "summary": "母乳喂养因其在支持儿童早期生长和免疫系统发育方面的重要作用而得到广泛认可。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Breastfeeding is widely recognized for its important role in supporting a child's early growth and immune system development.…"
+      }
+    ]
+  },
+  {
+    "id": "c0b7e5b34d7",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2015/01/avascular_necrosis_edited.jpg",
+    "title": "化学去神经干预对于髋关节缺血性坏死的疼痛管理可能是安全有效的",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-07-16",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/a-chemical-denervation-intervention-may-be-safe-and-effective-for-pain-management-in-avascular-necrosis-of-the-hip/",
+    "evidence": "A",
+    "summary": "1.前髋关节囊分支的化学神经分解似乎是AVN相关性髋关节疼痛难治性的一种安全有效的镇痛选择…",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Chemical neurolysis of the anterior hip capsular branches appears to be a safe and effective analgesic option for AVN-related hip pain refractory…"
+      }
+    ]
+  },
+  {
+    "id": "c24f0b663bd",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "研究呼吁日本到2040年重新设计健康和外交",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-16",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-japan-redesign-health-diplomacy.html",
+    "evidence": "B",
+    "summary": "研究人员和政策从业人员的两篇论文提供了基于证据的建议，以帮助日本的卫生系统继续蓬勃发展……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Two papers by researchers and policy practitioners provide evidence-based suggestions to help Japan's health system continue to flourish,…"
+      }
+    ]
+  },
+  {
+    "id": "c6914bf701a",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "面对资金损失，各州呼吁拥有医疗补助计划员工的大企业",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-16",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-funding-losses-states-big-businesses.html",
+    "evidence": "B",
+    "summary": "随着特朗普政府1月份的最后期限迫在眉睫，各州将强制执行新的医疗补助工作要求， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "As the Trump administration's January deadline looms for states to enforce new Medicaid work requirements,…"
+      }
+    ]
+  },
+  {
+    "id": "c95b780544b",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "蔓越莓和南瓜籽是否有助于前列腺肥大？",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-07-16",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/do-cranberries-and-pumpkin-seeds-help-an-enlarged-prostate/",
+    "evidence": "B",
+    "summary": "对蔓越莓和南瓜籽进行良性前列腺肥大测试。超过50%的50多岁男性和至少70%的男性[…]",
+    "body": [
+      {
+        "t": "p",
+        "x": "Cranberries and pumpkin seeds are put to the test for benign prostatic hypertrophy. More than 50% of men in their 50s and at least 70% […]"
+      }
+    ]
+  },
+  {
     "id": "cca3126ec17",
     "systems": [
       "whole"
