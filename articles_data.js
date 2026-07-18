@@ -1,6 +1,48 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c8473b6f4d8",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/P6YacVmXUIE5FHv4BCR0M/0c9d82133aa9f4f65e3021c78cee9859/shutterstock_2251962755_Cropped.jpg",
+    "title": "为什么天气变化时我的关节会疼痛？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-07-18",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/screening-tests/why-do-my-joints-hurt-when-the-weather-changes",
+    "evidence": "B",
+    "summary": "夏季是英国户外活动高峰期。温暖的天气和较长的白天意味着我们更有可能束缚我们的教练跑步， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Summer is peak outdoor activity season in the UK. Warmer weather and longer days mean we’re more likely to lace up our trainers for a run,…"
+      }
+    ]
+  },
+  {
+    "id": "cff0841a22c",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/1hK9VqAxN2mqMsWpZP5sAj/f0e14ce533e362320cf6f11c6bd88e76/fddd1721-a2a9-4506-bd71-ff61bbd4bc5f.jpg",
+    "title": "我的背痛是否需要核磁共振成像？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-07-18",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/screening-tests/do-i-need-an-mri-for-my-back-pain",
+    "evidence": "B",
+    "summary": "背痛是英国在线搜索最多的健康话题之一。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Back pain is one of the most commonly searched health topics online in the UK.…"
+      }
+    ]
+  },
+  {
     "id": "c049550f185",
     "systems": [
       "whole"
@@ -22,6 +64,90 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c08985239be",
+    "systems": [
+      "gut"
+    ],
+    "cover": "",
+    "title": "科学家测试了39种甜味剂，发现了意想不到的肠道效应",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-07-17",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260716023552.htm",
+    "evidence": "B",
+    "summary": "一项大型实验室研究发现，许多常用的甜味剂可以直接改变肠道细菌的生长。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A large laboratory study found that many commonly used sweeteners can directly change the growth of gut bacteria.…"
+      }
+    ]
+  },
+  {
+    "id": "c1a16d3c8ed",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "野火、烟雾和压力导致出生体重下降和更多的早产",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-17",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-wildfires-stress-birth-weight-premature.html",
+    "evidence": "B",
+    "summary": "怀孕期间暴露于野火会对婴儿健康产生负面影响， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Exposure to wildfires during pregnancy has negative effects on infant health,…"
+      }
+    ]
+  },
+  {
+    "id": "c24896d6d70",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "澳大利亚超市未能帮助我们吃更健康的饮食",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-17",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-aussie-supermarkets-healthier-diet.html",
+    "evidence": "B",
+    "summary": "由世界肥胖症联合会（ WOF ）在墨西哥城主办的今年国际肥胖症大会（ ICO2026 ）上发表的新研究报告……",
+    "body": [
+      {
+        "t": "p",
+        "x": "New research presented at this year's International Congress on Obesity (ICO2026), hosted by the World Obesity Federation (WOF) in Mexico City,…"
+      }
+    ]
+  },
+  {
+    "id": "c5dc4a54d45",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "对医生就诊和药物征收销售税？在密苏里州，有些人担心",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-17",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-sales-tax-doctor-medicine-missouri.html",
+    "evidence": "B",
+    "summary": "密苏里州医疗保健倡导者Leslie Ortbals和她的丈夫想组建一个家庭，但她担心他们负担不起。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Missouri health care advocate Leslie Ortbals and her husband want to start a family, but she worries they can't afford it.…"
+      }
+    ]
+  },
+  {
     "id": "c895665ca9c",
     "systems": [
       "whole"
@@ -39,6 +165,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "With the UK school summer holidays finally here, many parents and families will be spending more time together than usual.…"
+      }
+    ]
+  },
+  {
+    "id": "c8dd2400424",
+    "systems": [
+      "lungs"
+    ],
+    "cover": "",
+    "title": "空气污染混合物可能在怀孕期间构成隐患",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-17",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-air-pollution-mixtures-pose-hidden.html",
+    "evidence": "B",
+    "summary": "怀孕会增加身体对氧气的需求，因此孕妇在一天中呼吸更多的空气。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Pregnancy puts higher oxygen demand on the body, so expectant mothers breathe significantly more air over the course of a day.…"
       }
     ]
   },
