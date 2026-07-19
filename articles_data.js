@@ -1,6 +1,71 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c07a8a2033a",
+    "systems": [
+      "brain",
+      "senses"
+    ],
+    "cover": "",
+    "title": "设计更好的气候研究始于理解人类情感",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-18",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-climate-human-emotions.html",
+    "evidence": "B",
+    "summary": "您是否曾经看过肆虐的野火、被洪水淹没的街区或饥饿的北极熊的照片，并立即感受到眼前的一些东西……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Have you ever looked at a photograph of a raging wildfire, a flooded neighborhood or a starving polar bear and immediately felt something before you…"
+      }
+    ]
+  },
+  {
+    "id": "c3ce0a96c63",
+    "systems": [
+      "senses"
+    ],
+    "cover": "",
+    "title": "间歇性禁食帮助人们减肥一年",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-07-18",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260718010154.htm",
+    "evidence": "B",
+    "summary": "一项为期12周的间歇性禁食计划产生了减肥益处，一年后仍然可见。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A 12-week intermittent fasting program produced weight-loss benefits that were still visible a year later.…"
+      }
+    ]
+  },
+  {
+    "id": "c781dac050a",
+    "systems": [
+      "brain",
+      "whole"
+    ],
+    "cover": "",
+    "title": "与大脑更快老化相关的流行糖替代品",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-07-18",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260717033213.htm",
+    "evidence": "B",
+    "summary": "几种流行的糖替代品可能并不像它们看起来那么无害。食用最多人工甜味剂的成年人表现出更快的速度……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Several popular sugar substitutes may not be as harmless as they seem. Adults who consumed the most artificial sweeteners showed substantially faster…"
+      }
+    ]
+  },
+  {
     "id": "c8473b6f4d8",
     "systems": [
       "muscles"
@@ -43,6 +108,27 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c0009130ce2",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "地中海饮食可以激活保护心脏和大脑的微小蛋白质",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-07-17",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260716023605.htm",
+    "evidence": "B",
+    "summary": "地中海饮食可能通过细胞线粒体内产生的微小蛋白质影响衰老。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The Mediterranean diet may influence aging through tiny proteins produced inside the cell’s mitochondria.…"
+      }
+    ]
+  },
+  {
     "id": "c049550f185",
     "systems": [
       "whole"
@@ -81,6 +167,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "A large laboratory study found that many commonly used sweeteners can directly change the growth of gut bacteria.…"
+      }
+    ]
+  },
+  {
+    "id": "c1126e1a788",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "饮用水中的微小塑料可能会使危险细菌变得更强",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-07-17",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260714225532.htm",
+    "evidence": "B",
+    "summary": "饮用水中的微小塑料颗粒可能不仅仅会污染环境。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Tiny plastic particles in drinking water may be doing more than contaminating the environment.…"
       }
     ]
   },
