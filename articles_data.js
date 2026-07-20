@@ -1,6 +1,69 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c5a95cae398",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "研究确定时间营养是产后减肥的可行方法",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-20",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-chrononutrition-viable-approach-postpartum-weight.html",
+    "evidence": "B",
+    "summary": "新的研究发现，与女性现有的常规饮食习惯最接近的饮食习惯显示出有望在产后减轻婴儿体重， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "New research has found that eating habits that align most closely with a woman's existing routine show promise for losing postpartum baby weight,…"
+      }
+    ]
+  },
+  {
+    "id": "c3d398b3700",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "怀孕期间体重过度增加会增加严重并发症的风险，无论您的体重如何",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-19",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-excessive-weight-gain-pregnancy-complications.html",
+    "evidence": "B",
+    "summary": "一项针对100多万女性的研究发现，怀孕期间体重过度增加与潜在的……风险增加有关",
+    "body": [
+      {
+        "t": "p",
+        "x": "A study of more than 1 million women has found that excessive weight gain during pregnancy is linked to an increased risk of potentially…"
+      }
+    ]
+  },
+  {
+    "id": "cd89662d106",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "创伤后健康老龄化的韧性显示了什么？",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-19",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-resilience-healthy-aging-trauma.html",
+    "evidence": "B",
+    "summary": "一项具有里程碑意义的研究始于2021年，旨在了解越南裔美国人的战时创伤，该研究获得了13.3 $的额外资金，用于研究……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A landmark study that started in 2021 to learn about wartime trauma among Vietnamese Americans has received an additional $13.3 in funding to delve…"
+      }
+    ]
+  },
+  {
     "id": "c07a8a2033a",
     "systems": [
       "brain",
