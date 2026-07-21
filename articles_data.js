@@ -1,6 +1,27 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c06f7a6d869",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "Reddit数据显示，随着愤怒超过疫情水平，联邦卫生工作者达到了临界点",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-20",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-reddit-reveals-federal-health-workers.html",
+    "evidence": "B",
+    "summary": "随着联邦优先事项的转变，机构的全面重组和大幅削减资金继续重塑美国的公共卫生基础设施， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "As shifting federal priorities, sweeping agency restructurings and deep funding cuts continue to reshape the American public health infrastructure,…"
+      }
+    ]
+  },
+  {
     "id": "c5a95cae398",
     "systems": [
       "nutrition"
@@ -18,6 +39,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "New research has found that eating habits that align most closely with a woman's existing routine show promise for losing postpartum baby weight,…"
+      }
+    ]
+  },
+  {
+    "id": "c9218830d13",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "超加工食品公司如何欺骗我们，使我们认为他们的产品比其他产品“更健康”",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-20",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-ultra-food-firms-hoodwink-products.html",
+    "evidence": "B",
+    "summary": "在墨西哥墨西哥城由世界肥胖症联合会（ WOF ）主办的国际肥胖症大会（ ICO2026 ）上发表的新研究报告……",
+    "body": [
+      {
+        "t": "p",
+        "x": "New research presented at the International Congress on Obesity (ICO2026), hosted by the World Obesity Federation (WOF) in Mexico City, Mexico,…"
       }
     ]
   },
