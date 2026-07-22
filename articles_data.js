@@ -1,6 +1,153 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c22b0075b9d",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "四分之一的美国工人报告说，他们因健康保险而留在不需要的工作岗位上",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-22",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-american-workers-staying-unwanted-jobs.html",
+    "evidence": "B",
+    "summary": "近四分之一的美国工人（ 24% ）表示，他们目前正在从事他们想辞职的工作，但仍留在雇主那里享受健康保险……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Nearly one in four U.S. workers (24%) say they are currently in jobs they want to quit but stay with their employer for the health insurance,…"
+      }
+    ]
+  },
+  {
+    "id": "c60f332e89d",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/4mKPcm5JXV3a6xj6h4rJZb/4a0e1c3ddb1f8157ceb986840d865ba3/herbal-medicine.jpg",
+    "title": "草药真的有效吗？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-07-22",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/treatment-medication/do-herbal-medicine-alternative-remedies-really-work",
+    "evidence": "B",
+    "summary": "几个世纪以来，草药一直被用于治疗各种健康状况。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Herbal medicines have been used for centuries to treat a wide range of health conditions.…"
+      }
+    ]
+  },
+  {
+    "id": "c96c8ab3b4d",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "神奇蘑菇可能会在旅行结束后很长一段时间重塑大脑",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-07-22",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260719040005.htm",
+    "evidence": "B",
+    "summary": "单剂量的裸盖菇素可使大脑活动发生可测量的变化，并可能使大脑结构发生持续长达一个月的变化。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A single dose of psilocybin produced measurable changes in brain activity and possible changes in brain structure that lasted for up to a month.…"
+      }
+    ]
+  },
+  {
+    "id": "c373045525f",
+    "systems": [
+      "senses"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2016/03/hospital.jpg",
+    "title": "NHS向505,000名临床医生推出Microsoft Copilot",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-07-21",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/nhs-rolls-out-microsoft-copilot-to-505000-clinicians/",
+    "evidence": "A",
+    "summary": "1. ARPA-H于2026年6月为倡导者计划选择了创新团队，这是一项为期三年的联邦资助工作，旨在建立第一个FDA授权的......",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. ARPA-H selected innovation teams in June 2026 for the ADVOCATE program, a three-year federally funded effort to build the first FDA-authorized…"
+      }
+    ]
+  },
+  {
+    "id": "c4e05417f82",
+    "systems": [
+      "heart"
+    ],
+    "cover": "",
+    "title": "咖啡可以保护你的心脏，但能量饮料可能会伤害它",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-07-21",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260721000820.htm",
+    "evidence": "B",
+    "summary": "对于大多数成年人来说，每天摄入咖啡因的习惯可能比许多人想象的更安全。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "For most adults, a daily caffeine habit may be safer for the heart than many people assume.…"
+      }
+    ]
+  },
+  {
+    "id": "ccaad1296b1",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "矿物质摄入量建议只有六分之一的美国成年人符合",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-07-21",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/the-mineral-intake-recommendations-only-1-in-6000-u-s-adults-meet/",
+    "evidence": "B",
+    "summary": "令人震惊的是， 99.99%的美国人未能达到最低推荐钾摄入量（尽管它可能只是我们自然摄入量的一半） ，而且……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A staggering 99.99% of Americans fail to get the minimum recommended potassium intake (despite it being perhaps only half of our natural intake) and…"
+      }
+    ]
+  },
+  {
+    "id": "cdb48b54b38",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "中年时看太多电视可能会使大脑萎缩",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-07-21",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260721000822.htm",
+    "evidence": "B",
+    "summary": "中年时经常看电视可能与几十年后令人不安的大脑变化有关。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Watching television very often in midlife may be linked to troubling brain changes decades later.…"
+      }
+    ]
+  },
+  {
     "id": "c06f7a6d869",
     "systems": [
       "whole"
