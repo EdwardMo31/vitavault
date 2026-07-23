@@ -1,6 +1,48 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c9fd73509b7",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/1dga5Boj3Sv6JYWh9Ygb87/8b26930c8fe049251daf33b6523a63ec/shutterstock_1106734796_Cropped-2.jpg",
+    "title": "生牛奶-它实际上对您有好处，还是只是另一种健康趋势？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-07-23",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/diet-and-nutrition/raw-milk-is-it-actually-good-for-you-or-just-another-wellness-trend",
+    "evidence": "B",
+    "summary": "生牛奶是从奶牛身上收集后未经巴氏杀菌的牛奶。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Raw milk is milk that hasn't been pasteurised after it's collected from the cow.…"
+      }
+    ]
+  },
+  {
+    "id": "cb0e987deb0",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/2ZuFOaPM2vNP7joM3BnHBh/8048d02defa1394465f43abcb05c4063/shutterstock_2017629956_Cropped.jpg",
+    "title": "你的饮食可能是你最好的抗衰老秘诀吗？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-07-23",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/diet-and-nutrition/could-your-diet-be-your-best-anti-ageing-secret",
+    "evidence": "B",
+    "summary": "当我们想到抗衰老时，我们的注意力往往转向外在的迹象--皱纹更少，身材更修剪，头发不太受灰色影响。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "When we think about anti-ageing, our attention often turns to outward signs - fewer wrinkles, a trimmer figure, and hair less touched by grey.…"
+      }
+    ]
+  },
+  {
     "id": "c22b0075b9d",
     "systems": [
       "whole"
@@ -43,6 +85,27 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c7ff324615c",
+    "systems": [
+      "senses"
+    ],
+    "cover": "",
+    "title": "纽约及其他地区的代理机构在阿片类药物现金监管方面承担责任",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-22",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-agencies-york-buck-opioid-cash.html",
+    "evidence": "B",
+    "summary": "被指控肆无忌惮地营销和分销处方阿片类止痛药的公司正在支付约580亿美元（ $ 580亿美元）来解决与……有关的诉讼",
+    "body": [
+      {
+        "t": "p",
+        "x": "Companies accused of recklessly marketing and distributing prescription opioid painkillers are paying roughly $58 billion to settle lawsuits over…"
+      }
+    ]
+  },
+  {
     "id": "c96c8ab3b4d",
     "systems": [
       "brain"
@@ -60,6 +123,48 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "A single dose of psilocybin produced measurable changes in brain activity and possible changes in brain structure that lasted for up to a month.…"
+      }
+    ]
+  },
+  {
+    "id": "cdd1e79047a",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "红外线桑拿能改善锻炼恢复吗？证据仍然不冷不热",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-22",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-infrared-saunas-workout-recovery-evidence.html",
+    "evidence": "B",
+    "summary": "红外桑拿正越来越多地作为一种运动后恢复工具进行销售，可以减轻疼痛和疲劳， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Infrared saunas are increasingly marketed as a post-exercise recovery tool that can reduce pain and fatigue,…"
+      }
+    ]
+  },
+  {
+    "id": "cfc06935b42",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "2008年至2023年肝硬化病因的转变",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-22",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-shift-cirrhosis.html",
+    "evidence": "B",
+    "summary": "在过去十年中，美国肝硬化负担的流行病学发生了重大变化， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "There have been substantial epidemiological shifts in the burden of cirrhosis in the United States during the past decade,…"
       }
     ]
   },
@@ -207,6 +312,28 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "New research presented at the International Congress on Obesity (ICO2026), hosted by the World Obesity Federation (WOF) in Mexico City, Mexico,…"
+      }
+    ]
+  },
+  {
+    "id": "cb96cfdb640",
+    "systems": [
+      "heart",
+      "immune"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2025/05/Untitled-design.png",
+    "title": "2MM ： AI综述：英格兰NHS在全国范围内扩展Microsoft Copilot ， ARPA-H推进自主心血管AI ， FDA顾问支持Moderna的mRNA流感疫苗， UpDoc获得面向患者的大型语言模型的首次许可",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-07-20",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/2mm-ai-roundup-food-and-drug-administration-reviews-liver-injury-prediction-tool-joint-commission-launches-healthcare-artificial-intelligence-certification-governance-playbooks-aim-to-standardize-2/",
+    "evidence": "A",
+    "summary": "经过3万人的试验，英格兰NHS正在向505,000名临床医生推出Microsoft Copilot ，每天节省近一个小时的管理时间最近，...",
+    "body": [
+      {
+        "t": "p",
+        "x": "NHS England is rolling out Microsoft Copilot to 505,000 clinicians after a 30,000-person trial saved nearly an hour of admin time per day Recently,…"
       }
     ]
   },
