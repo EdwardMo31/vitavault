@@ -1,6 +1,133 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c382812226b",
+    "systems": [
+      "immune"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/2IWxre5A1aNRsgbyoZxHhc/1a6b14c8c5af03ff1102e5562a42d0ce/shutterstock_2719786615_Cropped.jpg",
+    "title": "开始为学生推出乙型脑膜炎疫苗–您需要了解的信息",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-07-24",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/health-news/meningitis-b-vaccine-rollout-begins-for-students-what-you-need-to-know",
+    "evidence": "B",
+    "summary": "今年秋天上大学或住宿学院的数千名学生将有资格免费接种脑膜炎球菌B组（ MenB ）疫苗， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Thousands of students heading to university or residential college this autumn will be eligible for a free meningococcal group B (MenB) vaccine,…"
+      }
+    ]
+  },
+  {
+    "id": "c9426074ae5",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/6v2ca9NXhNidKHlKB1kham/b5f0f7a6d27bbbecdf91ccb2425b7891/shutterstock_2791365265_Cropped.jpg",
+    "title": "如何变得更加灵活",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-07-24",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/how-to-become-more-flexible",
+    "evidence": "B",
+    "summary": "“灵活性”这个词让人联想到一个高级瑜伽士被捆绑在一起的形象。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The word flexibility conjures up an image of an advanced yogi becoming tied up in knots.…"
+      }
+    ]
+  },
+  {
+    "id": "c2930e44349",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "民意调查：成本是中期选民的首要医疗保健问题，但欺诈在共和党名单中名列前茅",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-23",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-poll-health-issue-midterm-voters.html",
+    "evidence": "B",
+    "summary": "医疗保健费用在中期选举的选民医疗保健优先事项清单中排名第一， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Health care costs top the list of voters' health care priorities for the midterm elections,…"
+      }
+    ]
+  },
+  {
+    "id": "c2f7991d160",
+    "systems": [
+      "senses",
+      "heart"
+    ],
+    "cover": "",
+    "title": "流行的儿童饮料可能会在几十年后升高血压",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-07-23",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260722032121.htm",
+    "evidence": "B",
+    "summary": "一项为期25年的研究发现，从童年开始频繁饮用苏打水、运动饮料和果汁与高…",
+    "body": [
+      {
+        "t": "p",
+        "x": "A 25-year study found that frequent consumption of soda, sports drinks, and fruit juice beginning in childhood was linked to a higher risk of high…"
+      }
+    ]
+  },
+  {
+    "id": "c417e96efa4",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "持续的金钱斗争与更快的大脑衰老有关",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-23",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-persistent-money-struggles-faster-brain.html",
+    "evidence": "B",
+    "summary": "根据伦敦大学学院（ UCL ）研究人员领导的一项新研究，持续的经济困难加速了与年龄相关的认知能力下降。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Persistent financial hardship accelerates age-related cognitive decline, according to a new study led by University College London (UCL) researchers.…"
+      }
+    ]
+  },
+  {
+    "id": "c7e8638a5ea",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "氯化钾盐替代品是否值得尝试？",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-07-23",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/are-potassium-chloride-salt-substitutes-worth-trying/",
+    "evidence": "B",
+    "summary": "氯化钾通过减少钠摄入量和增加钾摄入量是双赢的吗？ ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Is potassium chloride a win-win by decreasing sodium intake and increasing potassium intake?…"
+      }
+    ]
+  },
+  {
     "id": "c9fd73509b7",
     "systems": [
       "whole"
