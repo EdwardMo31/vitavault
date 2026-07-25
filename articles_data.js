@@ -1,6 +1,27 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c1621b73233",
+    "systems": [
+      "heart"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/5L4fbvAMPXNHMkfPxbMeRp/baa1249243836c2bafbf072c6e01b7b8/how-diet-affects-heart.jpg",
+    "title": "饮食如何影响你的心脏",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-07-25",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/heart-health/how-your-diet-affects-your-heart",
+    "evidence": "B",
+    "summary": "“你就是你吃的东西”这句话在你的心中最为真实。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The expression 'you are what you eat' is most true of all where your heart is concerned.…"
+      }
+    ]
+  },
+  {
     "id": "c382812226b",
     "systems": [
       "immune"
@@ -18,6 +39,49 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Thousands of students heading to university or residential college this autumn will be eligible for a free meningococcal group B (MenB) vaccine,…"
+      }
+    ]
+  },
+  {
+    "id": "c4147a64ff0",
+    "systems": [
+      "brain",
+      "senses"
+    ],
+    "cover": "",
+    "title": "大规模大脑分析揭示了安慰剂对疼痛影响的多种途径",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-24",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-large-scale-brain-analysis-reveals.html",
+    "evidence": "B",
+    "summary": "科学家早就知道期望可以减轻疼痛。尚不清楚的是，产生安慰剂效应的不同方式是否依赖于……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists have long known that expectations can reduce pain. What remained unclear was whether different ways of generating placebo effects rely on…"
+      }
+    ]
+  },
+  {
+    "id": "c6b71ab2c02",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "许多美国学校没有准备好帮助脑震荡的学生重返教室",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-24",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-schools-unprepared-concussed-students-classroom.html",
+    "evidence": "B",
+    "summary": "一项新的研究表明，许多美国学校没有做好准备来帮助遭受脑震荡的学生。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Many U.S. schools aren't well prepared to help students who've suffered a concussion, a new study says.…"
       }
     ]
   },
