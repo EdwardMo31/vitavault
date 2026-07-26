@@ -22,6 +22,69 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c6b0dcb3ee4",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "咳嗽含片、糖浆或药物热饮会使我的咳嗽消失吗？",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-25",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-lozenges-syrups-medicated-hot.html",
+    "evidence": "B",
+    "summary": "没有什么比躺在床上疲惫不堪，准备好安顿下来好好睡一觉更让人恼火的了……",
+    "body": [
+      {
+        "t": "p",
+        "x": "There are few things more irritating than lying in bed exhausted, ready to settle in for a good night's sleep,…"
+      }
+    ]
+  },
+  {
+    "id": "c99afa93c53",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "基于照片的卡路里追踪应用程序可能会低估餐点能量",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-25",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-photo-based-calorie-tracking-apps.html",
+    "evidence": "B",
+    "summary": "得益于人工智能的进步，流行的卡路里跟踪应用程序现在可以使用一顿饭的照片来估计你所吃食物的营养成分。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Thanks to advances in AI, popular calorie-tracking apps can now use a photo of a meal to estimate the nutritional content of what you're eating.…"
+      }
+    ]
+  },
+  {
+    "id": "cf00ead99a4",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "美国专家组认可更多未经证实的如果嗡嗡声肽",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-25",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-panel-endorses-unproven-buzzy-peptides.html",
+    "evidence": "B",
+    "summary": "周五，美国的一个审查小组建议放宽对所有肽的限制，但其中一种肽除外， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A U.S. review panel on Friday recommended loosening restrictions on all but one of a buzzy class of peptides,…"
+      }
+    ]
+  },
+  {
     "id": "c382812226b",
     "systems": [
       "immune"
