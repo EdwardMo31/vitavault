@@ -1,6 +1,153 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c5b52dffaee",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "美国民意调查显示，许多年轻人可能还没有准备好管理自己的医疗保健",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-27",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-poll-reveals-young-adults-ready.html",
+    "evidence": "B",
+    "summary": "一项新的全国民意调查显示，许多年轻人可能在进入成年期时没有管理自己医疗保健所需的实用技能。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Many young adults may be entering adulthood without the practical skills needed to manage their own health care, suggests a new national poll.…"
+      }
+    ]
+  },
+  {
+    "id": "cf3d2dbb0d6",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "急诊医生倦怠：十分之一的人离开加拿大的专业",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-27",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-emergency-physician-burnout-specialty-canada.html",
+    "evidence": "B",
+    "summary": "倦怠迫使急诊医生离开专业或减少临床时间， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Burnout is pushing emergency physicians to leave the specialty or reduce clinical hours,…"
+      }
+    ]
+  },
+  {
+    "id": "c49cca73007",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "您的AI卡路里跟踪应用程序可能会关闭345卡路里",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-07-26",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260726015237.htm",
+    "evidence": "B",
+    "summary": "流行的人工智能食品应用程序可能会让计算卡路里变得更容易，但它们也可能会遗漏很大一部分食物。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Popular AI-powered food apps may make calorie counting easier, but they may also leave out a surprisingly large part of the meal.…"
+      }
+    ]
+  },
+  {
+    "id": "c80d615c32c",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "研究发现，工作记忆在分心后会迅速更新其优先事项",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-26",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-memory-rapidly-priorities-distractions.html",
+    "evidence": "B",
+    "summary": "当人类处理许多日常任务时，从开车到完成家务和工作任务， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "When humans tackle many everyday tasks, ranging from driving to completing household chores and work assignments,…"
+      }
+    ]
+  },
+  {
+    "id": "ca405ef14f6",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "睾丸激素和战斗准备：证据真正显示了什么？",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-26",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-testosterone-combat-readiness-evidence.html",
+    "evidence": "B",
+    "summary": "美国国防部长皮特·黑格塞斯（ Pete Hegseth ）最近宣布了测量美国睾丸激素水平的计划。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Pete Hegseth, the U.S. defense secretary, recently announced plans to measure testosterone levels in U.S.…"
+      }
+    ]
+  },
+  {
+    "id": "cac84182887",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "幕后：互联网上最令人毛骨悚然的地方正在成为一个旅游景点",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-07-26",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260726015254.htm",
+    "evidence": "B",
+    "summary": "《密室》一开始是空荡荡的黄色房间，但互联网用户把它变成了一个巨大的虚构世界，感觉……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The Backrooms began as a single eerie image of empty yellow rooms, but internet users transformed it into a vast fictional world that feels…"
+      }
+    ]
+  },
+  {
+    "id": "cf764a54415",
+    "systems": [
+      "senses"
+    ],
+    "cover": "",
+    "title": "孩子们确实会感到寒冷，所以他们为什么不穿毛衣呢？",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-26",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-kids-cold-wont-sweater.html",
+    "evidence": "B",
+    "summary": "当您需要离开时，就会发生这种情况。收拾好行李，穿上鞋子。然后你的孩子决定不可能穿毛衣。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "It happens just when you need to leave. Bags are packed. Shoes are on. Then your child decides a sweater is impossible.…"
+      }
+    ]
+  },
+  {
     "id": "c1621b73233",
     "systems": [
       "heart"
