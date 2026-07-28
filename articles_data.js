@@ -1,6 +1,48 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "cb95b0ce541",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/3yPHwTpDztsuGhQM4P0sAN/47329bd6b8d83b34fc4f4418e9c37db3/shutterstock_2674775287__1__Cropped.jpg",
+    "title": "成年人可以患哪些儿童疾病？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-07-28",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/childrens-health/childhood-illnesses-that-can-strike-adults",
+    "evidence": "B",
+    "summary": "许多疾病通常与儿童有关，但成年人也可能患上这些疾病。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Many illnesses are commonly associated with children, but adults can catch them too.…"
+      }
+    ]
+  },
+  {
+    "id": "c2c379d6f98",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "在8小时内进食可能有助于保持老化大脑的敏锐",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-07-27",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260727012125.htm",
+    "evidence": "B",
+    "summary": "随着人们年龄的增长，在较短的日常窗口内进食可能有助于保护某些思维技能。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Eating within a shorter daily window may help protect certain thinking skills as people age.…"
+      }
+    ]
+  },
+  {
     "id": "c5b52dffaee",
     "systems": [
       "whole"
@@ -18,6 +60,69 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Many young adults may be entering adulthood without the practical skills needed to manage their own health care, suggests a new national poll.…"
+      }
+    ]
+  },
+  {
+    "id": "c66d4ba30ea",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "微藻的超大玻璃壳揭示了对医学成像有价值的光学效应",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-27",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-supersized-glassy-shell-microalgae-reveals.html",
+    "evidence": "B",
+    "summary": "来自VEB.RF小组机构Skoltech的研究人员和他们在库尔恰托夫研究所的同事……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers from Skoltech—a VEB.RF group institution—and their colleagues at the Kurchatov Institute,…"
+      }
+    ]
+  },
+  {
+    "id": "c8764ff00e4",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "三分之一的女性和四分之一的男性进行有意的户外晒黑",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-27",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-women-men-engage-intentional-outdoor.html",
+    "evidence": "B",
+    "summary": "近三分之一的女性和四分之一的男性从事有意的户外晒黑，根据年龄、种族、……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Nearly one-third of women and one-quarter of men engage in intentional outdoor tanning, with variation observed by age, race,…"
+      }
+    ]
+  },
+  {
+    "id": "cf0c3ff2faa",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "科学家揭示了苏打水对牙齿的真正影响",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-07-27",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260727012126.htm",
+    "evidence": "B",
+    "summary": "不加糖的苏打水可能是含糖苏打水的牙齿友好型替代品， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Unsweetened sparkling water may offer a tooth-friendlier alternative to sugary soda,…"
       }
     ]
   },
