@@ -1,6 +1,90 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c03e78fd29f",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "澳大利亚原住民希望更频繁地使用文化药物，但仍然难以获得",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-28",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-indigenous-australians-cultural-medicines-access.html",
+    "evidence": "B",
+    "summary": "原住民说，尽管缺乏获得文化药物的机会，但文化药物仍然是健康和福祉的核心。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "First Peoples say cultural medicines remain central to health and well-being despite a lack of access.…"
+      }
+    ]
+  },
+  {
+    "id": "c097d379a80",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "尽管欧洲在消除肝炎方面取得了进展，但预防措施方面的差距使2030年目标无法实现",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-28",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-hepatitis-europe-gaps.html",
+    "evidence": "B",
+    "summary": "虽然欧洲在预防乙型肝炎和丙型肝炎方面取得了稳步进展，但现在儿童中的乙型肝炎患病率接近于零……",
+    "body": [
+      {
+        "t": "p",
+        "x": "While Europe has made steady progress in preventing hepatitis B and C, with the prevalence of hepatitis B now at near-zero levels among children…"
+      }
+    ]
+  },
+  {
+    "id": "c8eb0c1c3a1",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "氯化钾盐替代品安全有效吗？",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-07-28",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/are-potassium-chloride-salt-substitutes-safe-and-effective/",
+    "evidence": "B",
+    "summary": "钾的排泄需要健康的肾脏。如果您不确定自己是否有风险， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Healthy kidneys are required for potassium excretion. If you aren’t sure if you’re at risk,…"
+      }
+    ]
+  },
+  {
+    "id": "cb7bf68b808",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "较弱的休息活动节律，与膀胱过度活动相关的不良睡眠特征",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-28",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-weaker-rest-rhythm-unfavorable-profile.html",
+    "evidence": "B",
+    "summary": "较弱的休息活动节律（ RAR ）和不利的睡眠状况与较高的膀胱过度活动症（ OAB ）患病率相关， …",
+    "body": [
+      {
+        "t": "p",
+        "x": "Weaker rest-activity rhythms (RARs) and unfavorable sleep profiles are associated with a higher prevalence of overactive bladder (OAB),…"
+      }
+    ]
+  },
+  {
     "id": "cb95b0ce541",
     "systems": [
       "whole"
@@ -333,6 +417,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "A U.S. review panel on Friday recommended loosening restrictions on all but one of a buzzy class of peptides,…"
+      }
+    ]
+  },
+  {
+    "id": "c0de9ebed9f",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2016/04/computer_PD-edited.jpg",
+    "title": "UpDoc获得临床护理中面向患者的大型语言模型的首次FDA批准",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-07-24",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/updoc-receives-the-first-fda-clearance-for-a-patient-facing-large-language-model-in-clinical-care/",
+    "evidence": "A",
+    "summary": "1. UpDoc于2026年6月25日获得FDA批准，首个面向患者的大型语言模型已作为医疗器械软件获得批准， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. UpDoc received FDA clearance on June 25, 2026 for the first patient-facing large language model cleared as a Software as a Medical Device,…"
       }
     ]
   },
