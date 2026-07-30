@@ -1,6 +1,175 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c711b6ade36",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/5DN0TOifcDlABTHDgOVphp/f3670df65e11b526b8357fde9836f3f1/shutterstock_2734163489_Cropped.jpg",
+    "title": "锻炼肌肉的最佳阻力带锻炼",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-07-30",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/bones-joints-muscles/the-best-resistance-band-workouts-to-build-muscle",
+    "evidence": "B",
+    "summary": "阻力带是提高力量训练程序质量的好方法。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Resistance bands are a great way to improve the quality of your strength training routine.…"
+      }
+    ]
+  },
+  {
+    "id": "ce6a118135f",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/NFWkZIWpet13YiKPQg5sq/be0e5c5d8bdcd5ad480fad1d1dde2043/shutterstock_2207449775_Cropped.jpg",
+    "title": "什么是森林浴，它能改善您的健康吗？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-07-30",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/what-is-forest-bathing-and-can-it-improve-your-health",
+    "evidence": "B",
+    "summary": "生活可能会感到非常忙碌和不知所措。我们花了很多时间低头看手机屏幕，以至于我们的思想和脖子……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Life can feel pretty busy and overwhelming. We spend so much time looking down at our phone screens, that our minds, and our necks,…"
+      }
+    ]
+  },
+  {
+    "id": "c2aefea5021",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "急性胰腺炎在南澳大利亚州呈上升趋势，世卫组织面临风险",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-29",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-acute-pancreatitis-south-australia-shift.html",
+    "evidence": "B",
+    "summary": "南澳大利亚的急性胰腺炎发病率上升速度快于预期，新研究显示发病率高于全球平均水平，攀升幅度最大……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Acute pancreatitis is rising faster than expected in South Australia, with new research revealing rates above the global average and climbing most…"
+      }
+    ]
+  },
+  {
+    "id": "c941af3a440",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "在高温下睡不着？这8个技巧可以挽救您的夜晚",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-07-29",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260729010722.htm",
+    "evidence": "B",
+    "summary": "在热浪中睡个好觉，首先要防止房子过热。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Sleeping well during a heatwave starts with stopping the home from overheating.…"
+      }
+    ]
+  },
+  {
+    "id": "caec9b19e06",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "新的微波煎炸方法可以使炸薯条更健康",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-07-29",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm",
+    "evidence": "B",
+    "summary": "一种新的烹饪方法可以在更短的时间内使炸薯条更酥脆，同时显着限制它们吸收的油量。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new cooking method could make French fries crispier in less time while significantly limiting how much oil they absorb.…"
+      }
+    ]
+  },
+  {
+    "id": "cdc7177082d",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "与BMI相比，体脂百分比可能是男性生殖健康的更好指标",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-29",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-percentage-body-fat-indicator-men.html",
+    "evidence": "B",
+    "summary": "与体重指数（ BMI ）相比，男性的体脂百分比可能是其生殖健康的一个更好的指标， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A man's body fat percentage may be a better indicator of his reproductive health than body mass index (BMI),…"
+      }
+    ]
+  },
+  {
+    "id": "ce896e64d21",
+    "systems": [
+      "brain",
+      "gut"
+    ],
+    "cover": "",
+    "title": "你的直觉可能会帮助你的大脑决定要记住什么",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-07-29",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260729010713.htm",
+    "evidence": "B",
+    "summary": "从肠道到大脑的信号可能有助于将食物变成持久的记忆。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Signals traveling from the gut to the brain may help turn meals into lasting memories.…"
+      }
+    ]
+  },
+  {
+    "id": "cf4b642b2e3",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "研究表明，英国异位妊娠住院率上升",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-29",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-hospital-admissions-ectopic-pregnancy-england.html",
+    "evidence": "B",
+    "summary": "利物浦大学的研究人员已经确定，英格兰因异位妊娠（当受精卵植入外面时…",
+    "body": [
+      {
+        "t": "p",
+        "x": "University of Liverpool researchers have identified that hospital admissions in England for ectopic pregnancy (when a fertilized egg implants outside…"
+      }
+    ]
+  },
+  {
     "id": "c03e78fd29f",
     "systems": [
       "whole"
@@ -102,6 +271,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Many illnesses are commonly associated with children, but adults can catch them too.…"
+      }
+    ]
+  },
+  {
+    "id": "cd0af0c7b10",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "五分之四的幼儿食品经过超加工",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-07-28",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260727012128.htm",
+    "evidence": "B",
+    "summary": "杂货店的审计发现，许多面向幼儿销售的食品可能远不如父母的预期健康。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A grocery-store audit found that many foods marketed for toddlers may be far less healthy than parents expect.…"
       }
     ]
   },
