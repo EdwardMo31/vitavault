@@ -1,6 +1,49 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c607f6bebdd",
+    "systems": [
+      "gut",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "肠道渗漏可能会使食物过敏恶化",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-31",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-leaky-gut-food-allergies-worse.html",
+    "evidence": "B",
+    "summary": "根据在小鼠身上进行并发表在《免疫学杂志》上的新研究， “肠道渗漏”可能会增加食物过敏的严重程度。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A \"leaky gut\" might increase the severity of food allergies, according to new research conducted in mice and published in The Journal of Immunology.…"
+      }
+    ]
+  },
+  {
+    "id": "c68176f9eac",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2017/08/scale3_PD_final.jpg",
+    "title": "在使用激素避孕的育龄妇女中，使用semaglutide控制体重更为常见",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-07-30",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/use-of-semaglutide-for-weight-control-among-women-of-reproductive-age-is-more-common-in-those-using-hormonal-contraception/",
+    "evidence": "A",
+    "summary": "1.在一项嵌套病例对照研究中，激素避孕的使用与随后更高水平的semaglutide开始体重控制相关……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Among a nested case-control study, use of hormonal contraception was associated with higher subsequent semaglutide initiation for weight control…"
+      }
+    ]
+  },
+  {
     "id": "c711b6ade36",
     "systems": [
       "muscles"
@@ -39,6 +82,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Life can feel pretty busy and overwhelming. We spend so much time looking down at our phone screens, that our minds, and our necks,…"
+      }
+    ]
+  },
+  {
+    "id": "cfec587d499",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "蛋白质争论：为什么来源比数量更重要",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-07-30",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/the-protein-debate-why-source-matters-more-than-amount/",
+    "evidence": "B",
+    "summary": "我讨论了一个现代化蛋白质质量定义的公共卫生案例。2019年， Dr....",
+    "body": [
+      {
+        "t": "p",
+        "x": "I discuss a public health case for modernizing the definition of protein quality. In 2019, Dr.…"
       }
     ]
   },
