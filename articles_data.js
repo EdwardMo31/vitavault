@@ -1,6 +1,69 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c0cbddfafc2",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "前72小时：医院常规可能会破坏母乳喂养",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-01",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-hours-hospital-routines-undermine-breastfeeding.html",
+    "evidence": "B",
+    "summary": "对国际研究的证据审查表明，医学界对早期牛奶生产普遍存在误解， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "An evidence review of international research suggests widespread misconceptions within the medical community about early milk production,…"
+      }
+    ]
+  },
+  {
+    "id": "ca0fe854d60",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/6vQiF8ZEb5Lu1R6KSWgHjB/930f24221d29688d1898bfc2b9667421/shutterstock_1680750892_Cropped.jpg",
+    "title": "夏天你会感冒吗？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-08-01",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/infections/can-you-catch-a-cold-in-summer",
+    "evidence": "B",
+    "summary": "感冒通常与秋季和冬季有关，但您可以在一年中的任何时候捕捉到感冒。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Colds are often associated with autumn and winter, but you can catch one at any time of year.…"
+      }
+    ]
+  },
+  {
+    "id": "cfa8f51e891",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/5UOtXd5Z5DxWf7MwTp7zVV/6fae0d026957af03780361b41d65e242/shutterstock_2633016747_Cropped.jpg",
+    "title": "肥胖如何影响关节健康-以及您可以采取哪些措施来应对",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-08-01",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/bones-joints-muscles/how-obesity-affects-joint-health-and-what-you-can-do-about-it",
+    "evidence": "B",
+    "summary": "如果你想保持活跃并保持舒适的运动，照顾好你的关节是很重要的，尤其是当你变老的时候。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Looking after your joints is important if you want to stay active and keep moving comfortably - especially as you get older.…"
+      }
+    ]
+  },
+  {
     "id": "c607f6bebdd",
     "systems": [
       "gut",
@@ -19,6 +82,48 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "A \"leaky gut\" might increase the severity of food allergies, according to new research conducted in mice and published in The Journal of Immunology.…"
+      }
+    ]
+  },
+  {
+    "id": "c9fd9cc1074",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2015/11/5265_lores.jpg",
+    "title": "吡喹酮（ Biltricide ）治疗华支睾吸虫病的治愈率高于阿苯达唑（ Zentel ）",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-07-31",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/praziquantel-biltricide-is-associated-with-higher-cure-rate-than-albendazole-zentel-in-the-treatment-of-clonorchiasis/",
+    "evidence": "A",
+    "summary": "1.在华支睾吸虫的治疗中，阿苯达唑（ Zentel ）显示出较高的减蛋率，但与之相比治愈率明显较低……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In the treatment of Clonorchis sinensis, albendazole (Zentel) demonstrates a high egg reduction rate but a significantly lower cure rate compared…"
+      }
+    ]
+  },
+  {
+    "id": "cce88148315",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "新的研究警告说，吸电子烟的青少年尼古丁水平正在上升",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-07-31",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-nicotine-teens-vape.html",
+    "evidence": "B",
+    "summary": "一项新的研究发现，电子烟设备正在给青少年的身体注入越来越多的尼古丁成瘾剂量。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Vape devices are flooding teens' bodies with increasingly heavy doses of addictive nicotine, a new study finds.…"
       }
     ]
   },
