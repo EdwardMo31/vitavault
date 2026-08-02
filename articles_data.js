@@ -22,6 +22,92 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c33145a228b",
+    "systems": [
+      "brain",
+      "senses"
+    ],
+    "cover": "",
+    "title": "眼神交流有助于婴儿“收听”说话者的脑电波并学习语言",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-01",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-eye-contact-infants-tune-speaker.html",
+    "evidence": "B",
+    "summary": "婴儿使用与扬声器的眼神接触来确定要注意什么并同步他们的脑电波，帮助他们学习语言， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Infants use eye contact with speakers to work out what to pay attention to and synchronize their brainwaves, helping them learn language,…"
+      }
+    ]
+  },
+  {
+    "id": "c4cc9a4b08a",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "科学家可能已经找到了预防他汀类药物肌肉疼痛的方法",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-08-01",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260731034152.htm",
+    "evidence": "B",
+    "summary": "科学家已经确定了一种免疫反应，可以解释为什么他汀类药物会导致某些人的肌肉疼痛、虚弱和运动不耐受。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists have identified an immune response that may explain why statins cause muscle pain, weakness, and exercise intolerance in some people.…"
+      }
+    ]
+  },
+  {
+    "id": "c77ce06b95a",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "根据新的研究，你的性格在你的一生中发生的变化比你想象的要多",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-01",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-personality-life.html",
+    "evidence": "B",
+    "summary": "长期以来，人格特质一直被视为一成不变的，许多人认为，一旦我们成年，它们就不会改变。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Personality traits have long been seen as set in stone, with many believing they stop changing once we reach adulthood.…"
+      }
+    ]
+  },
+  {
+    "id": "c811016b9fb",
+    "systems": [
+      "brain",
+      "heart"
+    ],
+    "cover": "",
+    "title": "大豆溶血卵磷脂对抗高盐饮食引起的高血压和认知障碍",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-01",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-soy-lysolecithin-counters-high-salt.html",
+    "evidence": "B",
+    "summary": "高盐（ HS ）摄入量是全球主要的健康问题，与高血压和越来越多的认知和情绪下降证据密切相关。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "High-salt (HS) intake is a major global health concern, closely linked to hypertension and growing evidence of cognitive and emotional decline.…"
+      }
+    ]
+  },
+  {
     "id": "ca0fe854d60",
     "systems": [
       "whole"
@@ -107,6 +193,27 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "cc1d26f1a73",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "42岁的儿童肥胖理论可能是错误的",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-07-31",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260729051534.htm",
+    "evidence": "B",
+    "summary": "新的研究挑战了几十年前的观点，即当儿童的BMI在6岁左右开始上升时，他们会经历“肥胖反弹”。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "New research challenges the decades-old idea that children experience an “adiposity rebound” when their BMI begins rising around age 6.…"
+      }
+    ]
+  },
+  {
     "id": "cce88148315",
     "systems": [
       "whole"
@@ -166,6 +273,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Resistance bands are a great way to improve the quality of your strength training routine.…"
+      }
+    ]
+  },
+  {
+    "id": "c712bfddee8",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "科学家发现了一个与减少疼痛和抑郁有关的简单程序",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-07-30",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260729010705.htm",
+    "evidence": "B",
+    "summary": "保持有规律的日程安排可能有助于减轻疼痛和抑郁，尤其是在患有失眠症的老年人中。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Keeping a regular daily schedule may help reduce pain and depression, especially among older adults with insomnia.…"
       }
     ]
   },
