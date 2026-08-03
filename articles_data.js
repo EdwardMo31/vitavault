@@ -1,6 +1,112 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c054c56b616",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "当更多的血液并不意味着REM睡眠期间更多的神经元能量",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-02",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-blood-neuronal-energy-rem.html",
+    "evidence": "B",
+    "summary": "快速眼动睡眠已经被称为“悖论睡眠”。“身体基本上是静止的，但大脑是高度活跃的。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "REM sleep is already called \"paradoxical sleep.\" The body is largely still, yet the brain is highly active.…"
+      }
+    ]
+  },
+  {
+    "id": "c0ed1606f4d",
+    "systems": [
+      "muscles",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "如果没有这种蛋白质，受损的肌肉会变成脂肪和疤痕组织",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-08-02",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260801042814.htm",
+    "evidence": "B",
+    "summary": "曾经被认为主要保护染色体末端的蛋白质对于保持肌肉干细胞为修复损伤做好准备可能也是必不可少的。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A protein once thought to mainly protect chromosome ends may also be essential for keeping muscle stem cells ready to repair injuries.…"
+      }
+    ]
+  },
+  {
+    "id": "c1893fb993f",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "研究表明，这种每周一次的锻炼可能有助于减少腹部脂肪",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-02",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260801042831.htm",
+    "evidence": "B",
+    "summary": "令人惊讶的小剂量运动可能为腰部周围携带多余脂肪的成年人带来主要的健康益处。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A surprisingly small dose of exercise may deliver major health benefits for adults carrying excess fat around the waist.…"
+      }
+    ]
+  },
+  {
+    "id": "c31be97f7a4",
+    "systems": [
+      "gut"
+    ],
+    "cover": "",
+    "title": "古代木乃伊DNA提供了科学证据，证明殖民化将天花带到了美洲",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-02",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-ancient-mummy-dna-scientific-evidence.html",
+    "evidence": "B",
+    "summary": "在智利发现的古代木乃伊DNA提供了迄今为止最确凿的证据，证明欧洲的殖民地化将天花带到了美洲。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Ancient mummy DNA recovered in Chile has yielded the firmest evidence yet that European colonization brought smallpox to the Americas."
+      }
+    ]
+  },
+  {
+    "id": "c599c14bf14",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "主要综述发现，少吃蛋白质可以减缓衰老",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-02",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260801042811.htm",
+    "evidence": "B",
+    "summary": "对350多项研究的全面审查表明，蛋白质繁荣可能超出了许多人的实际需求。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A sweeping review of more than 350 studies suggests that the protein boom may be overselling what many people actually need.…"
+      }
+    ]
+  },
+  {
     "id": "c0cbddfafc2",
     "systems": [
       "whole"
