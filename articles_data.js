@@ -1,6 +1,132 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c7d179b4dfb",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/2qSXNaCWhm0yGfFV0MTzen/7e89cdff8cb0b0f3a5f1c3cac7bb3149/shutterstock_2536192855_Cropped.jpg",
+    "title": "青春期阻滞剂：证据说明了什么，以及为什么科学家仍在研究它们",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-08-04",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/treatment-medication/puberty-blockers-what-the-evidence-says-and-why-scientists-are-still-studying-them",
+    "evidence": "B",
+    "summary": "青春期阻滞剂已成为现代医学中最具争议的治疗方法之一。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Puberty blockers have become one of the most debated treatments in modern medicine.…"
+      }
+    ]
+  },
+  {
+    "id": "c622c58109c",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "街道外观、安全感和睡眠之间的关系",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-03",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-relationship-streets-safety.html",
+    "evidence": "B",
+    "summary": "您所在街区的“街景” --街道的物理环境--可能是您从未有意识地思考过的……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Your neighborhood's \"streetscape\"—the physical environment of your street—is something you have probably never consciously thought about,…"
+      }
+    ]
+  },
+  {
+    "id": "c6460776a04",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "你的意识和无意识思维如何相互作用",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-03",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-conscious-unconscious-mind-interact.html",
+    "evidence": "B",
+    "summary": "您是否听说过“您只使用了10%的大脑”这句话？实际上，没有办法用百分比来衡量意识--部分……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Have you ever heard the phrase \"you only use 10% of your brain\"? In reality, there is no way to measure consciousness in percentage terms—partly…"
+      }
+    ]
+  },
+  {
+    "id": "c7ad9763b55",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "您的大脑可能会重新恢复体重",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-03",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm",
+    "evidence": "B",
+    "summary": "减肥不仅仅是测试意志力。人类大脑在稀缺时期进化来保护身体脂肪， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Weight loss is not simply a test of willpower. The human brain evolved to protect body fat during times of scarcity,…"
+      }
+    ]
+  },
+  {
+    "id": "ceaa3e49f65",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "再见，罗密欧与朱丽叶。数字技术是否会扼杀老式的爱情？",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-03",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-farewell-romeo-juliet-digital-tech.html",
+    "evidence": "B",
+    "summary": "近年来，约会应用程序和色情网站的使用迅速增长， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The use of dating apps and pornography websites has grown rapidly in recent years,…"
+      }
+    ]
+  },
+  {
+    "id": "cfe74357710",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "政府是否渴望坚持健康食品零售政策？",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-03",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-07-hungry-healthy-food-retail-policies.html",
+    "evidence": "B",
+    "summary": "我们生活、工作、学习和娱乐的地方是政府通过遏制导致……的不健康饮食来改善人口健康的重要场所。",
+    "body": [
+      {
+        "t": "p",
+        "x": "The places we live, work, study and play are important locations for governments to improve population health by curbing unhealthy diets that cause…"
+      }
+    ]
+  },
+  {
     "id": "c054c56b616",
     "systems": [
       "brain"
