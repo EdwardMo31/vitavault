@@ -1,6 +1,90 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "ce9c460c5b5",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/7wpyadshsz9JYw6aTACTAw/75aef7548ee9db9f2b55610fe0489e1b/shutterstock_2498961585_Cropped.jpg",
+    "title": "维生素C ：益处、来源和缺乏",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-08-05",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/diet-and-nutrition/vitamin-c-benefits-sources-and-deficiency",
+    "evidence": "B",
+    "summary": "我们大多数人都知道维生素C对我们有好处，但您知道这种必需营养素有益健康的所有方法吗？ ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Most of us know vitamin C is good for us, but do you know all the ways that this essential nutrient benefits your health?…"
+      }
+    ]
+  },
+  {
+    "id": "c410225fd89",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "生发补充剂有效吗？",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-08-04",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/do-hair-growth-supplements-work/",
+    "evidence": "B",
+    "summary": "生物素或锌补充剂是否可以预防男性和女性的脱发？在我们50岁的时候，大约一半的男性和女性会[…]",
+    "body": [
+      {
+        "t": "p",
+        "x": "Might biotin or zinc supplements prevent hair loss in men and women? By the time we’re 50, about half of us, men and women, will […]"
+      }
+    ]
+  },
+  {
+    "id": "c66d2832a93",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "跳跃测试可以帮助预测运动员受伤风险",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-04",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-athlete-injury.html",
+    "evidence": "B",
+    "summary": "前交叉韧带（ ACL ）损伤是竞技运动员可能面临的最严重的损伤之一。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Injuries to the anterior cruciate ligament (ACL) are among the most severe injuries a competitive athlete can face.…"
+      }
+    ]
+  },
+  {
+    "id": "c7c4d00030c",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "电子烟如何扰乱年轻人的日常生活",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-04",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-vaping-disrupts-daily-life-young.html",
+    "evidence": "B",
+    "summary": "今天发表的一项新研究揭示了澳大利亚年轻人电子烟成瘾的日常现实， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new study published today unveils the daily reality of vaping addiction among younger Australians,…"
+      }
+    ]
+  },
+  {
     "id": "c7d179b4dfb",
     "systems": [
       "whole"
@@ -18,6 +102,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Puberty blockers have become one of the most debated treatments in modern medicine.…"
+      }
+    ]
+  },
+  {
+    "id": "cd1b142a6fa",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "良好的睡眠可以帮助青少年在学校和与朋友一起茁壮成长",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-04",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-good-night-adolescents-school-friends.html",
+    "evidence": "B",
+    "summary": "发表在《心理医学》杂志上的一项新的加州大学戴维斯分校健康研究表明，在帮助青少年在学校取得成功并保持……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new UC Davis Health study published in Psychological Medicine suggests that when it comes to helping adolescents succeed in school and maintain…"
       }
     ]
   },
