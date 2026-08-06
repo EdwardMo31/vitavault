@@ -1,6 +1,69 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c6337a77d5c",
+    "systems": [
+      "heart"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2020/01/Large_lobulated_fibroid_of_the_uterus_Wellcome_L0061209.jpg",
+    "title": "动脉内地塞米松可能有效缓解子宫纤维瘤栓塞后的疼痛",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-08-05",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/intraarterial-dexamethasone-may-be-effective-for-pain-relief-following-uterine-fibroid-embolization/",
+    "evidence": "A",
+    "summary": "1.与安慰剂相比，动脉内地塞米松在子宫纤维瘤栓塞后有更大的疼痛缓解。…",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Intraarterial dexamethasone was associated with greater pain relief after uterine fibroid embolization compared with placebo.…"
+      }
+    ]
+  },
+  {
+    "id": "ca18868e42a",
+    "systems": [
+      "senses"
+    ],
+    "cover": "",
+    "title": "没有明确的证据表明常见的胚胎移植技术可以改善试管婴儿成功率",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-05",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-evidence-common-embryo-techniques-ivf.html",
+    "evidence": "B",
+    "summary": "胚胎移植前使用的准备技术，被认为是试管婴儿过程中最关键的步骤， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Preparation techniques used before embryo transfer, considered the most critical step in the IVF process,…"
+      }
+    ]
+  },
+  {
+    "id": "cb9517dafeb",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "当人们感到惊讶时，为什么瞳孔会扩张？研究人员解释说",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-05",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-people-pupils-dilate-theyre.html",
+    "evidence": "B",
+    "summary": "当人们遇到挑战他们期望的新信息时，他们的瞳孔可能会扩张。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "When people encounter new information that challenges their expectations, their pupils are likely to dilate.…"
+      }
+    ]
+  },
+  {
     "id": "ce9c460c5b5",
     "systems": [
       "nutrition"
