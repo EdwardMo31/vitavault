@@ -1,6 +1,111 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c2b0f8e4f47",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/4gtgaWu0so1b2VOX3WsIS7/07845e2adc78456e1d678724a2a84e6a/shutterstock_2057011691_Cropped.jpg",
+    "title": "普拉提对减肥有好处吗？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-08-07",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/is-pilates-good-for-weight-loss",
+    "evidence": "B",
+    "summary": "普拉提以其改善体力、柔韧性和耐力的能力而闻名。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Pilates is known for its ability to improve bodily strength, flexibility, and stamina.…"
+      }
+    ]
+  },
+  {
+    "id": "c6b3e13b7d5",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "野火现在是造成美国孕妇不健康空气污染的主要原因",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-07",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-wildfires-dominant-contributor-unhealthy-air.html",
+    "evidence": "B",
+    "summary": "野火是众所周知的健康风险。现在，在一项新的环境卫生前沿研究中，美国的研究人员……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Wildfires are well-known health risks. Now, in a new Frontiers in Environmental Health study, researchers in the U.S.…"
+      }
+    ]
+  },
+  {
+    "id": "cfbbbd2b933",
+    "systems": [
+      "skin"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/5gsvXrVxadO98uIRnUbrMT/516f8cfb9fde7c8002bf9612d5ced343/shutterstock_2489302211_Cropped.jpg",
+    "title": "什么是“Skinnymaxxing” -为什么健康专家对此感到担忧？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-08-07",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/mental-health/what-is-skinnymaxxing-and-why-are-health-experts-concerned-about-it",
+    "evidence": "B",
+    "summary": "过去几年，随着美容标准再次选择更苗条的造型，许多人的身体形状发生了巨大变化。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The last few years have seen drastic changes in body shapes for many as beauty standards opt again for slimmer builds.…"
+      }
+    ]
+  },
+  {
+    "id": "c24fd12cf2d",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "创伤分析发现，电动滑板车骑手的脑损伤比摩托车骑手更常见",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-06",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-trauma-analysis-brain-injuries-common.html",
+    "evidence": "B",
+    "summary": "英格兰和威尔士的电动滑板车骑手可能比摩托车骑手和自行车骑手面临更高的脑部和内脏器官损伤风险……",
+    "body": [
+      {
+        "t": "p",
+        "x": "E-scooter riders in England and Wales may face a higher risk of brain and internal organ injuries than motorcyclists and cyclists,…"
+      }
+    ]
+  },
+  {
+    "id": "c9f2db4c1ab",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "野火烟雾将更多俄勒冈人送往急诊室",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-06",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-wildfire-oregonians-emergency-rooms.html",
+    "evidence": "B",
+    "summary": "浓烈的野火烟雾造成的空气质量恶劣的日子正在将更多的俄勒冈人推向急诊室和紧急护理诊所， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Days of poor air quality from thick wildfire smoke are pushing more Oregonians into emergency rooms and urgent care clinics,…"
+      }
+    ]
+  },
+  {
     "id": "c6337a77d5c",
     "systems": [
       "heart"
