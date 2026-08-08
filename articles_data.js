@@ -1,6 +1,28 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c0b41ca2301",
+    "systems": [
+      "brain",
+      "senses"
+    ],
+    "cover": "",
+    "title": "深度学习完善了仿生眼与大脑的交流方式",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-07",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-deep-refines-bionic-eyes-communicate.html",
+    "evidence": "B",
+    "summary": "包括加州大学圣巴巴拉分校在内的三个机构的研究人员已经证明，人工智能有潜力使未来……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers from three institutions, including UC Santa Barbara, have demonstrated that artificial intelligence has the potential to make future…"
+      }
+    ]
+  },
+  {
     "id": "c2b0f8e4f47",
     "systems": [
       "muscles"
@@ -18,6 +40,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Pilates is known for its ability to improve bodily strength, flexibility, and stamina.…"
+      }
+    ]
+  },
+  {
+    "id": "c400b2e83a2",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "研究表明，迷幻药通过血清素受体放大大脑连接",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-07",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-psychedelics-amplify-brain-serotonin-receptors.html",
+    "evidence": "B",
+    "summary": "裸盖菇素（来自神奇蘑菇）、LSD、DMT和mescaline等迷幻药深刻地改变了我们的感知、感觉和思维方式。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Psychedelics like psilocybin (from magic mushrooms), LSD, DMT and mescaline profoundly alter how we perceive, feel and think.…"
       }
     ]
   },
@@ -43,6 +86,27 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c9da9cced4a",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "日常包装塑料可能会增加汉堡和苏打水的脂肪肝风险",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-07",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-everyday-packaging-plastic-compound-fatty.html",
+    "evidence": "B",
+    "summary": "微塑料已变得几乎不可避免。它们已经在海洋、饮用水甚至人体中被检测到……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Microplastics have become nearly impossible to avoid. They have been detected in oceans, drinking water and even the human body,…"
+      }
+    ]
+  },
+  {
     "id": "cfbbbd2b933",
     "systems": [
       "skin"
@@ -60,6 +124,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "The last few years have seen drastic changes in body shapes for many as beauty standards opt again for slimmer builds.…"
+      }
+    ]
+  },
+  {
+    "id": "cfe3b06d24a",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "科学家在南极洲追踪了12个人10个月-发生的事情可能会影响未来的火星任务",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-08-07",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260806050722.htm",
+    "evidence": "B",
+    "summary": "一项为期10个月的南极实验发现，宇航员不仅可能在孤独中挣扎，而且可能在同样的环境中花费太多时间……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A ten-month Antarctic experiment found that astronauts may struggle not only with loneliness but also with spending too much time around the same…"
       }
     ]
   },
