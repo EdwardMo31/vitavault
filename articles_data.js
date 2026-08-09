@@ -1,6 +1,69 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c303ab3d6d9",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "减少甜食并不能抑制食欲或改善健康",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-08",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260807235103.htm",
+    "evidence": "B",
+    "summary": "改变人们吃甜食的数量可能不会改变他们渴望或享受甜味的程度。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Changing how much sweet-tasting food people eat may not change how much they crave or enjoy sweetness after all.…"
+      }
+    ]
+  },
+  {
+    "id": "c930ad75d14",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "人工智能可以帮助医疗补助投保人达到80小时工作制",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-08",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-ai-medicaid-enrollees-hour.html",
+    "evidence": "B",
+    "summary": "复杂的医疗保健政策往往难以实施。这是一个现实，全国各地的州都将作为新的医疗补助工作来处理……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Complex health care policies are often challenging to implement. That's a reality states across the country will deal with as new Medicaid work…"
+      }
+    ]
+  },
+  {
+    "id": "c93948eb2f5",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "研究表明，前额叶皮层会妨碍学习更有效的行为",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-08",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-reveals-prefrontal-cortex-hinder-efficient.html",
+    "evidence": "B",
+    "summary": "前额叶皮层是一个大脑区域，长期以来与学习更灵活的行为有关， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The prefrontal cortex, a brain region long associated with learning more flexible behaviors,…"
+      }
+    ]
+  },
+  {
     "id": "c0b41ca2301",
     "systems": [
       "brain",
