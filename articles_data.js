@@ -1,6 +1,91 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c0ff39fb214",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "几十年来，我们被告知要选择低脂乳制品。新的研究表明并非如此",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-09",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260808234948.htm",
+    "evidence": "B",
+    "summary": "全脂乳制品可能比传统建议更健康。在一项为期12周的研究中， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Full-fat dairy may be healthier than conventional advice has suggested. In a 12-week study,…"
+      }
+    ]
+  },
+  {
+    "id": "c9036154930",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "低脂素食将饮食能量密度降低近三分之一，有助于解释减肥",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-09",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-fat-vegan-diet-dietary-energy.html",
+    "evidence": "B",
+    "summary": "低脂素食将人们吃的食物的能量密度降低了大约30% ， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A low-fat vegan diet lowers the energy density of the foods people eat by roughly 30%,…"
+      }
+    ]
+  },
+  {
+    "id": "ca0f3cbb1a8",
+    "systems": [
+      "hormones",
+      "brain"
+    ],
+    "cover": "",
+    "title": "频繁的大麻使用者醒来时“压力荷尔蒙”已经升高",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-08-09",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260808234953.htm",
+    "evidence": "B",
+    "summary": "频繁的大麻使用者可能会因异常高水平的压力荷尔蒙皮质醇而醒来， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Frequent cannabis users may wake up with unusually high levels of the stress hormone cortisol,…"
+      }
+    ]
+  },
+  {
+    "id": "cf301b6467b",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "新的靶向方法将小鼠的阿片类药物疼痛缓解与奖励学习分开",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-09",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-method-opioid-pain-relief-reward.html",
+    "evidence": "B",
+    "summary": "杜克大学医学院的研究人员正在研究如何保持阿片类药物的止痛功效，同时减少其成瘾性……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers at Duke University School of Medicine are investigating how to keep opioids' pain-relieving benefits while reducing their addictive…"
+      }
+    ]
+  },
+  {
     "id": "c303ab3d6d9",
     "systems": [
       "nutrition"
@@ -18,6 +103,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Changing how much sweet-tasting food people eat may not change how much they crave or enjoy sweetness after all.…"
+      }
+    ]
+  },
+  {
+    "id": "c630bd3cc73",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "科学家说，仅仅7天的冥想就可以重新连接你的大脑",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-08-08",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260807235243.htm",
+    "evidence": "B",
+    "summary": "为期七天的密集冥想静修引发了大脑和身体的惊人变化，包括与神经可塑性、免疫力、……相关的转变。",
+    "body": [
+      {
+        "t": "p",
+        "x": "An intensive seven-day meditation retreat triggered striking changes across the brain and body, including shifts tied to neuroplasticity, immunity,…"
       }
     ]
   },
@@ -60,6 +166,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "The prefrontal cortex, a brain region long associated with learning more flexible behaviors,…"
+      }
+    ]
+  },
+  {
+    "id": "cfdc2dceaf8",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "MRI研究发现，压力会扰乱大脑的内部GPS",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-08-08",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260807035151.htm",
+    "evidence": "B",
+    "summary": "压力可能会扰乱大脑的内部GPS。研究人员发现，皮质醇（一种在压力下释放的激素） ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Stress may literally scramble the brain’s internal GPS. Researchers found that cortisol, a hormone released during stress,…"
       }
     ]
   },
