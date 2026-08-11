@@ -1,6 +1,48 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c7c776be957",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2015/08/surgery3_edited.jpg",
+    "title": "关节融合优于警惕性等待拇趾硬化",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-08-10",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/joint-fusion-superior-to-watchful-waiting-for-hallux-rigidus/",
+    "evidence": "A",
+    "summary": "1.在这项随机对照试验中，与40岁的成年人观察等待相比，关节融合术显著减少了与行走相关的疼痛……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this randomized controlled trial, arthrodesis significantly reduced walking-related pain compared with watchful waiting in adults aged 40 years…"
+      }
+    ]
+  },
+  {
+    "id": "c82fcf72bc1",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "雷击每年在全球造成数千人死亡，但对于那些幸存下来的人来说，风暴远未结束",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-10",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-lightning-thousands-globally-year-survive.html",
+    "evidence": "B",
+    "summary": "据估计，每年全球有6000至24000人死于闪电，还有更多人受伤。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Every year, an estimated 6,000 to 24,000 people are killed by lightning around the world, and many more are injured."
+      }
+    ]
+  },
+  {
     "id": "c0ff39fb214",
     "systems": [
       "whole"
@@ -22,6 +64,27 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c5eb18db35f",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "科学家发现力量训练是延长寿命的“最佳选择”",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-08-09",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260808234959.htm",
+    "evidence": "B",
+    "summary": "每周只需进行几个小时的力量训练，就可以对长寿产生惊人的强大影响。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Just a couple of hours of strength training each week could have surprisingly powerful effects on longevity.…"
+      }
+    ]
+  },
+  {
     "id": "c9036154930",
     "systems": [
       "nutrition"
@@ -39,6 +102,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "A low-fat vegan diet lowers the energy density of the foods people eat by roughly 30%,…"
+      }
+    ]
+  },
+  {
+    "id": "c940cf495e7",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "每日一杯果汁与较低的抑郁评分有关",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-09",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260808235003.htm",
+    "evidence": "B",
+    "summary": "每日一杯100%果汁或冰沙可能不仅仅有助于提高水果的摄入量。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A daily glass of 100% fruit juice or a smoothie may help improve more than just fruit intake.…"
       }
     ]
   },
