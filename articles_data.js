@@ -1,6 +1,154 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c36af5bd003",
+    "systems": [
+      "skin"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/3fhH0Roa8ClUrwDywHbX1G/63b4dfc6ba597ec392d1ea4ce066d5d9/shutterstock_1921044422_Cropped.jpg",
+    "title": "你可以在不花一大笔钱的情况下获得漂亮的皮肤吗？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-08-12",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/skin-conditions/can-you-get-great-skin-without-spending-a-fortune",
+    "evidence": "B",
+    "summary": "实现良好的皮肤真的意味着花一大笔钱吗？好消息是，有效的护肤不一定要付出高昂的代价。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Does achieving great skin really mean spending a fortune? The good news is that effective skincare doesn’t have to come with a hefty price tag.…"
+      }
+    ]
+  },
+  {
+    "id": "c426d87345b",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/6nCJaz6G2HV6imB0S0sBiK/c59442559f9f644cb8deb29417999845/shutterstock_2801371747_Cropped.jpg",
+    "title": "满足打盹：病毒性睡眠趋势，可能会让你更疲倦",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-08-12",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/gratification-snoozing-the-viral-sleep-trend-that-could-be-making-you-more-tired",
+    "evidence": "B",
+    "summary": "获得充足的优质睡眠是您能为健康做的最好的事情之一。所以很自然地，社交媒体已经找到了一种方法来干扰它。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Getting enough quality sleep is one of the best things you can do for your health. So naturally, social media has found a way to interfere with it.…"
+      }
+    ]
+  },
+  {
+    "id": "ca501dd730c",
+    "systems": [
+      "brain",
+      "whole"
+    ],
+    "cover": "",
+    "title": "调查显示，美国人希望更早开始养成大脑健康习惯",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-12",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-survey-americans-brain-health-habits.html",
+    "evidence": "B",
+    "summary": "俄亥俄州立大学韦克斯纳医学中心委托进行的一项新的全国性调查发现，大多数美国…",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new national survey commissioned by The Ohio State University Wexner Medical Center finds most U.S.…"
+      }
+    ]
+  },
+  {
+    "id": "c14ca9e5f99",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "哪些食物有助于头发生长？",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-08-11",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/what-foods-help-hair-growth/",
+    "evidence": "B",
+    "summary": "辣椒、大豆食品和南瓜籽可能有助于脱发。雄激素性或雄激素性脱发是最常见的慢性问题之一……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Hot peppers, soy foods, and pumpkin seeds may help with hair loss. Androgenic or androgenetic alopecia is one of the most common chronic problems…"
+      }
+    ]
+  },
+  {
+    "id": "c82c3f2b4a9",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "体育机构表示，优先考虑常规筛查和定期监测精英运动员的心理健康状况",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-11",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-prioritize-routine-screening-regular-elite.html",
+    "evidence": "B",
+    "summary": "体育机构应优先考虑常规筛查和定期监测精英运动员的心理健康状况，以解决心理健康问题的高患病率。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Sports bodies should prioritize routine screening and regular monitoring of elite athletes' mental health to tackle the high prevalence of mental…"
+      }
+    ]
+  },
+  {
+    "id": "cfa0d3583de",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "许多州都提供doula护理，但通常无法获得",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-11",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-states-doula-access.html",
+    "evidence": "B",
+    "summary": "Doula护理与改善母乳喂养开始和减少产妇焦虑有关。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Doula care has been associated with improved breastfeeding initiation and less maternal anxiety.…"
+      }
+    ]
+  },
+  {
+    "id": "cfb7c1cfb7d",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "英国研究显示，自2019年以来，近500名儿童因电动滑板车受伤",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-11",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-children-scooters-england.html",
+    "evidence": "B",
+    "summary": "自2019年以来，近500名儿童被电动滑板车伤害，据报道，只有不到2%的儿童戴着头盔，平均年龄仅为12岁……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Nearly 500 children have been injured by e-scooters since 2019, with less than 2% reportedly wearing a helmet and an average age of just 12,…"
+      }
+    ]
+  },
+  {
     "id": "c7c776be957",
     "systems": [
       "muscles"
