@@ -43,6 +43,48 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c8433727d69",
+    "systems": [
+      "heart"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2017/04/bloodpressure2_PD_edited.jpg",
+    "title": "健康指导干预可以改善产后妇女的血压控制",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-08-12",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/a-health-coaching-intervention-may-improve-blood-pressure-control-in-postpartum-women/",
+    "evidence": "A",
+    "summary": "1.针对产后妇女的健康指导干预结合自我测量血压（ SMBP ）监测与以下因素显著相关：",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. A health coaching intervention combined with self-measured blood pressure (SMBP) monitoring for postpartum women was associated with significantly…"
+      }
+    ]
+  },
+  {
+    "id": "c8f3a4e9945",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "与WIC服务的早期接触预测将继续参与该计划",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-12",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-early-engagement-wic.html",
+    "evidence": "B",
+    "summary": "《营养教育与行为杂志》（ Journal of Nutrition Education and Behavior ）最近的一项研究发现，家庭如何参与特别补充营养计划……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A recent study in the Journal of Nutrition Education and Behavior, found that how families engage with the Special Supplemental Nutrition Program for…"
+      }
+    ]
+  },
+  {
     "id": "ca501dd730c",
     "systems": [
       "brain",
@@ -82,6 +124,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Hot peppers, soy foods, and pumpkin seeds may help with hair loss. Androgenic or androgenetic alopecia is one of the most common chronic problems…"
+      }
+    ]
+  },
+  {
+    "id": "c16cdfa2190",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "营养援助计划",
+    "org": "MedlinePlus",
+    "author": "MedlinePlus 营养",
+    "date": "2026-08-11",
+    "sourceName": "ssa.gov",
+    "sourceUrl": "https://www.ssa.gov/pubs/EN-05-10100.pdf",
+    "evidence": "A",
+    "summary": "资料来源：国家社会保险管理局。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Source: Social Security Administration"
       }
     ]
   },
