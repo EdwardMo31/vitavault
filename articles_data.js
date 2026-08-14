@@ -1,6 +1,69 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c3fc72f4b2a",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "问答：为什么下一次疫情可以通过数学而非边界来阻止",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-13",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-qa-pandemic-math-borders.html",
+    "evidence": "B",
+    "summary": "LinkedIn、全球航空公司网络和人类大脑有什么共同之处？它们都是由连接网络构建的复杂系统。",
+    "body": [
+      {
+        "t": "p",
+        "x": "What do LinkedIn, the global airline network and the human brain have in common? They are all complex systems built from networks of connections."
+      }
+    ]
+  },
+  {
+    "id": "c532a44a999",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "为什么孩子在炎热的天气里经常少吃东西，以及父母应该担心什么时候",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-13",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-children-hot-weather-parents.html",
+    "evidence": "B",
+    "summary": "如果您的孩子在炎热的天气期间突然开始吃饭，这可能会令人不安。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "If your child suddenly starts picking at meals during a spell of hot weather, it can be unsettling.…"
+      }
+    ]
+  },
+  {
+    "id": "cfe23407001",
+    "systems": [
+      "senses"
+    ],
+    "cover": "",
+    "title": "甜食？研究表明，它可能正在塑造你的决定",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-13",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-sweet-tooth-decisions.html",
+    "evidence": "B",
+    "summary": "研究人员说，品尝糖果--冰淇淋、糖果、巧克力、糕点--可能会为人们做出决定的方式提供一个窗口。",
+    "body": [
+      {
+        "t": "p",
+        "x": "A taste for sweets—ice cream, candy, chocolates, pastries—might provide a window into the way people make decisions, researchers say."
+      }
+    ]
+  },
+  {
     "id": "c36af5bd003",
     "systems": [
       "skin"
