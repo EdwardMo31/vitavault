@@ -1,6 +1,175 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c4c8a46ceb6",
+    "systems": [
+      "hormones"
+    ],
+    "cover": "",
+    "title": "当某人的染色体、性激素和身体不对齐时会发生什么？",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-14",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-chromosomes-sex-hormones-body-dont.html",
+    "evidence": "B",
+    "summary": "我教一门名为“荷尔蒙与行为”的大学课程。让学生感到惊讶的是，生物性不是由单个开关产生的。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "I teach a university course called Hormones and Behaviour. What surprises students is that biological sex is not produced by a single switch.…"
+      }
+    ]
+  },
+  {
+    "id": "c5ba83a0688",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "压力荷尔蒙可以帮助大脑自我修复",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-08-14",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm",
+    "evidence": "B",
+    "summary": "一个令人惊讶的与压力相关的信号可能有助于大脑在受伤后自我修复。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A surprising stress-related signal may help the brain repair itself after injury.…"
+      }
+    ]
+  },
+  {
+    "id": "c8922a8abc2",
+    "systems": [
+      "heart"
+    ],
+    "cover": "",
+    "title": "走楼梯可以保护你的心脏，帮助你活得更久",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-08-14",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260814011029.htm",
+    "evidence": "B",
+    "summary": "只需选择楼梯，就可以为您的心脏和长寿带来惊人的好处。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Simply choosing the stairs could have surprisingly big benefits for your heart and longevity.…"
+      }
+    ]
+  },
+  {
+    "id": "cb455042b9d",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "成像周转时间从2023年增加到2024年",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-14",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-imaging-turnaround.html",
+    "evidence": "B",
+    "summary": "根据8月份在线发表的一项研究，到2024年，成像周转时间继续增加。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Imaging turnaround times continued to increase across modalities through 2024, according to a study published online Aug.…"
+      }
+    ]
+  },
+  {
+    "id": "cda57dd319a",
+    "systems": [
+      "lungs",
+      "immune"
+    ],
+    "cover": "",
+    "title": "冬天即将来临：疫苗如何帮助预防呼吸道疾病",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-14",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-winter-vaccines-respiratory-illness.html",
+    "evidence": "B",
+    "summary": "8月是全国免疫宣传月，是应对每年秋季和冬季传播的病毒和细菌的最佳时机。",
+    "body": [
+      {
+        "t": "p",
+        "x": "August is National Immunization Awareness Month—the perfect time to prepare for the viruses and bacteria that spread each fall and winter."
+      }
+    ]
+  },
+  {
+    "id": "cecf5d9ed73",
+    "systems": [
+      "gut"
+    ],
+    "cover": "",
+    "title": "注射禁用肽以“优化”身体的新趋势",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-14",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-trend-peptides-optimise-body.html",
+    "evidence": "B",
+    "summary": "托马斯的电话闹钟在晚上9:30响起--这位有抱负的健美运动员是时候开始将几种违禁肽注射到他的胃里了。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Thomas's phone alarm buzzes at 9:30 p.m.—it's time for the aspiring bodybuilder to start injecting several banned peptides into his stomach."
+      }
+    ]
+  },
+  {
+    "id": "cf1e8eb1614",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "太热了，无法思考？为什么极端高温会影响我们的大脑工作",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-14",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-hot-extreme-affect-brain.html",
+    "evidence": "B",
+    "summary": "有没有觉得夏日阳光的到来让你觉得有点傻？你不会是唯一一个。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Ever feel that the arrival of summer sun makes you feel a bit dopey? You wouldn't be the only one.…"
+      }
+    ]
+  },
+  {
+    "id": "c3e57ef5208",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "当与腹部脂肪配对时，这种常见的维生素缺乏症变得更加危险",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-13",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260813045554.htm",
+    "evidence": "B",
+    "summary": "一项针对5500多名50岁以上成年人的大型研究发现了一系列惊人的风险因素：腹部肥胖症与维生素D缺乏症相结合……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A large study of more than 5,500 adults over 50 found a striking combination of risk factors: abdominal obesity paired with vitamin D deficiency was…"
+      }
+    ]
+  },
+  {
     "id": "c3fc72f4b2a",
     "systems": [
       "brain"
@@ -39,6 +208,49 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "If your child suddenly starts picking at meals during a spell of hot weather, it can be unsettling.…"
+      }
+    ]
+  },
+  {
+    "id": "c76089ee34a",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "每天喝橙汁可能会改变成千上万的基因",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-13",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260813045548.htm",
+    "evidence": "B",
+    "summary": "橙汁对人体的影响可能比科学家们曾经意识到的要大得多。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Orange juice may have a much bigger effect on the body than scientists once realized.…"
+      }
+    ]
+  },
+  {
+    "id": "ce363202bdd",
+    "systems": [
+      "nutrition",
+      "brain"
+    ],
+    "cover": "",
+    "title": "一项令人惊讶的大脑发现可能有助于解释为什么我们过度食用高脂肪食物",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-13",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260813045531.htm",
+    "evidence": "B",
+    "summary": "控制食欲的脑细胞内的蛋白质可能在预防暴饮暴食和肥胖方面发挥重要作用， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A protein inside appetite-controlling brain cells may play an important role in preventing overeating and obesity,…"
       }
     ]
   },
