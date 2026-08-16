@@ -1,6 +1,133 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c4198389b0d",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "大脑活动揭示了人们如何实时处理不断变化的目标",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-15",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-brain-reveals-people-goals-real.html",
+    "evidence": "B",
+    "summary": "大自然永远不会静止不动，里面也没有什么东西，因为随着事物在世界上的移动，路径不断变化。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Nature never sits still, and neither does anything living within it, since paths keep shifting as things move through the world.…"
+      }
+    ]
+  },
+  {
+    "id": "c5b9d6aa649",
+    "systems": [
+      "gut"
+    ],
+    "cover": "",
+    "title": "当肠道微生物缺乏纤维时，它们可能会开始吃掉你",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-15",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260814235842.htm",
+    "evidence": "B",
+    "summary": "肠道微生物需要吃点东西，当纤维受到限制时，它们可能会开始消耗粘液内层的蛋白质来保护肠道。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Gut microbes need something to eat, and when fiber is limited, they may begin consuming proteins from the mucus lining that protects the gut.…"
+      }
+    ]
+  },
+  {
+    "id": "c7685a74189",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "科学家们解开了大脑“开关”的谜团，它可以以相反的方式触发减肥",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-15",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260814011039.htm",
+    "evidence": "B",
+    "summary": "科学家们已经发现，为什么针对同一个大脑受体的两种看似相反的方法都能促进体重减轻。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists have uncovered why two seemingly opposite ways of targeting the same brain receptor can both promote weight loss.…"
+      }
+    ]
+  },
+  {
+    "id": "cae880137a9",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "新的肥胖定义比体重指数更准确地揭示了健康状况不佳",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-15",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-obesity-definitions-reveal-ill-health.html",
+    "evidence": "B",
+    "summary": "传统上，肥胖主要使用BMI进行分类， BMI是相对于身高的体重测量，提供有关以下方面的有限信息：",
+    "body": [
+      {
+        "t": "p",
+        "x": "Traditionally, obesity has been classified primarily using BMI, a measure of weight relative to height that provides limited information about…"
+      }
+    ]
+  },
+  {
+    "id": "cc5a2f640cf",
+    "systems": [
+      "brain",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "英国的四分之一世纪：性、心理健康、营养和成瘾专家评估国家不断变化的福祉",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-15",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-britain-quarter-century-experts-sex.html",
+    "evidence": "B",
+    "summary": "追踪一个国家健康状况的一个好方法是看一看所谓的经期预期寿命。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A good way to follow the health of a nation is to glance at what is known as period life expectancy.…"
+      }
+    ]
+  },
+  {
+    "id": "cec17ee9aac",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "高速显微镜显示整个大脑的电活动",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-15",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-high-microscopy-reveals-electrical-brain.html",
+    "evidence": "B",
+    "summary": "在大脑中，神经元通过产生电脉冲进行计算。这些信号通过神经元传播， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Within the brain, neurons compute by generating electrical impulses. These signals travel throughout neurons,…"
+      }
+    ]
+  },
+  {
     "id": "c4c8a46ceb6",
     "systems": [
       "hormones"
