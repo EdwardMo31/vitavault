@@ -1,6 +1,112 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c2453a637ee",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "科学家使用人工智能从头开始设计了一种功能正常的病毒。您需要了解的信息",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-16",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-scientists-functioning-virus-ai.html",
+    "evidence": "B",
+    "summary": "人工智能已经设计出可以感染细菌和繁殖的病毒--这首先表明人工智能开始做的不仅仅是分析……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Artificial intelligence has designed viruses that can infect bacteria and reproduce—a first that shows AI is beginning to do more than analyze the…"
+      }
+    ]
+  },
+  {
+    "id": "c2688e03da2",
+    "systems": [
+      "muscles",
+      "whole"
+    ],
+    "cover": "",
+    "title": "可能使老化关节受伤更多的常见错误",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-08-16",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260814235852.htm",
+    "evidence": "B",
+    "summary": "衰老会逐渐磨损保护关节的软骨和液体，但避免运动实际上可能会使情况变得更糟。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Aging gradually wears down the cartilage and fluid that protect our joints, but avoiding movement may actually make matters worse.…"
+      }
+    ]
+  },
+  {
+    "id": "c8df9ef6d88",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "视频游戏可以帮助弱势群体个性化认知护理吗？",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-16",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-video-games-personalize-cognitive-vulnerable.html",
+    "evidence": "B",
+    "summary": "来自美国各地的50名参与者坐在他们的电脑前，登录由Northeastern设计的定制视频游戏……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A group of 50 participants from across the United States sat at their computers and logged in to a bespoke video game designed by Northeastern…"
+      }
+    ]
+  },
+  {
+    "id": "cb293e9d88f",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "臭虫会导致人们失眠和失血。以下是解决这些问题的方法",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-16",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-bedbugs-people-blood.html",
+    "evidence": "B",
+    "summary": "臭虫有时被称为昆虫世界的吸血鬼，白天藏起来，晚上出来吃人血。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Bedbugs are sometimes called the vampires of the insect world—hiding during the day and coming out at night to feast on human blood.…"
+      }
+    ]
+  },
+  {
+    "id": "cc049d44048",
+    "systems": [
+      "hormones"
+    ],
+    "cover": "",
+    "title": "观看更多社交媒体的学生使用更多的产品，这些产品通常含有干扰激素的成分",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-16",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-students-view-social-media-products.html",
+    "evidence": "B",
+    "summary": "个人护理产品是日常接触内分泌干扰化学物质的最大来源之一……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Personal care products are among the largest everyday sources of exposure to endocrine-disrupting chemicals,…"
+      }
+    ]
+  },
+  {
     "id": "c4198389b0d",
     "systems": [
       "brain"
