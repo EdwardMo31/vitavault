@@ -1,6 +1,90 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c0eca2efcc4",
+    "systems": [
+      "senses"
+    ],
+    "cover": "",
+    "title": "美国学校疫苗接种率再次下降，免疫率创历史新高",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-17",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-school-vaccination-inch-exemptions-high.html",
+    "evidence": "B",
+    "summary": "去年，美国幼儿园的疫苗接种率再次下降，获得豁免的儿童比例上升到历史最高水平……",
+    "body": [
+      {
+        "t": "p",
+        "x": "U.S. kindergarten vaccination rates inched down again last year and the share of children with exemptions rose to an all-time high,…"
+      }
+    ]
+  },
+  {
+    "id": "c196b860c39",
+    "systems": [
+      "immune"
+    ],
+    "cover": "",
+    "title": "170万澳大利亚人没有麻疹防护措施",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-17",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-million-australians-unprotected-measles.html",
+    "evidence": "B",
+    "summary": "2019年，估计有170万澳大利亚人（占人口的6.7% ）容易（没有足够的免疫力）感染麻疹， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "An estimated 1.7 million Australians, or 6.7% of the population, were susceptible (did not have sufficient immunity) to measles in 2019,…"
+      }
+    ]
+  },
+  {
+    "id": "c3b3a42a4f2",
+    "systems": [
+      "hormones"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2019/01/1077px-Liversteatosis.jpg",
+    "title": "2 Minute Medicine Rewind 2026年8月17日",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-08-17",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/2-minute-medicine-rewind-august-17-2026/",
+    "evidence": "A",
+    "summary": "肝甘油三酯短期减少对有代谢功能障碍相关成人或有代谢功能障碍相关风险的成人血管健康的影响…",
+    "body": [
+      {
+        "t": "p",
+        "x": "The impact of short-term reduction in hepatic triglycerides on vascular health in adults with or at risk of metabolic dysfunction-associated…"
+      }
+    ]
+  },
+  {
+    "id": "c790f22e48e",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "低脂素食有助于人们在不减少进食的情况下减肥",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-17",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260815064825.htm",
+    "evidence": "B",
+    "summary": "低脂素食饮食可以帮助人们减肥，而无需计算卡路里、减少份量或感到持续饥饿。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A low-fat vegan diet may help people lose weight without counting calories, shrinking portions, or feeling constantly hungry.…"
+      }
+    ]
+  },
+  {
     "id": "c2453a637ee",
     "systems": [
       "whole"
