@@ -1,6 +1,197 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c023489c69c",
+    "systems": [
+      "brain",
+      "whole"
+    ],
+    "cover": "",
+    "title": "从中年到晚年：解决男性衰老、物质使用和心理健康的交叉问题",
+    "org": "SAMHSA",
+    "author": "SAMHSA 心理健康",
+    "date": "2026-08-19",
+    "sourceName": "samhsa.gov",
+    "sourceUrl": "https://www.samhsa.gov/blog/midlife-to-later-life-addressing-intersection-aging-substance-use-mental-health-men",
+    "evidence": "A",
+    "summary": "对于许多男性来说，中年和随后的岁月带来了重大变化--退休、失去配偶或亲密朋友、慢性疼痛……",
+    "body": [
+      {
+        "t": "p",
+        "x": "For many men, midlife and the years that follow bring significant change — retirement, loss of a spouse or close friend, chronic pain,…"
+      }
+    ]
+  },
+  {
+    "id": "c60d61fa604",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/1PTCgM83qysVh3KSrIK7Mv/7036b7cba31029e930b95d65260a2ebe/shutterstock_2125234811_Cropped-2.jpg",
+    "title": "即食餐对您来说真的那么糟糕吗？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-08-19",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/diet-and-nutrition/are-ready-meals-really-that-bad-for-you",
+    "evidence": "B",
+    "summary": "自从Delia诞生以来，我们一直被告知即食食品价格过高，加工过度，对我们的健康有害。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Since the dawn of Delia, we’ve been told that ready meals are overpriced, overprocessed, and bad for our health.…"
+      }
+    ]
+  },
+  {
+    "id": "cde421c9969",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/2vuaUEG1VnYc90Hd5R27aR/9197df2f341556164ff63693fbd94cdf/shutterstock_2157868059_Cropped-2.jpg",
+    "title": "锻炼零食-微小的动作爆发如何提升你的心态",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-08-19",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/exercise-snacking-how-small-bursts-of-movement-can-boost-your-mindset",
+    "evidence": "B",
+    "summary": "随着时间表的扩展和注意力持续时间的减少，将60分钟的锻炼融入日常生活也变得越来越不切实际，这也就不足为奇了……",
+    "body": [
+      {
+        "t": "p",
+        "x": "As schedules expand and attention spans decrease, it’s no wonder fitting a 60‑minute workout into your day feels increasingly unrealistic and…"
+      }
+    ]
+  },
+  {
+    "id": "c15355e7513",
+    "systems": [
+      "senses"
+    ],
+    "cover": "",
+    "title": "一种“重写”童年记忆的疗法可以缓解对失败的恐惧",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-08-18",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260815064833.htm",
+    "evidence": "B",
+    "summary": "童年的批评会让人们在成年后很长一段时间都害怕失败， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Childhood criticism can leave people carrying a fear of failure long into adulthood,…"
+      }
+    ]
+  },
+  {
+    "id": "c382e3758f8",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "研究发现，种族主义直接塑造并加剧了人们经历悲伤的方式",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-18",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-racism-people-grief.html",
+    "evidence": "B",
+    "summary": "根据同类规模最大的研究，种族主义直接影响着人们经历悲伤和丧亲之痛的方式。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Racism directly affects how people experience grief and bereavement, according to the largest study of its kind.…"
+      }
+    ]
+  },
+  {
+    "id": "c701b9d1289",
+    "systems": [
+      "brain",
+      "heart"
+    ],
+    "cover": "",
+    "title": "基于NT-proBNP变化的心脏应激可能改善CVD风险分层",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-18",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-heart-stress-based-nt-probnp.html",
+    "evidence": "B",
+    "summary": "对于社区居住的老年人， N末端B型利钠肽前体（ NT-proBNP ）浓度的纵向变化（心脏应激[HS] ） ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "For community-dwelling older adults, longitudinal changes in N-terminal pro-B-type natriuretic peptide (NT-proBNP) concentrations (heart stress [HS])…"
+      }
+    ]
+  },
+  {
+    "id": "c8104f10eda",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2016/09/intracerebral-hemorrhage.jpg",
+    "title": "弥散加权成像可能有助于脑出血的预后",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-08-18",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/diffusion-weighted-imaging-may-aid-in-prognostication-for-intracerebral-hemorrhage/",
+    "evidence": "A",
+    "summary": "1.扩散加权成像（ DWI ）阳性病变在脑出血（ ICH ）后很常见，可作为……的独立生物标志物",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Diffusion-weighted imaging (DWI)-positive lesions are common after intracerebral hemorrhage (ICH) and serve as an independent biomarker of…"
+      }
+    ]
+  },
+  {
+    "id": "c891b08d757",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "坚果、肉类和营养学研究中的缺陷",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-08-18",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/nuts-meat-and-the-flaw-in-nutrition-studies/",
+    "evidence": "B",
+    "summary": "吃坚果的人会因为用植物蛋白代替动物蛋白而寿命更长吗？ ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Do people who eat nuts live longer simply because they replace protein from animals with protein from plants?…"
+      }
+    ]
+  },
+  {
+    "id": "cec5e773cc4",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "研究证明了儿科研究的新标准",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-18",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-standard-pediatric.html",
+    "evidence": "B",
+    "summary": "Gabriella Miller儿童第一数据资源中心（ Kids First DRC ）的一项新分析显示，",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new analysis from the Gabriella Miller Kids First Data Resource Center (Kids First DRC) shows how a collaborative,…"
+      }
+    ]
+  },
+  {
     "id": "c0eca2efcc4",
     "systems": [
       "senses"
@@ -81,6 +272,28 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "A low-fat vegan diet may help people lose weight without counting calories, shrinking portions, or feeling constantly hungry.…"
+      }
+    ]
+  },
+  {
+    "id": "c7f82898005",
+    "systems": [
+      "senses",
+      "gut"
+    ],
+    "cover": "",
+    "title": "使奶酪味道如此美味的细菌也可能对您的肠道有益",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-17",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260816044847.htm",
+    "evidence": "B",
+    "summary": "研究三种英国手工奶酪的科学家发现，负责其独特风味的微生物也可能提供令人惊讶的……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists studying three artisan British cheeses found that the microbes responsible for their distinctive flavors may also offer surprising…"
       }
     ]
   },
@@ -191,6 +404,48 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c02da86051c",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "生牛奶有益健康吗？",
+    "org": "MedlinePlus",
+    "author": "MedlinePlus 营养",
+    "date": "2026-08-15",
+    "sourceName": "eatright.org",
+    "sourceUrl": "https://www.eatright.org/food/food-groups/dairy-and-alternatives/is-raw-milk-healthy",
+    "evidence": "A",
+    "summary": "资料来源：营养与饮食学院",
+    "body": [
+      {
+        "t": "p",
+        "x": "Source: Academy of Nutrition and Dietetics"
+      }
+    ]
+  },
+  {
+    "id": "c059645edeb",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "了解种子油",
+    "org": "MedlinePlus",
+    "author": "MedlinePlus 营养",
+    "date": "2026-08-15",
+    "sourceName": "eatright.org",
+    "sourceUrl": "https://www.eatright.org/health/essential-nutrients/fats/understanding-seed-oils",
+    "evidence": "A",
+    "summary": "资料来源：营养与饮食学院",
+    "body": [
+      {
+        "t": "p",
+        "x": "Source: Academy of Nutrition and Dietetics"
+      }
+    ]
+  },
+  {
     "id": "c4198389b0d",
     "systems": [
       "brain"
@@ -208,6 +463,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Nature never sits still, and neither does anything living within it, since paths keep shifting as things move through the world.…"
+      }
+    ]
+  },
+  {
+    "id": "c58da2bf332",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "吃真正的食物金字塔",
+    "org": "MedlinePlus",
+    "author": "MedlinePlus 营养",
+    "date": "2026-08-15",
+    "sourceName": "medlineplus.gov",
+    "sourceUrl": "https://medlineplus.gov/ency/imagepages/1055.htm",
+    "evidence": "A",
+    "summary": "资料来源：医学百科全书",
+    "body": [
+      {
+        "t": "p",
+        "x": "Source: Medical Encyclopedia"
       }
     ]
   },
