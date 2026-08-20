@@ -1,6 +1,49 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c058b333cd7",
+    "systems": [
+      "hormones",
+      "nutrition"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/2Snyxxf5INiyP22x0DrHzS/7a5cf32f2c969987a6bd99b83ed1aab0/metabolic-health.jpg",
+    "title": "什么是代谢健康-为什么它很重要？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-08-20",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/general-health-and-lifestyle/what-is-metabolic-health",
+    "evidence": "B",
+    "summary": "进食后不久感到疲倦、饥饿或挣扎于顽固的体重会让你怀疑自己的健康是否有问题。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Feeling tired, hungry soon after eating or struggling with stubborn weight can leave you wondering whether something is off with your health.…"
+      }
+    ]
+  },
+  {
+    "id": "cf4d5a95203",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/5i7wveljt1kVCGQSlmbqfg/40d6b1eda24e92d40f04a8474a65be4b/shutterstock_2614519001_Cropped.jpg",
+    "title": "每天都要尝试的8个减压技巧",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-08-20",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/mental-health/stress-relieving-tips-to-try-every-day",
+    "evidence": "B",
+    "summary": "无论是工作、家庭生活的压力，还是迫在眉睫的最后期限，我们大多数人都会时不时地感到压力。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Whether it's the pressure of work, family life, or a looming deadline, most of us have stress from time to time.…"
+      }
+    ]
+  },
+  {
     "id": "c023489c69c",
     "systems": [
       "brain",
@@ -19,6 +62,28 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "For many men, midlife and the years that follow bring significant change — retirement, loss of a spouse or close friend, chronic pain,…"
+      }
+    ]
+  },
+  {
+    "id": "c167a19226c",
+    "systems": [
+      "hormones",
+      "muscles"
+    ],
+    "cover": "",
+    "title": "喝咖啡的人脂肪更少，肌肉更多，激素差异令人惊讶",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-19",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260819041228.htm",
+    "evidence": "B",
+    "summary": "喝咖啡的人可能得到的不仅仅是能量提升。芬兰的一项研究发现，喝咖啡越多的人，咖啡总量就越少，而且……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Coffee drinkers may be getting more than an energy boost. A Finnish study found that people who drank more coffee tended to have less total and…"
       }
     ]
   },
@@ -44,6 +109,69 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c733b0127a5",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "垃圾食品供应商在英国最大的学校食品活动中占据“令人震惊”的重要地位",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-19",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-junk-food-suppliers-major-presence.html",
+    "evidence": "B",
+    "summary": "随着政府准备引入更新的学校食品标准， BMJ的一项调查发现，超过三分之一的公司......",
+    "body": [
+      {
+        "t": "p",
+        "x": "As the government prepares to introduce updated school food standards, an investigation by The BMJ finds that more than a third of the firms…"
+      }
+    ]
+  },
+  {
+    "id": "cbde08fe81a",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "研究人员揭示了大脑信息中心更深层次的工作原理",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-08-19",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260819041224.htm",
+    "evidence": "B",
+    "summary": "大脑有一个非常灵活的系统来处理不确定性和变化的情况。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The brain has a remarkably flexible system for handling uncertainty and changing situations.…"
+      }
+    ]
+  },
+  {
+    "id": "cc1f5796621",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "日本科学家使用微小的银颗粒使DNA组装效率提高5倍",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-19",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260816044842.htm",
+    "evidence": "B",
+    "summary": "银纳米颗粒可以精确切割DNA并产生更长的“粘性末端” ，帮助基因片段连接的效率是……的五倍。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Silver nanoparticles can precisely slice DNA and create longer “sticky ends,” helping genetic fragments join up to five times more efficiently than…"
+      }
+    ]
+  },
+  {
     "id": "cde421c9969",
     "systems": [
       "brain"
@@ -61,6 +189,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "As schedules expand and attention spans decrease, it’s no wonder fitting a 60‑minute workout into your day feels increasingly unrealistic and…"
+      }
+    ]
+  },
+  {
+    "id": "cfb45266e7c",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "为什么我们在黑白上衣上看到颜色？",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-19",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-black-white.html",
+    "evidence": "B",
+    "summary": "当旋转仅以黑白绘制的图案时，人们有时会感知到实际上不存在的颜色。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "When a pattern drawn only in black and white is rotated, people sometimes perceive colors that are not actually present.…"
       }
     ]
   },
