@@ -23,6 +23,69 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c2314d44869",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "新指南可以帮助科学家利用光和声更深入地了解人体",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-20",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-scientists-deeper-human-body.html",
+    "evidence": "B",
+    "summary": "科学家们已经发表了迄今为止对支撑光声层析成像（ PAT ）的超声波探测器的最全面的分析--这是一种快速出现的……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists have published the most comprehensive analysis to date of ultrasound detectors underpinning photoacoustic tomography (PAT)—a fast-emerging…"
+      }
+    ]
+  },
+  {
+    "id": "c3aa02fdc2a",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "香港首个检测老年人社交弱点的筛查工具",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-20",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-hong-kong-screening-tool-social.html",
+    "evidence": "B",
+    "summary": "孤独和社交孤立被广泛认为对老年人的健康有害，但一线护理人员长期缺乏简单的……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Loneliness and social isolation are widely recognized as harmful to older adults' health, yet frontline care workers have long lacked a simple,…"
+      }
+    ]
+  },
+  {
+    "id": "cda47129d7d",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "医疗保健中的体重偏见",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-08-20",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/weight-bias-in-health-care-2/",
+    "evidence": "B",
+    "summary": "请注意：本博客及其随附视频讨论了体重偏见和歧视这一重要且令人不安的问题……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Please note: This blog and its accompanying video discuss the important and troubling issue of weight bias and discrimination,…"
+      }
+    ]
+  },
+  {
     "id": "cf4d5a95203",
     "systems": [
       "brain"
