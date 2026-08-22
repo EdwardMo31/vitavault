@@ -1,6 +1,133 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c2893e6f0ee",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/26xJX9N7A09xdUIkTfalI2/ac798f0a743f2e7f4c55e720afeb4a90/shutterstock_1433314202_Cropped-2.jpg",
+    "title": "为什么减肥会导致脱发-以及如何应对",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-08-22",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/why-losing-weight-can-cause-hair-loss-and-what-to-do-about-it",
+    "evidence": "B",
+    "summary": "当我们考虑减肥时，我们通常会关注体重秤所说的内容，而不是它对我们身体的更广泛影响。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "When we think about weight loss, we often focus on what the scales say rather than the wider impact it can have on our bodies.…"
+      }
+    ]
+  },
+  {
+    "id": "c0a1babc1c7",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "12个欧洲国家报告了西尼罗河病毒：欧盟卫生机构",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-21",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-west-nile-virus-european-countries.html",
+    "evidence": "B",
+    "summary": "欧盟卫生机构周五表示，今年到目前为止，欧洲已有12个国家报告了西尼罗河病毒的本地感染病例。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Twelve countries in Europe have reported locally acquired cases of West Nile virus so far this year, the EU health agency said Friday,…"
+      }
+    ]
+  },
+  {
+    "id": "cc6490f0c21",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "远程医疗干预未能减少养老院住院治疗，研究发现",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-21",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-telemedicine-intervention-nursing-home-hospitalizations.html",
+    "evidence": "B",
+    "summary": "在疗养院实施基于远程医疗的跨部门干预措施并未导致患者人数在统计学上显著减少……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Implementing an intersectoral, telemedicine-based intervention in nursing homes did not lead to a statistically significant reduction in patient…"
+      }
+    ]
+  },
+  {
+    "id": "ccfe3b5109e",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "“随叫随到”的工作会如何扰乱您的睡眠--即使电话从未接通",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-21",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-oncall-disrupt.html",
+    "evidence": "B",
+    "summary": "现在是凌晨4点，你终于离开了，然后电话响了。工作在召唤。你得进去……",
+    "body": [
+      {
+        "t": "p",
+        "x": "It's 4 a.m., you've finally drifted off, and then the phone rings. It's work calling. You have to go in.…"
+      }
+    ]
+  },
+  {
+    "id": "cf8060ec82a",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "3分钟的冲刺可以做到90分钟的锻炼",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-21",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260821012208.htm",
+    "evidence": "B",
+    "summary": "短跑几分钟可能会比长时间的适度锻炼更显著地重塑血液。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A few minutes of sprinting may reshape the bloodstream far more dramatically than a much longer moderate workout.…"
+      }
+    ]
+  },
+  {
+    "id": "cfd8ae4b5ec",
+    "systems": [
+      "immune",
+      "hormones"
+    ],
+    "cover": "",
+    "title": "这种减肥激素可以保护肝脏，即使没有减肥",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-21",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260820202854.htm",
+    "evidence": "B",
+    "summary": "一种以抑制食欲和支持减肥而闻名的激素可能还有一项令人惊讶的第二项工作：保护肝脏免受炎症和……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A hormone already known for curbing appetite and supporting weight loss may have a surprising second job: protecting the liver from inflammation and…"
+      }
+    ]
+  },
+  {
     "id": "c058b333cd7",
     "systems": [
       "hormones",
@@ -61,6 +188,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Loneliness and social isolation are widely recognized as harmful to older adults' health, yet frontline care workers have long lacked a simple,…"
+      }
+    ]
+  },
+  {
+    "id": "cce657c41b3",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "Ozempic对大脑的饥饿神经元做了一些意想不到的事情",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-20",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260820002436.htm",
+    "evidence": "B",
+    "summary": "Ozempic可能以几乎与科学家预期相反的方式在大脑中发挥作用， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Ozempic may work in the brain in almost the opposite way scientists expected,…"
       }
     ]
   },
