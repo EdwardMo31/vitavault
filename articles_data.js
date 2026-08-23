@@ -1,6 +1,27 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c155305b30d",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "深部脑刺激显示出改善创伤性脑损伤后沟通的潜力",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-22",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-deep-brain-potential-communication-traumatic.html",
+    "evidence": "B",
+    "summary": "深部脑刺激（ DBS ）可能有助于改善由创伤性脑损伤（ TBI ）引起的言语和吞咽问题， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Deep brain stimulation, or DBS, may help improve speech and swallowing problems caused by traumatic brain injury (TBI),…"
+      }
+    ]
+  },
+  {
     "id": "c2893e6f0ee",
     "systems": [
       "brain"
@@ -18,6 +39,69 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "When we think about weight loss, we often focus on what the scales say rather than the wider impact it can have on our bodies.…"
+      }
+    ]
+  },
+  {
+    "id": "c3e4da2475a",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "我们对乡村奶酪进行了证据检查，但健康声明并未累积",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-22",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-cottage-cheese-evidence-health-didnt.html",
+    "evidence": "B",
+    "summary": "乡村奶酪正在打卡。它被添加到蘸酱中，混合成面糊，甚至用于披萨和布朗尼。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Cottage cheese is having a moment. It's being added to dips, mixed into batters and even used in pizza and brownies.…"
+      }
+    ]
+  },
+  {
+    "id": "caf027003c4",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "锻炼可能比减肥更有效",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-22",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260821012240.htm",
+    "evidence": "B",
+    "summary": "锻炼本身可能不是一个强大的减肥工具，但它似乎在防止减肥恢复方面发挥着更大的作用。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Exercise may not be a powerful weight-loss tool on its own, but it appears to play a much bigger role in preventing lost weight from returning.…"
+      }
+    ]
+  },
+  {
+    "id": "c01b834e84c",
+    "systems": [
+      "gut"
+    ],
+    "cover": "",
+    "title": "这种肠道微生物可以帮助您随着年龄的增长保持强壮",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-08-21",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260820202904.htm",
+    "evidence": "B",
+    "summary": "科学家们已经将一种特定的肠道细菌--菊粉虫（ Roseburia inulinivorans ）与人类和小鼠更强壮的肌肉联系起来。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists have linked a specific gut bacterium, Roseburia inulinivorans, to stronger muscles in both humans and mice.…"
       }
     ]
   },
