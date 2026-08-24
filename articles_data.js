@@ -1,6 +1,92 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c667da3c4be",
+    "systems": [
+      "immune"
+    ],
+    "cover": "",
+    "title": "菠菜和杏仁中的草酸盐可能会加重IBD的肠道炎症",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-23",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-oxalate-spinach-almonds-worsen-gut.html",
+    "evidence": "B",
+    "summary": "菠菜、杏仁和红薯被誉为地球上最健康的食物之一。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Spinach, almonds and sweet potatoes are celebrated as some of the healthiest foods on the planet.…"
+      }
+    ]
+  },
+  {
+    "id": "c700224eb83",
+    "systems": [
+      "brain",
+      "muscles"
+    ],
+    "cover": "",
+    "title": "实验化合物有助于燃烧脂肪而不会失去肌肉",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-23",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260823014953.htm",
+    "evidence": "B",
+    "summary": "一种有几十年历史的化合物可能会指出一种治疗肥胖的新方法，让身体燃烧更多的能量，而不仅仅是减少食欲。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A decades-old compound may point to a new way of treating obesity by making the body burn more energy rather than simply reducing appetite.…"
+      }
+    ]
+  },
+  {
+    "id": "c8884d3cdae",
+    "systems": [
+      "brain",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "这种常见的维生素与认知得分提高13%有关",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-23",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260822015138.htm",
+    "evidence": "B",
+    "summary": "患有轻度认知障碍和睡眠问题的老年人每天服用至少5,000国际单位的维生素D ，在…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Older adults with mild cognitive impairment and sleep problems who took at least 5,000 IU of vitamin D daily scored more than 13% higher on a…"
+      }
+    ]
+  },
+  {
+    "id": "cc06e4b61ce",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "研究发现，网络欺凌可能会通过孤独加剧青少年的心理健康问题",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-23",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-cyberbullying-fuel-teen-mental-health.html",
+    "evidence": "B",
+    "summary": "研究表明，遭受网络欺凌的青少年后来出现情绪和行为问题的风险更大。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Teenagers who are subjected to online bullying are at greater risk of later emotional and behavioral difficulties, research suggests."
+      }
+    ]
+  },
+  {
     "id": "c155305b30d",
     "systems": [
       "brain"
@@ -60,6 +146,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Cottage cheese is having a moment. It's being added to dips, mixed into batters and even used in pizza and brownies.…"
+      }
+    ]
+  },
+  {
+    "id": "c9ee6959c9e",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "戒酒可能会导致大脑复发",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-22",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260822015148.htm",
+    "evidence": "B",
+    "summary": "戒酒后产生强迫性饮酒的小鼠显示，与压力和……相关的大脑区域的活动增加了一倍以上。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Mice that developed compulsive drinking after alcohol abstinence showed more than double the activity in a brain region associated with stress and…"
       }
     ]
   },
