@@ -1,6 +1,133 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c775faccb71",
+    "systems": [
+      "brain",
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/cE1HuF41ROKQvL7KrniQ3/7d16f629ee77cb1cfaeef9865b3811a3/iStock-2156919561_Cropped.jpg",
+    "title": "身体积极性：任何年龄段的自爱和接受的7个日常习惯",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-08-25",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/mental-health/body-positivity-7-daily-habits-for-self-love-and-acceptance-at-any-age",
+    "evidence": "B",
+    "summary": "随着我们的成长和进化，我们的身体和心态也会发生变化。这些自然的转变会影响我们的自尊， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "As we grow and evolve, our bodies and mindsets change. These natural transitions can affect our self-esteem,…"
+      }
+    ]
+  },
+  {
+    "id": "c2127fc712d",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2018/06/freestocks-org-71789-unsplash.jpg",
+    "title": "2分钟药品倒带2026年8月24日",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-08-24",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/2-minute-medicine-rewind-aug-24th-2026/",
+    "evidence": "A",
+    "summary": "多布斯诉杰克逊案判决1之前和之后的州外堕胎护理旅行……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Out-of-State Travel for Abortion Care Before and After the Dobbs v Jackson Decision 1.…"
+      }
+    ]
+  },
+  {
+    "id": "c32c512ec34",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2019/03/CRISPR.jpg",
+    "title": "单剂量CRISPR治疗可减少遗传性血管性水肿发作",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-08-24",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/single-dose-crispr-therapy-reduces-hereditary-angioedema-attacks/",
+    "evidence": "A",
+    "summary": "1.在这项3期随机对照试验中，与…相比，单次输注lonvoguran ziclumeran可使遗传性血管性水肿发作减少87%。",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this phase 3 randomized controlled trial, a single infusion of lonvoguran ziclumeran reduced hereditary angioedema attacks by 87% compared with…"
+      }
+    ]
+  },
+  {
+    "id": "c468927a836",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "高性能的隐性成本：新的研究问题“不惜一切代价赢得”体育文化",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-24",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-hidden-high-sport-culture.html",
+    "evidence": "B",
+    "summary": "这些系统是否旨在支持新西兰的高性能运动员伤害他们？",
+    "body": [
+      {
+        "t": "p",
+        "x": "Are the systems designed to support New Zealand's high-performance athletes harming them instead?"
+      }
+    ]
+  },
+  {
+    "id": "c9b8e969f4c",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "灭火24小时后消防员尿液和血液的生物学变化",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-24",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-biological-firefighters-urine-blood-hours.html",
+    "evidence": "B",
+    "summary": "休斯顿UTHealth的一项新研究发现，消防员在战斗后24小时内血液和尿液发生了可测量的生物学变化。",
+    "body": [
+      {
+        "t": "p",
+        "x": "New research from UTHealth Houston found firefighters experience measurable biological changes in their blood and urine within 24 hours of fighting a…"
+      }
+    ]
+  },
+  {
+    "id": "cf8b2f4f6e6",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "睡眠过多或过少可能会使您的身体衰老更快",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-08-24",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260823094156.htm",
+    "evidence": "B",
+    "summary": "睡眠过少和过多都可能与全身更快的衰老有关。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Both too little and too much sleep may be linked to faster aging throughout the body.…"
+      }
+    ]
+  },
+  {
     "id": "c667da3c4be",
     "systems": [
       "immune"
@@ -62,6 +189,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Older adults with mild cognitive impairment and sleep problems who took at least 5,000 IU of vitamin D daily scored more than 13% higher on a…"
+      }
+    ]
+  },
+  {
+    "id": "cbc4b983cb5",
+    "systems": [
+      "gut"
+    ],
+    "cover": "",
+    "title": "肠道细菌可能会释放蔬菜的隐藏益处",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-23",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260822015145.htm",
+    "evidence": "B",
+    "summary": "肠道细菌可以将蔬菜和其他食物中的硝酸盐和植物性铁转化为可能有益于心脏和…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Gut bacteria can transform nitrate and plant-based iron from vegetables and other foods into protective molecules that may benefit the heart and…"
       }
     ]
   },
