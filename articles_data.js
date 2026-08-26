@@ -1,6 +1,175 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c84cdcbd6d0",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/2rNRUXJSnfZDkTT3MRhM7f/726cd35cb1d4435a81f5ad3cda463329/shutterstock_2742364463_Cropped.jpg",
+    "title": "Gaynor Faye谈热潮、更年期--以及为什么中年女性值得一看",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-08-26",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/hormones/gaynor-faye-on-hot-flash-menopause-and-why-midlife-women-deserve-to-be-seen",
+    "evidence": "B",
+    "summary": "围绕更年期的谈话正在发生变化，为经常被忽视的体验带来了早该有的诚实和幽默。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The conversation around menopause is changing, bringing long-overdue honesty and humour to an experience too often overlooked.…"
+      }
+    ]
+  },
+  {
+    "id": "ca224cff89f",
+    "systems": [
+      "skin"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/4IFjke6ve3Ly9bzTOiKRTY/46955ffe1afc130f82d4a77cfa346572/shutterstock_2462446009_Cropped.jpg",
+    "title": "什么是去角质？为什么它很重要？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-08-26",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/skin-conditions/what-is-exfoliation-and-why-is-it-important",
+    "evidence": "B",
+    "summary": "如今，护肤程序可以包含很多步骤，但皮肤专家仍然考虑“清洁，去角质， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Nowadays, a skincare routine can contain a lot of steps, but skin gurus still consider 'cleanse, exfoliate,…"
+      }
+    ]
+  },
+  {
+    "id": "cac4b2da611",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/6SobZzNWtBH16CJNXx30ta/9fd895b360eb68e34f21ea011dd66f2f/shutterstock_1627021774_Cropped.jpg",
+    "title": "深度休息深蹲--这种简单的姿势能解锁灵活性、机动性和长寿吗？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-08-26",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/deep-resting-squat-can-this-simple-posture-unlock-flexibility-mobility-and-longevity",
+    "evidence": "B",
+    "summary": "当我们坐下时，我们大多数人都会本能地直奔椅子或舒适的沙发，而不去想它。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "When we go to sit down, most of us instinctively head straight for a chair or comfy sofa without giving it a second thought.…"
+      }
+    ]
+  },
+  {
+    "id": "ccf039112bb",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/6UxJVuUbwqLYYaY8CoZjhr/4dfa47e91370facd57df8efd4d949384/Untitled_design.jpg",
+    "title": "蝌蚪水-它是什么，它实际上对健康有什么好处吗？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-08-26",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/diet-and-nutrition/tadpole-water-what-is-it-and-does-it-actually-have-any-health-benefits",
+    "evidence": "B",
+    "summary": "如果您听说有人在网上喝“蝌蚪水” ，请不要担心。尽管有这个名字， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "If you’ve heard of people drinking ‘tadpole water’ online, don’t worry. Despite the name,…"
+      }
+    ]
+  },
+  {
+    "id": "c405ba77961",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "抑郁症可能会关闭大脑制造新神经元的能力",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-08-25",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260823094135.htm",
+    "evidence": "B",
+    "summary": "一项主要研究发现，患有抑郁症的成年人表现出海马体中新神经元的产生受到干扰， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A major study found that adults with depression show disrupted production of new neurons in the hippocampus,…"
+      }
+    ]
+  },
+  {
+    "id": "c55ec720113",
+    "systems": [
+      "heart",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "您的基因可能会决定低碳水化合物饮食是否会导致胆固醇飙升",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-25",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260823015009.htm",
+    "evidence": "B",
+    "summary": "低碳水化合物饮食可能会在遗传上易患高胆固醇的人群中更明显地提高低密度脂蛋白胆固醇， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A low-carb diet may raise LDL cholesterol much more sharply in people who are genetically predisposed to high cholesterol,…"
+      }
+    ]
+  },
+  {
+    "id": "c70059ef8f3",
+    "systems": [
+      "lungs"
+    ],
+    "cover": "",
+    "title": "与儿童、青少年哮喘发病率增加相关的身体圆度指数",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-25",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-body-roundness-index-linked-odds.html",
+    "evidence": "B",
+    "summary": "在儿童和青少年中，较高的身体圆度指数（ BRI ）与当前哮喘的几率增加有关， …",
+    "body": [
+      {
+        "t": "p",
+        "x": "Among children and adolescents, a higher body roundness index (BRI) is associated with increased odds of current asthma,…"
+      }
+    ]
+  },
+  {
+    "id": "c7485a49e10",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "喷出的婴儿食品袋更像是含糖饮料/冰沙，而不是营养食品",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-25",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-spouted-baby-food-pouches-sugary.html",
+    "evidence": "B",
+    "summary": "喷口袋中的商业婴儿食品-旨在从6个月起增加营养摄入量-通常更像含糖饮料和……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Commercial baby foods in spouted pouches—intended to boost nutritional intake from the age of 6 months onward—are often more like sugary drinks and…"
+      }
+    ]
+  },
+  {
     "id": "c775faccb71",
     "systems": [
       "brain",
@@ -19,6 +188,111 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "As we grow and evolve, our bodies and mindsets change. These natural transitions can affect our self-esteem,…"
+      }
+    ]
+  },
+  {
+    "id": "c7dbdcd90a5",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "会不会吃太多金枪鱼罐头？",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-25",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-canned-tuna.html",
+    "evidence": "B",
+    "summary": "金枪鱼罐头是许多人的午餐盒主食。价格实惠，蛋白质含量高，不需要烹饪， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Canned tuna is a lunch box staple for many people. It's affordable, high in protein and doesn't need to be cooked,…"
+      }
+    ]
+  },
+  {
+    "id": "ccd6293467b",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "每100次戒烟中，尼古丁电子烟帮助的人数比贴片或口香糖多4人",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-25",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-nicotine-cigarettes-people-patches-gum.html",
+    "evidence": "B",
+    "summary": "尼古丁电子烟在帮助人们戒烟方面比许多传统方法（包括尼古丁口香糖和贴片）更有效……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Nicotine e-cigarettes are more effective at helping people quit smoking than many conventional methods, including nicotine gum and patches,…"
+      }
+    ]
+  },
+  {
+    "id": "cd56c077987",
+    "systems": [
+      "senses"
+    ],
+    "cover": "",
+    "title": "Clear Eyes滴眼液因不育问题在全国范围内召回",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-25",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-eyes-eye-recalled-nationwide-sterility.html",
+    "evidence": "B",
+    "summary": "由于制造商无法保证产品是无菌的，因此在全国范围内从货架上撤下了近4万瓶广泛销售的眼药水。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Nearly 40,000 bottles of a widely sold eye drop are being pulled from shelves nationwide because the maker cannot guarantee the product is sterile."
+      }
+    ]
+  },
+  {
+    "id": "cea791b047e",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "你的大脑实际上可能不会“做出”决定",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-08-25",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260823094148.htm",
+    "evidence": "B",
+    "summary": "一位神经科学家正在挑战这样一种观点，即大脑包含一个真正“做出”我们决策的中枢系统。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A neuroscientist is challenging the idea that the brain contains a central system that actually “makes” our decisions.…"
+      }
+    ]
+  },
+  {
+    "id": "cf9b94d43d5",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "体重偏差的负担",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-08-25",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/the-burden-of-weight-bias/",
+    "evidence": "B",
+    "summary": "请注意：本博客及其随附视频讨论了体重偏见和歧视这一重要且令人不安的问题……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Please note: This blog and its accompanying video discuss the important and troubling issue of weight bias and discrimination,…"
       }
     ]
   },
