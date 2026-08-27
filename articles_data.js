@@ -1,6 +1,133 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c2d595325dc",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "研究发现，澳大利亚老年人对骨质疏松症一无所知",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-27",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-older-australians-dark-osteoporosis.html",
+    "evidence": "B",
+    "summary": "科廷大学的新研究发现，澳大利亚老年人对骨质疏松症缺乏了解令人担忧， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "New Curtin University research has found a concerning lack of knowledge about osteoporosis among older Australians,…"
+      }
+    ]
+  },
+  {
+    "id": "c392eff3cc2",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "新的精神卫生保健方法减少了住院人数",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-27",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-approach-mental-health-hospital-admissions.html",
+    "evidence": "B",
+    "summary": "一种照顾心理健康危机患者的新方法，强调连续性和社区性， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new approach to caring for people experiencing a mental health crisis, emphasizing continuity and community,…"
+      }
+    ]
+  },
+  {
+    "id": "c6cfabea9e2",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "与儿童肥胖作斗争：研究人员对青少年进行semaglutide研究",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-27",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-childhood-obesity-semaglutide-adolescents.html",
+    "evidence": "B",
+    "summary": "肯塔基州是该国儿童肥胖率最高的地区之一，其健康后果贯穿一生。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Kentucky has one of the highest childhood obesity rates in the country, and the health consequences carry forward throughout life.…"
+      }
+    ]
+  },
+  {
+    "id": "c7ba623c951",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "破坏饮食指南背后的企业策略",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-08-27",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/the-corporate-playbook-behind-undermining-dietary-guidelines/",
+    "evidence": "B",
+    "summary": "国际生命科学研究所是一家非营利组织，被指控是可口可乐和其他垃圾食品巨头的前线组织。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "International Life Sciences Institute, a nonprofit, is accused of being a front group for Coca-Cola and other junk food giants.…"
+      }
+    ]
+  },
+  {
+    "id": "cf6d7c13310",
+    "systems": [
+      "immune"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2018/10/vaccine7_PD_edited.jpg",
+    "title": "mFlusiva成为FDA批准的第一种mRNA流感疫苗",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-08-27",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/mflusiva-becomes-the-first-mrna-influenza-vaccine-approved-by-the-fda/",
+    "evidence": "A",
+    "summary": "1. FLUENT试验证明，在50岁及以上的成年人中，与标准剂量对照相比，疫苗的相对有效性为26.6% ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. The FLUENT trial demonstrated 26.6% relative vaccine efficacy over a standard-dose comparator in adults 50 and older,…"
+      }
+    ]
+  },
+  {
+    "id": "c506fc48352",
+    "systems": [
+      "immune",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "科学家可能已经找到了卡路里限制抗衰老益处的捷径",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-26",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260826055508.htm",
+    "evidence": "B",
+    "summary": "适度的卡路里限制降低了一种名为C3的免疫蛋白，随着身体年龄的增长，这种蛋白似乎有助于驱动慢性炎症。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Moderate calorie restriction lowered an immune protein called C3 that appears to help drive chronic inflammation as the body ages.…"
+      }
+    ]
+  },
+  {
     "id": "c84cdcbd6d0",
     "systems": [
       "whole"
@@ -22,6 +149,27 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c86ca2114ed",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "您在2岁之前吃的东西可能会在70年后影响您的健康",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-26",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260824065522.htm",
+    "evidence": "B",
+    "summary": "英国的战后糖配给创造了一个罕见的自然实验，让研究人员研究早期糖暴露如何影响健康几十年......",
+    "body": [
+      {
+        "t": "p",
+        "x": "Britain’s postwar sugar rationing created a rare natural experiment that let researchers examine how early sugar exposure might affect health decades…"
+      }
+    ]
+  },
+  {
     "id": "ca224cff89f",
     "systems": [
       "skin"
@@ -39,6 +187,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Nowadays, a skincare routine can contain a lot of steps, but skin gurus still consider 'cleanse, exfoliate,…"
+      }
+    ]
+  },
+  {
+    "id": "ca9a833ad36",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "童年创伤可能会在脑细胞内留下持久的“疤痕”",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-08-26",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260823094151.htm",
+    "evidence": "B",
+    "summary": "早期生活压力可能会在物理上改变DNA在大脑中的包装方式，使压力相关基因在数年后更容易激活。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Early-life stress may physically alter how DNA is packaged in the brain, leaving stress-related genes primed to activate more easily years later.…"
       }
     ]
   },
