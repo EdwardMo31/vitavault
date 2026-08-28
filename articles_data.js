@@ -1,6 +1,111 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c8adcffb2c3",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "科学家测试了212种植物性肉类替代品。每一个都含有真菌毒素",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-28",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260828005216.htm",
+    "evidence": "B",
+    "summary": "在英国测试的212种植物性肉类替代品和饮料中，每一种都含有至少一种天然存在的真菌毒素， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Every one of 212 plant-based meat alternatives and drinks tested in the UK contained at least one naturally occurring fungal toxin,…"
+      }
+    ]
+  },
+  {
+    "id": "cb741604ee0",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "受伤增加了体育运动中不活跃的女性的障碍",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-28",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-injury-hurdles-inactive-women-sport.html",
+    "evidence": "B",
+    "summary": "受伤或疼痛会影响五分之一不参加体育运动的女性参加社会运动， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Injury or pain affects participation for one in five physically inactive women taking part in social sport,…"
+      }
+    ]
+  },
+  {
+    "id": "cd9f82a37df",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "大脑扫描揭示个性化社交媒体内容如何放大负面情绪",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-28",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-brain-scans-reveal-personalized-social.html",
+    "evidence": "B",
+    "summary": "虽然社交媒体算法在将用户的观看习惯与有针对性的个性化内容相匹配方面已经变得非常出色，但……",
+    "body": [
+      {
+        "t": "p",
+        "x": "While social media algorithms have become excellent at matching a user's viewing habits with targeted, personalized content,…"
+      }
+    ]
+  },
+  {
+    "id": "cdbdbb12ac5",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "全球首款太阳能救护车实现能源独立，同时在肯尼亚提供医疗保健服务",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-28",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-world-solar-ambulance-energy-independent.html",
+    "evidence": "B",
+    "summary": "来自埃因霍温理工大学的学生团队Solar Team Eindhoven已经成功完成了太阳能救护车的首次实际测试……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Student team Solar Team Eindhoven from Eindhoven University of Technology has successfully completed the first practical tests of the solar ambulance…"
+      }
+    ]
+  },
+  {
+    "id": "c2aa1e0ff22",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2019/10/brain-neuro-dementia-PD.jpg",
+    "title": "2016-2021年间死亡的四分之一的美国国家橄榄球联盟（ NFL ）球员有慢性创伤性脑病的证据",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-08-27",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/advanced-cte-at-death-is-associated-with-increased-risk-of-dementia-among-national-football-league-players/",
+    "evidence": "A",
+    "summary": "1.在2016年至2021年期间死亡的美国国家橄榄球联盟（ NFL ）球员中，至少有四分之一有慢性创伤性脑病（ CTE ）的证据。",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. At least one in four National Football League (NFL) players who died between 2016-2021 had evidence of chronic traumatic encephalopathy (CTE) at…"
+      }
+    ]
+  },
+  {
     "id": "c2d595325dc",
     "systems": [
       "muscles"
@@ -39,6 +144,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "A new approach to caring for people experiencing a mental health crisis, emphasizing continuity and community,…"
+      }
+    ]
+  },
+  {
+    "id": "c41eacdc167",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "维生素C不能预防大多数感冒，但它可能会做一件小事",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-27",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260827010507.htm",
+    "evidence": "B",
+    "summary": "50多年前，诺贝尔奖获得者莱纳斯·鲍林（ Linus Pauling ）普及了大量维生素C可以抵御感冒的信念。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The belief that huge doses of vitamin C can ward off colds was popularized more than 50 years ago by Nobel Prize winner Linus Pauling.…"
       }
     ]
   },
