@@ -1,6 +1,27 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c2794187bef",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2018/08/pregnancy3_PD_edited.jpg",
+    "title": "一项具有里程碑意义的法院裁决与增加跨州堕胎护理旅行有关",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-08-28",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/a-landmark-court-ruling-was-associated-with-increased-travel-across-state-borders-for-abortion-care/",
+    "evidence": "A",
+    "summary": "1.在一项大型队列研究中，评估了Dobbs v Jackson决定之前和之后的人群水平数据，以评估堕胎护理的变化……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In a large cohort study, population-level data prior and after the Dobbs v Jackson decision was assessed to evaluate changes in abortion care…"
+      }
+    ]
+  },
+  {
     "id": "c8adcffb2c3",
     "systems": [
       "whole"
@@ -18,6 +39,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Every one of 212 plant-based meat alternatives and drinks tested in the UK contained at least one naturally occurring fungal toxin,…"
+      }
+    ]
+  },
+  {
+    "id": "cb2bd2fdd99",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2019/10/brain-neuro-dementia-PD.jpg",
+    "title": "年长的已婚夫妇表现出特定领域的认知一致性",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-08-28",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/older-married-couples-demonstrate-domain-specific-cognitive-concordance/",
+    "evidence": "A",
+    "summary": "1.在这项横断面研究中，年龄较大的韩国配偶在语言流利度、结构实践、命名等方面表现出显著的一致性。",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this cross-sectional study, older Korean spouses demonstrated significant concordance in verbal fluency, constructional praxis, naming,…"
       }
     ]
   },
