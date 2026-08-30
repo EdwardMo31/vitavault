@@ -1,6 +1,48 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c1894d73852",
+    "systems": [
+      "heart"
+    ],
+    "cover": "",
+    "title": "长期使用褪黑激素与心力衰竭风险增加90 ％有关",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-29",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm",
+    "evidence": "B",
+    "summary": "长期使用褪黑激素的慢性失眠患者在五年内患心力衰竭的风险高出约90 ％ ， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "People with chronic insomnia who used melatonin long term had a roughly 90% higher risk of developing heart failure over five years,…"
+      }
+    ]
+  },
+  {
+    "id": "cd8b5697f6f",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "新的哲学框架重新构建了医疗保健中的道德困境",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-29",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-philosophical-framework-reframes-moral-distress.html",
+    "evidence": "B",
+    "summary": "护士和医生通常会意识到患者在特定时刻应该得到什么样的护理，无论是在床边的时间是否更长， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Nurses and physicians often recognize what kind of care a patient deserves at a given moment, whether it is more time at the bedside,…"
+      }
+    ]
+  },
+  {
     "id": "c2794187bef",
     "systems": [
       "whole"
