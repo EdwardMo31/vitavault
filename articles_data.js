@@ -1,6 +1,132 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c763ff309b6",
+    "systems": [
+      "heart"
+    ],
+    "cover": "",
+    "title": "心脏、身体和精神--第一个ESC指南强调了心脏康复的许多好处",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-30",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-heart-body-mind-esc-guidelines.html",
+    "evidence": "B",
+    "summary": "欧洲心脏病学会（ ESC ）心脏康复指南今天在线发表在《欧洲心脏杂志》上。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The European Society of Cardiology (ESC) Guidelines on cardiac rehabilitation have been published online today in the European Heart Journal.…"
+      }
+    ]
+  },
+  {
+    "id": "c808d09d7d9",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "HEPA空气净化器可以在短短一个月后增强大脑功能",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-08-30",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm",
+    "evidence": "B",
+    "summary": "在家使用HEPA空气净化器一个月后， 40岁及以上的成年人在执行功能测试中的表现提高了约12%。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Adults aged 40 and older performed about 12% faster on a test of executive function after using a HEPA air purifier at home for one month.…"
+      }
+    ]
+  },
+  {
+    "id": "c8f0334e8bb",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "研究人员推出针对维生素B12缺乏症的可持续螺旋藻解决方案",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-30",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260829035227.htm",
+    "evidence": "B",
+    "summary": "研究人员已经生产出一种含有生物活性维生素B12的螺旋藻，其含量与牛肉相当。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers have produced a form of Spirulina containing biologically active vitamin B12 at levels comparable to beef.…"
+      }
+    ]
+  },
+  {
+    "id": "caa9f993266",
+    "systems": [
+      "lungs"
+    ],
+    "cover": "",
+    "title": "小儿胸闷-变异性哮喘患者分次呼出一氧化氮升高",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-30",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-fractional-exhaled-nitric-oxide-elevated.html",
+    "evidence": "B",
+    "summary": "患有胸闷变异性哮喘（ CTVA ）的儿童呼气一氧化氮（ FeNO ）水平较高，小气道测量值较低…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Children with chest tightness variant asthma (CTVA) have higher fractional exhaled nitric oxide (FeNO) levels and lower measures of small airway…"
+      }
+    ]
+  },
+  {
+    "id": "cd02bd5c305",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "童年逆境可能会使女性在几年后患上产后抑郁症的风险更高",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-30",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-childhood-adversity-women-higher-postpartum.html",
+    "evidence": "B",
+    "summary": "童年创伤的影响可能持续数十年，在人生最艰难的转变之一：成为母亲的过程中重新浮出水面。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The effects of childhood trauma may persist for decades, resurfacing during one of life's most demanding transitions: becoming a mother.…"
+      }
+    ]
+  },
+  {
+    "id": "cf40091d8ca",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "对视力障碍成年人烹饪技能的评估突出了能力和独立性之间的差距",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-30",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-culinary-skills-adults-visual-impairment.html",
+    "evidence": "B",
+    "summary": "最近发表在《营养教育与行为杂志》（ JNEB ）上的一项研究调查了患有以下疾病的成年人的烹饪技能和相关障碍：",
+    "body": [
+      {
+        "t": "p",
+        "x": "A recent study published in the Journal of Nutrition Education and Behavior (JNEB) examined culinary skills and related barriers among adults with…"
+      }
+    ]
+  },
+  {
     "id": "c1894d73852",
     "systems": [
       "heart"
