@@ -1,6 +1,196 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c0ef13f0fa9",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2016/09/scale2_PD_edited.jpg",
+    "title": "较新的GLP-1药物可显著减轻非糖尿病成人的体重",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-08-31",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/newer-glp-1-agents-yield-substantial-weight-loss-in-nondiabetic-adults/",
+    "evidence": "A",
+    "summary": "1.在这篇更新的系统综述中，胰高血糖素样肽-1受体激动剂和辅助激动剂在没有……的成年人中产生了大量体重减轻。",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this updated systematic review, glucagon-like peptide-1 receptor agonists and co-agonists produced substantial weight loss in adults without…"
+      }
+    ]
+  },
+  {
+    "id": "c124ef19c34",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2015/10/prenatal_Ultrasound_edited.jpg",
+    "title": "较高的父母维生素B12与较少的出生缺陷相关",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-08-31",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/higher-parental-vitamin-b12-associated-with-fewer-birth-defects/",
+    "evidence": "A",
+    "summary": "1.在这项前瞻性队列研究中，较高的父母怀孕前和孕妇怀孕后维生素B12水平与较低的几率和…",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this prospective cohort study, higher parental preconception and maternal postconception vitamin B12 levels were associated with lower odds and…"
+      }
+    ]
+  },
+  {
+    "id": "c3e1373e5e0",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "公众对自己的医疗保健提供者的信心仍然很高",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-31",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-confidence-health-high.html",
+    "evidence": "B",
+    "summary": "根据一项纵向调查，美国人对自己的医疗保健提供者的信心仍然很高……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Americans' confidence in their own health care providers remains high, according to a longitudinal,…"
+      }
+    ]
+  },
+  {
+    "id": "c5c243bb525",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "科学家挑战70年前的“蜥蜴大脑”神话",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-08-31",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260829235958.htm",
+    "evidence": "B",
+    "summary": "长期以来，将大脑进化视为堆叠在古代“蜥蜴大脑”之上的新型理性层可能具有深刻的误导性。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A long-standing picture of brain evolution as newer, rational layers stacked on top of an ancient “lizard brain” may be deeply misleading.…"
+      }
+    ]
+  },
+  {
+    "id": "c5e20478bac",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "TAVI后，抗凝剂在预防血栓方面的表现优于抗血小板剂",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-31",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-tavi-anticoagulants-outperform-antiplatelet-agents.html",
+    "evidence": "B",
+    "summary": "经导管主动脉瓣植入术（ TAVI ）后，与…相比，抗凝治疗减少了新瓣膜上凝块形成的影像学体征。",
+    "body": [
+      {
+        "t": "p",
+        "x": "After transcatheter aortic valve implantation (TAVI), anticoagulation reduced imaging signs of clot formation on the new valve compared with…"
+      }
+    ]
+  },
+  {
+    "id": "c642356dba3",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "高生育成本促使美国人出国接受试管婴儿治疗",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-31",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-high-fertility-americans-ivf-treatment.html",
+    "evidence": "B",
+    "summary": "越来越多的美国人将目光投向国外，特别是希腊和西班牙，以逃避美国高昂的生育治疗费用， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A growing number of Americans are looking abroad, particularly to Greece and Spain, to escape the high cost of fertility treatments in the U.S.,…"
+      }
+    ]
+  },
+  {
+    "id": "c6ce3f79256",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "夜猫子比早起的鸟类遇到更多的心理健康问题，并且需要更长的时间才能从工作中恢复过来",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-08-31",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-night-owls-mental-health-issues.html",
+    "evidence": "B",
+    "summary": "对于夜晚类型或“夜猫子”来说，平衡工作和个人生活比早晨类型更具挑战性……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Balancing work and personal life is more challenging for evening types, or \"night owls,\" than for morning types,…"
+      }
+    ]
+  },
+  {
+    "id": "c8fa00bcdcb",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "您的腰围可能会暴露BMI缺失的健康风险",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-31",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260829035208.htm",
+    "evidence": "B",
+    "summary": "简单的腰围测量可能几乎与检测不健康体脂水平的更复杂方法一样有效。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A simple waist measurement may be nearly as effective as more complicated methods for detecting unhealthy levels of body fat.…"
+      }
+    ]
+  },
+  {
+    "id": "ca66b042d7a",
+    "systems": [
+      "senses",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "流行的甜味剂可能会产生代代相传的效果",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-08-31",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260830000019.htm",
+    "evidence": "B",
+    "summary": "两种广泛使用的零卡路里甜味剂，三氯蔗糖和甜叶菊，可能比甜味本身停留的时间长得多。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Two widely used zero-calorie sweeteners, sucralose and stevia, may have effects that linger far longer than the sweet taste itself.…"
+      }
+    ]
+  },
+  {
     "id": "c763ff309b6",
     "systems": [
       "heart"
