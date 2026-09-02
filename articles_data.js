@@ -1,6 +1,174 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c3344793243",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "太多的咖啡可能会削弱骨骼，研究发现",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-09-02",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260901070550.htm",
+    "evidence": "B",
+    "summary": "研究人员对近1万名老年女性进行了10年的研究，发现饮茶与髋骨密度略高有关。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Following nearly 10,000 older women for 10 years, researchers found that tea drinking was associated with slightly higher hip bone density.…"
+      }
+    ]
+  },
+  {
+    "id": "c6936d5170b",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/49Lk5hdvWJ9Oev0apxBvbp/62108f7392da58961f0d89e69d3cf3e3/shutterstock_2619281981-copy.jpg",
+    "title": "胆结石饮食：要吃和避免的食物",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-09-02",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/digestive-health/gallstones-diet-sheet",
+    "evidence": "B",
+    "summary": "三分之一的女性和六分之一的男性会在某个时候患上胆结石。胆结石是小结石，通常由胆汁组成，形成于您的……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1 in 3 women and 1 in 6 men will develop gallstones at some point. Gallstones are small stones - usually made up of bile - that form in your…"
+      }
+    ]
+  },
+  {
+    "id": "cf30ed69e7f",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "预防自杀宣传月：重申我们对预防、恢复和希望的承诺",
+    "org": "SAMHSA",
+    "author": "SAMHSA 心理健康",
+    "date": "2026-09-02",
+    "sourceName": "samhsa.gov",
+    "sourceUrl": "https://www.samhsa.gov/blog/suicide-prevention-awareness-month-renewing-our-commitment-prevention-recovery-hope",
+    "evidence": "A",
+    "summary": "预防自杀月让我们有机会重申国家对解决美国最严重的公共卫生挑战之一的承诺。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Suicide Prevention Month is an opportunity to renew our national commitment to addressing one of America’s most serious public health challenges.…"
+      }
+    ]
+  },
+  {
+    "id": "c1412dbc58b",
+    "systems": [
+      "immune"
+    ],
+    "cover": "",
+    "title": "肥胖在免疫细胞中留下持久的记忆",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-09-01",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260830000013.htm",
+    "evidence": "B",
+    "summary": "肥胖似乎在关键免疫细胞上留下分子印记，可能在减肥后持续5到10年。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Obesity appears to leave a molecular imprint on key immune cells that may persist for 5 to 10 years after weight loss.…"
+      }
+    ]
+  },
+  {
+    "id": "c3e383306ae",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "广泛使用的背部支架缺乏慢性腰痛的有力证据",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-01",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-08-widely-braces-lack-strong-evidence.html",
+    "evidence": "B",
+    "summary": "一项新的Cochrane综述发现，慢性腰痛的腰椎支持证据非常低质量， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new Cochrane review finds very low-quality evidence on lumbar supports for chronic low back pain,…"
+      }
+    ]
+  },
+  {
+    "id": "c9c06c0d6c9",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "大糖颠覆饮食指南背后的科学",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-09-01",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/big-sugar-twists-the-science-behind-the-dietary-guidelines/",
+    "evidence": "B",
+    "summary": "大玉米糖浆和其他公司糖业巨头是如何劫持科学过程的？ ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "How did Big Corn Syrup and other corporate sugar titans hijack the scientific process?…"
+      }
+    ]
+  },
+  {
+    "id": "cb85f7dff48",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "为什么年纪较大的行人在车祸中会变得更糟",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-01",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-older-pedestrians-fare-worse-car.html",
+    "evidence": "B",
+    "summary": "老年行人受到机动车伤害的比例不会高于年轻行人……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Older pedestrians aren't injured by motor vehicles at a greater rate than younger pedestrians,…"
+      }
+    ]
+  },
+  {
+    "id": "cee5fb48967",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "调查发现，在返校高峰期，睡眠可能会被忽视",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-01",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-overlooked-school-survey.html",
+    "evidence": "B",
+    "summary": "即将到来的返校季可能会严重影响许多美国家庭的睡眠。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The upcoming back-to-school season will likely put a serious dent in the sleep of many American families.…"
+      }
+    ]
+  },
+  {
     "id": "c0ef13f0fa9",
     "systems": [
       "whole"
