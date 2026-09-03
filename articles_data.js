@@ -43,6 +43,49 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c7ffe27c9fe",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "特朗普和小RFK的医疗行业协议尚未执行，并有消失的风险",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-02",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-trump-rfk-jr-health-industry.html",
+    "evidence": "B",
+    "summary": "在密歇根州的竞选连任竞选中，共和党众议员汤姆·巴雷特（ Tom Barrett ）加入了卫生与公众服务部长罗伯特· F ·巴雷特（ Robert F",
+    "body": [
+      {
+        "t": "p",
+        "x": "In the thick of his competitive reelection race in Michigan, Republican Rep. Tom Barrett joined Health and Human Services Secretary Robert F.…"
+      }
+    ]
+  },
+  {
+    "id": "cc8425966a4",
+    "systems": [
+      "brain",
+      "senses"
+    ],
+    "cover": "",
+    "title": "儿童睡眠呼吸暂停：打鼾不仅仅是一个嘈杂的夜晚",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-02",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-childhood-apnea-noisy-night.html",
+    "evidence": "B",
+    "summary": "每天晚上大声打鼾的孩子可能看起来很有趣。但如果打鼾伴随着反复的气道狭窄或阻塞， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A child who snores loudly every night might seem like a funny sight. But if that snoring accompanies repeated narrowing or blockage of the airway,…"
+      }
+    ]
+  },
+  {
     "id": "cf30ed69e7f",
     "systems": [
       "whole"
@@ -144,6 +187,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Older pedestrians aren't injured by motor vehicles at a greater rate than younger pedestrians,…"
+      }
+    ]
+  },
+  {
+    "id": "cc274bcb455",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2022/09/the-scan_logo_2022-09-06-2-e1662468176454.png",
+    "title": "2分钟扫描医学® ：病毒更年期鸡尾酒缺乏证据， maxxing趋势引发变态问题，埃博拉病例超过5,000例，咖啡消费与降低内脏脂肪有关",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-01",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/the-scan-by-2-minute-medicine-viral-menopause-cocktail-spreads-without-clinical-evidence-maxxing-trends-raise-body-dysmorphia-concerns-bundibugyo-ebola-outbreak-surpasses-5000-cases-and-cof/",
+    "evidence": "A",
+    "summary": "Scan by 2 Minute Medicine ®是一份流行文化医学通讯，为2 Minute Medicine Plus订阅者提供独家优惠。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The Scan by 2 Minute Medicine® is a pop-culture medical newsletter and exclusive benefit for 2 Minute Medicine Plus subscribers.…"
       }
     ]
   },
