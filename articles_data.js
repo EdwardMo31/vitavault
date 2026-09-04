@@ -1,6 +1,238 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c5d90b67cca",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/4WVC9x1jjQqmNxnNeecSVx/a6baf75a1fcf869045aa929087e6fa0f/Sleep_skin2.jpg",
+    "title": "良好的睡眠真的能改善你的皮肤吗？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-09-04",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/does-getting-good-sleep-really-improve-your-skin",
+    "evidence": "B",
+    "summary": "睡眠是你的身心重新充电、恢复和治愈自己的地方。在良好的睡眠中，您的身体可以预防和修复皮肤细胞损伤， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Sleep is where your body and mind recharges, restores, and heals itself. During good sleep, your body prevents and repairs skin cell damage,…"
+      }
+    ]
+  },
+  {
+    "id": "c5e81acd1c6",
+    "systems": [
+      "brain",
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/4JDJKAXLmGtJwsk447jaB6/38dda2e4122163a6330906baac5fda6f/shutterstock_2174381363_Cropped.jpg",
+    "title": "生物黑客-从哪里开始，从哪里停止",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-09-04",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/biohacking-where-to-start-and-where-to-stop",
+    "evidence": "B",
+    "summary": "“生物黑客”是一种趋势，旨在通过所谓的“黑客”生物学来改善寿命，并使您的大脑和身体功能更好。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "'Biohacking' is a trend that aims to improve longevity and to make your brain and body function better by supposedly 'hacking' biology.…"
+      }
+    ]
+  },
+  {
+    "id": "cba3f938f78",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/Vu6g02vzFxLfCyVBeZap3/eb075886733c9acb67a199617507fefd/Untitled_design.jpg",
+    "title": "让我们来谈谈约会应用程序倦怠",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-09-04",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/lets-talk-about-dating-app-burnout",
+    "evidence": "B",
+    "summary": "约会从未有过如此糟糕的声誉，而应用程序也首当其冲。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Dating has never had a worse reputation, and the apps are taking the brunt of it.…"
+      }
+    ]
+  },
+  {
+    "id": "c3088bc0167",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "吃零食并不像你想象的那么不健康",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-03",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-snacking-unhealthy.html",
+    "evidence": "B",
+    "summary": "事实证明，吃零食不仅仅是薯条、饼干和巧克力。荷兰千禧一代经常食用营养丰富的食物，如水果……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Snacking, it turns out, is not all about chips, cookies and chocolate. Dutch millennials often consume nutritious foods, such as fruit,…"
+      }
+    ]
+  },
+  {
+    "id": "c726878884f",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "森林大火对透析护理构成越来越大的威胁",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-03",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-wildfires-pose-threat-dialysis.html",
+    "evidence": "B",
+    "summary": "在另一个激烈的野火季节中，一项新的研究揭示了野火给数千人维持生命的透析护理带来的风险……",
+    "body": [
+      {
+        "t": "p",
+        "x": "In the midst of another intense wildfire season, a new study sheds light on the risks wildfires pose to life-sustaining dialysis care for thousands…"
+      }
+    ]
+  },
+  {
+    "id": "c7c4decd179",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2016/02/bodydysmorphia_PD_edited.jpg",
+    "title": "Looksmaxxing引起了青春期男性的身体畸形问题",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-03",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/looksmaxxing-raises-body-dysmorphia-concerns-among-adolescent-males/",
+    "evidence": "A",
+    "summary": "1. maxxing的趋势是临床上的异质性： sleepmaxxing结合了一些既定的睡眠卫生习惯， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. The maxxing trend is clinically heterogeneous: sleepmaxxing incorporates some established sleep hygiene practices,…"
+      }
+    ]
+  },
+  {
+    "id": "c91c8df8f0c",
+    "systems": [
+      "senses"
+    ],
+    "cover": "",
+    "title": "团体表示， $ 500亿农村卫生转型计划需要更高的透明度",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-03",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-50b-rural-health-transparency-groups.html",
+    "evidence": "B",
+    "summary": "创建一年后，一项旨在改善农村医疗保健的500亿美元联邦计划缺乏透明度， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "One year into its creation, a $50 billion federal program aimed at improving rural health care lacks transparency,…"
+      }
+    ]
+  },
+  {
+    "id": "ca5e94090b9",
+    "systems": [
+      "immune"
+    ],
+    "cover": "",
+    "title": "一个免疫开关可能有助于推动全身衰老",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-09-03",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260901010717.htm",
+    "evidence": "B",
+    "summary": "衰老的部分原因可能是免疫细胞失去了清除受损、促进炎症的细胞的能力。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Aging may be partly fueled by immune cells losing their ability to clear away damaged, inflammation-promoting cells.…"
+      }
+    ]
+  },
+  {
+    "id": "caa828b9e31",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "新型PET/MRI方法可改善难以评估区域的子宫内膜异位症检测",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-03",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-petmri-approach-endometriosis-difficult-areas.html",
+    "evidence": "B",
+    "summary": "针对子宫内膜异位症中过度表达的成纤维细胞活化蛋白（ FAP ）的新PET/MRI技术在识别病变方面比……更有效",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new PET/MRI technique that targets fibroblast activation protein (FAP) overexpressed in endometriosis is more effective at identifying lesions than…"
+      }
+    ]
+  },
+  {
+    "id": "cf77befcf08",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "我们什么时候应该依靠观察性研究？",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-09-03",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/when-should-we-rely-on-observational-studies/",
+    "evidence": "B",
+    "summary": "企业对科学营养文献的普遍批评是多么合理，即观察性研究的可信度是……",
+    "body": [
+      {
+        "t": "p",
+        "x": "How legitimate is the common corporate criticism of the scientific nutrition literature that the credibility of observational studies is…"
+      }
+    ]
+  },
+  {
+    "id": "cff03ccaca4",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "您的健康保险费率明年将上涨：原因如下",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-03",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-health-year.html",
+    "evidence": "B",
+    "summary": "明年，雇主医疗保健成本有望攀升约11% ，这是二十多年来最大幅度的增长。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Employer health care costs are on track to climb about 11% next year, the sharpest jump in more than two decades."
+      }
+    ]
+  },
+  {
     "id": "c3344793243",
     "systems": [
       "muscles"
