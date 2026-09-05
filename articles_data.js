@@ -1,6 +1,195 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c08b1e45bd0",
+    "systems": [
+      "senses"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/7DHNzbUEulISOX6RtsHZxt/faebb24244270bfcef929639b4cd0507/Untitled_design.jpg",
+    "title": "屏幕、学校和近视：保护年轻眼睛的5种方法",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-09-05",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/eye-health/screens-school-and-short-sightedness-5-ways-to-protect-young-eyes",
+    "evidence": "B",
+    "summary": "由于孩子们已经花了很多时间在校外的屏幕上，回到教室的设备可能会给他们的眼睛带来更大的压力。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "With children already spending plenty of time on screens outside school, the return to classroom devices could put even more strain on their eyes.…"
+      }
+    ]
+  },
+  {
+    "id": "c11fc328830",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/3yy4jgJzWkwweF7ZxRpgay/c01d881e9840a9860e609674c1392785/shutterstock_2440739373_Cropped.jpg",
+    "title": "蜜蜂对健康的5大好处",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-09-05",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/general-health/5-benefits-of-bees-for-your-health",
+    "evidence": "B",
+    "summary": "在我们的野餐和酒吧花园午餐中，他们可能不受欢迎，但蜜蜂种群的健康对我们自己的健康和……起着重要作用。",
+    "body": [
+      {
+        "t": "p",
+        "x": "They may be unwelcome at our picnics and pub garden lunches, but the health of the bee population plays an important role in our own health and…"
+      }
+    ]
+  },
+  {
+    "id": "c4c211e99e5",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2015/01/ob_surg_edited.jpg",
+    "title": "保留子宫的网状修复优于子宫切除术的脱垂",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-05",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/uterine-sparing-mesh-repair-outperforms-hysterectomy-for-prolapse/",
+    "evidence": "A",
+    "summary": "1.阴道网状子宫切除术导致的复合治疗失败少于阴道子宫切除术与子宫骶部悬吊超过10年…",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Vaginal mesh hysteropexy resulted in fewer composite treatment failures than vaginal hysterectomy with uterosacral suspension over 10 years of…"
+      }
+    ]
+  },
+  {
+    "id": "ccd69078528",
+    "systems": [
+      "senses"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/4G88IQukXrjQICGr1ZOXxA/6fb0dd6d1f54484d74defbc7a4016c72/shutterstock_2412555291_Cropped.jpg",
+    "title": "合理建议：保护听力的6种方法",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-09-05",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/ear-nose-throat/sound-advice-6-ways-to-safeguard-your-hearing",
+    "evidence": "B",
+    "summary": "我们的耳朵不仅仅是让我们享受音乐，嘲笑有趣的声音，或与朋友分享笑话。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Our ears do far more than let us enjoy music, laugh at a funny sound, or share jokes with friends.…"
+      }
+    ]
+  },
+  {
+    "id": "c14e814d697",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "专家们认为，需要采取国家行动来加强医学教育中的初级保健渠道",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-04",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-national-action-primary-pipeline-medical.html",
+    "evidence": "B",
+    "summary": "很难找到初级保健医生。在全国范围内需要的数千人甚至更难被发现。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A primary care physician is hard to find. The thousands needed nationwide are even tougher to discover.…"
+      }
+    ]
+  },
+  {
+    "id": "c189522461d",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "2016年至2022年间，美国儿童自杀相关的紧急访问量飙升了74%",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-04",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-children-suicide-emergency-spiked.html",
+    "evidence": "B",
+    "summary": "2016年至2022年期间，患有自杀相关危机的儿童的紧急访问量增加了74% ， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Emergency visits by children with suicide-related crises increased by 74% between 2016 and 2022,…"
+      }
+    ]
+  },
+  {
+    "id": "c1cc8b3eec1",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "睡眠不足是否会导致该国的体重问题？",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-04",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-poor-contributing-country-weight-issues.html",
+    "evidence": "B",
+    "summary": "在试图适应秋季时间表的青少年中，约有70%的人错过了睡眠。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Some 70% of teens trying to adapt to a fall schedule are missing out on sleep.…"
+      }
+    ]
+  },
+  {
+    "id": "c33762afc1a",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "科学家揭示了构建人脑的隐藏指令",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-09-04",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm",
+    "evidence": "B",
+    "summary": "加州大学洛杉矶分校的研究人员发现了两种强大的影响力，有助于指导人脑在出生前如何形成。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth.…"
+      }
+    ]
+  },
+  {
+    "id": "c5004b24198",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "检查您的冰箱：在16个州召回的冷冻三重浆果混合物",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-04",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-freezer-frozen-triple-berry-blend.html",
+    "evidence": "B",
+    "summary": "作为预防措施，在16个州的沃尔玛商店销售的冷冻浆果混合物已从货架上撤下，扩大了与正在进行的E…",
+    "body": [
+      {
+        "t": "p",
+        "x": "A frozen berry blend sold at Walmart stores in 16 states has been pulled from shelves as a precaution, widening a recall connected to an ongoing E.…"
+      }
+    ]
+  },
+  {
     "id": "c5d90b67cca",
     "systems": [
       "brain"
@@ -44,6 +233,27 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "ca436ded141",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "斯坦福大学的科学家发现了一种可以逆转衰老迹象的海鲜",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-09-04",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm",
+    "evidence": "B",
+    "summary": "在食用海鞘中发现的一种物质似乎可以逆转老年小鼠的几种衰老迹象。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice.…"
+      }
+    ]
+  },
+  {
     "id": "cba3f938f78",
     "systems": [
       "whole"
@@ -61,6 +271,49 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Dating has never had a worse reputation, and the apps are taking the brunt of it.…"
+      }
+    ]
+  },
+  {
+    "id": "ccadd1afff0",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "何时担心麻木和刺痛：专家解释神经病变，其他原因",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-04",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-numbness-tingling-expert-neuropathy.html",
+    "evidence": "B",
+    "summary": "大多数人会不时感到麻木或熟悉的针刺感。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Most people experience numbness or the familiar pins-and-needles sensation from time to time.…"
+      }
+    ]
+  },
+  {
+    "id": "cf369ca0439",
+    "systems": [
+      "brain",
+      "lungs"
+    ],
+    "cover": "",
+    "title": "长时间的呼气可能会推动你的大脑做出更大胆的决定",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-09-04",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260904000320.htm",
+    "evidence": "B",
+    "summary": "长时间呼气的缓慢呼吸使人们更愿意通过改变心脏活动和增加大脑对……的敏感性来冒险。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to…"
       }
     ]
   },
