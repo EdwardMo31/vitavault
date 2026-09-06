@@ -64,6 +64,48 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c6cd7252cbc",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "蓝莓中的化合物可以帮助肌肉细胞燃烧多余的脂肪",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-09-05",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260903064219.htm",
+    "evidence": "B",
+    "summary": "日本科学家在蓝莓、葡萄……中发现了一种天然化合物。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists in Japan have identified a natural compound found in blueberries, grapes,…"
+      }
+    ]
+  },
+  {
+    "id": "c7f7547afe1",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "单次锻炼可能有助于在短暂的夜间睡眠后保护记忆",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-05",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-workout-memory-short-night.html",
+    "evidence": "B",
+    "summary": "现代生活方式、更长时间的光照和不断的数字干扰已将世界推向全球睡眠危机--这是一场严重的……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Modern lifestyles, longer light exposure and constant digital distractions have pushed the world into a global sleep crisis—one that poses a major…"
+      }
+    ]
+  },
+  {
     "id": "ccd69078528",
     "systems": [
       "senses"
