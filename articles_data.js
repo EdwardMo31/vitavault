@@ -1,6 +1,133 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c1a11606653",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "大型分析发现，自我控制在青春期比工作记忆更晚成熟",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-06",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-matures-memory-adolescence-large-analysis.html",
+    "evidence": "B",
+    "summary": "青春期是儿童和成年之间的发展阶段，其特点是心理、情感和社会方面的重大变化。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Adolescence, the developmental phase between childhood and adulthood, is marked by substantial mental, emotional and social changes.…"
+      }
+    ]
+  },
+  {
+    "id": "c23cf4ee48b",
+    "systems": [
+      "brain",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "老师们说，免费学校供餐计划的结束导致压力和饥饿感增加，饮食更差，注意力减少",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-06",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-free-school-meal-stress-hunger.html",
+    "evidence": "B",
+    "summary": "2022年大流行时代的普遍免费学校供餐计划到期后，学生的饮食和行为有何变化？ ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "How did students' diets and behavior change after the expiration of a pandemic-era universal free school meal program in 2022?…"
+      }
+    ]
+  },
+  {
+    "id": "c71f0748125",
+    "systems": [
+      "lungs"
+    ],
+    "cover": "",
+    "title": "吸烟的社会神话受到挑战，因为5万人的研究将吸烟与孤独联系起来",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-06",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-social-myth-person-links-loneliness.html",
+    "evidence": "B",
+    "summary": "根据欧洲呼吸学会（ ERS ）发表的一项大型欧洲研究，吸烟不是社交活动，会导致孤独感增加……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Smoking is not social and leads to increased loneliness, according to a large Europe-wide study presented at the European Respiratory Society (ERS)…"
+      }
+    ]
+  },
+  {
+    "id": "c8d2a19e956",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "科学家们发现了这种流行的糖替代品的隐藏问题",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-09-06",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260903064251.htm",
+    "evidence": "B",
+    "summary": "山梨醇是一种糖醇，通常用于无糖糖果、口香糖和其他低热量食品，可能不像看起来那么无害。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Sorbitol, a sugar alcohol commonly used in sugar-free candy, gum, and other low-calorie foods, may not be as harmless as it seems.…"
+      }
+    ]
+  },
+  {
+    "id": "c981bbb3811",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "脑信号机制可解释氯氮平体重增加",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-06",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-brain-mechanism-clozapine-weight-gain.html",
+    "evidence": "B",
+    "summary": "德克萨斯大学西南医学中心的研究人员已经确定了一个关键的大脑信号通路，该通路似乎经常会导致体重大幅增加……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers at UT Southwestern Medical Center have identified a key brain signaling pathway that appears to drive the substantial weight gain often…"
+      }
+    ]
+  },
+  {
+    "id": "cdb53477a04",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "流行的大脑补充剂与男性寿命缩短有关",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-09-06",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm",
+    "evidence": "B",
+    "summary": "一项涉及27万多人的大型研究将较高的血液氨基酸酪氨酸水平与男性较短的寿命联系起来。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men.…"
+      }
+    ]
+  },
+  {
     "id": "c08b1e45bd0",
     "systems": [
       "senses"
