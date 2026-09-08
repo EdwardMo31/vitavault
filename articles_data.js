@@ -1,6 +1,69 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c28e3f14a3d",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "A big assumption has kept women out of health and fitness studies for years. What if it's wrong?",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-07",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-big-assumption-women-health-years.html",
+    "evidence": "B",
+    "summary": "What if much of what we thought we knew about women's health and fitness was suddenly called into question?",
+    "body": [
+      {
+        "t": "p",
+        "x": "What if much of what we thought we knew about women's health and fitness was suddenly called into question?"
+      }
+    ]
+  },
+  {
+    "id": "c8acbcdfaa4",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2013/04/14538_lores-e1544028756500.jpg",
+    "title": "Continuous femoral nerve block is not superior to continuous adductor canal block for postoperative pain following ACL reconstruction",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-07",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/continuous-femoral-nerve-block-is-not-superior-to-continuous-adductor-canal-block-for-postoperative-pain-following-acl-reconstruction/",
+    "evidence": "A",
+    "summary": "1. Continuous femoral nerve block (CFNB) was not superior to continuous adductor canal block for the primary outcome of average postoperative pain…",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Continuous femoral nerve block (CFNB) was not superior to continuous adductor canal block for the primary outcome of average postoperative pain…"
+      }
+    ]
+  },
+  {
+    "id": "c8d1a4f897e",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "随着电子烟从零上升到17.2 ％ ，奥地利的吸烟率下降",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-07",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-falls-austria-vaping.html",
+    "evidence": "B",
+    "summary": "Three large studies together show that although the number of people who smoke is declining,…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Three large studies together show that although the number of people who smoke is declining,…"
+      }
+    ]
+  },
+  {
     "id": "c1a11606653",
     "systems": [
       "brain"
