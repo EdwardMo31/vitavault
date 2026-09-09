@@ -1,6 +1,153 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c5e401055fa",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "结合筛查和在线技能培养计划，减少护士倦怠和抑郁",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-09",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-combined-screening-online-skills-nurse.html",
+    "evidence": "B",
+    "summary": "在护理和整体医疗保健工作者中，倦怠、抑郁、焦虑和自杀正在增加……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Burnout, depression, anxiety and suicide are increasing in the nursing and overall health care workforce,…"
+      }
+    ]
+  },
+  {
+    "id": "ca4d9d5bf02",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "与工作相关的压力会导致年轻男性的勃起功能障碍",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-09",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-stress-erectile-dysfunction-young-men.html",
+    "evidence": "B",
+    "summary": "《国际临床实践杂志》上的新研究表明，工作场所的心理压力可能会损害年轻男性的勃起功能……",
+    "body": [
+      {
+        "t": "p",
+        "x": "New research in the International Journal of Clinical Practice suggests that workplace psychological stress may impair erectile function in young men…"
+      }
+    ]
+  },
+  {
+    "id": "c0783d2e7be",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/second%20batch%20featured/nutrition_longevity_fasting_evidence_balance_2_minute_medicine.webp",
+    "title": "尽管体重指数相似，但较高的咖啡摄入量与较低的内脏脂肪有关",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-08",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/higher-coffee-intake-is-associated-with-lower-visceral-fat-despite-similar-body-mass-index/",
+    "evidence": "A",
+    "summary": "1.一项针对2,264名成年人的芬兰队列研究发现，较高的咖啡摄入量与较低的总脂肪和内脏脂肪以及更大的骨骼脂肪相关。",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. A Finnish cohort study of 2,264 adults found that higher coffee intake was associated with lower total and visceral fat and greater skeletal…"
+      }
+    ]
+  },
+  {
+    "id": "c367906dbbd",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "肉类研究未能正确应用等级",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-09-08",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/meat-studies-fail-to-apply-grade-properly/",
+    "evidence": "B",
+    "summary": "肉类行业对循证医学的歪曲。在《内科医学年鉴》上发表的一系列文章达到了顶峰……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The meat industry comes up with a perversion of evidence-based medicine. A series of articles published in the Annals of Internal Medicine culminated…"
+      }
+    ]
+  },
+  {
+    "id": "c5ca4521c02",
+    "systems": [
+      "immune"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/computational_biology_digital_twin_2_minute_medicine.webp",
+    "title": "2MM ： AI综述： FDA清除自主抽血机器人， UHS收购Talkspace ， Databricks估值达到1900亿美元， AI设计的胶质母细胞瘤疫苗进展",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-08",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/2mm-ai-roundup-fda-clears-autonomous-blood-draw-robot-uhs-acquires-talkspace-databricks-reaches-190-billion-valuation-and-ai-designed-glioblastoma-vaccine-advances/",
+    "evidence": "A",
+    "summary": "FDA批准了Aletta ，这是第一个自主机器人抽血设备抽血是医学中最常见的程序之一， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "FDA clears Aletta, the first autonomous robotic blood draw device Blood draws are among the most common procedures in medicine,…"
+      }
+    ]
+  },
+  {
+    "id": "ca7ed6b06cd",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "如何超越身体理想：我们可以从身体自信的开拓者身上学到什么？",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-08",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-body-ideal-confidence-trailblazers.html",
+    "evidence": "B",
+    "summary": "社会充满了信息，告诉我们我们的身体应该是什么样子- （扰流板警报！ ）它们不仅是错误的，而且会导致身体......",
+    "body": [
+      {
+        "t": "p",
+        "x": "Society is full of messages telling us what our bodies should look like—and (spoiler alert!) they are not only wrong but can cause body…"
+      }
+    ]
+  },
+  {
+    "id": "ce271d3a675",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/second%20batch%20featured/healthcare_ai_workflow_roundup_2_minute_medicine.webp",
+    "title": "Aletta将自主机器人技术引入常规采血",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-08",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/aletta-brings-autonomous-robotics-into-routine-blood-collection/",
+    "evidence": "A",
+    "summary": "1. Aletta是FDA授权的第一个独立机器人设备，可以在无需操作员干预的情况下从患者手臂抽血， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Aletta is the first standalone robotic device authorized by the FDA to draw blood from a patient’s arm without hands-on operator intervention,…"
+      }
+    ]
+  },
+  {
     "id": "c28e3f14a3d",
     "systems": [
       "muscles"
