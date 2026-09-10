@@ -1,6 +1,90 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c0fca6b3812",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/second%20batch%20featured/healthcare_ai_workflow_roundup_2_minute_medicine.webp",
+    "title": "Universal Health Services收购Talkspace将虚拟和住院行为护理联系起来",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-09",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/universal-health-services-acquisition-of-talkspace-connects-virtual-and-inpatient-behavioral-care/",
+    "evidence": "A",
+    "summary": "1. Universal Health Services (UHS’s) $835 million acquisition of Talkspace combines a national virtual behavioral health platform with a large…",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Universal Health Services (UHS’s) $835 million acquisition of Talkspace combines a national virtual behavioral health platform with a large…"
+      }
+    ]
+  },
+  {
+    "id": "c288b98e541",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/second%20batch%20featured/healthcare_ai_diagnostic_uncertainty_2_minute_medicine.webp",
+    "title": "基于人工智能的临床考试培训显著提升医学生标准化临床考试成绩",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-09",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/artificial-intelligence-ai-based-clinical-exam-training-significantly-improved-medical-students-standardized-clinical-exam-performance/",
+    "evidence": "A",
+    "summary": "1. Lavigne及其同事评估了人工智能培训平台是否可以改善客观结构化临床检查（ OSCE ） ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Lavigne and colleagues evaluated whether an AI-powered training platform could improve Objective Structured Clinical Examination (OSCE)…"
+      }
+    ]
+  },
+  {
+    "id": "c35e3a83b06",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "临床医生自我解读时，影像学排序的几率更高",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-09",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-odds-imaging-higher-clinicians.html",
+    "evidence": "B",
+    "summary": "根据8月在线发表的一项研究，自我解读成像的提供者更有可能订购门诊成像……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Providers who self-interpret imaging are significantly more likely to order outpatient imaging, according to a study published online Aug.…"
+      }
+    ]
+  },
+  {
+    "id": "c50c804ce37",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "经济工具可以帮助城市在城市发展中优先考虑公共卫生",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-09",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-economic-tool-cities-prioritize-health.html",
+    "evidence": "B",
+    "summary": "高级城市发展决策者透露，目前在塑造城镇和……时，几乎没有考虑公共卫生影响的动机。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Senior urban development decision-makers have revealed there is currently little incentive to consider public health impacts when shaping towns and…"
+      }
+    ]
+  },
+  {
     "id": "c5e401055fa",
     "systems": [
       "brain"
@@ -18,6 +102,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Burnout, depression, anxiety and suicide are increasing in the nursing and overall health care workforce,…"
+      }
+    ]
+  },
+  {
+    "id": "c66ce3c714e",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "失去身体功能的悲痛：心理学教给我们有关慢性疾病之旅的知识",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-09",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-grieving-lost-body-function-psychology.html",
+    "evidence": "B",
+    "summary": "身体的变化会引起令人不安的感觉，比如看着镜子，看到一种反射，这种反射可能会让人感到精神上的空虚、无效……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Body changes can raise disturbing feelings, such as looking in a mirror and seeing a reflection that may feel spiritually empty, unproductive,…"
       }
     ]
   },
