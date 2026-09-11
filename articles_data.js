@@ -1,6 +1,195 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c35fb9d9f3b",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/second%20batch%20featured/pharma_supply-chain_medicine_shipping_bottleneck_2_minute_medicine.webp",
+    "title": "FDA批准的AI设备很少有患者结局数据",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-10",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/fda-cleared-ai-devices-rarely-have-patient-outcome-data/",
+    "evidence": "A",
+    "summary": "1.在1,357台FDA授权的人工智能和机器学习医疗设备中， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Among 1,357 FDA-authorized artificial intelligence and machine learning-enabled medical devices,…"
+      }
+    ]
+  },
+  {
+    "id": "c380272d8ae",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "肉类研究背后的许多利益冲突",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-09-10",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/the-many-conflicts-of-interest-behind-the-meat-studies/",
+    "evidence": "B",
+    "summary": "Big Meat付钱给Big Sugar是为了淡化糖的风险，而Big Meat付钱给Big Sugar是为了淡化肉类的风险。A […]",
+    "body": [
+      {
+        "t": "p",
+        "x": "The same person paid by Big Sugar to downplay the risks of sugar was paid by Big Meat to downplay the risks of meat. A […]"
+      }
+    ]
+  },
+  {
+    "id": "c94f61f6a06",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/second%20batch%20featured/endocrinology_diabetes_weekly_evidence_portfolio_2_minute_medicine.webp",
+    "title": "使用光学相干断层扫描（ OCT ）扫描的深度学习模型实现了糖尿病黄斑水肿检测的高诊断性能",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-10",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/deep-learning-model-achieved-high-diagnostic-performance-for-diabetic-macular-edema-detection-using-optical-coherence-tomography-oct-scans/",
+    "evidence": "A",
+    "summary": "1. Nguyen及其同事开发并评估了使用3D OCT扫描检测糖尿病性黄斑水肿的深度学习模型。2. …",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Nguyen and colleagues developed and evaluated a deep-learning model for detecting diabetic macular edema using 3D OCT scans. 2.…"
+      }
+    ]
+  },
+  {
+    "id": "cb470fe9e25",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "霍尔木兹海峡危机：危险和不确定性如何影响海员的心理健康",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-10",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-strait-hormuz-crisis-danger-uncertainty.html",
+    "evidence": "B",
+    "summary": "由于霍尔木兹海峡的不稳定扰乱了航运，公众的讨论往往集中在燃料价格和供应上。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "As instability in the Strait of Hormuz disrupts shipping, public discussion tends to focus on fuel prices and supplies.…"
+      }
+    ]
+  },
+  {
+    "id": "cbc6714f99c",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "在更年期过渡期间，使用激素治疗可能会导致较少的情绪障碍",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-10",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-hormone-therapy-mood-disturbances-menopause.html",
+    "evidence": "B",
+    "summary": "情绪障碍--情绪低落、易怒、焦虑和精神疲惫--在更年期过渡期间很常见， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Mood disturbances—depressed mood, irritability, anxiety and mental exhaustion—are common during the menopause transition,…"
+      }
+    ]
+  },
+  {
+    "id": "ccabb0ac554",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "分析确定了医疗、娱乐和双重大麻使用者之间截然不同的健康风险",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-10",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-analysis-sharply-health-medicinal-recreational.html",
+    "evidence": "B",
+    "summary": "随着娱乐性大麻现在在包括特拉华州在内的24个州合法化，用户数量正在上升。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "With recreational cannabis now legal in 24 states, including Delaware, the number of users is rising.…"
+      }
+    ]
+  },
+  {
+    "id": "cf762a13116",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "医学院如何改善社区健康",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-10",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-medical-schools-community-health.html",
+    "evidence": "B",
+    "summary": "作为密歇根州弗林特密歇根州立大学人类医学学院的儿科医生，我进行健康儿童检查， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "As a pediatrician at Michigan State University College of Human Medicine in Flint, Michigan, I perform well-child checks,…"
+      }
+    ]
+  },
+  {
+    "id": "cfa3a5d1439",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "酮补充剂试验测试它是否可以延缓老年人的衰老",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-10",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-ketone-supplement-trial-aging-older.html",
+    "evidence": "B",
+    "summary": "对于Judy Donnelly来说，参加康涅狄格大学健康研究意味着从温德姆开车到法明顿， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "For Judy Donnelly, participating in a UConn Health research study meant driving from Windham to Farmington,…"
+      }
+    ]
+  },
+  {
+    "id": "cfe4a0e0f5f",
+    "systems": [
+      "heart"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/second%20batch%20featured/cardiology_frailty_nstemi_treatment_balance_2_minute_medicine.webp",
+    "title": "慢性接触颗粒物与心血管风险增加有关",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-10",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/chronic-exposure-to-particulate-matter-is-associated-with-increased-cardiovascular-risk/",
+    "evidence": "A",
+    "summary": "1.长期暴露于直径≤ 2.5 μm （ PM2.5 ）的颗粒物与心血管（ CVD ）风险升高显著相关， …",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Long-term exposure to particulate matter with diameter ≤2.5 μm (PM2.5) was significantly associated with elevated cardiovascular (CVD) risk,…"
+      }
+    ]
+  },
+  {
     "id": "c0fca6b3812",
     "systems": [
       "whole"
