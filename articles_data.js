@@ -1,6 +1,90 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c055b57eb7e",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/second%20batch%20featured/pediatrics_surgery_recovery_protocol_path_2_minute_medicine.webp",
+    "title": "食管闭锁修复后吻合管与吻合口狭窄无关",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-11",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/transanastomotic-tubes-not-linked-to-anastomotic-stricture-after-esophageal-atresia-repair/",
+    "evidence": "A",
+    "summary": "1.经吻合管置入未导致接受食管闭锁修复术的婴儿吻合口狭窄率不同。2. …",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Transanastomotic tube placement did not result in different rates of anastomotic stricture in infants undergoing esophageal atresia repair. 2.…"
+      }
+    ]
+  },
+  {
+    "id": "c482a8f4e8b",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "鉴定出针对肠道病毒的有前途的广谱抗病毒候选药物",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-11",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-broad-spectrum-antiviral-candidate-enteroviruses.html",
+    "evidence": "B",
+    "summary": "新加坡国立大学（ NUS Medicine ） Yong Loo Lin医学院的研究人员……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers from the Yong Loo Lin School of Medicine, National University of Singapore (NUS Medicine),…"
+      }
+    ]
+  },
+  {
+    "id": "c4ede647003",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "2025年青少年疫苗接种覆盖率报告趋势",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-11",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-trends-vaccination-coverage-adolescents.html",
+    "evidence": "B",
+    "summary": "青少年的白喉类毒素和无细胞百日咳（ Tdap ）和四价脑膜炎球菌结合物（ MenACWY ）疫苗接种覆盖率仍然存在……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Diphtheria toxoid and acellular pertussis (Tdap) and quadrivalent meningococcal conjugate (MenACWY) vaccination coverage for adolescents remained…"
+      }
+    ]
+  },
+  {
+    "id": "c8a06687ee2",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "2021年至2025年，儿科医生的倦怠指标有所减少",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-11",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-reduction-burnout-indicators-pediatricians.html",
+    "evidence": "B",
+    "summary": "根据发表在《儿科》杂志上的一项研究，从2021年到2025年，儿科医生的倦怠指标有所下降。",
+    "body": [
+      {
+        "t": "p",
+        "x": "From 2021 to 2025, burnout indicators among pediatricians decreased, according to a study published in Pediatrics."
+      }
+    ]
+  },
+  {
     "id": "c35fb9d9f3b",
     "systems": [
       "whole"
