@@ -1,6 +1,70 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c01c2952f8b",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/telemedicine_interhospital_transfer_UPDATED_watermark_04_collage_matched_2_minute_medicine.webp",
+    "title": "与电话或面对面就诊相比，视频心理健康护理可能具有临床优势",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-12",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/video-mental-health-care-may-have-clinical-advantages-versus-phone-or-in-person-visits/",
+    "evidence": "A",
+    "summary": "1.在这项回顾性队列研究中，通过视频接受大多数门诊心理健康护理的退伍军人的心理健康调整率较低……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this retrospective cohort study, veterans receiving most outpatient mental health care by video had lower adjusted rates of mental health…"
+      }
+    ]
+  },
+  {
+    "id": "c75a63f2a44",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "对运动员等护士进行培训",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-12",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-nurses-athletes.html",
+    "evidence": "B",
+    "summary": "钱德勒·布朗宁（ Chandler Browning ）一直梦想成为德克萨斯大学阿灵顿分校（ University of Texas at Arlington ）全国公认的护理计划的一员，并追求她的目标",
+    "body": [
+      {
+        "t": "p",
+        "x": "Chandler Browning always dreamed of being part of The University of Texas at Arlington's nationally recognized nursing program and pursuing her goal…"
+      }
+    ]
+  },
+  {
+    "id": "c7f06fc82e5",
+    "systems": [
+      "brain",
+      "muscles"
+    ],
+    "cover": "",
+    "title": "科学家发现Ozempic可能减缓衰老本身",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-09-12",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260911214238.htm",
+    "evidence": "B",
+    "summary": "Semaglutide帮助老年健康小鼠延长寿命，同时改善记忆力、肌肉功能、血糖控制……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Semaglutide helped older healthy mice live longer while improving memory, muscle function, blood sugar control,…"
+      }
+    ]
+  },
+  {
     "id": "c055b57eb7e",
     "systems": [
       "whole"
