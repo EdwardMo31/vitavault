@@ -1,6 +1,27 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c14c720fdcd",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/second%20batch%20featured/infectious-disease_cellulitis_treatment_timing_2_minute_medicine.webp",
+    "title": "N-甲基苯胺暴露被确定为海上迁移期间高铁血红蛋白血症的可能原因",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-13",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/n-methylaniline-exposure-identified-as-likely-cause-of-methemoglobinemia-during-maritime-migration/",
+    "evidence": "A",
+    "summary": "1.在这种情况下，在前往意大利的移民中出现一系列严重的高铁血红蛋白血症， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this case series of severe acquired methemoglobinemia among migrants to Italy,…"
+      }
+    ]
+  },
+  {
     "id": "c01c2952f8b",
     "systems": [
       "brain"
