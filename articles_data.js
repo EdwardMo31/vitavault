@@ -1,6 +1,153 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c028b126729",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "近三分之一的大学年龄“博格”饮酒者报告停电",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-15",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-college-age-borg-drinkers-blacking.html",
+    "evidence": "B",
+    "summary": "新流行的大学饮酒趋势，停电愤怒加仑（ BORG ） ，促进酗酒，并可能导致许多与酒精有关的伤害，......",
+    "body": [
+      {
+        "t": "p",
+        "x": "A newly popular college drinking trend, the blackout rage gallon (BORG), fosters binge drinking and can lead to a host of alcohol-related harms,…"
+      }
+    ]
+  },
+  {
+    "id": "cfd009ede3f",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "新的指导意见称，堕胎护理和咨询是母胎医学实践的核心",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-15",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-abortion-core-maternal-fetal-medicine.html",
+    "evidence": "B",
+    "summary": "母胎医学亚专科医生（ MFMs ）应利用其专业知识，通过最大限度地提高患者获得全方位…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Maternal-fetal medicine subspecialists (MFMs) should use their expertise to improve maternal safety by maximizing patient access to the full range of…"
+      }
+    ]
+  },
+  {
+    "id": "c02f7e5183c",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "如何建立营养丰富的应急粮食储备",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-14",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-nutritious-emergency-food-stockpile.html",
+    "evidence": "B",
+    "summary": "英国政府监管机构表示，英国家庭还没有为网络攻击、停电等灾难可能导致的食品供应中断做好准备……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A UK government watchdog has said UK homes aren't prepared for possible food supply disruptions caused by disasters like cyberattacks, power outages,…"
+      }
+    ]
+  },
+  {
+    "id": "c21a6bf3355",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "新计算器预测有生育问题的夫妇自然受孕的几率",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-14",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-chances-naturally-couples-fertility-problems.html",
+    "evidence": "B",
+    "summary": "阿伯丁大学和NHS Grampian的科学家开发了一种新工具，以帮助经历生育问题的夫妇预测……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new tool has been developed by scientists at the University of Aberdeen and NHS Grampian to help couples experiencing fertility problems predict…"
+      }
+    ]
+  },
+  {
+    "id": "c3837e2f129",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "新的人工智能方法使医学图像分析更加可靠",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-14",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-ai-methods-medical-image-analysis.html",
+    "evidence": "B",
+    "summary": "机器学习使计算机能够从数据中学习，并利用这些知识做出预测或决策。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Machine learning enables computers to learn from data and use that knowledge to make predictions or decisions.…"
+      }
+    ]
+  },
+  {
+    "id": "ccb36fa8384",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/weekly_rewind_five_medical_studies_UPDATED_watermark_04_collage_matched_2_minute_medicine.webp",
+    "title": "2分钟药品倒带2026年9月14日",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-14",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/2-minute-medicine-rewind-september-14-2026/",
+    "evidence": "A",
+    "summary": "2岁以下儿童尿道下裂修复后尾部与阴茎阻滞和尿道皮肤瘘的形成：多中心随机…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Caudal versus penile block and urethrocutaneous fistula formation following hypospadias repair in children <2 years: a multicenter randomized…"
+      }
+    ]
+  },
+  {
+    "id": "ce243af1b7b",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "隐藏的大脑线路可能有助于在灰质萎缩时保持头脑敏锐",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-09-14",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260913081921.htm",
+    "evidence": "B",
+    "summary": "科学家们发现，即使灰质随着年龄的增长而缩小，大脑的短距离布线也可能有助于保护认知。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists have discovered that the brain’s short-range wiring may help protect cognition even as gray matter shrinks with age.…"
+      }
+    ]
+  },
+  {
     "id": "c14c720fdcd",
     "systems": [
       "whole"
@@ -18,6 +165,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "1. In this case series of severe acquired methemoglobinemia among migrants to Italy,…"
+      }
+    ]
+  },
+  {
+    "id": "c2028b852c0",
+    "systems": [
+      "gut"
+    ],
+    "cover": "",
+    "title": "流行的甜味剂副产物会损伤人体细胞中的DNA",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-09-13",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260912220107.htm",
+    "evidence": "B",
+    "summary": "Splenda中使用的人造甜味剂三氯蔗糖在一项研究发现相关化学物质损伤DNA并削弱肠道后受到严格审查。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Sucralose, the artificial sweetener used in Splenda, came under scrutiny after a study found that a related chemical damaged DNA and weakened the gut…"
       }
     ]
   },
