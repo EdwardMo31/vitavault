@@ -22,6 +22,111 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c051de16813",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "科学家在短短4周内逆转了老年人的生物学年龄",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-09-15",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260915100000.htm",
+    "evidence": "B",
+    "summary": "改变饮食中脂肪、碳水化合物和动物蛋白平衡的老年人仅在四岁后就显示出生物学年龄降低的迹象……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Older adults who changed the balance of fat, carbohydrates, and animal protein in their diets showed signs of reduced biological age after just four…"
+      }
+    ]
+  },
+  {
+    "id": "c14466bc117",
+    "systems": [
+      "senses"
+    ],
+    "cover": "",
+    "title": "闻巧克力有助于男性在不感到疲劳的情况下完成更多的重复",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-09-15",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260914102445.htm",
+    "evidence": "B",
+    "summary": "简单地闻到巧克力的味道可以帮助男性完成更多的腿部伸展重复动作，而不会让锻炼感觉更难……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Simply smelling chocolate helped men complete more leg extension repetitions without making the workout feel harder,…"
+      }
+    ]
+  },
+  {
+    "id": "c3be4cdab77",
+    "systems": [
+      "immune"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/mrna_flu_vaccine_protective_shield_UPDATED_watermark_04_collage_matched_2_minute_medicine.webp",
+    "title": "第一信使RNA流感疫苗优于标准剂量疫苗接种",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-15",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/first-messenger-rna-influenza-vaccine-outperforms-standard-dose-vaccination/",
+    "evidence": "A",
+    "summary": "1. mFlusiva是美国批准的第一种信使RNA流感疫苗， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. mFlusiva is the first messenger RNA influenza vaccine approved in the United States,…"
+      }
+    ]
+  },
+  {
+    "id": "c5a88ccd050",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "研究表明，新模型随着声带疲劳的发展而跟踪声带疲劳",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-15",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-tracks-vocal-fatigue.html",
+    "evidence": "B",
+    "summary": "一种新的声带疲劳建模方法可以改善问题出现时的检测和监控……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new approach to modeling vocal fold fatigue could improve detection and monitoring of problems as they arise,…"
+      }
+    ]
+  },
+  {
+    "id": "cfae0bbb533",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "在澳大利亚最新的性健康数据中，性传播感染率仍然很高",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-15",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-sti-high-australia-latest-sexual.html",
+    "evidence": "B",
+    "summary": "悉尼新南威尔士大学（ UNSW Sydney ）柯比研究所（ Kirby Institute ）发布的新性健康数据显示，澳大利亚的情况好坏参半",
+    "body": [
+      {
+        "t": "p",
+        "x": "New sexual health data released by the Kirby Institute at UNSW Sydney show a mixed picture for Australia,…"
+      }
+    ]
+  },
+  {
     "id": "cfd009ede3f",
     "systems": [
       "whole"
