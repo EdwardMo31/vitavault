@@ -1,6 +1,237 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c0254087291",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/3mxPC1d7b8Y4D9ZdF4JZvb/d6d94819d39f8f18139e3bd1059a27a2/C81_JJB_Yorkshire_Talks_S3-14.jpg",
+    "title": "杰米·琼斯-布坎南MBE ：韧性与利兹犀牛黄金一代",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-09-17",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/podcast/jamie-jones-buchanan",
+    "evidence": "B",
+    "summary": "杰米将他的整个职业生涯献给了他心爱的利兹犀牛，成为俱乐部最成功时代的决定性人物之一。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Jamie dedicated his entire playing career to his beloved Leeds Rhinos, becoming one of the defining figures of the club's most successful era.…"
+      }
+    ]
+  },
+  {
+    "id": "c794aee2066",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/5HLJVjmH261kZFXbpm2GTv/1804b049417b932b38b3c47f1db0f3ab/2.jpg",
+    "title": "菊苣根可以成为咖啡的更健康的替代品吗？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-09-17",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/diet-and-nutrition/can-chicory-root-be-a-healthier-alternative-to-coffee",
+    "evidence": "B",
+    "summary": "菊苣根源自一朵充满活力的蓝色花朵，看起来有点像蒲公英。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Chicory root comes from a vibrant blue flower that looks a little like a dandelion.…"
+      }
+    ]
+  },
+  {
+    "id": "c9011d1c2a2",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/18JUsUzMUsHur4svJdwucJ/b34de43d77123b2c3ac3098b8abeeed0/shutterstock_2491586443_Cropped.jpg",
+    "title": "如何强化您的核心",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-09-17",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/how-to-strengthen-your-core",
+    "evidence": "B",
+    "summary": "谈到锻炼肌肉，提高核心肌肉力量的好处不仅仅是锻炼腹肌。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "When it comes to building muscle, improving your core muscle strength has benefits that extend beyond toned abs.…"
+      }
+    ]
+  },
+  {
+    "id": "ca4cb8f45f1",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "研究发现，退伍军人脑震荡与创伤后应激障碍、慢性疼痛和听力障碍有关",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-17",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-concussions-veterans-linked-ptsd-chronic.html",
+    "evidence": "B",
+    "summary": "CU Anschutz Marcus大脑健康研究所的新研究表明，易怒与创伤后应激密切相关……",
+    "body": [
+      {
+        "t": "p",
+        "x": "New research from the CU Anschutz Marcus Institute for Brain Health shows that irritability is strongly associated with post-traumatic stress…"
+      }
+    ]
+  },
+  {
+    "id": "ccc6e5d5140",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/3agD2WuHlar15ZUeeDavyA/6e619ec0200dc8fd9b2312c049fc57c9/C81_Alexis_Yorkshire_Talks_Series3-18.jpg",
+    "title": "亚历克西斯·布莱克谈过渡、婚姻和心理健康",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-09-17",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/podcast/alexis-blake",
+    "evidence": "B",
+    "summary": "通过她的视频、社交媒体平台和播客工作，亚历克西斯已经成为围绕跨性别知名度的对话中的重要代言人， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Through her videos, social media platforms and podcasting work, Alexis has become a prominent voice in conversations around transgender visibility,…"
+      }
+    ]
+  },
+  {
+    "id": "c48fef1a90d",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "近十年的研究加强了怀孕期间维生素D的情况",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-16",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-decade-case-vitamin-d-pregnancy.html",
+    "evidence": "B",
+    "summary": "常见且经常被忽视的营养缺乏可能在妊娠结局中发挥比以前认识到的更大的作用。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A common and often overlooked nutrient deficiency may play a bigger role in pregnancy outcomes than previously recognized.…"
+      }
+    ]
+  },
+  {
+    "id": "c53e5bd1aeb",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "研究发现，超过一半的美国人曾经是暴力的受害者",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-16",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-americans-victims-violence.html",
+    "evidence": "B",
+    "summary": "一份新的报告称，亲自遭受身体暴力或性暴力的美国人数量远远高于人们的想象。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The number of Americans who have personally been victims of physical or sexual violence is much higher than one might think, a new report says.…"
+      }
+    ]
+  },
+  {
+    "id": "c54d449fac5",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "全球性健康和生殖健康及权利受到威胁，专家警告",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-16",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-global-sexual-reproductive-health-rights.html",
+    "evidence": "B",
+    "summary": "世界各国领导人齐聚第81届联合国大会（ UNGA 81 ） ， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "As world leaders gather at the 81st session of the U.N. General Assembly (UNGA 81),…"
+      }
+    ]
+  },
+  {
+    "id": "c771ed40791",
+    "systems": [
+      "gut"
+    ],
+    "cover": "",
+    "title": "科学家在黑米和绿米中发现隐藏的健康优势",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-09-16",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260916232523.htm",
+    "evidence": "B",
+    "summary": "科学家发现，黑米和绿米含有不寻常的、潜在有益的脂肪，可能比普通白米消化得更慢……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists found that black and green Japanese rice contain unusual, potentially beneficial fats and may be digested more slowly than ordinary white…"
+      }
+    ]
+  },
+  {
+    "id": "c9b53e0728e",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/second%20batch%20featured/healthcare_ai_scribe_time_return_2_minute_medicine.webp",
+    "title": "人工智能（ AI ）抄写员对记录时间和医生福祉的改善表现出不同的影响",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-16",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/artificial-intelligence-ai-scribes-showed-mixed-effects-on-documentation-time-and-improvements-in-physician-well-being/",
+    "evidence": "A",
+    "summary": "1. Lukac及其同事在门诊临床访视中将两位环境人工智能文士与常规记录方法进行了比较。2. …",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Lukac and colleagues compared two ambient AI scribes with usual documentation approaches among outpatient clinical visits. 2.…"
+      }
+    ]
+  },
+  {
+    "id": "c9f41d0483e",
+    "systems": [
+      "heart"
+    ],
+    "cover": "",
+    "title": "科学家发现全谷物“甜蜜点”可改善心脏健康",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-09-16",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260915232126.htm",
+    "evidence": "B",
+    "summary": "每天吃四到六份全谷物可以为心脏健康带来有意义的好处， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Eating four to six servings of whole grains a day may deliver meaningful benefits for heart health,…"
+      }
+    ]
+  },
+  {
     "id": "c028b126729",
     "systems": [
       "whole"
@@ -102,6 +333,28 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "A new approach to modeling vocal fold fatigue could improve detection and monitoring of problems as they arise,…"
+      }
+    ]
+  },
+  {
+    "id": "cf6c488af7a",
+    "systems": [
+      "nutrition",
+      "muscles"
+    ],
+    "cover": "",
+    "title": "与可能威胁膝盖的隐藏肌肉脂肪有关的超加工食品",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-09-15",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260914102452.htm",
+    "evidence": "B",
+    "summary": "吃更多的超加工食品与大腿肌肉内脂肪堆积增加有关， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Eating more ultra-processed foods was linked to greater fat buildup inside thigh muscles,…"
       }
     ]
   },
