@@ -1,6 +1,49 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c148f8951bf",
+    "systems": [
+      "hormones"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/oJ3dM7Y9uJUsJmvq4ELM8/6be6b4038ae4c7ce713f25cf40971bb5/2.jpg",
+    "title": "皮质醇面部-社交媒体神话与医学现实",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-09-18",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/cortisol-face-social-media-myth-vs-medical-reality",
+    "evidence": "B",
+    "summary": "皮质醇面部已成为一种流行的健康趋势，互联网提供了许多解释、诊断……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Cortisol face has become a popular wellness trend, with the internet offering numerous explanations, diagnoses,…"
+      }
+    ]
+  },
+  {
+    "id": "c768ab8ecc3",
+    "systems": [
+      "brain",
+      "heart"
+    ],
+    "cover": "",
+    "title": "慢性压力可能会引发损害心脏的隐性炎症",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-18",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-chronic-stress-trigger-hidden-inflammation.html",
+    "evidence": "B",
+    "summary": "人们日常生活中的慢性压力可能会导致心脏的持久结构变化，损害健康并缩短预期寿命。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Chronic stress from people's everyday lives may be causing lasting structural changes to the heart, harming health and reducing life expectancy."
+      }
+    ]
+  },
+  {
     "id": "c0254087291",
     "systems": [
       "whole"
@@ -22,6 +65,69 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c033a94f6f4",
+    "systems": [
+      "heart"
+    ],
+    "cover": "",
+    "title": "心脏康复可降低住院率和心脏病发作风险",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-17",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-cardiac-hospital-admissions-heart.html",
+    "evidence": "B",
+    "summary": "基于运动的心脏康复可将住院率降低三分之一，将心脏病发作风险降低四分之一以上……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Exercise-based cardiac rehabilitation reduces hospital admissions by a third and heart attack risk by more than a quarter,…"
+      }
+    ]
+  },
+  {
+    "id": "c0b64ecd28f",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/thoracic_cryoanalgesia_neuropathic_pain_UPDATED_watermark_04_collage_matched_2_minute_medicine.webp",
+    "title": "超声引导经皮迷走神经刺激方法可能对顽固性慢性疼痛有效",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-17",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/an-ultrasound-guided-percutaneous-method-of-vagal-nerve-stimulation-may-be-effective-for-refractory-chronic-pain/",
+    "evidence": "A",
+    "summary": "1.本病例首次报道使用超声引导下经皮周围神经刺激迷走神经……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. This case demonstrates the first reported use of ultrasound-guided percutaneous peripheral nerve stimulation of the vagus nerve,…"
+      }
+    ]
+  },
+  {
+    "id": "c717f536094",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "流行的不含乳制品的甜点在全国范围内第二次被召回",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-17",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-popular-dairy-free-dessert-nationwide.html",
+    "evidence": "B",
+    "summary": "不含乳制品的冷冻甜点在九个月内第二次被召回，原因相同：腰果碎片可能含有小石头。",
+    "body": [
+      {
+        "t": "p",
+        "x": "A dairy-free frozen dessert has been recalled for the second time in nine months for the same reason: Cashew pieces that may contain small stones."
+      }
+    ]
+  },
+  {
     "id": "c794aee2066",
     "systems": [
       "whole"
@@ -39,6 +145,28 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Chicory root comes from a vibrant blue flower that looks a little like a dandelion.…"
+      }
+    ]
+  },
+  {
+    "id": "c7f8234770e",
+    "systems": [
+      "gut",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "这种流行的发酵食品可能有助于将纳米塑料从体内冲走",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-09-17",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260917101058.htm",
+    "evidence": "B",
+    "summary": "泡菜衍生的细菌可以在肠道样条件下与纳米塑料结合，并可能有助于将它们带出体外。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A kimchi-derived bacterium can bind to nanoplastics under gut-like conditions and may help carry them out of the body.…"
       }
     ]
   },
@@ -102,6 +230,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Through her videos, social media platforms and podcasting work, Alexis has become a prominent voice in conversations around transgender visibility,…"
+      }
+    ]
+  },
+  {
+    "id": "cdfcd82eba4",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "大数据分析揭示了牛皮癣的遗传密码",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-17",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-big-analysis-psoriasis-genetic-code.html",
+    "evidence": "B",
+    "summary": "来自韩国的一个研究小组通过结合来自更多……的大规模基因组数据，揭示了牛皮癣发病背后的具体机制。",
+    "body": [
+      {
+        "t": "p",
+        "x": "A research team from South Korea has revealed the specific mechanisms behind the onset of psoriasis by combining large-scale genomic data from more…"
       }
     ]
   },
