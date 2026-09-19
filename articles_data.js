@@ -1,6 +1,48 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c9524f68394",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/366RPUBcJIW6m0S4CXBAZO/5dfac5c29dca4341163732639b537207/shutterstock_1911336688_Cropped.jpg",
+    "title": "What your waist measurement says about your health",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-09-19",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/what-your-waistline-says-about-your-health",
+    "evidence": "B",
+    "summary": "We all know that if we consume excess calories and don't burn them off, our body stores them as fat.…",
+    "body": [
+      {
+        "t": "p",
+        "x": "We all know that if we consume excess calories and don't burn them off, our body stores them as fat.…"
+      }
+    ]
+  },
+  {
+    "id": "c09419f6d5e",
+    "systems": [
+      "skin"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/second%20batch%20featured/healthcare_ai_four_review_windows_2_minute_medicine.webp",
+    "title": "Brepocitinib becomes first oral therapy approved for adult dermatomyositis",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-18",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/brepocitinib-becomes-first-oral-therapy-approved-for-adult-dermatomyositis/",
+    "evidence": "A",
+    "summary": "1. Brepocitinib is the first oral therapy specifically approved for adults with dermatomyositis,…",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Brepocitinib is the first oral therapy specifically approved for adults with dermatomyositis,…"
+      }
+    ]
+  },
+  {
     "id": "c148f8951bf",
     "systems": [
       "hormones"
@@ -18,6 +60,48 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Cortisol face has become a popular wellness trend, with the internet offering numerous explanations, diagnoses,…"
+      }
+    ]
+  },
+  {
+    "id": "c198d4097f9",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/second%20batch%20featured/pediatrics_surgery_recovery_protocol_path_2_minute_medicine.webp",
+    "title": "The rate of urethrocutaneous fistula following caudal and penile blocks for hypospadias repair may be similar",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-18",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/the-rate-of-urethrocutaneous-fistula-following-caudal-and-penile-blocks-for-hypospadias-repair-may-be-similar/",
+    "evidence": "A",
+    "summary": "1. No statistically significant difference in urethrocutaneous fistula incidence was found between caudal and penile blocks,…",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. No statistically significant difference in urethrocutaneous fistula incidence was found between caudal and penile blocks,…"
+      }
+    ]
+  },
+  {
+    "id": "c53ab2313a7",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "Accelerated research, increased investment signal landmark year for food is medicine",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-18",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-investment-landmark-year-food-medicine.html",
+    "evidence": "B",
+    "summary": "The emerging public health field of food is medicine (FIM) experienced a rapid increase in published research studies and substantial progress in…",
+    "body": [
+      {
+        "t": "p",
+        "x": "The emerging public health field of food is medicine (FIM) experienced a rapid increase in published research studies and substantial progress in…"
       }
     ]
   },
@@ -40,6 +124,49 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Chronic stress from people's everyday lives may be causing lasting structural changes to the heart, harming health and reducing life expectancy."
+      }
+    ]
+  },
+  {
+    "id": "cae5b9c243c",
+    "systems": [
+      "brain",
+      "immune"
+    ],
+    "cover": "",
+    "title": "Scientists restore a brain protein and reverse signs of aging in mice",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-09-18",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260918000437.htm",
+    "evidence": "B",
+    "summary": "Scientists found that declining levels of the brain protein Menin may help drive aging, with lower levels in mice linked to inflammation,…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists found that declining levels of the brain protein Menin may help drive aging, with lower levels in mice linked to inflammation,…"
+      }
+    ]
+  },
+  {
+    "id": "cf9dbcbacb6",
+    "systems": [
+      "senses"
+    ],
+    "cover": "",
+    "title": "States bet big on rural health startups, with a Silicon Valley twist",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-18",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-states-big-rural-health-startups.html",
+    "evidence": "B",
+    "summary": "When Josh Fleig, Louisiana's chief innovation officer, learned his state had set aside $20 million a year for five years to invest in startup rural…",
+    "body": [
+      {
+        "t": "p",
+        "x": "When Josh Fleig, Louisiana's chief innovation officer, learned his state had set aside $20 million a year for five years to invest in startup rural…"
       }
     ]
   },
