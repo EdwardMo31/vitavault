@@ -1,6 +1,48 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c1ce2fa1f0a",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "阿根廷历史上较高的自杀率引发警报",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-19",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-historically-high-suicide-alarm-argentina.html",
+    "evidence": "B",
+    "summary": "随着越来越多的人选择…… ，失去亲人的亲属和心理健康专家正试图在阿根廷开始讨论自杀问题。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Bereaved relatives and mental health specialists are trying to start a conversation about suicide in Argentina as more people than ever are choosing…"
+      }
+    ]
+  },
+  {
+    "id": "c66d4bb3923",
+    "systems": [
+      "senses"
+    ],
+    "cover": "",
+    "title": "科学家解开50年的谜团，发现新的人类血型",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-09-19",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260918024828.htm",
+    "evidence": "B",
+    "summary": "科学家们已经确定了神秘的AnWj血型抗原背后的遗传原因， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists have identified the genetic cause behind the mysterious AnWj blood group antigen,…"
+      }
+    ]
+  },
+  {
     "id": "c9524f68394",
     "systems": [
       "nutrition"
@@ -18,6 +60,48 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "We all know that if we consume excess calories and don't burn them off, our body stores them as fat.…"
+      }
+    ]
+  },
+  {
+    "id": "cdcd580e67b",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "随着欧洲变暖，意大利看到蚊子将西尼罗河病毒传播得更远、更长",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-19",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-italy-mosquitos-west-nile-virus.html",
+    "evidence": "B",
+    "summary": "意大利卫生当局发现有证据表明，气温上升和温暖的季节延长正在帮助蚊子将西尼罗河病毒传播到更广泛的……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Italian health authorities see evidence that rising temperatures and longer warm seasons are helping mosquitoes spread West Nile virus across a wider…"
+      }
+    ]
+  },
+  {
+    "id": "cf541526555",
+    "systems": [
+      "immune"
+    ],
+    "cover": "",
+    "title": "匹兹堡的幼儿园低于麻疹安全门槛，正在测试该市的疫苗遗产",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-19",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-pittsburgh-kindergartners-fall-measles-safety.html",
+    "evidence": "B",
+    "summary": "将足球从匹兹堡的头条新闻中剔除需要很多时间。但麻疹病例的报告……",
+    "body": [
+      {
+        "t": "p",
+        "x": "It takes a lot to knock football out of the headlines in Pittsburgh. But reports of measles cases,…"
       }
     ]
   },
