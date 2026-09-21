@@ -1,6 +1,69 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c34375eab09",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "减少疫苗接种痛苦的指南提供了选项菜单",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-21",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-guideline-vaccination-distress-menu-options.html",
+    "evidence": "B",
+    "summary": "全面的指南更新，包括16项减少疫苗接种痛苦的建议， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A comprehensive guideline update with 16 recommendations to reduce vaccination distress,…"
+      }
+    ]
+  },
+  {
+    "id": "cccefff37fd",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "问答：认识一位致力于解决假肢最大问题之一的科学家",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-21",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-qa-scientist-dedicated-decades-prosthetics.html",
+    "evidence": "B",
+    "summary": "华盛顿大学的Joan Sanders教授在她的职业生涯中一直致力于为下肢截肢者提供更好的假肢……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Prof Joan Sanders of the University of Washington has spent her career working on better prosthetics for lower limb amputees,…"
+      }
+    ]
+  },
+  {
+    "id": "cc6746d766a",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "为什么你的大脑会混淆记忆？新研究检查记忆在大脑档案柜中是如何错位的",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-20",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-brain-memories-misplaced-cabinets.html",
+    "evidence": "B",
+    "summary": "年老和健忘似乎是并存的。但是我和我的同事发现，记忆实际上变得不那么精确，并没有完全被遗忘。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Old age and forgetfulness seem to go hand in hand. But my colleagues and I found that memories actually become less precise, not entirely forgotten.…"
+      }
+    ]
+  },
+  {
     "id": "c1ce2fa1f0a",
     "systems": [
       "brain"
