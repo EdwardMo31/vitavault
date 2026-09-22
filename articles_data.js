@@ -1,6 +1,90 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c38a3a40a69",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "母亲在妊娠晚期睡眠质量差与其子女肥胖风险较高有关",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-22",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-mothers-poor-quality-late-pregnancy.html",
+    "evidence": "B",
+    "summary": "新的研究发现，怀孕晚期睡眠质量差的母亲在出生后的前六个月体重较轻，但体重较高……",
+    "body": [
+      {
+        "t": "p",
+        "x": "New research has found that mothers with poor sleep quality in late pregnancy had babies with lower weight in the first six months of life but higher…"
+      }
+    ]
+  },
+  {
+    "id": "c187211a91a",
+    "systems": [
+      "lungs"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/weekly_rewind_five_medical_studies_UPDATED_watermark_04_collage_matched_2_minute_medicine.webp",
+    "title": "2分钟药品倒带2026年9月21日",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-21",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/2-minute-medicine-rewind-september-21-2026/",
+    "evidence": "A",
+    "summary": "接受Nirsevimab的婴儿中与呼吸道合胞病毒相关的住院治疗1. …",
+    "body": [
+      {
+        "t": "p",
+        "x": "Respiratory Syncytial Virus–Related Hospitalizations Among Infants Receiving Nirsevimab 1.…"
+      }
+    ]
+  },
+  {
+    "id": "c242634e24a",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/second%20batch%20featured/healthcare_ai_governance_gate_2_minute_medicine.webp",
+    "title": "由人工智能(AI)支持的急诊科分诊决策提高了分诊准确性和患者流量",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-21",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/emergency-department-triaging-decisions-supported-by-artificial-intelligence-ai-led-to-improved-triaging-accuracy-and-patient-flow/",
+    "evidence": "A",
+    "summary": "1. Taylor及其同事评估了人工智能知情分流决策支持工具的实施情况。2. ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Taylor and colleagues evaluated the implementation of an AI-informed triage decision-support tool. 2.…"
+      }
+    ]
+  },
+  {
+    "id": "c28497c0587",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "儿科医生报告移民家庭避免照顾子女",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-21",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-pediatricians-immigrant-families-children.html",
+    "evidence": "B",
+    "summary": "超过三分之一的儿科医生认为，移民家庭在实践中避免为子女寻求医疗护理， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "More than one-third of pediatricians believe immigrant families in their practices are avoiding seeking medical care for their children,…"
+      }
+    ]
+  },
+  {
     "id": "c34375eab09",
     "systems": [
       "brain"
@@ -22,6 +106,27 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c45f0f2856d",
+    "systems": [
+      "immune"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/second%20batch%20featured/infectious-disease_influenza_vaccine_equal_balance_2_minute_medicine.webp",
+    "title": "轮状病毒疫苗（ ROTASIIL ）可以降低儿童轮状病毒性胃肠炎的住院率",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-21",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/the-rotavirus-vaccine-rotasiil-may-reduce-the-incidence-of-hospitalization-for-rotavirus-gastroenteritis-in-children/",
+    "evidence": "A",
+    "summary": "1.在这项观察性病例对照研究中，接受完整ROTASIIL疫苗接种系列的儿童住院时间显著减少…",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this observational case-control study, children who received a complete ROTASIIL vaccination series had significantly reduced hospitalization…"
+      }
+    ]
+  },
+  {
     "id": "cccefff37fd",
     "systems": [
       "whole"
@@ -39,6 +144,48 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Prof Joan Sanders of the University of Washington has spent her career working on better prosthetics for lower limb amputees,…"
+      }
+    ]
+  },
+  {
+    "id": "cfbd40b233f",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "新的超声诊断全球安全指南",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-21",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-global-safety-guidelines-diagnostic-ultrasound.html",
+    "evidence": "B",
+    "summary": "关于超声诊断安全使用的新国际指南已发表在《医学与生物学超声》杂志上， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "New international guidelines on the safe use of diagnostic ultrasound have been published in the journal Ultrasound in Medicine & Biology,…"
+      }
+    ]
+  },
+  {
+    "id": "c6b56a573b2",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "数百万人服用钙和维生素D来维持骨骼健康。重大审核发现收效甚微",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-09-20",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260920030147.htm",
+    "evidence": "B",
+    "summary": "对超过153,000名成年人进行了全面审查，发现单独或一起补充钙和维生素D……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A sweeping review of more than 153,000 adults found that calcium and vitamin D supplements, alone or together,…"
       }
     ]
   },
