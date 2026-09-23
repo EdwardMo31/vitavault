@@ -1,6 +1,132 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c29ffd5c73c",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/75eWbxACQyyozKjk6FUsYy/d9ba3e874743d6251b1b9e924a50f2aa/C81_YorkshireTalkes_DrAgamJung_S3-6.jpg",
+    "title": "Dr Agam Jung: Caring for Rob Burrow & Building the MND Centre",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-09-23",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/podcast/agam-jung",
+    "evidence": "B",
+    "summary": "Christine and Matt chat to the consultant neurologist who became known across the UK and beyond for the exceptional care she gave rugby league legend…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Christine and Matt chat to the consultant neurologist who became known across the UK and beyond for the exceptional care she gave rugby league legend…"
+      }
+    ]
+  },
+  {
+    "id": "c6a57feec75",
+    "systems": [
+      "heart"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/22GQlx57xMVNxBU6PspcWn/82c2fe8bc5e0b592e5a1a18af1e248f4/shutterstock_2518389483_Cropped.jpg",
+    "title": "Flax seeds: a secret weapon for women's health?",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-09-23",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/diet-and-nutrition/flax-seeds-a-secret-weapon-for-womens-health",
+    "evidence": "B",
+    "summary": "Flax seeds are praised for their diverse health advantages - from supporting heart health to regulating blood sugar.…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Flax seeds are praised for their diverse health advantages - from supporting heart health to regulating blood sugar.…"
+      }
+    ]
+  },
+  {
+    "id": "cacbe101182",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/145dJHHrGLwWYQpwnZ3ejy/8ed857d4366a63fc9df61ad94cdf952e/shutterstock_2496984617_Cropped.jpg",
+    "title": "Craving some cosy? The science of autumn nesting",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-09-23",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/craving-some-cosy-the-science-of-autumn-nesting",
+    "evidence": "B",
+    "summary": "Are you feeling a pull towards ‘nesting’ as temperatures drop and daylight shifts?…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Are you feeling a pull towards ‘nesting’ as temperatures drop and daylight shifts?…"
+      }
+    ]
+  },
+  {
+    "id": "c063c5edeaf",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/second%20batch%20featured/pediatrics_nutrition_processed_food_growth_2_minute_medicine.webp",
+    "title": "High maternal egg-peanut intake not associated with reduced infant allergy",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-22",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/high-maternal-egg-peanut-intake-not-associated-with-reduced-infant-allergy/",
+    "evidence": "A",
+    "summary": "1. In this randomized controlled trial, high maternal consumption of eggs and peanuts during pregnancy and lactation did not reduce IgE-mediated egg…",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this randomized controlled trial, high maternal consumption of eggs and peanuts during pregnancy and lactation did not reduce IgE-mediated egg…"
+      }
+    ]
+  },
+  {
+    "id": "c2075500425",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "Coffee doesn’t have to keep you awake to disrupt your sleep",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-09-22",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260922005719.htm",
+    "evidence": "B",
+    "summary": "Caffeine may make sleep less restorative even when you fall asleep normally and stay in bed for eight hours,…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Caffeine may make sleep less restorative even when you fall asleep normally and stay in bed for eight hours,…"
+      }
+    ]
+  },
+  {
+    "id": "c2506c230b7",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "How Many Minutes of Life Does a Burger Cost?",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-09-22",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/how-many-minutes-of-life-does-a-burger-cost/",
+    "evidence": "B",
+    "summary": "If you care about your health so much that it would be unthinkable to light up a cigarette before and after lunch, maybe you should […]",
+    "body": [
+      {
+        "t": "p",
+        "x": "If you care about your health so much that it would be unthinkable to light up a cigarette before and after lunch, maybe you should […]"
+      }
+    ]
+  },
+  {
     "id": "c38a3a40a69",
     "systems": [
       "brain"
@@ -18,6 +144,48 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "New research has found that mothers with poor sleep quality in late pregnancy had babies with lower weight in the first six months of life but higher…"
+      }
+    ]
+  },
+  {
+    "id": "c42c85428b6",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/second%20batch%20featured/healthcare_ai_diagnostic_uncertainty_2_minute_medicine.webp",
+    "title": "Alcohol use declines but remains above pre-pandemic levels",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-22",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/alcohol-use-declines-but-remains-above-pre-pandemic-levels/",
+    "evidence": "A",
+    "summary": "1. In this cross-sectional study, both any and heavy alcohol use among US adults decreased from 2022 to 2024 but remained at or above prepandemic…",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this cross-sectional study, both any and heavy alcohol use among US adults decreased from 2022 to 2024 but remained at or above prepandemic…"
+      }
+    ]
+  },
+  {
+    "id": "c8bc3604a9e",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "Alcohol companies keep Australians in the dark about health risks",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-22",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-alcohol-companies-australians-dark-health.html",
+    "evidence": "B",
+    "summary": "Alcohol companies are more than twice as likely to tell consumers to \"Drink responsibly\" as to warn them of alcohol's health harms,…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Alcohol companies are more than twice as likely to tell consumers to \"Drink responsibly\" as to warn them of alcohol's health harms,…"
       }
     ]
   },
