@@ -43,6 +43,27 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c7570a319b8",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "有机苹果酱因高水平的霉菌毒素而被召回",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-23",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-applesauce-recalled-high-mold-toxin.html",
+    "evidence": "B",
+    "summary": "在联邦测试发现高水平的patulin后， Wakefern Food Corp.召回了其Wholesome Pantry Organic不加糖苹果酱的罐子……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Wakefern Food Corp. has recalled jars of its Wholesome Pantry Organic Unsweetened Apple Sauce after federal testing found high levels of patulin,…"
+      }
+    ]
+  },
+  {
     "id": "cacbe101182",
     "systems": [
       "whole"
@@ -60,6 +81,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Are you feeling a pull towards ‘nesting’ as temperatures drop and daylight shifts?…"
+      }
+    ]
+  },
+  {
+    "id": "ceb4ff5df37",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "预测解剖学引导系统帮助新手用户获取创伤超声图像",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-23",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-anatomical-guidance-novice-users-trauma.html",
+    "evidence": "B",
+    "summary": "超声波被广泛用于急诊和创伤护理，因为它可以在患者床边提供快速信息。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Ultrasound is widely used in emergency and trauma care because it can provide rapid information at a patient's bedside.…"
       }
     ]
   },
