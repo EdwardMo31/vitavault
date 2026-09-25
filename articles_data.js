@@ -1,6 +1,91 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c74621463e1",
+    "systems": [
+      "gut",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "新型聚合物可以在没有电离辐射的情况下实现胃肠道运输监测",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-24",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-polymer-enable-gastrointestinal-transit-ionizing.html",
+    "evidence": "B",
+    "summary": "科学家们开发了一种新的基于氟的示踪剂，可以使用磁共振成像（ MRI ）来跟踪食物的移动速度……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists have developed a new fluorine-based tracer that can be tracked using magnetic resonance imaging (MRI) to monitor how quickly food moves…"
+      }
+    ]
+  },
+  {
+    "id": "c93d18ec9fa",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "当你看到的东西没有意义时，你的大脑会做一些非凡的事情",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-09-24",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260923035929.htm",
+    "evidence": "B",
+    "summary": "大脑可能有一种内置的方式来快速解决处理同一场景的区域之间的分歧。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The brain may have a built-in way to quickly settle disagreements between regions processing the same scene.…"
+      }
+    ]
+  },
+  {
+    "id": "cc28a27638d",
+    "systems": [
+      "senses"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/second%20batch%20featured/healthcare_administration_authorization_paperwork_2_minute_medicine.webp",
+    "title": "大型语言模型（ LLM ）展示了生成准确的研究手稿的能力，但需要人工监督才能进行更复杂的分析",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-24",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/large-language-models-llms-demonstrated-the-ability-to-generate-accurate-research-manuscripts-but-required-human-oversight-for-more-complex-analyses/",
+    "evidence": "A",
+    "summary": "1. Ifargan及其同事开发了一个平台，指导LLM注释研究数据并制作全面的研究论文。2. …",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Ifargan and colleagues developed a platform that guides LLMs to annotate research data and produce comprehensive research papers. 2.…"
+      }
+    ]
+  },
+  {
+    "id": "cf416bcb605",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "养老院的床位越来越稀缺",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-24",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-nursing-home-beds-scarce.html",
+    "evidence": "B",
+    "summary": "南布朗克斯的San Vicente de Paúl疗养院自2024年12月以来一直没有收治过病人。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The San Vicente de Paúl Nursing Home in the South Bronx hasn't admitted a patient since December 2024.…"
+      }
+    ]
+  },
+  {
     "id": "c29ffd5c73c",
     "systems": [
       "brain"
