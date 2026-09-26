@@ -1,6 +1,48 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c827a141e87",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/24bxtOQHZ4kxD3Orm13Wi4/e1f38d9fa6d4a6e3ad5d163ace5e02b7/can-weight-tell-you-how-healthy-you-are.jpg",
+    "title": "您能从体重中判断出您的健康状况吗？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-09-26",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/can-weight-tell-you-how-healthy-you-are",
+    "evidence": "B",
+    "summary": "您的体重可以提供有关您健康的初步线索，但这只是一个起点。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Your weight can provide an initial clue about your health, but it’s just a starting point.…"
+      }
+    ]
+  },
+  {
+    "id": "cc649519053",
+    "systems": [
+      "skin"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/lm5ixQMYxJIqnsgI23reO/186d388aa9ab596e357659079e8bd4d2/shutterstock_2458543197_Cropped.jpg",
+    "title": "常见的酒渣鼻触发器以及如何避免它们",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-09-26",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/skin-conditions/common-rosacea-triggers-and-how-to-avoid-them",
+    "evidence": "B",
+    "summary": "在英国，十分之一的人被认为患有酒渣鼻，这种疾病会导致皮肤发红和潮红。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "One in ten people in the UK are thought to be affected by rosacea - a condition that causes redness and flushing of your skin.…"
+      }
+    ]
+  },
+  {
     "id": "c74621463e1",
     "systems": [
       "gut",
