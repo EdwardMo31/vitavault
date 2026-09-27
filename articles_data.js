@@ -43,6 +43,49 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "ccf2a42bcbf",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "Zepbound and Mounjaro may turn on the body’s calorie-burning brown fat",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-09-26",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260925093210.htm",
+    "evidence": "B",
+    "summary": "Tirzepatide, sold as Mounjaro and Zepbound, activated calorie-burning brown fat in obese mice,…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Tirzepatide, sold as Mounjaro and Zepbound, activated calorie-burning brown fat in obese mice,…"
+      }
+    ]
+  },
+  {
+    "id": "ce8a8771a19",
+    "systems": [
+      "brain",
+      "senses"
+    ],
+    "cover": "",
+    "title": "Half of new parents have unwanted, intrusive thoughts of harming their infants. Research suggests most aren't dangerous.",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-26",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-parents-unwanted-intrusive-thoughts-infants.html",
+    "evidence": "B",
+    "summary": "Imagine you are standing near the railing of a seventh-floor balcony with your infant in your arms when a sudden thought crosses your mind: You could…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Imagine you are standing near the railing of a seventh-floor balcony with your infant in your arms when a sudden thought crosses your mind: You could…"
+      }
+    ]
+  },
+  {
     "id": "c74621463e1",
     "systems": [
       "gut",
