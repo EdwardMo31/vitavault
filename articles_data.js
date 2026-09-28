@@ -1,6 +1,48 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "cea77be0591",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "人工智能从核图像中检测血液干细胞中的衰老迹象",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-28",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-ai-aging-blood-stem-cells.html",
+    "evidence": "B",
+    "summary": "衰老会逐渐影响我们的身体功能。除其他作用外，它还会降低造血系统（器官和组织）的能力……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Aging progressively affects how our bodies function. Among other effects, it reduces the ability of the hematopoietic system—the organs and tissues…"
+      }
+    ]
+  },
+  {
+    "id": "c07d8764c80",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "研究表明，从学校菜单中切割超加工食品会很棘手",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-27",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-ultra-food-school-menus-tricky.html",
+    "evidence": "B",
+    "summary": "从2029年7月开始，公立学校必须根据新的加利福尼亚州法律逐步淘汰超加工食品，该法律禁止学校提供……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Starting in July 2029, public schools must begin phasing out ultra-processed foods under a new California law that prohibits schools from serving…"
+      }
+    ]
+  },
+  {
     "id": "c827a141e87",
     "systems": [
       "whole"
