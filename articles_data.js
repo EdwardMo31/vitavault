@@ -1,6 +1,154 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c0170e20ee0",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "近三分之一的乌克兰平民符合创伤后应激障碍或复杂创伤后应激障碍的标准",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-28",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-ukrainian-civilians-criteria-ptsd-complex.html",
+    "evidence": "B",
+    "summary": "对乌克兰居民的全国调查提供了迄今为止对正在进行的战争的心理影响的最清晰的估计之一。",
+    "body": [
+      {
+        "t": "p",
+        "x": "A national survey of Ukrainian residents provides one of the clearest estimates to date of the psychological impact of the ongoing war Published in…"
+      }
+    ]
+  },
+  {
+    "id": "c1d1eb93046",
+    "systems": [
+      "senses"
+    ],
+    "cover": "",
+    "title": "超越“正常”和“异常” ：健康检查值显示与未来医疗保健费用的非线性联系",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-28",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-abnormal-health-checkup-values-nonlinear.html",
+    "evidence": "B",
+    "summary": "随着全球人口老龄化和医疗保健支出的持续增长，人们越来越有兴趣了解如何定期收集健康……",
+    "body": [
+      {
+        "t": "p",
+        "x": "As populations age and health care expenditures continue to rise worldwide, there is growing interest in understanding how routinely collected health…"
+      }
+    ]
+  },
+  {
+    "id": "c25405b190c",
+    "systems": [
+      "brain",
+      "gut"
+    ],
+    "cover": "",
+    "title": "科学家刚刚发现了咖啡对肠道和大脑的真正影响",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-09-28",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260927034331.htm",
+    "evidence": "B",
+    "summary": "一项新的研究表明，咖啡可能通过改变肠道中微生物的活动来影响情绪和大脑功能。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new study suggests coffee may influence mood and brain function by changing the activity of microbes in the gut.…"
+      }
+    ]
+  },
+  {
+    "id": "c6cf5653212",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "AI模型在识别心房组织中与心律失常相关的异常方面达到89 ％的准确率",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-28",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-ai-accuracy-arrhythmia-abnormalities-atrial.html",
+    "evidence": "B",
+    "summary": "瓦伦西亚理工大学信息和通信技术研究所（ ITACA ） COR小组的研究人员……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers from the COR group at the Institute of Information and Communications Technologies (ITACA) of the Universitat Politècnica de València…"
+      }
+    ]
+  },
+  {
+    "id": "c9e7539d6e4",
+    "systems": [
+      "senses"
+    ],
+    "cover": "",
+    "title": "在对暴露社区进行的为期十年的研究中，在兰开夏郡居民的血液中发现了高水平的“永久化学物质”",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-28",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-high-chemicals-lancashire-residents-blood.html",
+    "evidence": "B",
+    "summary": "最近，居住在兰开夏郡Thornton-Cleveleys化工厂附近的居民接受了血液分析……",
+    "body": [
+      {
+        "t": "p",
+        "x": "When residents living near a chemical plant in Thornton-Cleveleys, Lancashire, recently had their blood analyzed,…"
+      }
+    ]
+  },
+  {
+    "id": "cabd3f64a58",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/heart_failure_home_hospital_care_UPDATED_watermark_04_collage_matched_2_minute_medicine.webp",
+    "title": "人体测量指标的预后关联因临床结局而异",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-28",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/prognostic-associations-of-anthropometric-indices-vary-by-clinical-outcomes/",
+    "evidence": "A",
+    "summary": "1.人体测量指标的预后关联因临床结果而异。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Prognostic associations of anthropometric indices varied according to clinical outcomes.…"
+      }
+    ]
+  },
+  {
+    "id": "cc1c742f339",
+    "systems": [
+      "heart"
+    ],
+    "cover": "",
+    "title": "在研究中，石榴化合物可改善心脏功能高达80 ％",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-09-28",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260925093157.htm",
+    "evidence": "B",
+    "summary": "在动物模型中，吃石榴、核桃和一些浆果后身体可以制造的化合物可以改善心脏功能高达80 ％ ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A compound the body can make after eating pomegranates, walnuts, and some berries improved measures of heart function by up to 80% in animal models…"
+      }
+    ]
+  },
+  {
     "id": "cea77be0591",
     "systems": [
       "whole"
