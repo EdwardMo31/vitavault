@@ -1,6 +1,48 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c142bf5fa18",
+    "systems": [
+      "heart"
+    ],
+    "cover": "",
+    "title": "模拟超声图像有助于开发更好的心血管诊断",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-29",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-simulated-ultrasound-images-cardiovascular-diagnostics.html",
+    "evidence": "B",
+    "summary": "这两幅超声图像中哪一幅是真实的？ Daniek van Aarle经常向科学界的超声研究人员提出这个问题……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Which of these two ultrasound images is real? Daniek van Aarle regularly posed that question to audiences of ultrasound researchers at scientific…"
+      }
+    ]
+  },
+  {
+    "id": "cb496d4644f",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "全球调查显示，骨骼和矿物质代谢生物标志物的测量存在重大差异",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-09-29",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-global-survey-reveals-major-variation.html",
+    "evidence": "B",
+    "summary": "来自国际骨质疏松基金会（ IOF ）和国际临床化学与实验室医学联合会（ IFCC ）的研究人员……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers from the International Osteoporosis Foundation (IOF) and International Federation of Clinical Chemistry and Laboratory Medicine (IFCC)…"
+      }
+    ]
+  },
+  {
     "id": "c0170e20ee0",
     "systems": [
       "whole"
