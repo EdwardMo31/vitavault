@@ -1,6 +1,112 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c2bd297a4ed",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/43YRAdU7MOSXU9s4yWe7G6/ea92d35e94cfed02f8a7cc5ed0072387/shutterstock_2558973127_Cropped.jpg",
+    "title": "圣经饮食--营养学家对最新食品趋势的看法",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-01",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/diet-and-nutrition/biblical-eating-a-nutritionists-take-on-the-latest-food-trend",
+    "evidence": "B",
+    "summary": "什么是圣经饮食，它从何而来，为什么变得流行，它是另一种时尚吗？ ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "What is biblical eating, where does it come from, why is it becoming popular, and is it another fad?…"
+      }
+    ]
+  },
+  {
+    "id": "c5a4b068eed",
+    "systems": [
+      "lungs"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/57UgrqIS06rIwIhWikIpH7/80f82bd471f2a504b7eda1e30b79518b/Untitled_design__1_.jpg",
+    "title": "盒式呼吸-简单的技术，令人惊讶的结果",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-01",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/mental-health/box-breathing-simple-technique-surprising-results",
+    "evidence": "B",
+    "summary": "尽管有大量的健康和幸福建议，但仍然很难知道如何最好地保护您的神经系统免受日常生活的影响……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Despite an abundance of health and wellbeing advice, it can still be difficult to know how best to protect your nervous system from life’s daily…"
+      }
+    ]
+  },
+  {
+    "id": "c5e13349103",
+    "systems": [
+      "muscles",
+      "lungs"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/2jUzCODGE2MvMkXQXjJsuF/3d4b462fae237c21e0c481ba11960ee5/Untitled_design.jpg",
+    "title": "什么是塑身普拉提？为什么它如此受欢迎？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-01",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/what-is-reformer-pilates-and-why-is-it-so-popular",
+    "evidence": "B",
+    "summary": "普拉提是一种运动形式，专注于控制运动和呼吸，以增强力量、姿势和平衡。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Pilates is a form of exercise that focuses on controlled movements and breathing to enhance strength, posture, and balance.…"
+      }
+    ]
+  },
+  {
+    "id": "c0b7d13e885",
+    "systems": [
+      "gut"
+    ],
+    "cover": "",
+    "title": "桑树可能会重塑肠道细菌并影响新陈代谢",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-09-30",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260928100551.htm",
+    "evidence": "B",
+    "summary": "桑树化合物可能以支持肠道健康和新陈代谢的方式重塑肠道微生物组， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Mulberry compounds may reshape the gut microbiome in ways that support intestinal health and metabolism,…"
+      }
+    ]
+  },
+  {
+    "id": "c41a0382a23",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/early_atrial_fibrillation_ablation_UPDATED_watermark_04_collage_matched_2_minute_medicine.webp",
+    "title": "老年房颤患者的虚弱是多因素的，并与代谢和认知因素相关",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-09-30",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/frailty-in-older-adults-with-atrial-fibrillation-is-multifactorial-and-associated-with-metabolic-and-cognitive-factors/",
+    "evidence": "A",
+    "summary": "1.在患有心房颤动的老年人中，同型半胱氨酸和C反应蛋白水平较高，认知能力较差， …",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Among older adults with atrial fibrillation, higher homocysteine and C-reactive protein levels, poorer cognitive performance,…"
+      }
+    ]
+  },
+  {
     "id": "c142bf5fa18",
     "systems": [
       "heart"
@@ -22,6 +128,27 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c14c31e712e",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "研究人员发现，即使没有运动，肌酸也可能有助于锻炼肌肉",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-09-29",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260928100547.htm",
+    "evidence": "B",
+    "summary": "在一项为期12周的新研究中，即使没有结构化的锻炼计划，肌酸也能帮助中年人获得肌肉和力量。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Creatine helped middle-aged adults gain muscle and strength even without a structured workout program in a new 12-week study.…"
+      }
+    ]
+  },
+  {
     "id": "cb496d4644f",
     "systems": [
       "muscles"
@@ -39,6 +166,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Researchers from the International Osteoporosis Foundation (IOF) and International Federation of Clinical Chemistry and Laboratory Medicine (IFCC)…"
+      }
+    ]
+  },
+  {
+    "id": "cf98977cb89",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "有抑郁风险的儿童被“卡”在悲伤的面孔上",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-09-29",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260927225022.htm",
+    "evidence": "B",
+    "summary": "抑郁症可能会改变孩子最关注的情绪面孔，但这种模式似乎取决于家族史。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Depression may change which emotional faces children notice most, but the pattern appears to depend on family history.…"
       }
     ]
   },
