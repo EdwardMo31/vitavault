@@ -22,6 +22,48 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c3f76e32834",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "胡芦巴可能有助于性功能、月经疼痛和哺乳期",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-10-01",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/fenugreek-may-help-sexual-function-period-pain-and-lactation/",
+    "evidence": "B",
+    "summary": "胡芦巴的荷尔蒙益处不仅仅是肌肉膨胀睾酮的增强。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The hormonal benefits of fenugreek extend beyond the muscle-bulking testosterone boost.…"
+      }
+    ]
+  },
+  {
+    "id": "c594a22cf1b",
+    "systems": [
+      "hormones"
+    ],
+    "cover": "",
+    "title": "首次成功的人体垂体组织灵长类动物移植提高了皮质醇水平",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-01",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-successful-primate-transplant-human-pituitary.html",
+    "evidence": "B",
+    "summary": "日本的研究人员已经将从人类干细胞中生长的垂体组织移植到一种灵长类动物身上，这种灵长类动物的垂体被手术切除， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers in Japan have transplanted pituitary tissue grown from human stem cells into a primate whose pituitary gland had been surgically removed,…"
+      }
+    ]
+  },
+  {
     "id": "c5a4b068eed",
     "systems": [
       "lungs"
@@ -61,6 +103,91 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Pilates is a form of exercise that focuses on controlled movements and breathing to enhance strength, posture, and balance.…"
+      }
+    ]
+  },
+  {
+    "id": "ca38f595f35",
+    "systems": [
+      "hormones"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/second%20batch%20featured/pediatrics_fertility_parallel_growth_2_minute_medicine.webp",
+    "title": "长期促性腺激素释放激素激动剂方案可能与接受冷冻胚胎移植的子宫内膜异位症患者阳性妊娠结局增加有关",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-10-01",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/a-long-term-gonadotropin-releasing-hormone-agonist-protocol-may-be-associated-with-increased-positive-pregnancy-outcomes-in-women-with-endometriosis-undergoing-frozen-embryo-transfer/",
+    "evidence": "A",
+    "summary": "1.长期促性腺激素释放激素激动剂（ GnRH-a ）方案与…",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Long-term gonadotropin-releasing hormone agonist (GnRH-a) protocol was associated with higher odds of positive pregnancy outcomes for women with…"
+      }
+    ]
+  },
+  {
+    "id": "cc2e3d18bae",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "大型研究表明，阅读、社交和做拼图可以帮助保持认知健康",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-01",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-socializing-puzzles-cognitive-health-large.html",
+    "evidence": "B",
+    "summary": "长期以来，人们一直认为谜题、大脑训练游戏和爱好可以避免认知能力下降。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Puzzles, brain-training games and hobbies have long been said to stave off cognitive decline.…"
+      }
+    ]
+  },
+  {
+    "id": "ccde0269ab8",
+    "systems": [
+      "heart"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/heart_failure_home_hospital_care_UPDATED_watermark_04_collage_matched_2_minute_medicine.webp",
+    "title": "深度学习模型在使用心电图检测心脏肥大方面实现了高诊断性能",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-10-01",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/deep-learning-model-achieved-high-diagnostic-performance-for-detecting-cardiac-enlargement-using-electrocardiograms/",
+    "evidence": "A",
+    "summary": "1. Zhu及其同事开发了一种深度学习模型，使用心电图检测心房扩大和心室肥大或扩张……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Zhu and colleagues developed a deep learning model to detect atrial enlargement and ventricular hypertrophy or dilation using electrocardiograms…"
+      }
+    ]
+  },
+  {
+    "id": "cdd8a9819a3",
+    "systems": [
+      "brain",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "这种饮食可以将大脑衰老减缓2.5年",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-10-01",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm",
+    "evidence": "B",
+    "summary": "更密切地遵循心智饮食的人随着时间的推移表现出较慢的脑萎缩和较少的灰质损失， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "People who followed the MIND diet more closely showed slower brain shrinkage and less grey matter loss over time,…"
       }
     ]
   },
