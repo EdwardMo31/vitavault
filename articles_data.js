@@ -1,6 +1,132 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c3feb810ad1",
+    "systems": [
+      "heart"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/6P82x20Lf6bUA6ZR8u9Kv0/6c3177fa21405f33a1276667bda09301/shutterstock_2531191353_Cropped.jpg",
+    "title": "夜间胃灼热：如何通过胃灼热改善睡眠质量",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-03",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/heartburn-at-night-how-to-improve-sleep-quality-with-heartburn",
+    "evidence": "B",
+    "summary": "我们中的十分之一每天都会受到胃灼热的影响，夜间尤其严重。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1 in 10 of us are affected by heartburn every day, and it can be particularly bad at night.…"
+      }
+    ]
+  },
+  {
+    "id": "ccf570abdb2",
+    "systems": [
+      "lungs"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/5hgNdwZewLyS4QD2DbHK0d/5417583bf01b3e73fedfc12266d51042/Untitled_design__4_.jpg",
+    "title": "如果有人窒息该怎么办-圣约翰救护车的急救建议",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-03",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/treatment-medication/what-to-do-if-someone-is-choking-first-aid-advice-from-st-john-ambulance",
+    "evidence": "B",
+    "summary": "如果您看到有人窒息而呼吸困难，您知道该怎么办吗？ ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Would you know what to do if you saw someone choking and struggling to breathe?…"
+      }
+    ]
+  },
+  {
+    "id": "cdddb593ff9",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/IhRlfBJBLN1BunegXIEho/cf18f7e3b4cad07bdcdff898391085da/Untitled_design__2_.jpg",
+    "title": "磨牙症和压力-焦虑如何影响您的牙齿",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-03",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/oral-dental-care/stress-and-bruxism-how-anxiety-can-affect-your-teeth",
+    "evidence": "B",
+    "summary": "磨牙症是一种重复的行为，一个人磨牙或咬牙，往往没有意识到他们正在这样做。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Bruxism is a repetitive behaviour where a person grinds or clenches their teeth, often without realising they’re doing it.…"
+      }
+    ]
+  },
+  {
+    "id": "c356ce8a4c8",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "新研究显示，更活跃的青少年报告较少的睡眠问题",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-02",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-teens-problems-line-reveals.html",
+    "evidence": "B",
+    "summary": "在考试或作业截止日期前通宵休息几乎是一种青少年的成长仪式， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Pulling an all-nighter before a test or assignment deadline is almost a teenage rite of passage,…"
+      }
+    ]
+  },
+  {
+    "id": "c7570ee8d7d",
+    "systems": [
+      "heart"
+    ],
+    "cover": "",
+    "title": "伴随患者长大的心脏瓣膜获得FDA批准",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-02",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-heart-valve-patient-fda.html",
+    "evidence": "B",
+    "summary": "出生时患有某些心脏缺陷的儿童可能会面临更少的心脏直视手术，这要归功于随之生长的新型替代瓣膜。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Children born with certain heart defects may face fewer open-heart surgeries, thanks to a new replacement valve that grows with them."
+      }
+    ]
+  },
+  {
+    "id": "cab4b5e0981",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "这就是为什么专家说现在是保护自己免受流感侵害的理想时机",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-02",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-experts-ideal-flu.html",
+    "evidence": "B",
+    "summary": "现在是十月，是接种流感疫苗的时候了。医学专家敦促尽快接种流感疫苗， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "It's October and time for flu shots. Medical experts urge getting a flu vaccination soon,…"
+      }
+    ]
+  },
+  {
     "id": "c2bd297a4ed",
     "systems": [
       "nutrition"
