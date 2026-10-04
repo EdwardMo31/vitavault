@@ -22,6 +22,70 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c656954b345",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "发现揭示了神经系统如何帮助控制保护性神经涂层的长度",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-03",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-09-discovery-reveals-nervous-length-nerve.html",
+    "evidence": "B",
+    "summary": "北州医科大学的研究人员已经确定了一种有助于确定髓鞘长度的关键机制， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers at Upstate Medical University have identified a key mechanism that helps determine the length of myelin,…"
+      }
+    ]
+  },
+  {
+    "id": "c8e9da5d72f",
+    "systems": [
+      "muscles",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "亮氨酸不仅仅是锻炼肌肉。它为你的电池供电",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-10-03",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261001095319.htm",
+    "evidence": "B",
+    "summary": "必需氨基酸亮氨酸可以通过保护线粒体上的关键蛋白质免受破坏来促进细胞能量的产生。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The essential amino acid leucine can boost cellular energy production by protecting key proteins on mitochondria from being destroyed.…"
+      }
+    ]
+  },
+  {
+    "id": "ccddd4ca5eb",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "女性正在转向睾丸激素，但科学究竟说了什么？",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-03",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-women-testosterone-science.html",
+    "evidence": "B",
+    "summary": "英国广播公司最近的一份报告描述了女性冒充男性获得睾丸激素凝胶， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A recent BBC report described women posing as men to obtain testosterone gel,…"
+      }
+    ]
+  },
+  {
     "id": "ccf570abdb2",
     "systems": [
       "lungs"
@@ -39,6 +103,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Would you know what to do if you saw someone choking and struggling to breathe?…"
+      }
+    ]
+  },
+  {
+    "id": "cd2c76bef97",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "气候变化影响全球土著儿童的健康，对53项研究的回顾发现",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-03",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-climate-affects-indigenous-children-health.html",
+    "evidence": "B",
+    "summary": "全球各地的土著儿童正在经历与气候相关的重大健康影响， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Indigenous children across the globe are experiencing significant climate-related health impacts,…"
       }
     ]
   },
@@ -123,6 +208,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "It's October and time for flu shots. Medical experts urge getting a flu vaccination soon,…"
+      }
+    ]
+  },
+  {
+    "id": "cb026bd7fd6",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "即使是每周一次的力量训练也可以发挥作用",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-10-02",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260930020317.htm",
+    "evidence": "B",
+    "summary": "力量训练可能是随着年龄的增长保持独立的最强大工具之一。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Strength training may be one of the most powerful tools for staying independent as you age.…"
       }
     ]
   },
