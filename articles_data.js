@@ -1,6 +1,69 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c6f4b2e7546",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "结束时钟更改？健康证据支持永久标准时间而不是夏令时",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-05",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-clock-health-evidence-favors-permanent.html",
+    "evidence": "B",
+    "summary": "几个加拿大司法管辖区正在朝着结束每年两次的时钟变化的方向前进……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Several Canadian jurisdictions are moving toward ending the twice-yearly clock change,…"
+      }
+    ]
+  },
+  {
+    "id": "c79070f6ecf",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "怀孕、分娩和产后期间严重并发症风险较高的黑人",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-05",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-black-people-higher-severe-complications.html",
+    "evidence": "B",
+    "summary": "加拿大的黑人患重症孕产妇发病率（ SMM ）的风险增加-怀孕期间可能发生的严重并发症， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Black people in Canada have an increased risk of severe maternal morbidity (SMM)—serious complications that can occur during pregnancy,…"
+      }
+    ]
+  },
+  {
+    "id": "ce032f7aad4",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "专家认为，数字媒体的健康风险需要采取全球行动来保护年轻人",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-04",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-digital-media-health-warrant-global.html",
+    "evidence": "B",
+    "summary": "目前数字技术的构建和管理方式在全球范围内给健康带来了真正的风险，同时也带来了真正的好处……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The way digital technologies are currently built and governed creates real risks to health worldwide, alongside genuine benefits,…"
+      }
+    ]
+  },
+  {
     "id": "c3feb810ad1",
     "systems": [
       "heart"
