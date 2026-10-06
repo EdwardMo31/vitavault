@@ -1,6 +1,111 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c2d2788c2d9",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "池塘藻类如何获得诺贝尔奖和研究大脑的新方法",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-06",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-pond-algae-nobel-prize-brain.html",
+    "evidence": "B",
+    "summary": "研究出如何用光控制脑细胞的科学家获得了今年的诺贝尔生理学或医学奖。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists who worked out how to control brain cells with light have won this year's Nobel Prize in physiology or medicine.…"
+      }
+    ]
+  },
+  {
+    "id": "c627eeaf22d",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/second%20batch%20featured/neurology_epilepsy_frailty_gait_signal_2_minute_medicine.webp",
+    "title": "锻炼和营养支持可减少体弱老年人的行动障碍",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-10-05",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/exercise-and-nutritional-support-reduce-mobility-disability-in-frail-older-adults/",
+    "evidence": "A",
+    "summary": "1.在SPRINTT试验的1,199名患有虚弱、肌肉减少和多重疾病的老年人中……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In 1,199 older adults with frailty, sarcopenia, and multimorbidity from the SPRINTT trial,…"
+      }
+    ]
+  },
+  {
+    "id": "c63b5c30c55",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "研究人员呼吁投资医院护理人员，以解决极端高温对健康的影响",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-05",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-investing-hospital-nursing-workforce-health.html",
+    "evidence": "B",
+    "summary": "医院应将护士人员配备和支持性护士工作环境作为极端高温应急准备的核心部分， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Hospitals should make nurse staffing and supportive nurse work environments a core part of extreme heat emergency preparedness,…"
+      }
+    ]
+  },
+  {
+    "id": "c67292534db",
+    "systems": [
+      "immune"
+    ],
+    "cover": "",
+    "title": "检查疫苗安全性和有效性看法的政治分歧",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-05",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-political-differences-perceptions-vaccine-safety.html",
+    "evidence": "B",
+    "summary": "疫苗感知会影响接种和摄取。Dror Walter博士，佐治亚州立大学传播系……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Vaccine perceptions can influence acceptance and uptake. Dr. Dror Walter, with the Department of Communication at Georgia State University in…"
+      }
+    ]
+  },
+  {
+    "id": "c6a4c91db61",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "科学家揭示了禁食七天对人体的影响",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-10-05",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261005012444.htm",
+    "evidence": "B",
+    "summary": "科学家发现，长期禁食会引发全身的重大变化， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists found that prolonged fasting triggers major changes throughout the body,…"
+      }
+    ]
+  },
+  {
     "id": "c6f4b2e7546",
     "systems": [
       "whole"
@@ -39,6 +144,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Black people in Canada have an increased risk of severe maternal morbidity (SMM)—serious complications that can occur during pregnancy,…"
+      }
+    ]
+  },
+  {
+    "id": "ca9d4dda744",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "迷走神经刺激可以帮助新技能",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-10-05",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261002080034.htm",
+    "evidence": "B",
+    "summary": "练习后刺激迷走神经有助于小鼠发展更强的长期运动学习， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Stimulating the vagus nerve after practice helped mice develop stronger long-term motor learning,…"
       }
     ]
   },
