@@ -1,6 +1,48 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c872fb1375b",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "试点试验表明，结构支撑可能有助于限制GLP-1治疗后体重恢复",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-07",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-trial-limit-weight-regain-glp.html",
+    "evidence": "B",
+    "summary": "胰高血糖素样肽-1 （ GLP-1 ）受体激动剂是肥胖的有效治疗方法，但由于成本、…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Glucagon-like peptide-1 (GLP-1) receptor agonists are effective treatments for obesity, but discontinuation is common due to cost,…"
+      }
+    ]
+  },
+  {
+    "id": "c25f545cf8d",
+    "systems": [
+      "senses"
+    ],
+    "cover": "",
+    "title": "他汀类药物可以保护人们免受青光眼的发展",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-06",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-statins-people-glaucoma.html",
+    "evidence": "B",
+    "summary": "服用他汀类药物与降低患青光眼的风险以及减少病情恶化的可能性有关……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Taking statins is linked to a lower risk of developing glaucoma and a reduced chance of it getting worse,…"
+      }
+    ]
+  },
+  {
     "id": "c2d2788c2d9",
     "systems": [
       "brain"
@@ -18,6 +60,113 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Scientists who worked out how to control brain cells with light have won this year's Nobel Prize in physiology or medicine.…"
+      }
+    ]
+  },
+  {
+    "id": "c54bce2aa4c",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "当战争爆发时，心理健康也会受到影响",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-06",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-war-wallet-mental-health.html",
+    "evidence": "B",
+    "summary": "在10月7日袭击后的头几周，困境普遍存在。但对许多人来说， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "In the first weeks after the Oct. 7 attack, distress was widespread. But for many,…"
+      }
+    ]
+  },
+  {
+    "id": "c60589eb958",
+    "systems": [
+      "heart",
+      "hormones"
+    ],
+    "cover": "",
+    "title": "与心脏和肾脏健康状况风险增加相关的妊娠并发症",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-06",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-pregnancy-complications-linked-higher-cardiac.html",
+    "evidence": "B",
+    "summary": "在最近一次妊娠或先前妊娠中出现并发症的女性在……中发展心脏代谢肾脏疾病的风险增加",
+    "body": [
+      {
+        "t": "p",
+        "x": "Women with a complication in their latest pregnancy or a previous pregnancy face an elevated risk of developing cardiometabolic-renal conditions in…"
+      }
+    ]
+  },
+  {
+    "id": "ca8125bc898",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "本地种植的作物可以扩大获得儿童营养不良治疗的机会",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-06",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-locally-grown-crops-access-childhood.html",
+    "evidence": "B",
+    "summary": "对于数百万患有严重营养不良的儿童，已经存在有效的治疗方法。问题是，他们中的许多人从未收到过它。",
+    "body": [
+      {
+        "t": "p",
+        "x": "For millions of children suffering from severe malnutrition, an effective treatment already exists. The problem is that many of them never receive it."
+      }
+    ]
+  },
+  {
+    "id": "cc55ba55cb4",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "当大麻让你焦虑时，大脑会发生什么？",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-10-06",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261003234021.htm",
+    "evidence": "B",
+    "summary": "大麻素可能会通过消除大脑恐惧中心特定神经元的自然刹车来加剧焦虑， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Cannabinoids may intensify anxiety by removing a natural brake on specific neurons in the brain’s fear center,…"
+      }
+    ]
+  },
+  {
+    "id": "cc9e82f42a4",
+    "systems": [
+      "brain",
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/the_scan_evidence_meets_pop_culture_editorial_collage_2_minute_medicine.webp",
+    "title": "2分钟扫描医学® ：含糖饮料具有较高的抑郁风险，而咖啡显示相反，美国麻疹病例达到数十年来的最高水平，肽注射助长了下一次健康热潮，大多数常规血液检测不需要长时间禁食",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-10-06",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/the-scan-by-2-minute-medicine-sugary-drinks-track-with-higher-depression-risk-while-coffee-shows-the-opposite-peptide-injections-fuel-the-next-wellness-craze-most-routine-blood-tests-do-not-r/",
+    "evidence": "A",
+    "summary": "Scan by 2 Minute Medicine ®是一份流行文化医学通讯，为2 Minute Medicine Plus订阅者提供独家优惠。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The Scan by 2 Minute Medicine® is a pop-culture medical newsletter and exclusive benefit for 2 Minute Medicine Plus subscribers.…"
       }
     ]
   },
