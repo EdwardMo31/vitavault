@@ -1,6 +1,174 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c3bf6b0c881",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "科学家警告说，一种受欢迎的维生素D补充剂可能有一个隐藏的缺点",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-10-08",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261007232940.htm",
+    "evidence": "B",
+    "summary": "并非所有的维生素D补充剂都是平等的，新的研究表明，一种流行的形式可能会有意想不到的缺点。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Not all vitamin D supplements are created equal, and new research suggests that one popular form may have an unexpected downside.…"
+      }
+    ]
+  },
+  {
+    "id": "c57e0676753",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "联合国卫生机构希望俄罗斯提供更多有关疑似肺鼠疫病例的详细信息",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-08",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-health-agency-russia-pneumonic-plague.html",
+    "evidence": "B",
+    "summary": "世界卫生组织的一名高级官员周三表示，他们不知道西伯利亚的一名实验室工作人员是如何死亡的。",
+    "body": [
+      {
+        "t": "p",
+        "x": "A top official with the World Health Organization said Wednesday it doesn't know how a lab worker in Siberia died,…"
+      }
+    ]
+  },
+  {
+    "id": "c5b565585f9",
+    "systems": [
+      "heart"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/1YlySJTTvR4hx5F8vNOGRi/bf5a9cec1e453bf17a2f049524f997c8/Untitled_design.jpg",
+    "title": "你的南瓜香料拿铁会让你胃灼热吗？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-08",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/digestive-health/could-your-pumpkin-spice-latte-be-giving-you-heartburn",
+    "evidence": "B",
+    "summary": "秋天带来清爽的叶子、舒适的壁炉，当然还有南瓜香料拿铁的回归。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Autumn brings crisp leaves, cosy fireplaces and, of course, the return of the pumpkin spice latte.…"
+      }
+    ]
+  },
+  {
+    "id": "c640daf07de",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/5VbFW0EA6AWKorI0Uqkrs3/448e6b0ba409e2c39c722aac7de392fb/Untitled_design.jpg",
+    "title": "什么是食肉动物饮食？它健康吗？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-08",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/diet-and-nutrition/what-is-the-carnivore-diet-and-is-it-healthy",
+    "evidence": "B",
+    "summary": "食肉动物饮食是社交媒体上增长最快的饮食趋势之一。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The carnivore diet is one of the fastest-growing dietary trends on social media.…"
+      }
+    ]
+  },
+  {
+    "id": "cb1608ce67d",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/60ffFZa3hQssllKGMiFyhU/eb31dc98584791803531002e03aea363/shutterstock_2323362653_Cropped.jpg",
+    "title": "迷迭香油真的有助于头发生长吗？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-08",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/skin-conditions/does-rosemary-oil-actually-help-hair-grow",
+    "evidence": "B",
+    "summary": "我们一直在寻找最新的奇迹保健产品-特别是如果它价格便宜，很容易在高街上找到。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "We’re always on the lookout for the latest miracle health product - especially if it’s inexpensive and easily found on the high street.…"
+      }
+    ]
+  },
+  {
+    "id": "ce33b53ca74",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "脂肪储存基因可能是厌食风险的原因",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-08",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-fat-gene-emerges-contributor-anorexia.html",
+    "evidence": "B",
+    "summary": "主要活跃在脂肪和肌肉中的基因可以使人更容易患神经性厌食症， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A gene primarily active in fat and muscles could make a person more susceptible to anorexia nervosa,…"
+      }
+    ]
+  },
+  {
+    "id": "c051f497a9b",
+    "systems": [
+      "gut"
+    ],
+    "cover": "",
+    "title": "服用抗生素？糖可能会使损伤加重",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-10-07",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261007042059.htm",
+    "evidence": "B",
+    "summary": "在服用抗生素的同时吃更多的糖与肠道微生物组的更大破坏和潜在有害微生物的生长增加有关……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Eating more sugar while taking antibiotics was linked to greater disruption of the gut microbiome and increased growth of potentially harmful…"
+      }
+    ]
+  },
+  {
+    "id": "c4ef4875f46",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "并非所有反式脂肪都是坏的，主要审查发现",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-10-07",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261006234505.htm",
+    "evidence": "B",
+    "summary": "对22项研究的大规模分析发现，反式脂肪天然存在于牛奶、黄油、酸奶等乳制品中……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A large analysis of 22 studies found that the trans fats naturally present in dairy foods such as milk, butter, yogurt,…"
+      }
+    ]
+  },
+  {
     "id": "c872fb1375b",
     "systems": [
       "whole"
@@ -18,6 +186,48 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Glucagon-like peptide-1 (GLP-1) receptor agonists are effective treatments for obesity, but discontinuation is common due to cost,…"
+      }
+    ]
+  },
+  {
+    "id": "c9345ea1441",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "超越食品价格：研究揭示了弱势消费者富含微量营养素饮食的多重障碍",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-07",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-food-prices-reveals-multiple-barriers.html",
+    "evidence": "B",
+    "summary": "能够获得足够的食物并不一定意味着能够获得营养充足的饮食。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Having access to enough food does not necessarily mean having access to a nutritionally adequate diet."
+      }
+    ]
+  },
+  {
+    "id": "cf726d4b387",
+    "systems": [
+      "lungs"
+    ],
+    "cover": "",
+    "title": "常见的气道细菌可能有助于肺部为对抗肺炎做好准备",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-07",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-common-airway-bacterium-lungs-pneumonia.html",
+    "evidence": "B",
+    "summary": "在口腔和气道中发现的一种常见细菌可能有助于肺部更好地保护自己免受肺炎的侵害， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A common bacterium found in the mouth and airways may help the lungs better defend themselves against pneumonia,…"
       }
     ]
   },
