@@ -1,6 +1,111 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "cb63869fa69",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "您最喜欢的音乐可以帮助减轻小型医疗程序的痛苦",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-09",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-favorite-music-pain-small-medical.html",
+    "evidence": "B",
+    "summary": "如果你讨厌针头，音乐可能会让你在插管时感觉更好，但它必须是合适的音乐。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "If you hate needles, music might make you feel better during a cannula insertion—but it has to be the right kind of music.…"
+      }
+    ]
+  },
+  {
+    "id": "cfe74d540f3",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/5DVlfwFzl8jc9VZ14jexmm/79adca4eb5b0e12ddecad2f0d367d9f5/Untitled_design.jpg",
+    "title": "如何与年长的亲戚谈论他们的驾驶",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-09",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/senior-health/how-to-speak-to-an-older-relative-about-their-driving",
+    "evidence": "B",
+    "summary": "能够开车可以更轻松地出行并保持独立，因此很难想象没有它的生活。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Being able to drive makes it easier to get around and stay independent, so it's hard to imagine life without it.…"
+      }
+    ]
+  },
+  {
+    "id": "c153ffdcf25",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "仅仅7天的力量训练就开始缩小小鼠的脂肪细胞",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-10-08",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261006234509.htm",
+    "evidence": "B",
+    "summary": "仅七次力量训练就帮助肥胖小鼠收缩内脏脂肪细胞，并重新激活参与燃烧储存脂肪的分子途径……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Just seven strength-training sessions helped obese mice shrink visceral fat cells and reactivate molecular pathways involved in burning stored fat,…"
+      }
+    ]
+  },
+  {
+    "id": "c1955aa8664",
+    "systems": [
+      "gut"
+    ],
+    "cover": "",
+    "title": "喂养我们的肠道微生物组以改善健康状况",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-10-08",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/feeding-our-gut-microbiome-for-better-health/",
+    "evidence": "B",
+    "summary": "我们的肠道菌群是由我们吃什么决定的，无论是好是坏。当我们吃肉（包括海鲜）、乳制品或鸡蛋时，我们的肠道[…]",
+    "body": [
+      {
+        "t": "p",
+        "x": "Our gut flora is determined by what we eat, for good or for ill. When we eat meat (including seafood), dairy, or eggs, our gut […]"
+      }
+    ]
+  },
+  {
+    "id": "c21cf04a9b6",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "核磁共振扫描仪中的视频游戏旨在映射大脑，因为它们预测和适应",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-08",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-video-games-mri-scanners-aim.html",
+    "evidence": "B",
+    "summary": "几十年来，神经科学家一直在研究人类大脑，要求人们在大脑扫描仪中静静地躺着，并仔细控制……",
+    "body": [
+      {
+        "t": "p",
+        "x": "For decades, neuroscientists have studied the human brain by asking people to lie very still inside a brain scanner and perform carefully controlled…"
+      }
+    ]
+  },
+  {
     "id": "c3bf6b0c881",
     "systems": [
       "nutrition"
