@@ -1,6 +1,69 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c4528f3c8f0",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/patient_portal_lab_results_confusion_UPDATED_watermark_04_collage_matched_2_minute_medicine.webp",
+    "title": "大多数常规血液检查不需要长时间禁食",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-10-09",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/most-routine-blood-tests-do-not-require-prolonged-fasting/",
+    "evidence": "A",
+    "summary": "1.对近980万个实验室结果的大规模分析发现，禁食持续时间对相对较少的常规有临床意义的影响……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. A large analysis of nearly 9.8 million laboratory results found that fasting duration had clinically meaningful effects on relatively few routine…"
+      }
+    ]
+  },
+  {
+    "id": "c5a7cb9fc03",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "“全民医保”又回来了：现在到了最难的部分",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-09",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-medicare-hard.html",
+    "evidence": "B",
+    "summary": "随着美国人对他们的医疗保健系统越来越感到沮丧，一项长期以来在民主党外围受到抨击的提案是……",
+    "body": [
+      {
+        "t": "p",
+        "x": "As Americans grow increasingly frustrated with their health care system, a proposal that has long been kicked around on the Democratic periphery is…"
+      }
+    ]
+  },
+  {
+    "id": "caad57aa1a1",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "孕妇在怀孕期间的房屋清洁行为与儿童发育筛查结果相关",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-09",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-maternal-house-behaviors-pregnancy-child.html",
+    "evidence": "B",
+    "summary": "房屋灰尘可能含有化学和生物成分，包括邻苯二甲酸盐、阻燃剂、过敏原、内毒素和微生物。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "House dust can contain chemical and biological components, including phthalates, flame retardants, allergens, endotoxins and microorganisms.…"
+      }
+    ]
+  },
+  {
     "id": "cb63869fa69",
     "systems": [
       "whole"
@@ -18,6 +81,49 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "If you hate needles, music might make you feel better during a cannula insertion—but it has to be the right kind of music.…"
+      }
+    ]
+  },
+  {
+    "id": "ce734dfc912",
+    "systems": [
+      "brain",
+      "muscles"
+    ],
+    "cover": "",
+    "title": "培训母亲如何应对婴儿可能会降低分娩后患抑郁症的风险",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-09",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-mothers-babies-depression-birth.html",
+    "evidence": "B",
+    "summary": "研究人员已经表明，产前培训可以降低女性产后抑郁症的风险，但前提是她们以前有过婴儿。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers have shown that prenatal training may reduce the risk of postnatal depression in women—but only if they have previously had a baby.…"
+      }
+    ]
+  },
+  {
+    "id": "cf67d1386d3",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "只有一次锻炼可以帮助老年人减肥和保持肌肉",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-10-09",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261007233348.htm",
+    "evidence": "B",
+    "summary": "一项为期六个月的研究表明，高强度间歇训练（ HIIT ）可能为老年人提供一个强大的优势：在保持……的同时减掉身体脂肪",
+    "body": [
+      {
+        "t": "p",
+        "x": "A six-month study suggests that high-intensity interval training (HIIT) may offer older adults a powerful advantage: losing body fat while keeping…"
       }
     ]
   },
