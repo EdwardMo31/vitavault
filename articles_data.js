@@ -1,6 +1,112 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "cf00c91edb7",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "在碳水化合物之前吃橄榄油对血糖有惊人的影响",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-10-11",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261008102700.htm",
+    "evidence": "B",
+    "summary": "简单地改变你吃食物的顺序可以帮助防止血糖飙升。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A simple change in the order you eat your food could help prevent blood sugar spikes.…"
+      }
+    ]
+  },
+  {
+    "id": "c5045d5cf25",
+    "systems": [
+      "hormones"
+    ],
+    "cover": "",
+    "title": "新研究发现，每天食用花生对大脑胰岛素反应性有益",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-10",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-daily-peanut-consumption-beneficially-affects.html",
+    "evidence": "B",
+    "summary": "马斯特里赫特大学医学中心营养与代谢转化研究所（ NUTRIM ）的一项研究……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A study from the Institute of Nutrition and Translational Research in Metabolism (NUTRIM) at Maastricht University Medical Center in Maastricht,…"
+      }
+    ]
+  },
+  {
+    "id": "c578a03822e",
+    "systems": [
+      "lungs",
+      "brain"
+    ],
+    "cover": "",
+    "title": "密集呼吸与意识和大脑交流的改变有关",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-10",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-intensive-linked-consciousness-brain-communication.html",
+    "evidence": "B",
+    "summary": "密集的呼吸练习可以将流向大脑的血流量减少高达45% ，并改变大脑网络之间的交流……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Intensive breathing exercises can reduce blood flow to the brain by up to 45% and alter communication between brain networks,…"
+      }
+    ]
+  },
+  {
+    "id": "cef9affcf83",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "安全提示可以帮助人工智能模型做出更安全的临床选择",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-10",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-safety-prompts-ai-safer-clinical.html",
+    "evidence": "B",
+    "summary": "随着人工智能（ AI ）越来越有能力协助完成医疗保健任务， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "As artificial intelligence (AI) becomes increasingly capable of assisting with health care tasks,…"
+      }
+    ]
+  },
+  {
+    "id": "cf256e00716",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "寂寞可能会偷走近6年的健康",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-10-10",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261006234514.htm",
+    "evidence": "B",
+    "summary": "一项大型研究表明，孤独和社交孤立会使人们失去多年的健康生活，尤其是在心理健康方面。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A large study suggests loneliness and social isolation can cost people years of healthy life, especially when it comes to mental health.…"
+      }
+    ]
+  },
+  {
     "id": "c4528f3c8f0",
     "systems": [
       "whole"
