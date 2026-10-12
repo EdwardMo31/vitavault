@@ -1,6 +1,69 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c192065f5ca",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "Study questions benefit of folic acid (vitamin B9) supplementation in reducing suicides",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-11",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-benefit-folic-acid-vitamin-b9.html",
+    "evidence": "B",
+    "summary": "Recent research has suggested that folic acid (vitamin B9) supplementation may reduce the risk of suicide attempts.…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Recent research has suggested that folic acid (vitamin B9) supplementation may reduce the risk of suicide attempts.…"
+      }
+    ]
+  },
+  {
+    "id": "cca3bc86299",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "Study finds positive parenting teaches children how to experience joy—and could lead to better mental health",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-11",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-positive-parenting-children-joy-mental.html",
+    "evidence": "B",
+    "summary": "More than one in five adults in the U.S. experience mental illness each year, according to data from the National Alliance on Mental Illness.…",
+    "body": [
+      {
+        "t": "p",
+        "x": "More than one in five adults in the U.S. experience mental illness each year, according to data from the National Alliance on Mental Illness.…"
+      }
+    ]
+  },
+  {
+    "id": "cccef6bf26b",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "LSD microdosing shows potential sustained attention gains in women, but none in men",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-11",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-lsd-microdosing-potential-sustained-attention.html",
+    "evidence": "B",
+    "summary": "A pilot study suggests that low doses of LSD may have different effects on sustained attention in women and men.…",
+    "body": [
+      {
+        "t": "p",
+        "x": "A pilot study suggests that low doses of LSD may have different effects on sustained attention in women and men.…"
+      }
+    ]
+  },
+  {
     "id": "cf00c91edb7",
     "systems": [
       "nutrition"
