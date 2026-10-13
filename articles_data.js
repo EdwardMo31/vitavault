@@ -1,6 +1,175 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c22a9fbbf5e",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "加拿大《安全社交媒体法》以儿童健康为核心",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-13",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-canada-safe-social-media-child.html",
+    "evidence": "B",
+    "summary": "加拿大提出的旨在保护儿童的《安全社交媒体法》应该通过， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Canada's proposed Safe Social Media Act, which aims to protect children, should be passed,…"
+      }
+    ]
+  },
+  {
+    "id": "ce53ed995d7",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "医生也有残疾：新的研究呼吁建立一支更便捷的医务人员队伍",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-13",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-physicians-disabilities-accessible-medical-workforce.html",
+    "evidence": "B",
+    "summary": "新的研究表明， 5%的执业医生“总是或经常”报告残疾，另有12%的执业医生“有时”报告残疾。",
+    "body": [
+      {
+        "t": "p",
+        "x": "New research indicates that 5% of practicing physicians report a disability \"always or often,\" and another 12% report disability \"sometimes.\" The…"
+      }
+    ]
+  },
+  {
+    "id": "c966926dfaf",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "调查显示，极端高温会增加妊娠并发症",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-12",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-extreme-pregnancy-complications-survey.html",
+    "evidence": "B",
+    "summary": "极端高温导致孕妇及其婴儿面临的风险显著增加， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Extreme heat has led to a marked increase in the risks faced by pregnant women and their babies,…"
+      }
+    ]
+  },
+  {
+    "id": "cd0511dc7bd",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "相同的占空比，非常不同的结果：艰难的材料教会了我们有关组织碎片的什么",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-12",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-duty-outcomes-tough-materials-taught.html",
+    "evidence": "B",
+    "summary": "在我攻读博士学位期间，我一直在思考的一个问题非常简单：为什么有些组织很难分解……",
+    "body": [
+      {
+        "t": "p",
+        "x": "One of the questions that stayed with me throughout my Ph.D. was surprisingly simple: Why are some tissues so much harder to break down with…"
+      }
+    ]
+  },
+  {
+    "id": "ce73a531d72",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/second%20batch%20featured/surgery_hernia_robotic_repair_window_2_minute_medicine.webp",
+    "title": "尾部和阴茎块之间的尿道皮肤瘘形成率可能相似",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-10-12",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/the-rate-of-urethrocutaneous-fistula-formation-may-be-similar-between-caudal-and-penile-blocks/",
+    "evidence": "A",
+    "summary": "1.尾部和阴茎块之间尿道皮肤瘘（ UCF ）形成无统计学差异， …",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. No statistically significant difference in urethrocutaneous fistula (UCF) formation was found between caudal and penile blocks,…"
+      }
+    ]
+  },
+  {
+    "id": "ce9962c7221",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "科学家发现了老化的隐藏驱动因素和一种对抗小鼠记忆丧失的简单氨基酸",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-10-12",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261009025708.htm",
+    "evidence": "B",
+    "summary": "科学家发现，一种名为Menin的蛋白质水平下降可能有助于推动衰老， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists discovered that declining levels of a protein called Menin may help drive aging,…"
+      }
+    ]
+  },
+  {
+    "id": "cf509375554",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/weekly_rewind_five_medical_studies_UPDATED_watermark_04_collage_matched_2_minute_medicine.webp",
+    "title": "2分钟药品倒带2026年10月12日",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-10-12",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/2-minute-medicine-rewind-october-12-2026/",
+    "evidence": "A",
+    "summary": "低压（ 8 mmHg ）气腹不会显著降低腹腔镜胆囊切除术后术后视觉模拟评分： …",
+    "body": [
+      {
+        "t": "p",
+        "x": "Low pressure (8 mmHg) pneumoperitoneum does not significantly reduce postoperative visual analog scale score after laparoscopic cholecystectomy:…"
+      }
+    ]
+  },
+  {
+    "id": "cf723ac1085",
+    "systems": [
+      "brain",
+      "senses"
+    ],
+    "cover": "",
+    "title": "无家可归者支持服务看不到月经",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-12",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-menstruation-invisible-homelessness.html",
+    "evidence": "B",
+    "summary": "污名化、以男性为中心的系统和结构性忽视使无家可归的女性的月经健康在很大程度上脱离了视线和心灵， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Stigma, male-centric systems and structural neglect have rendered homeless women's menstrual health largely out of sight and out of mind,…"
+      }
+    ]
+  },
+  {
     "id": "c192065f5ca",
     "systems": [
       "nutrition"
@@ -18,6 +187,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Recent research has suggested that folic acid (vitamin B9) supplementation may reduce the risk of suicide attempts.…"
+      }
+    ]
+  },
+  {
+    "id": "c260d1f2f59",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "只需每天锻炼10分钟，即可解锁更深层次的睡眠",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-10-11",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261008102721.htm",
+    "evidence": "B",
+    "summary": "获得更好的睡眠可能就像每天多运动一样简单。德克萨斯大学奥斯汀分校的研究人员发现，",
+    "body": [
+      {
+        "t": "p",
+        "x": "Getting better sleep might be as simple as moving a little more every day. Researchers at The University of Texas at Austin found that people who…"
       }
     ]
   },
@@ -81,6 +271,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "A simple change in the order you eat your food could help prevent blood sugar spikes.…"
+      }
+    ]
+  },
+  {
+    "id": "cfcbd7d9c2d",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "新注射使脂肪细胞自我毁灭",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-10-11",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261008102713.htm",
+    "evidence": "B",
+    "summary": "科学家们已经开发出一种实验性注射剂，可以破坏脂肪细胞并显着减少危险的腹部脂肪， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists have developed an experimental injection that destroys fat cells and significantly reduces dangerous belly fat,…"
       }
     ]
   },
