@@ -1,6 +1,92 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c0a61532e90",
+    "systems": [
+      "brain",
+      "senses"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/2EUKocPTN1RbUjEhLwzzGu/28cfa2214f97f79895ee47b7413e2a5a/Untitled_design__2_.jpg",
+    "title": "普拉提可以帮助你平静神经系统吗？ 3个简单的动作来尝试",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-14",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/can-pilates-help-calm-your-nervous-system-3-simple-moves-to-try",
+    "evidence": "B",
+    "summary": "我们现在听到很多关于交感神经系统及其在心理健康中可能发挥的重要作用。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "We’re hearing a lot at the moment about the sympathetic nervous system and the important role it can play in your mental wellbeing.…"
+      }
+    ]
+  },
+  {
+    "id": "c36968bb6da",
+    "systems": [
+      "brain",
+      "nutrition"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/1DU41F5i7HwYeDQICe6rGw/08ad61e25b108965efe810e69fa6522a/shutterstock_1349832092_Cropped.jpg",
+    "title": "我们应该吃多少肉？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-14",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/diet-and-nutrition/how-much-meat-should-we-be-eating",
+    "evidence": "B",
+    "summary": "出于环保、道德和健康原因，许多人正在转向素食主义者和纯素食主义者。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Many people are turning vegetarian and vegan for environmental, ethical, and health reasons.…"
+      }
+    ]
+  },
+  {
+    "id": "c60afaa6119",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "研究显示，卵巢在绝经几十年后仍然活跃",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-14",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-ovaries-decades-menopause-reveals.html",
+    "evidence": "B",
+    "summary": "与流行的看法相反，绝经后卵巢并没有消失。在一项针对28名女性卵巢的新研究中……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Contrary to popular belief, the postmenopausal ovary is not defunct. In a new study of ovaries from 28 women,…"
+      }
+    ]
+  },
+  {
+    "id": "c8368967c37",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/395giLyI1uFy9ERQTiCkX/543ae83c3cc055c7b22d25cd1b77a7fe/Untitled_design.jpg",
+    "title": "您应该使用减充血鼻喷雾剂多长时间？新的五天警告解释说",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-14",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/ear-nose-throat/how-long-should-you-use-a-decongestant-nasal-spray-the-new-five-day-warning-explained",
+    "evidence": "B",
+    "summary": "从季节性病毒和过敏到干燥的鼻腔，冬天有很多原因需要鼻腔喷雾。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Winter brings many reasons to reach for a nasal spray, from seasonal viruses and allergies to dry nasal passages.…"
+      }
+    ]
+  },
+  {
     "id": "c22a9fbbf5e",
     "systems": [
       "whole"
@@ -18,6 +104,111 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Canada's proposed Safe Social Media Act, which aims to protect children, should be passed,…"
+      }
+    ]
+  },
+  {
+    "id": "c313a7e9a61",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "科学家发现隐藏的539个不同区域的大脑地图",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-10-13",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261012185011.htm",
+    "evidence": "B",
+    "summary": "科学家们通过创建其脂质的第一张详细的3D地图，发现了大脑中隐藏的组织层。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists have uncovered a hidden layer of organization in the brain by creating the first detailed 3D map of its lipids,…"
+      }
+    ]
+  },
+  {
+    "id": "c7dee1a0b67",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "更好地应对压力的秘诀可能从早餐开始",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-10-13",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261012185023.htm",
+    "evidence": "B",
+    "summary": "你的日常生活可能对你处理压力的能力产生比你意识到的更大的影响。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Your daily routine could have a bigger impact on your ability to handle stress than you realize.…"
+      }
+    ]
+  },
+  {
+    "id": "c8330b3cbfe",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "当你忍不住笑的时候，大脑会发生什么？",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-13",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-brain-1.html",
+    "evidence": "B",
+    "summary": "你还记得你最后一次笑的时候，简直停不下来吗？也许这是一个你根本不应该笑的情况。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Do you remember the last time you were laughing and simply could not stop? Perhaps it was a situation when you should not have been laughing at all."
+      }
+    ]
+  },
+  {
+    "id": "c937e4b7694",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "科学家在我们的细胞衰老过程中发现了一个令人惊讶的悖论",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-10-13",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261012185009.htm",
+    "evidence": "B",
+    "summary": "科学家们发现，身体的细胞回收系统在衰老过程中的行为与以前认为的非常不同， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists have discovered that the body's cellular recycling system behaves very differently during aging than previously believed,…"
+      }
+    ]
+  },
+  {
+    "id": "c96faa215f0",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "吸烟可能会影响男性和女性的生育能力",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-13",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-affect-fertility-men-women.html",
+    "evidence": "B",
+    "summary": "新的研究揭示了暴露于香烟烟雾如何影响男性和女性的生殖健康， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "New research has shed light on how exposure to cigarette smoke could affect reproductive health in both men and women,…"
       }
     ]
   },
@@ -60,6 +251,28 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Extreme heat has led to a marked increase in the risks faced by pregnant women and their babies,…"
+      }
+    ]
+  },
+  {
+    "id": "ca28d1fd483",
+    "systems": [
+      "gut",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "您的肠道细菌可能会改变您吸收的卡路里量",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-10-12",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261011211613.htm",
+    "evidence": "B",
+    "summary": "科学家开发了一个模型，表明肠道细菌在我们吸收多少卡路里中起着令人惊讶的重要作用， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists have developed a model showing that gut bacteria play a surprisingly important role in how many calories we absorb,…"
       }
     ]
   },
