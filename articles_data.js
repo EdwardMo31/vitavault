@@ -1,6 +1,48 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c20269b65a2",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "我们可以消除骨质流失的刺痛吗？ Pathway提出了骨骼老化的潜在治疗目标",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-15",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-bone-loss-pathway-potential-treatment.html",
+    "evidence": "B",
+    "summary": "随着年龄的增长，我们的骨骼变得虚弱和脆弱，这一过程称为骨质疏松症。这种骨质流失是由骨髓内细胞的变化引起的……",
+    "body": [
+      {
+        "t": "p",
+        "x": "As we age, our bones become weak and brittle, a process called osteoporosis. This bone loss is caused by changes in the cells within the bone marrow…"
+      }
+    ]
+  },
+  {
+    "id": "cb74ada0cd7",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "研究发现，在家需要复杂医疗护理的孩子的父母往往会自行解决频繁的安全问题",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-15",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-parents-kids-complex-medical-home.html",
+    "evidence": "B",
+    "summary": "大约每20名18岁以下的美国儿童中就有1名是医学复杂儿童……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Approximately 1 in 20 U.S. children younger than 18 years of age are medically complex,…"
+      }
+    ]
+  },
+  {
     "id": "c0a61532e90",
     "systems": [
       "brain",
@@ -19,6 +61,70 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "We’re hearing a lot at the moment about the sympathetic nervous system and the important role it can play in your mental wellbeing.…"
+      }
+    ]
+  },
+  {
+    "id": "c1a9c456475",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "您需要每天多少步才能减肥？",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-14",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-daily-weight.html",
+    "evidence": "B",
+    "summary": "保持活跃是保持健康的关键，健身追踪器和智能手表已成为追踪活动的热门工具。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Staying active is key to staying healthy, and fitness trackers and smartwatches have become popular tools for tracking activity.…"
+      }
+    ]
+  },
+  {
+    "id": "c2c00d3c621",
+    "systems": [
+      "muscles",
+      "senses"
+    ],
+    "cover": "",
+    "title": "一项为期47年的研究揭示了您的身体开始失去力量的年龄",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-10-14",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261014000912.htm",
+    "evidence": "B",
+    "summary": "一项为期47年的研究发现了身体衰老的一个令人惊讶的转折点： 35岁左右体能和力量开始下降， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A 47-year study has uncovered a surprising turning point in physical aging: fitness and strength begin declining around age 35,…"
+      }
+    ]
+  },
+  {
+    "id": "c316670e98f",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "成年后更容易锻炼的秘诀可能始于童年",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-10-14",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261013015811.htm",
+    "evidence": "B",
+    "summary": "童年时期的锻炼可以带来令人惊讶的终身益处，可能使成年后的体力活动不那么疲惫。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Exercise during childhood could have a surprising lifelong benefit, potentially making physical activity less exhausting in adulthood.…"
       }
     ]
   },
@@ -83,6 +189,69 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Winter brings many reasons to reach for a nasal spray, from seasonal viruses and allergies to dry nasal passages.…"
+      }
+    ]
+  },
+  {
+    "id": "cb50599ea8e",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "科学家揭示了为什么一些锻炼恢复技巧会适得其反",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-10-14",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261013015805.htm",
+    "evidence": "B",
+    "summary": "冰浴、按摩、按压服装和恢复补充剂可保证更快的肌肉恢复， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Ice baths, massages, compression garments, and recovery supplements promise faster muscle recovery,…"
+      }
+    ]
+  },
+  {
+    "id": "ce208244797",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "先进的MRI数据集绘制了青少年大脑发育的地图",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-14",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-advanced-mri-adolescent-brain.html",
+    "evidence": "B",
+    "summary": "研究人员通过对10,000多名青少年进行的24,000多次MRI扫描，创建了一个大型、公开的神经影像资源……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers have created a large, openly available neuroimaging resource from more than 24,000 MRI scans of over 10,000 adolescents,…"
+      }
+    ]
+  },
+  {
+    "id": "cf1592274e7",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/psychiatry_adhd_lifecourse_health_followup_2_minute_medicine.webp",
+    "title": "患有智力和发育障碍的儿童患抑郁症和焦虑症的风险增加",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-10-14",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/children-with-intellectual-and-developmental-disabilities-have-increased-risks-of-depression-and-anxiety/",
+    "evidence": "A",
+    "summary": "1.患有智力和发育障碍（ IDD ）的儿童患抑郁症和焦虑症的风险明显高于……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Children who had an intellectual and developmental disabilities (IDD) had significantly higher risks of depression and anxiety compared with those…"
       }
     ]
   },
