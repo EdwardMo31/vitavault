@@ -1,6 +1,90 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c579142385a",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/7IYmJpCer3BjDV9YhUJpCR/c152ff2c5b9c03a24914fc36c7719bab/Untitled_design.jpg",
+    "title": "你能有一个偏离的隔膜吗？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-16",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/ear-nose-throat/could-you-have-a-deviated-septum",
+    "evidence": "B",
+    "summary": "中隔偏斜是指两个鼻孔之间的壁损坏或移位。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A deviated septum is when the wall between your two nostrils becomes damaged or shifts out of place.…"
+      }
+    ]
+  },
+  {
+    "id": "cb336201200",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/5BazDDSmGjlykbszFwN1PA/f92a4d2a62a0105c573b951b781901d6/shutterstock_1536485297__1__Cropped.jpg",
+    "title": "蓝光滤光片：它们真的有效吗？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-16",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/blue-light-filters-do-they-really-work",
+    "evidence": "B",
+    "summary": "我们大多数人每天花几个小时看数字屏幕，所有这些屏幕都会发出不同程度的蓝光。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Most of us spend several hours looking at digital screens every day, all of which emit varying levels of blue light.…"
+      }
+    ]
+  },
+  {
+    "id": "ce839fdb04b",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/1tES3sDaFmoEpudCciaQ5R/c19f2d8478f0db58ac7cd0262bdb3d23/arrows-up-and-down.png",
+    "title": "为什么有些人在减肥后会恢复体重？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-16",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/why-do-people-regain-weight-after-losing-it",
+    "evidence": "B",
+    "summary": "几十年来，超重和肥胖患者一直被不公平地贴上懒惰或贪婪的标签……",
+    "body": [
+      {
+        "t": "p",
+        "x": "For decades, people living with overweight and obesity have been unfairly labelled lazy or greedy,…"
+      }
+    ]
+  },
+  {
+    "id": "c17214e51e2",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "在线体育博彩与抑郁和焦虑治疗的增加有关",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-15",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-online-sports-linked-depression-anxiety.html",
+    "evidence": "B",
+    "summary": "在使在线体育博彩合法化的州，越来越多的人接受抑郁和焦虑治疗。",
+    "body": [
+      {
+        "t": "p",
+        "x": "More people are receiving treatment for depression and anxiety in states that legalized online sports betting."
+      }
+    ]
+  },
+  {
     "id": "c20269b65a2",
     "systems": [
       "muscles"
@@ -22,6 +106,69 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c603201b7f2",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "加强：如何养成步行习惯，一次走500步",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-15",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-habit.html",
+    "evidence": "B",
+    "summary": "开始步行只需要很少的时间：舒适、有支撑力的鞋子和自己的两只脚。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Starting a walking routine takes very little: comfortable, supportive shoes and your own two feet."
+      }
+    ]
+  },
+  {
+    "id": "c6d8cc8e441",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "麻醉下的神秘大脑活动挑战了我们对意识的了解",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-10-15",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm",
+    "evidence": "B",
+    "summary": "即使在全身麻醉下，人脑也可以分析语言，识别不同类型的单词，并预测故事中接下来会发生什么……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Even under general anesthesia, the human brain can analyze language, recognize different types of words, and predict what comes next in a story,…"
+      }
+    ]
+  },
+  {
+    "id": "c9c81f35b84",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/digital_mental_health_breast_cancer_survivors_UPDATED_watermark_04_collage_matched_2_minute_medicine.webp",
+    "title": "人工智能(AI)驱动的心理健康应用程序显示用户的社会福祉有所改善",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-10-15",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/artificial-intelligence-ai-powered-mental-health-app-demonstrated-improved-social-well-being-among-users/",
+    "evidence": "A",
+    "summary": "1. Cachia及其同事评估了基于人工智能的移动应用程序为用户提供个性化福祉支持的能力。2. ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Cachia and colleagues assessed an AI-powered mobile app’s ability to deliver personalized well-being support to users. 2.…"
+      }
+    ]
+  },
+  {
     "id": "cb74ada0cd7",
     "systems": [
       "whole"
@@ -39,6 +186,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Approximately 1 in 20 U.S. children younger than 18 years of age are medically complex,…"
+      }
+    ]
+  },
+  {
+    "id": "ce635f95f31",
+    "systems": [
+      "skin"
+    ],
+    "cover": "",
+    "title": "非处方皮肤产品中未申报的药理活性成分",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-15",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-undeclared-pharmacologically-ingredients-idd-otc.html",
+    "evidence": "B",
+    "summary": "在网上销售的三分之一的非处方（ OTC ）皮肤产品中检测到未申报的药理活性成分（ UPAI ） ， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Undeclared pharmacologically active ingredients (UPAIs) are detected in one-third of over-the-counter (OTC) skin products marketed online,…"
       }
     ]
   },
