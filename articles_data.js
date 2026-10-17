@@ -1,6 +1,27 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c19178990aa",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "耶鲁大学科学家发现压力如何改变大脑以使记忆更强",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-10-16",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261014015517.htm",
+    "evidence": "B",
+    "summary": "耶鲁大学的科学家们发现了压力荷尔蒙皮质醇如何帮助大脑将情感体验转化为更强大、更持久的记忆。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Yale scientists have uncovered how the stress hormone cortisol helps the brain turn emotional experiences into stronger, longer-lasting memories.…"
+      }
+    ]
+  },
+  {
     "id": "c579142385a",
     "systems": [
       "whole"
@@ -22,6 +43,27 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c5d22040ce9",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "1990年至2023年，全球痤疮负担增加",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-16",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-global-burden-acne.html",
+    "evidence": "B",
+    "summary": "全球痤疮负担从1990年到2023年有所增加，并将持续到2050年， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The global burden of acne increased from 1990 to 2023 and is set to continue increasing through 2050,…"
+      }
+    ]
+  },
+  {
     "id": "cb336201200",
     "systems": [
       "whole"
@@ -39,6 +81,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Most of us spend several hours looking at digital screens every day, all of which emit varying levels of blue light.…"
+      }
+    ]
+  },
+  {
+    "id": "ccbbc0fac8a",
+    "systems": [
+      "heart"
+    ],
+    "cover": "",
+    "title": "与酒精相关的肝硬化和心力衰竭相关的残疾负担预计到2050年将急剧上升",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-16",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-disability-burden-linked-alcohol-cirrhosis.html",
+    "evidence": "B",
+    "summary": "预计到2050年，与酒精相关肝硬化并发心力衰竭相关的残疾负担将大幅增加……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The disability burden associated with alcohol-related cirrhosis complicated by heart failure is projected to rise substantially by 2050 across…"
       }
     ]
   },
@@ -123,6 +186,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Starting a walking routine takes very little: comfortable, supportive shoes and your own two feet."
+      }
+    ]
+  },
+  {
+    "id": "c60ea4f9145",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "科学家发现运动如何逆转肌肉衰老",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-10-15",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261015003550.htm",
+    "evidence": "B",
+    "summary": "科学家发现了一种隐藏的生物机制，有助于解释锻炼如何逆转肌肉衰老造成的一些损害。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists have uncovered a hidden biological mechanism that helps explain how exercise can reverse some of the damage caused by muscle aging.…"
       }
     ]
   },
