@@ -1,6 +1,90 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c56a1c75f41",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "新一代全身PET扫描仪可在短短1分钟内生成诊断质量的图像",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-18",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-generation-total-body-pet-scanner.html",
+    "evidence": "B",
+    "summary": "下一代全身PET/CT扫描仪可以在短短1分钟的扫描时间内产生诊断质量的图像， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A next-generation total-body PET/CT scanner can produce diagnostic-quality images in as little as 1 minute of scanning,…"
+      }
+    ]
+  },
+  {
+    "id": "c6fe57fdb0d",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "宾夕法尼亚州老龄化的监狱不是为今天的极端天气而建造的，这使妇女和老年人处于危险之中",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-17",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-pennsylvania-aging-prisons-werent-built.html",
+    "evidence": "B",
+    "summary": "当室外温度飙升至103华氏度（ 39摄氏度）或降至-9华氏度（ -23摄氏度）时，就像去年在宾夕法尼亚州那样， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "When outdoor temperatures spike to 103 degrees Fahrenheit (39 degrees Celsius), or drop to -9 F (-23 C), like they did across Pennsylvania last year,…"
+      }
+    ]
+  },
+  {
+    "id": "c82bf15b0db",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "科学家发现深度睡眠如何锻炼肌肉、燃烧脂肪和增强大脑",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-10-17",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261016081140.htm",
+    "evidence": "B",
+    "summary": "科学家们发现了睡眠和生长激素之间令人惊讶的双向关系……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists have discovered a surprising two-way relationship between sleep and growth hormone,…"
+      }
+    ]
+  },
+  {
+    "id": "c8518ae9223",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/orthopedics_meniscus_therapy_and_surgery_balance_2_minute_medicine.webp",
+    "title": "全膝关节置换术的术前自我准备是多因素的，可以通过针对外部支持和内部动机进行优化",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-10-17",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/preoperative-self-preparation-for-total-knee-arthroplasty-is-multifactorial-and-can-be-optimized-by-targeting-external-support-and-internal-motivation/",
+    "evidence": "A",
+    "summary": "1.接受全膝关节置换术（ TKA ）的老年人术前自我准备是多因素的，可以通过解决以下问题进行优化：",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Pre-operative self-preparation for older adults undergoing total knee arthroplasty (TKA) is multifactorial and can be optimized by addressing…"
+      }
+    ]
+  },
+  {
     "id": "c19178990aa",
     "systems": [
       "brain"
