@@ -1,6 +1,69 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c10f31ea59a",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "神奇的蘑菇成分让侵略性鱼类战无不胜",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-10-18",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261017230036.htm",
+    "evidence": "B",
+    "summary": "在魔法蘑菇中发现的一种迷幻化合物似乎具有意想不到的效果：平息高度攻击性的鱼类。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A psychedelic compound found in magic mushrooms appears to have an unexpected effect: calming highly aggressive fish.…"
+      }
+    ]
+  },
+  {
+    "id": "c2a84e3ef02",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "科学家发现了一种天然化合物，可以保护大脑免受过多盐的侵害",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-10-18",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
+    "evidence": "B",
+    "summary": "吃太多盐可能不仅仅会升高血压。它还可能损害记忆和社交行为。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Eating too much salt may do more than raise blood pressure. It could also harm memory and social behavior.…"
+      }
+    ]
+  },
+  {
+    "id": "c479941bc63",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "科学家发现与持久缓解抑郁症相关的3个关键大脑通路",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-10-18",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261017230021.htm",
+    "evidence": "B",
+    "summary": "研究人员发现了三种大脑通路，这些通路与接受深部大脑刺激的人的持续改善有关。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers have uncovered three brain pathways linked to lasting improvements in people receiving deep brain stimulation for severe,…"
+      }
+    ]
+  },
+  {
     "id": "c56a1c75f41",
     "systems": [
       "whole"
@@ -18,6 +81,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "A next-generation total-body PET/CT scanner can produce diagnostic-quality images in as little as 1 minute of scanning,…"
+      }
+    ]
+  },
+  {
+    "id": "c2994d32bd0",
+    "systems": [
+      "gut"
+    ],
+    "cover": "",
+    "title": "科学家测试了39种甜味剂，发现了令人惊讶的肠道效应",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-10-17",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261016081103.htm",
+    "evidence": "B",
+    "summary": "科学家发现，许多常见的甜味剂会干扰肠道细菌……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists have discovered that many common sweeteners can interfere with gut bacteria,…"
       }
     ]
   },
