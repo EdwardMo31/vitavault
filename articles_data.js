@@ -1,6 +1,69 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c9006912604",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/health-economics_surgery_complication_cost_balance_2_minute_medicine.webp",
+    "title": "低压气腹不能减轻腹腔镜胆囊切除术后的疼痛",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-10-19",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/low-pressure-pneumoperitoneum-does-not-reduce-pain-after-laporoscopic-cholecystectomy/",
+    "evidence": "A",
+    "summary": "1.与…相比， 8 mmHg的低压气腹（ LPP ）在6小时时没有显着降低视觉模拟量表（ VAS ）疼痛评分。",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Low-pressure pneumoperitoneum (LPP) at 8 mmHg did not significantly reduce visual analog scale (VAS) pain scores at 6 hours compared with…"
+      }
+    ]
+  },
+  {
+    "id": "cdaf0e7d0f8",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/melatonin_rem_sleep_children_UPDATED_watermark_04_collage_matched_2_minute_medicine.webp",
+    "title": "深度学习模型展示了从睡眠脑电图中产生可解释的大脑健康生物标志物的潜力",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-10-19",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/deep-learning-model-demonstrates-potential-to-generate-an-interpretable-brain-health-biomarker-from-sleep-electroencephalography/",
+    "evidence": "A",
+    "summary": "1. Ganglberger及其同事评估了深度学习模型从脑电图数据中获取大脑健康评分的能力。2. …",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Ganglberger and colleagues assessed a deep learning model’s ability to derive brain health scores from electroencephalography data. 2.…"
+      }
+    ]
+  },
+  {
+    "id": "cf3c0f1604c",
+    "systems": [
+      "heart"
+    ],
+    "cover": "",
+    "title": "3D打印方法可以扩展个性化心血管设备的选择",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-19",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-3d-method-options-personalized-cardiovascular.html",
+    "evidence": "B",
+    "summary": "由IMDEA材料研究所和马德里理工大学（ UPM ）领导的国际研究小组开发了一种制造…",
+    "body": [
+      {
+        "t": "p",
+        "x": "An international research team led by IMDEA Materials Institute and Universidad Politécnica de Madrid (UPM) has developed a method for manufacturing…"
+      }
+    ]
+  },
+  {
     "id": "c10f31ea59a",
     "systems": [
       "whole"
@@ -81,6 +144,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "A next-generation total-body PET/CT scanner can produce diagnostic-quality images in as little as 1 minute of scanning,…"
+      }
+    ]
+  },
+  {
+    "id": "c86307ab92b",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "现代神经科学正在重新发现弗洛伊德130年前提出的一个令人惊讶的想法",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-10-18",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261018084028.htm",
+    "evidence": "B",
+    "summary": "研究人员已经确定了西格蒙德·弗洛伊德的百年理论与现代神经科学之间的惊人相似之处……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers have identified striking parallels between Sigmund Freud’s century-old theories and modern neuroscience,…"
       }
     ]
   },
