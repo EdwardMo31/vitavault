@@ -1,6 +1,218 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c19d41ce2b4",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/3J3uXMrSsnmSzZ3CHagtwJ/1cbaf8f5a1a58b88a98bc8c3b435d1de/shutterstock_2517698265.jpg",
+    "title": "7种万圣节健康美食",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-21",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/diet-and-nutrition/7-healthy-halloween-treats",
+    "evidence": "B",
+    "summary": "没有人想成为向捣蛋鬼分发普通水果而不是糖果的邻居。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "No one wants to be the neighbour who passes out plain fruit instead of sweets to trick-or-treaters.…"
+      }
+    ]
+  },
+  {
+    "id": "c59927969f9",
+    "systems": [
+      "senses"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/1R2BAcpwFmSyzxcl6mWF7n/d45f1c8132d71b1a18186ff301cebc32/shutterstock_1841555926.jpg",
+    "title": "万圣节和篝火之夜-如何在这个令人毛骨悚然的季节保护您的眼睛",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-21",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/eye-health/halloween-and-bonfire-night-how-to-protect-your-eyes-this-spooky-season",
+    "evidence": "B",
+    "summary": "万圣节和篝火之夜如此接近，它们就像一个盛大的庆祝活动，迎来了秋天更黑暗、更恐怖的夜晚。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "With Halloween and Bonfire Night falling so close together, they can feel like one big celebration, ushering in autumn's darker, spookier nights.…"
+      }
+    ]
+  },
+  {
+    "id": "c72a4d5d698",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/ylkbjEhG7S1wFVO8mLkR0/1180e1c3fa78516942b7caf9c83299e1/Untitled_design.jpg",
+    "title": "斯堪的纳维亚睡眠方法-分开的羽绒被可以帮助您睡得更好吗？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-21",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/the-scandinavian-sleep-method-could-separate-duvets-help-you-sleep-better",
+    "evidence": "B",
+    "summary": "斯堪的纳维亚睡眠法包括拥有自己的羽绒被，而不是与伴侣共用。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The Scandinavian Sleep Method involves having your own duvet instead of sharing one with your partner.…"
+      }
+    ]
+  },
+  {
+    "id": "cd43a93b411",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/39Ae5SpUWTF6E4pJl6dKvz/3e136d4cc37f17e199f3d1aeeebe6535/shutterstock_2661549511.jpg",
+    "title": "万圣节-让每个人都能感受到“可怕的季节”",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-21",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/mental-health/halloween-making-scary-season-work-for-everyone",
+    "evidence": "B",
+    "summary": "无论是社会压力，对“跳跃恐慌”的更高容忍度，还是对“克”的需求， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Whether it’s social pressure, a higher tolerance for ‘jump scares’, or a need to perform for the ‘gram,…"
+      }
+    ]
+  },
+  {
+    "id": "ce7e16d0020",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/55EWXsKYA7Qj3pLO8HvguX/14eee12c7461f18e6794c91da4442df9/shutterstock_2498536075.jpg",
+    "title": "您的房子有鬼吗？睡眠瘫痪背后的科学",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-21",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/mental-health/is-your-house-haunted-the-science-behind-sleep-paralysis",
+    "evidence": "B",
+    "summary": "你有没有在半夜醒来，确定有人站在你的床尾， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Have you ever woken in the middle of the night, certain there’s someone standing at the end of your bed,…"
+      }
+    ]
+  },
+  {
+    "id": "c0bd6ece4d0",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "经受考验的瑜伽：科学真相",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-10-20",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/yoga-put-to-the-test-what-the-science-really-shows/",
+    "evidence": "B",
+    "summary": "瑜伽的起源可以追溯到几千年前，健康瑜伽的实践在全球范围内流行起来。2016年的一项调查估计， […]",
+    "body": [
+      {
+        "t": "p",
+        "x": "The origins of yoga go back thousands of years, and the practice of yoga for health has become popular worldwide. A 2016 survey estimated that […]"
+      }
+    ]
+  },
+  {
+    "id": "c0f202f3f45",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "多吃水果可降低青少年患抑郁症和焦虑症的风险",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-20",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-extra-fruit-linked-depression-anxiety.html",
+    "evidence": "B",
+    "summary": "青少年做出的食物选择可能超出他们的身体健康范围， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The food choices teenagers make could have implications beyond their physical health,…"
+      }
+    ]
+  },
+  {
+    "id": "c5aadc76729",
+    "systems": [
+      "heart",
+      "whole"
+    ],
+    "cover": "",
+    "title": "双影像导管评估心脏病发作风险的首次人体研究，指导治疗",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-20",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-human-dual-imaging-catheter-heart.html",
+    "evidence": "B",
+    "summary": "加州大学戴维斯分校国家介入生物光子技术中心（ NCIBT ）的研究人员已经结束了一项新…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers at the UC Davis National Center for Interventional Biophotonic Technologies (NCIBT) have concluded the first-in-human test of a new…"
+      }
+    ]
+  },
+  {
+    "id": "c8c5844c533",
+    "systems": [
+      "brain",
+      "whole"
+    ],
+    "cover": "",
+    "title": "您的衰老大脑可能正在用记忆换取更有价值的东西",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-10-20",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261019093357.htm",
+    "evidence": "B",
+    "summary": "衰老的大脑可能正在经历一个显着的转变，而不是简单地失去其能力， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The aging brain may be undergoing a remarkable transformation rather than simply losing its abilities,…"
+      }
+    ]
+  },
+  {
+    "id": "cfb5f633062",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/housing_key_fragile_heartbeat_ottawa_UPDATED_watermark_04_collage_matched_2_minute_medicine.webp",
+    "title": "低收入地区的社区卫生计划可能会降低住院率",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-10-20",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/a-community-health-initiative-in-low-income-areas-may-reduce-hospital-admission-rates/",
+    "evidence": "A",
+    "summary": "1.在这项纵向横截面随机对照试验中，安大略省的30栋低收入公寓楼接受了社区辅助医学诊所的访问……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this longitudinal cross-sectional RCT, 30 low-income apartment buildings in Ontario received visits from the community paramedicine clinic,…"
+      }
+    ]
+  },
+  {
     "id": "c9006912604",
     "systems": [
       "whole"
