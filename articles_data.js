@@ -22,6 +22,48 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c33a6e12dfd",
+    "systems": [
+      "heart"
+    ],
+    "cover": "",
+    "title": "宇航员的心脏刚刚通过了火星的惊人测试",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-10-21",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm",
+    "evidence": "B",
+    "summary": "一项追踪13名宇航员的新研究表明，人类的心脏可能出人意料地为火星之旅做好了充分的准备……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new study tracking 13 astronauts suggests that the human heart may be surprisingly well equipped for a journey to Mars,…"
+      }
+    ]
+  },
+  {
+    "id": "c3a4ea922bf",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "专家表示，对供水系统的攻击是对健康的攻击",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-21",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-health-experts.html",
+    "evidence": "B",
+    "summary": "水资源短缺很少引发战争，但战争越来越严重地破坏了健康和恢复所依赖的重要水系统……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Water scarcity seldom starts wars, but wars increasingly degrade vital water systems on which health and recovery depend,…"
+      }
+    ]
+  },
+  {
     "id": "c59927969f9",
     "systems": [
       "senses"
@@ -43,6 +85,27 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c7165f52d43",
+    "systems": [
+      "senses"
+    ],
+    "cover": "",
+    "title": "眼动追踪可以帮助虚拟现实疼痛疗法适应个人需求",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-21",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-eye-tracking-virtual-reality-pain.html",
+    "evidence": "B",
+    "summary": "将人工智能（ AI ）与虚拟现实中的眼动追踪相结合，有朝一日可以帮助数百万慢性…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Combining artificial intelligence (AI) with eye tracking in virtual reality could one day help personalize treatment for millions living with chronic…"
+      }
+    ]
+  },
+  {
     "id": "c72a4d5d698",
     "systems": [
       "brain"
@@ -60,6 +123,69 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "The Scandinavian Sleep Method involves having your own duvet instead of sharing one with your partner.…"
+      }
+    ]
+  },
+  {
+    "id": "c826be85cbf",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "65岁后，每天只需4分钟即可显着提高力量",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-10-21",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261020085025.htm",
+    "evidence": "B",
+    "summary": "宾夕法尼亚州立大学的一项新研究表明，每天四分钟的力量训练可以显著改善老年人的活动能力和身体机能。",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new Penn State study suggests that just four minutes of daily strength training can significantly improve mobility and physical function in older…"
+      }
+    ]
+  },
+  {
+    "id": "c9a79f7bd41",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "加拿大最年轻的一代人有一个健康的开始，但屏幕时间是一个挑战",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-21",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-canada-youngest-generation-healthy-screen.html",
+    "evidence": "B",
+    "summary": "加拿大最年轻的一代在体育锻炼方面有了一个良好的开端，但也有成长的空间， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Canada's youngest generation is off to a good start for being physically active, but there's also room to grow,…"
+      }
+    ]
+  },
+  {
+    "id": "cd3b7c1bb5a",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "利用绿色转型基金为所有人实现健康，建议专家",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-21",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-green-transition-funds-health-experts.html",
+    "evidence": "B",
+    "summary": "绿色能源转型为低收入和中等收入国家的全民健康覆盖（ UHC ）提供资金提供了一个至关重要的机会， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The green energy transition presents a crucial opportunity to finance universal health coverage (UHC) in low- and middle-income countries,…"
       }
     ]
   },
@@ -188,6 +314,28 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "The aging brain may be undergoing a remarkable transformation rather than simply losing its abilities,…"
+      }
+    ]
+  },
+  {
+    "id": "ca273d672d2",
+    "systems": [
+      "nutrition",
+      "whole"
+    ],
+    "cover": "",
+    "title": "科学家发现10种不同的饮食与减缓衰老有关",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-10-20",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261019093439.htm",
+    "evidence": "B",
+    "summary": "DZNE的一项研究发现，健康饮食与缓慢的生物衰老有关，而且健康饮食的方法不止一种。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A study by DZNE finds that healthy eating is associated with slower biological aging—and that there is more than one way to eat healthily.…"
       }
     ]
   },
