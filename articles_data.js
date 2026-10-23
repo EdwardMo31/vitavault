@@ -1,6 +1,153 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c75ba804e82",
+    "systems": [
+      "senses"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/ZC3qlH10xWM2hvvSR86M9/2b746fdac35ce3c52f27fe91e1686dba/shutterstock_2658890409.jpg",
+    "title": "为什么我们喜欢恐怖电影--即使它们让我们感到害怕？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-23",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/mental-health/why-do-we-love-horror-films-even-when-they-terrify-us",
+    "evidence": "B",
+    "summary": "对许多人来说，万圣节已经成为第二个圣诞节。每年早些时候都会出现令人毛骨悚然的装饰品……",
+    "body": [
+      {
+        "t": "p",
+        "x": "For many, Halloween has become a second Christmas. Spooky decorations appear earlier each year,…"
+      }
+    ]
+  },
+  {
+    "id": "cb31fe44992",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/3mc60Af9FG9qtFNUSFn2N0/18effb7aeb7517648f3b47b2767d77ba/shutterstock_2432191683.jpg",
+    "title": "心灵和身体控制-如何引导您的“内部心灵运动”",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-23",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/mental-health/mind-and-body-control-how-to-channel-your-internal-telekinesis",
+    "evidence": "B",
+    "summary": "黑暗的夜晚已经到来，就在暗示中，迈克·弗拉纳根（ Mike Flanagan ）将注意力转向了斯蒂芬·金（ Stephen King ）最具标志性的青少年折磨故事之一……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The dark nights have arrived, and right on cue, Mike Flanagan has turned his attention to one of Stephen King’s most iconic tales of teenage torment…"
+      }
+    ]
+  },
+  {
+    "id": "ce3796daa11",
+    "systems": [
+      "lungs"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/4EqQfbt4ESitlsGFZdx0DM/c26ee4e2f107fc0a67013afc88a6e09a/shutterstock_1295338498.jpg",
+    "title": "乳房不是障碍-圣约翰救护车“心肺复苏胸罩”活动",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-23",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/heart-health/breasts-arent-barriers-the-st-john-ambulance-cpr-bra-campaign",
+    "evidence": "B",
+    "summary": "如果有人需要心肺复苏术（ CPR ） ，而你有这些技能，你会毫不浪费地给他们，对吧？错了。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "If someone needed cardiopulmonary resuscitation (CPR) and you had the skills, you’d give it to them without wasting a second, right? Wrong.…"
+      }
+    ]
+  },
+  {
+    "id": "c365e424843",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "钾粘合剂可以减轻透析患者的膳食钾限制负担",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-22",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-potassium-binder-ease-burden-dietary.html",
+    "evidence": "B",
+    "summary": "饮食钾限制对于控制维持性血液透析患者的高钾血症或高血钾水平很重要， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Dietary potassium restriction is important for managing hyperkalemia, or high blood potassium levels, in individuals on maintenance hemodialysis,…"
+      }
+    ]
+  },
+  {
+    "id": "c52afb64154",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "咖啡的卡路里增加了近40%。糖不是最大的罪魁祸首",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-10-22",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261021231224.htm",
+    "evidence": "B",
+    "summary": "早上的咖啡可能含有比您意识到的更多的卡路里，而糖不是最大的原因。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Your morning coffee may be packing more calories than you realize, and sugar isn't the biggest reason.…"
+      }
+    ]
+  },
+  {
+    "id": "c71ed90ac76",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "国家报告发现，歧视加剧了LGBTQ +青年的心理健康危机",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-22",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-discrimination-fuels-mental-health-crisis.html",
+    "evidence": "B",
+    "summary": "一份新的报告称，在持续歧视的驱动下， LGBTQ +青年继续面临高比例的焦虑、抑郁和自杀念头。",
+    "body": [
+      {
+        "t": "p",
+        "x": "LGBTQ+ youth continue to face high rates of anxiety, depression and suicidal thoughts, driven by ongoing discrimination, a new report says."
+      }
+    ]
+  },
+  {
+    "id": "c834a5347de",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "科学家们发现了人类大脑皱纹背后的一个令人惊讶的秘密",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-10-22",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261021231235.htm",
+    "evidence": "B",
+    "summary": "科学家们已经发现了为什么普通的猕猴的大脑异常小而光滑，尽管它们开始像其他灵长类动物一样发育。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists have discovered why common marmosets have unusually small, smooth brains despite starting development much like other primates.…"
+      }
+    ]
+  },
+  {
     "id": "c19d41ce2b4",
     "systems": [
       "whole"
