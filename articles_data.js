@@ -1,6 +1,27 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c3e2c9ce58a",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "科学家在大脑深处发现了一个隐藏的消息系统",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-10-23",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261022081304.htm",
+    "evidence": "B",
+    "summary": "大脑深处的一个微小区域揭示了一个非常复杂的通信系统，令科学家感到惊讶。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A tiny region deep within the brain has surprised scientists by revealing a remarkably sophisticated communication system.…"
+      }
+    ]
+  },
+  {
     "id": "c75ba804e82",
     "systems": [
       "senses"
@@ -18,6 +39,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "For many, Halloween has become a second Christmas. Spooky decorations appear earlier each year,…"
+      }
+    ]
+  },
+  {
+    "id": "ca3aa2327e0",
+    "systems": [
+      "senses"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/second%20batch%20featured/wellness_photobiomodulation_red_light_evidence_2_minute_medicine.webp",
+    "title": "光遗传治疗可能部分恢复视网膜色素变性的视力",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-10-23",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/optogenetic-therapy-may-partially-restore-vision-in-retinitis-pigmentosa/",
+    "evidence": "A",
+    "summary": "1.在这项涉及晚期视网膜色素变性受试者的1期试验中， …",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this phase 1 trial involving subjects with advanced retinitis pigmentosa,…"
       }
     ]
   },
