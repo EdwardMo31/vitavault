@@ -1,6 +1,69 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c0a4a407991",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "科学家发现一种隐藏的开关，可以燃烧脂肪并阻断新的脂肪细胞",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-10-24",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261023002905.htm",
+    "evidence": "B",
+    "summary": "科学家们发现，关闭一种名为Mitch的蛋白质会使人体细胞燃烧更多的脂肪，并防止新的脂肪细胞发育。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists have discovered that switching off a protein called Mitch makes human cells burn more fat and prevents new fat cells from developing.…"
+      }
+    ]
+  },
+  {
+    "id": "c26e75544e1",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "超声波技术可以实现更早的应力断裂检测",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-24",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-ultrasonic-technology-enables-earlier-stress.html",
+    "evidence": "B",
+    "summary": "胫骨应力性骨折是影响军事人员的最常见的过度使用伤害之一， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Tibial stress fractures are among the most common overuse injuries affecting military personnel,…"
+      }
+    ]
+  },
+  {
+    "id": "ce8d85ab76d",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "西非埃博拉病毒爆发10年后：实验室合作改善几内亚的病毒性出血热诊断",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-24",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-years-ebola-west-africa-laboratory.html",
+    "evidence": "B",
+    "summary": "利用近十年的监测，研究人员记录了该地区拉沙热的负担，并解释了如何可持续地诊断……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Drawing on nearly a decade of surveillance, the researchers document the burden of Lassa fever in the region and explain how sustainable diagnostic…"
+      }
+    ]
+  },
+  {
     "id": "c3e2c9ce58a",
     "systems": [
       "brain"
