@@ -1,6 +1,154 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c8b54b5a434",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/perioperative_toripalimab_lung_cancer_UPDATED_watermark_04_collage_matched_2_minute_medicine.webp",
+    "title": "在公司报告的最终3期结果中，与铂类化疗相比， Sacituzumab tirumotecan改善了总生存期",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-10-26",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/sacituzumab-tirumotecan-improved-overall-survival-versus-platinum-chemotherapy-in-company-reported-final-phase-3-results/",
+    "evidence": "A",
+    "summary": "公司报告的最终结果显示，与基于铂的EGFR突变晚期化疗相比， Sacituzumab tirumotecan改善了总生存期…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Company-reported final results showed sacituzumab tirumotecan improved overall survival versus platinum-based chemotherapy in EGFR-mutant advanced…"
+      }
+    ]
+  },
+  {
+    "id": "ce0fd4c0ef8",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "药物使用导致急诊就诊增加，年轻母亲住院治疗增加",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-26",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-substance-emergency-department-hospitalizations-young.html",
+    "evidence": "B",
+    "summary": "使用药物的急诊科（ ED ）就诊，特别是阿片类药物、苯丙胺和大麻， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Emergency department (ED) visits for use of substances, especially opioids, amphetamines and cannabis,…"
+      }
+    ]
+  },
+  {
+    "id": "c23a1dee666",
+    "systems": [
+      "brain",
+      "immune"
+    ],
+    "cover": "",
+    "title": "迷幻药可以安抚过度活跃的免疫系统吗？新的荟萃分析调查",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-25",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-psychedelics-overactive-immune-meta-analysis.html",
+    "evidence": "B",
+    "summary": "可以改变感知和转变情绪的相同物质现在因其潜在的治疗能力而引起科学兴趣。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The same substances that can alter perception and shift moods are now drawing scientific interest for their potential therapeutic abilities.…"
+      }
+    ]
+  },
+  {
+    "id": "c7a4392acd5",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "流行的大麻睡眠软糖可能有隐藏的阴暗面",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-10-25",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261024221952.htm",
+    "evidence": "B",
+    "summary": "睡眠软糖中常见的大麻衍生成分可能比以前认为的更具习惯性， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A cannabis-derived ingredient commonly found in sleep gummies may be more habit-forming than previously thought,…"
+      }
+    ]
+  },
+  {
+    "id": "c9b6669f0c9",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "新的动物模型为研究燃烧卡路里的棕色脂肪提供了更精确的方法",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-25",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-animal-precise-calorie-brown-fat.html",
+    "evidence": "B",
+    "summary": "路易斯安那州立大学彭宁顿生物医学研究中心的研究人员开发并验证了一种新的遗传动物模型，为科学家提供了更多...",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers at LSU's Pennington Biomedical Research Center have developed and validated a new genetic animal model that gives scientists a more…"
+      }
+    ]
+  },
+  {
+    "id": "cb6d9c9b6a5",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "这种神秘的蘑菇让人们看到了数百个小人",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-10-25",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261024222021.htm",
+    "evidence": "B",
+    "summary": "近一个世纪以来，世界遥远地区的人们在吃了某些野生蘑菇后报告了一种奇怪的经历：看到几十种或……",
+    "body": [
+      {
+        "t": "p",
+        "x": "For nearly a century, people in distant parts of the world have reported a bizarre experience after eating certain wild mushrooms: seeing dozens or…"
+      }
+    ]
+  },
+  {
+    "id": "cc1036b4fbb",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "经常微笑可能不仅对你的情绪有好处，而且对你的健康有好处",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-25",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-regularly-good-mood-health.html",
+    "evidence": "B",
+    "summary": "经常提醒自己微笑不仅可以帮助你建立更多的友谊，还可以让你感觉更好。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Reminding yourself to smile often can not only help you form more friendships but also make you feel better."
+      }
+    ]
+  },
+  {
     "id": "c0a4a407991",
     "systems": [
       "nutrition"
@@ -39,6 +187,28 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Tibial stress fractures are among the most common overuse injuries affecting military personnel,…"
+      }
+    ]
+  },
+  {
+    "id": "caabfd67594",
+    "systems": [
+      "nutrition",
+      "brain"
+    ],
+    "cover": "",
+    "title": "地中海饮食可以促进保护心脏和大脑的微小蛋白质",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-10-24",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261023003337.htm",
+    "evidence": "B",
+    "summary": "科学家们发现了一个令人惊讶的新线索，解释了为什么地中海饮食对心脏、大脑和健康衰老如此有益。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists have uncovered a surprising new clue to why the Mediterranean diet is so good for the heart, brain, and healthy aging.…"
       }
     ]
   },
