@@ -1,6 +1,69 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c0bc4737ae8",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/neonatology_oxygen_preterm_oxygen_target_study_2_minute_medicine.webp",
+    "title": "粪便生物标志物可能有效评估早产儿坏死性小肠结肠炎",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-10-26",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/stool-biomarkers-may-be-effective-in-the-evaluation-of-necrotizing-enterocolitis-in-preterm-infants/",
+    "evidence": "A",
+    "summary": "1.粪便生物标志物将确诊坏死性小肠结肠炎（ NEC ）的早产儿与无NEC的早产儿区分开来， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Stool biomarkers distinguished preterm infants with confirmed necrotizing enterocolitis (NEC) from preterm infants without NEC,…"
+      }
+    ]
+  },
+  {
+    "id": "c3747e4d630",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "想减肥吗？不要跳过重量",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-26",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-weight-dont-weights.html",
+    "evidence": "B",
+    "summary": "举重以“增加体重”而闻名，因此当您想要减肥时，它可能不是您选择的第一种运动类型。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Weightlifting has a reputation for \"bulking up,\" so it may not be the first type of exercise you choose when you want to lose weight."
+      }
+    ]
+  },
+  {
+    "id": "c7aabded70e",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "血红蛋白成分血红素显示抑制有助于溶解血栓的酶",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-26",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-hemoglobin-component-heme-shown-inhibit.html",
+    "evidence": "B",
+    "summary": "谈到血块，不仅它们如何形成至关重要，而且身体如何再次分解它们也是至关重要的。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "When it comes to blood clots, it is not only how they form that is crucial, but also how the body can break them down again.…"
+      }
+    ]
+  },
+  {
     "id": "c8b54b5a434",
     "systems": [
       "whole"
@@ -18,6 +81,49 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Company-reported final results showed sacituzumab tirumotecan improved overall survival versus platinum-based chemotherapy in EGFR-mutant advanced…"
+      }
+    ]
+  },
+  {
+    "id": "c8e6f3a7407",
+    "systems": [
+      "muscles",
+      "heart"
+    ],
+    "cover": "",
+    "title": "锻炼不仅能强化你的心脏，还能重新连接它",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-10-26",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
+    "evidence": "B",
+    "summary": "经常锻炼不仅能强化心脏。新的研究表明，它实际上重塑了控制心脏功能的神经……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Regular exercise does more than strengthen the heart. New research reveals that it actually reshapes the nerves controlling how the heart functions,…"
+      }
+    ]
+  },
+  {
+    "id": "cd820afa32a",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "被养育不堪重负？你有很多人陪伴",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-26",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-overwhelmed-parenting-youve-plenty-company.html",
+    "evidence": "B",
+    "summary": "对育儿的噪音和混乱感到不知所措？你并不孤单。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Feeling overwhelmed by the noise and chaos of parenting? You're not alone."
       }
     ]
   },
