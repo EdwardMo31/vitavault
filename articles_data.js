@@ -1,6 +1,112 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c1a8def03cc",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "工作场所的人体工程学可能对缓解手臂、颈部或肩膀疼痛没有什么作用",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-27",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-workplace-ergonomics-ease-arm-neck.html",
+    "evidence": "B",
+    "summary": "一项最新的Cochrane综述发现，人体工程学干预措施对疼痛、功能、……没有任何有意义的益处。",
+    "body": [
+      {
+        "t": "p",
+        "x": "An updated Cochrane review has found that ergonomic interventions show no meaningful benefit for pain, function,…"
+      }
+    ]
+  },
+  {
+    "id": "c1e1652d7e5",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "自闭症大脑过程的面貌与科学家想象的不同",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-10-27",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261027063824.htm",
+    "evidence": "B",
+    "summary": "一项重要的新研究表明，自闭症儿童的大脑过程面临着不同的……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A major new study reveals that autistic children’s brains process faces differently,…"
+      }
+    ]
+  },
+  {
+    "id": "cba0bdf8c7a",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "可穿戴脑电贴片记录24小时内的稳定大脑信号，包括睡眠",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-27",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-wearable-eeg-patch-stable-brain.html",
+    "evidence": "B",
+    "summary": "迄今为止，可靠地记录数小时的大脑活动充满了技术和实践挑战。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Reliably recording brain activity over many hours has so far been fraught with technical and practical challenges.…"
+      }
+    ]
+  },
+  {
+    "id": "ce559bd6ea6",
+    "systems": [
+      "immune"
+    ],
+    "cover": "",
+    "title": "无针链球菌A疫苗在小鼠中引发局部和全身免疫反应",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-27",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-needle-free-strep-vaccine-triggers.html",
+    "evidence": "B",
+    "summary": "药品和医疗保健产品管理局（ MHRA ）与葛兰素史克全球卫生疫苗研究所（ GSK Vaccines Institute for Global Health ）合作开展的新研究……",
+    "body": [
+      {
+        "t": "p",
+        "x": "New research by the Medicines and Healthcare products Regulatory Agency (MHRA) in partnership with the GSK Vaccines Institute for Global Health has…"
+      }
+    ]
+  },
+  {
+    "id": "cea4e516734",
+    "systems": [
+      "nutrition",
+      "whole"
+    ],
+    "cover": "",
+    "title": "补充剂是新的蛇油吗？",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-10-27",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/are-supplements-the-new-snake-oil/",
+    "evidence": "B",
+    "summary": "很难保证膳食补充剂实际上包含包装上广告的内容，并且没有未申报的污染物。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "There is little guarantee that a dietary supplement will actually contain what is advertised on the packaging and not have undeclared contaminants.…"
+      }
+    ]
+  },
+  {
     "id": "c0bc4737ae8",
     "systems": [
       "whole"
