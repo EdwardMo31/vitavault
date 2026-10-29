@@ -1,6 +1,153 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c07f7ace2e5",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/59up2fNv5GS1M5dyjKtbHQ/bc2fdc0715f90881563dfe64c1ff1187/shutterstock_2835626833.jpg",
+    "title": "今年秋天减少阳光照射的5种方法",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-29",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/mental-health/5-ways-to-cope-with-less-sunlight-this-autumn",
+    "evidence": "B",
+    "summary": "从夏季到秋季的过渡带来了更短的白天和更长的夜晚。日出和日落的这些年度变化意味着我们的身体必须适应……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The transition from summer to autumn brings shorter days and longer nights. These annual changes in sunrise and sunset mean our bodies must adjust to…"
+      }
+    ]
+  },
+  {
+    "id": "cc9776fd2e7",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/2m1U6QpSXgZAIG4WljmKmf/5faabd9472d346d2150a71f20270e7b3/shutterstock_2195749869_Cropped__3_.jpg",
+    "title": "南瓜籽对你有好处吗？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-29",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/diet-and-nutrition/are-pumpkin-seeds-good-for-you",
+    "evidence": "B",
+    "summary": "南瓜籽不仅仅用于万圣节。虽然它们可能会让你想起雕刻秋天的千斤顶， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Pumpkin seeds aren't just for Halloween. While they might remind you of carving autumn jack-o'-lanterns,…"
+      }
+    ]
+  },
+  {
+    "id": "c3b4440411d",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "针对化脓性汗腺炎的治疗制定的建议",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-28",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-hidradenitis-suppurativa.html",
+    "evidence": "B",
+    "summary": "美国科学院发布的护理指南中为化脓性汗腺炎（ HS ）的治疗提供了循证建议……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Evidence-based recommendations are presented for the management of hidradenitis suppurativa (HS) in guidelines of care issued by the American Academy…"
+      }
+    ]
+  },
+  {
+    "id": "c7de576b904",
+    "systems": [
+      "lungs"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/water_contaminants_uterine_cancer_UPDATED_watermark_04_collage_matched_2_minute_medicine.webp",
+    "title": "微塑料在水界面产生活性氧， Nature研究发现",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-10-28",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/microplastics-generate-reactive-oxygen-species-at-water-interfaces-nature-study-finds/",
+    "evidence": "A",
+    "summary": "《自然》杂志的一项研究发现，微塑料在水界面产生活性氧，从而确定了生物损伤的可能机制。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A Nature study found that microplastics generate reactive oxygen species at water interfaces, identifying a possible mechanism for biological damage.…"
+      }
+    ]
+  },
+  {
+    "id": "c9cd02dbc21",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "餐点派送应用可能会导致我们做出不健康的选择",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-28",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-meal-delivery-apps-unhealthy-choices.html",
+    "evidence": "B",
+    "summary": "新的研究揭示了送餐应用如何引导澳大利亚人选择不健康的食物……",
+    "body": [
+      {
+        "t": "p",
+        "x": "New research has revealed how meal delivery apps are steering Australians toward unhealthy food options,…"
+      }
+    ]
+  },
+  {
+    "id": "cbe817f5f1b",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/ebola_outbreak_incomplete_vaccine_shield_UPDATED_watermark_04_collage_matched_2_minute_medicine.webp",
+    "title": "世卫组织表示，尼日利亚在病人被疏散到瑞士后没有活跃的埃博拉病例",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-10-28",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/who-says-nigeria-has-no-active-ebola-cases-after-patient-is-evacuated-to-switzerland/",
+    "evidence": "A",
+    "summary": "世卫组织表示，尼日利亚将唯一确诊病人疏散到瑞士后，目前没有埃博拉病例。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "WHO says Nigeria has no current Ebola cases after the country evacuated its only confirmed patient to Switzerland.…"
+      }
+    ]
+  },
+  {
+    "id": "cdbff4ae963",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "科学家发现肌肉随年龄增长而减弱的隐藏原因",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-10-28",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261027063704.htm",
+    "evidence": "B",
+    "summary": "科学家们已经在衰老的肌肉中发现了一种隐藏的防御机制，它牺牲力量来保护细胞免受损伤。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists have uncovered a hidden defense mechanism in aging muscles that sacrifices strength to protect cells from damage.…"
+      }
+    ]
+  },
+  {
     "id": "c1a8def03cc",
     "systems": [
       "whole"
