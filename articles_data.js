@@ -1,6 +1,48 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c97f1aaedda",
+    "systems": [
+      "senses"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/1w0XvocxKx0pyS603peM79/f290da78150a48e79b9552a76a47059c/shutterstock_2313199959.jpg",
+    "title": "如何在篝火之夜保护自己免受听力损失",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-30",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/ear-nose-throat/how-to-protect-your-hearing-this-bonfire-night",
+    "evidence": "B",
+    "summary": "在这个篝火之夜，五彩缤纷的烟花表演将很快点亮天空。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The skies will soon be lit up with colourful and loud firework displays this Bonfire Night.…"
+      }
+    ]
+  },
+  {
+    "id": "cd18f933b3f",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/1MP8T3wWkQPCAs7kiV2rDE/bf7cff73feaa9fa7828432534da19bdb/shutterstock_2675602023.jpg",
+    "title": "“男性更年期”是真实的吗？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-10-30",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/mens-health/is-male-menopause-real",
+    "evidence": "B",
+    "summary": "更年期是女性随着年龄增长而经历的自然生命阶段。在此期间， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Menopause is a natural stage of life that women go through as they age. During this time,…"
+      }
+    ]
+  },
+  {
     "id": "c07f7ace2e5",
     "systems": [
       "whole"
@@ -22,6 +64,133 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c18da1eab93",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "预防心房颤动的最佳食物",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-10-29",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/the-best-foods-to-protect-against-atrial-fibrillation/",
+    "evidence": "B",
+    "summary": "我们应该吃哪些食物，避免哪些食物，以降低心房颤动的风险？ ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "What foods should we eat and avoid to reduce our risk of atrial fibrillation?…"
+      }
+    ]
+  },
+  {
+    "id": "c2bcdd6a86f",
+    "systems": [
+      "nutrition",
+      "immune"
+    ],
+    "cover": "",
+    "title": "一些糟糕的饮食选择会使您的下一次免疫反应恶化吗？",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-29",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-bad-dietary-choices-worsen-immune.html",
+    "evidence": "B",
+    "summary": "科学家们早就知道饮食会影响免疫系统。现在，加州大学旧金山分校的一个团队发现，即使是短暂的饮食改变也可以……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists have long known that diet shapes the immune system. Now, a UC San Francisco team has found that even a brief dietary change can…"
+      }
+    ]
+  },
+  {
+    "id": "c43f98dfe3e",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/healthcare_ai_roundup_UPDATED_watermark_04_collage_matched_2_minute_medicine.webp",
+    "title": "大型语言模型的护理建议与更高的医疗保健成本相关",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-10-29",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/care-recommendations-by-large-language-models-were-associated-with-higher-healthcare-costs/",
+    "evidence": "A",
+    "summary": "1.在200个案例中，大型语言模型（ LLM ）推荐的诊断测试和转诊费用是……的3.2倍",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Across 200 cases, large language models (LLMs) recommended diagnostic tests and referrals that were associated with 3.2 times the cost compared to…"
+      }
+    ]
+  },
+  {
+    "id": "c57b151079f",
+    "systems": [
+      "skin"
+    ],
+    "cover": "",
+    "title": "最常丢弃的水果和蔬菜部分可以挽救您的健康和地球",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-29",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-fruits-vegetables-health-planet.html",
+    "evidence": "B",
+    "summary": "我们大多数人经常在用餐时丢弃水果和蔬菜的皮、皮、茎和种子。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Most of us routinely discard the peels, skins, stalks and seeds of fruits and vegetables at mealtime.…"
+      }
+    ]
+  },
+  {
+    "id": "c6e34590a3b",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "无创检测可检测到晚期肝瘢痕，并可减少对活检的依赖",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-29",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-noninvasive-advanced-liver-scarring-reliance.html",
+    "evidence": "B",
+    "summary": "两项主要的国际研究提供了迄今为止最有力的证据，证明无创检测可以准确地诊断和测量……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Two major international studies have delivered the strongest evidence to date on which noninvasive tests can accurately diagnose and measure the…"
+      }
+    ]
+  },
+  {
+    "id": "cc72bb7dcbc",
+    "systems": [
+      "skin"
+    ],
+    "cover": "",
+    "title": "与幼儿非过敏性特应性皮炎严重程度相关的被动烟草烟雾暴露",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-29",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-passive-tobacco-exposure-linked-nonallergic.html",
+    "evidence": "B",
+    "summary": "被动烟草烟雾暴露，特别是父亲吸烟和产后家庭暴露， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Passive tobacco smoke exposure, particularly paternal smoking and postnatal household exposure,…"
+      }
+    ]
+  },
+  {
     "id": "cc9776fd2e7",
     "systems": [
       "brain"
@@ -39,6 +208,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Pumpkin seeds aren't just for Halloween. While they might remind you of carving autumn jack-o'-lanterns,…"
+      }
+    ]
+  },
+  {
+    "id": "ce48c281de0",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "六种流行的糖替代品与大脑老化加快有关",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-10-29",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261028234238.htm",
+    "evidence": "B",
+    "summary": "一项针对近13,000名成年人的研究发现，食用最多人工甜味剂的人的记忆力和思维下降速度加快了62% ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A study of nearly 13,000 adults found that people consuming the most artificial sweeteners experienced a 62% faster decline in memory and thinking…"
       }
     ]
   },
