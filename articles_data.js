@@ -22,6 +22,27 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c9a3ddcc5b7",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "研究表明，对于年轻人和中年人来说，独自生活的风险高于老年人",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-30",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-riskier-young-middle-aged-adults.html",
+    "evidence": "B",
+    "summary": "孤独一直被认为是老年人的主要健康风险，但一项新的研究表明，年轻人的生活方式可能更糟。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Loneliness has been considered a major health risk for seniors, but a new study suggests younger adults might fare even worse from living by…"
+      }
+    ]
+  },
+  {
     "id": "cd18f933b3f",
     "systems": [
       "whole"
@@ -124,6 +145,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "1. Across 200 cases, large language models (LLMs) recommended diagnostic tests and referrals that were associated with 3.2 times the cost compared to…"
+      }
+    ]
+  },
+  {
+    "id": "c550f4580fa",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "科学家们发现为什么慢性背痛感觉如此个性化",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-10-29",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261028232706.htm",
+    "evidence": "B",
+    "summary": "加州大学圣地亚哥分校的一项令人惊讶的发现表明，慢性腰痛可能深深植根于大脑的个人认同感。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A surprising discovery at UC San Diego suggests that chronic lower back pain may become deeply embedded in the brain's sense of personal identity.…"
       }
     ]
   },
