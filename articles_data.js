@@ -1,6 +1,69 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c366ddedded",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "中性粒细胞愤怒导致蛛网膜下腔出血后早期脑血管损伤",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-31",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-neutrophil-rage-early-cerebrovascular-injury.html",
+    "evidence": "B",
+    "summary": "由助理教授Hiroshi Ishii和Osamu Hori教授领导的日本和美国国际研究小组……",
+    "body": [
+      {
+        "t": "p",
+        "x": "An international research team from Japan and the United States, led by Assistant Professor Hiroshi Ishii and Professor Osamu Hori,…"
+      }
+    ]
+  },
+  {
+    "id": "cab276b6eb3",
+    "systems": [
+      "senses"
+    ],
+    "cover": "",
+    "title": "一项令人惊讶的维生素A发现正在改变科学家对视力的了解",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-10-31",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261028234813.htm",
+    "evidence": "B",
+    "summary": "约翰霍普金斯大学的科学家们发现了一个令人惊讶的过程，它可以帮助人类在出生前形成锐利的视力。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists at Johns Hopkins University have uncovered a surprising process that helps humans develop sharp vision before birth,…"
+      }
+    ]
+  },
+  {
+    "id": "cc73a1168d3",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "双胞胎研究将艺术但不科学的创造力与较差的心理健康联系起来",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-10-31",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-twin-links-artistic-scientific-creativity.html",
+    "evidence": "B",
+    "summary": "在过去的几十年里，创造力和心理健康之间的关系引起了许多心理学家的兴趣。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The relationship between creativity and mental health has attracted the interest of many psychologists over the past decades.…"
+      }
+    ]
+  },
+  {
     "id": "c97f1aaedda",
     "systems": [
       "senses"
