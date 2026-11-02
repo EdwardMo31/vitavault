@@ -1,6 +1,49 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c5f86650394",
+    "systems": [
+      "senses"
+    ],
+    "cover": "",
+    "title": "视觉语言人工智能代理可以帮助放射科医生更快、更准确地解读超声图像。",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-01",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-vision-language-ai-agent-radiologists.html",
+    "evidence": "B",
+    "summary": "当患者因严重腹痛而到达急诊室时，每一分钟都很重要。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "When a patient arrives in the emergency department with severe abdominal pain, every minute counts.…"
+      }
+    ]
+  },
+  {
+    "id": "c8393efbee3",
+    "systems": [
+      "brain",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "科学家发现每天吃花生对大脑有惊人的好处",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-11-01",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261030003001.htm",
+    "evidence": "B",
+    "summary": "一项令人惊讶的新研究表明，每天吃花生可以帮助支持老年人的大脑健康和记忆力。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A surprising new study suggests that eating peanuts every day could help support brain health and memory in older adults.…"
+      }
+    ]
+  },
+  {
     "id": "c366ddedded",
     "systems": [
       "whole"
