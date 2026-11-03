@@ -1,6 +1,153 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c35391d8bf8",
+    "systems": [
+      "heart"
+    ],
+    "cover": "",
+    "title": "专家说，高血压指南缺少一半",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-11-02",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261102075553.htm",
+    "evidence": "B",
+    "summary": "科学家们呼吁重新思考我们如何管理高血压……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists are calling for a major rethink of how we manage high blood pressure,…"
+      }
+    ]
+  },
+  {
+    "id": "c52e0ce32e8",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/neurology_migraine_aura_zigzag_rest_2_minute_medicine.webp",
+    "title": "2分钟药品倒带2026年11月2日",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-02",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/2-minute-medicine-rewind-november-2-2026/",
+    "evidence": "A",
+    "summary": "降钙素基因相关肽受体拮抗剂",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Zavegepant, a calcitonin gene-related peptide receptor antagonist (CGRPRA),…"
+      }
+    ]
+  },
+  {
+    "id": "c54fd099f2d",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "澳大利亚一项调查显示，60%的人食用生鱼或海鲜，引发安全警告。",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-02",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-australian-survey-reveals-raw-fish.html",
+    "evidence": "B",
+    "summary": "在2026年11月7日至14日的澳大利亚食品安全周之前，以“生食了解风险”为主题，食品安全信息委员会发布了......",
+    "body": [
+      {
+        "t": "p",
+        "x": "Ahead of Australian Food Safety Week, Nov. 7 to 14, 2026, with the theme \"Raw food know the risk,\" the Food Safety Information Council has released…"
+      }
+    ]
+  },
+  {
+    "id": "c8f39b5add7",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "澳大利亚的社会福利制度能否满足未来的养老需求？",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-02",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-australia-social-welfare-future-aged.html",
+    "evidence": "B",
+    "summary": "随着澳大利亚人口老龄化，每10名申请老年护理的澳大利亚老年人中就有9人获得社会福利金。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "As Australia's population ages, nine in 10 older Australians applying for aged care receive social welfare payments.…"
+      }
+    ]
+  },
+  {
+    "id": "ca70e06a59e",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/dermatology_psoriasis_elbow_plaques_light_panel_2_minute_medicine.webp",
+    "title": "在初步的3期临床试验结果中，诺美替尼与安慰剂相比，提高了斑块状银屑病患者的PASI 90和PGA 0/1缓解率。",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-02",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/in-topline-phase-3-results-nomelcitinib-improved-pasi-90-and-pga-0-1-responses-versus-placebo-in-plaque-psoriasis/",
+    "evidence": "A",
+    "summary": "顶线3期结果显示，与安慰剂相比，诺美替尼改善了银屑病反应措施，未报告新的安全性信号。…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Topline phase 3 results showed nomelcitinib improved psoriasis response measures versus placebo, with no new safety signals reported.…"
+      }
+    ]
+  },
+  {
+    "id": "cad7c95692a",
+    "systems": [
+      "senses"
+    ],
+    "cover": "",
+    "title": "科学家估计，溺水每年给英国造成的损失近10亿英镑。",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-02",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-scientists-uk-billion-year.html",
+    "evidence": "B",
+    "summary": "一项新的研究发现，溺水正在对英国造成损害，不仅对悲伤的家庭造成损害，而且对国家的财政造成损害。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Drownings are taking a toll on the U.K., not just on grieving families but on the country's finances, a new study has found."
+      }
+    ]
+  },
+  {
+    "id": "cfb71a8ec4f",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "无形的全球卫生人力：为什么护士比以往任何时候都更重要",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-02",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-invisible-global-health-workforce-nurses.html",
+    "evidence": "B",
+    "summary": "护士可能是医疗保健工作者中最重要的部分之一，但他们的贡献被忽视了……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Nurses may be one of the most important parts of the health care workforce—yet their contribution is overlooked,…"
+      }
+    ]
+  },
+  {
     "id": "c5f86650394",
     "systems": [
       "senses"
@@ -40,6 +187,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "A surprising new study suggests that eating peanuts every day could help support brain health and memory in older adults.…"
+      }
+    ]
+  },
+  {
+    "id": "cc7b44889ac",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "科学家发现几乎没有证据表明医用大麻有助于睡眠",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 睡眠",
+    "date": "2026-11-01",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261031221157.htm",
+    "evidence": "B",
+    "summary": "一项重大的新综述挑战了人们对医用大麻作为失眠治疗日益增长的热情， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A major new review challenges the growing enthusiasm for medical cannabis as an insomnia treatment,…"
       }
     ]
   },
