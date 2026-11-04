@@ -1,6 +1,241 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c0fef16e46e",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "在青少年和年轻人中，大多数与药物有关的紧急访问都涉及大麻",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-04",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-cannabis-involved-substance-emergency-teens.html",
+    "evidence": "B",
+    "summary": "一项大型全国性研究，分析了美国各地与酒精或大麻使用相关的急诊科就诊和住院情况……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A large national study analyzing emergency department visits and hospitalizations related to alcohol or cannabis use across the U.S.…"
+      }
+    ]
+  },
+  {
+    "id": "c63d823a58a",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "与不同类型的朋友在线交流会影响青少年的心理健康",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-04",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-online-communication-friends-affect-teens.html",
+    "evidence": "B",
+    "summary": "在《儿童和青少年心理健康》的一项研究中，研究人员发现，与朋友在线交流与青少年的心理…",
+    "body": [
+      {
+        "t": "p",
+        "x": "In a study in Child and Adolescent Mental Health, researchers found that online communication with friends was associated with adolescents' mental…"
+      }
+    ]
+  },
+  {
+    "id": "c6474c7c3d3",
+    "systems": [
+      "hormones"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/3adaelmpSmtpqZvpdQArYZ/dc7a22b7124dc6868c2c1fecd729df75/insulin-resistance.jpg",
+    "title": "胰岛素抵抗：连接代谢病症的共同线索",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-11-04",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/hormones/insulin-resistance",
+    "evidence": "B",
+    "summary": "您可能遇到过“胰岛素抵抗”一词-特别是如果您一直在谈论体重和代谢健康-但是......",
+    "body": [
+      {
+        "t": "p",
+        "x": "You may have come across the term “insulin resistance” - particularly if you’ve been having conversations about weight and metabolic health - but be…"
+      }
+    ]
+  },
+  {
+    "id": "ca8e2267912",
+    "systems": [
+      "nutrition",
+      "whole"
+    ],
+    "cover": "",
+    "title": "针对衰老过程的补充剂显示出改善血管健康标志物的潜力",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-04",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-supplement-aging-potential-markers-blood.html",
+    "evidence": "B",
+    "summary": "在一项由大学领导的随机对照试验中，发现了一种多组分营养补充剂可以改善血管健康的标志物……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A multicomponent nutritional supplement has been found to improve markers of vascular health in a randomized controlled trial led by the University…"
+      }
+    ]
+  },
+  {
+    "id": "c3b3321122f",
+    "systems": [
+      "brain",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "吃更多超加工食品的孩子表现出令人不安的大脑反应",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-11-03",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261101010549.htm",
+    "evidence": "B",
+    "summary": "一项新的研究表明，超加工食品可能会以鼓励体重增加的方式影响儿童的大脑发育。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new study suggests that ultra-processed foods may influence children's developing brains in ways that encourage weight gain.…"
+      }
+    ]
+  },
+  {
+    "id": "c605daa6039",
+    "systems": [
+      "brain",
+      "senses"
+    ],
+    "cover": "",
+    "title": "大脑隐藏的恐惧机制可以解释焦虑和创伤后应激障碍",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-11-03",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261102202833.htm",
+    "evidence": "B",
+    "summary": "一项令人惊讶的新发现表明，恐惧可能会导致大脑模糊危险与安全之间的界限，而不是更多地将其区分开来……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A surprising new discovery suggests that fear may cause the brain to blur the line between danger and safety rather than distinguish them more…"
+      }
+    ]
+  },
+  {
+    "id": "c695b0bb38e",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/health-policy_clinical-ai_clinician_dot_network_folder_2_minute_medicine.webp",
+    "title": "人工智能起草的对患者消息的响应，与更快的回复时间相关，但不会减少临床医生的下班时间",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-03",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/ai-drafted-responses-to-patient-messages-linked-to-faster-reply-times-but-no-drop-in-after-hours-work-for-clinicians/",
+    "evidence": "A",
+    "summary": "1.回顾性评估，采用人工智能草稿响应工具进行EHR消息传递与周转时间增加有关， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Assessed retrospectively, adoption of an AI-draft response tool for EHR messaging was associated with an increase in turnaround time,…"
+      }
+    ]
+  },
+  {
+    "id": "c80bc6d9c34",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "简单的蛋白质交换，促进健康衰老",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-11-03",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/a-simple-protein-swap-for-healthy-aging/",
+    "evidence": "B",
+    "summary": "仅用1%的植物蛋白代替动物蛋白与年龄相关的缺陷积累显著减少有关。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Swapping just 1% of plant protein in place of animal protein was associated with signiﬁcantly less age-related deﬁcit accumulation.…"
+      }
+    ]
+  },
+  {
+    "id": "cab6efdf538",
+    "systems": [
+      "heart",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "科学家发现每天吃鳄梨和芒果对心脏的惊人好处",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-11-03",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261031221215.htm",
+    "evidence": "B",
+    "summary": "每天吃一个鳄梨和一杯芒果可能会给心脏健康带来惊人的好处， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Eating an avocado and a cup of mango every day may provide surprising benefits for heart health,…"
+      }
+    ]
+  },
+  {
+    "id": "cc529fa267a",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/pediatrics_neonatal-care_newborn_incubator_knit_cap_2_minute_medicine.webp",
+    "title": "二十二碳六烯酸补充剂不能降低早产儿坏死性小肠结肠炎的风险",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-03",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/docosahexaenoic-acid-supplementation-does-not-reduce-risk-of-necrotizing-enterocolitis-among-preterm-infants/",
+    "evidence": "A",
+    "summary": "1.在入住新生儿重症监护病房（ NICU ）的早产儿中，二十二碳六烯酸（ DHA ）补充剂并未显著减少……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In preterm infants admitted to the neonatal intensive care unit (NICU), docosahexaenoic acid (DHA) supplementation did not significantly reduce…"
+      }
+    ]
+  },
+  {
+    "id": "cc9eb629931",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "科学家发现了两种被忽视的预测阅读成功的技能",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-11-03",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261102202845.htm",
+    "evidence": "B",
+    "summary": "一项大规模的新研究表明，智力在儿童阅读成功中起着令人惊讶的有限作用， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A massive new study reveals that intelligence plays a surprisingly limited role in children's reading success,…"
+      }
+    ]
+  },
+  {
     "id": "c35391d8bf8",
     "systems": [
       "heart"
