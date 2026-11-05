@@ -1,6 +1,134 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c082d170bae",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "青少年衣原体和淋病筛查在初级保健变更后攀升至75%",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-05",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-teen-chlamydia-gonorrhea-screening-climbs.html",
+    "evidence": "B",
+    "summary": "费城儿童医院（ CHOP ）的研究人员发现，",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers at Children's Hospital of Philadelphia (CHOP) found that a systematic,…"
+      }
+    ]
+  },
+  {
+    "id": "c36583f589b",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/337MHxvHHJH1JNoY9YPzib/7f09146190d7db967d832451cea1f84b/shutterstock_2304605945.jpg",
+    "title": "成为爸爸-没人真正谈论的身份转变",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-11-05",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/mens-health/becoming-dad-the-identity-shift-nobody-really-talks-about",
+    "evidence": "B",
+    "summary": "成为父亲会改变你的生活。但你是否曾经停下来思考过它会如何塑造你作为一个人的形象？ ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Becoming a father changes your life. But have you ever stopped to consider how it might shape you as a person?…"
+      }
+    ]
+  },
+  {
+    "id": "c3fabe2a009",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/20iO3DgsBCKM7c9RRXwyXC/9632a8ae8be8158b2bffcc5b155ccb4a/shutterstock_2363228685.jpg",
+    "title": "如何在冬季保持跑步习惯",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-11-05",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/how-to-maintain-your-running-routine-in-winter",
+    "evidence": "B",
+    "summary": "当外面又冷又狂风的时候，跑步可能是你最不想做的事情。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "When it's cold and blustery outside, going for a run might be the last thing you feel like doing.…"
+      }
+    ]
+  },
+  {
+    "id": "c547cba895b",
+    "systems": [
+      "brain",
+      "nutrition"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/0Kx1lgWA9mOqQHznr7hSG/2e63ef99a2260dc89a40180a6734e4d3/shutterstock_1662095953.jpg",
+    "title": "还原饮食：如何少吃肉",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-11-05",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/diet-and-nutrition/the-reducetarian-diet-how-to-eat-less-meat",
+    "evidence": "B",
+    "summary": "如果您正在考虑减少肉类--无论是为了健康、环境还是……",
+    "body": [
+      {
+        "t": "p",
+        "x": "If you're considering cutting back on meat - whether for health, environmental,…"
+      }
+    ]
+  },
+  {
+    "id": "c6871882847",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "丰富的环境如何促进大脑可塑性-研究确定了分子机制",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-05",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-enriched-environment-brain-plasticity-molecular.html",
+    "evidence": "B",
+    "summary": "一项关于环境富集对啮齿动物大脑影响的荟萃分析已经确定了相关基因表达的共同模式…",
+    "body": [
+      {
+        "t": "p",
+        "x": "A meta-analysis on the effects of environmental enrichment on the rodent brain has identified common patterns in the expression of genes associated…"
+      }
+    ]
+  },
+  {
+    "id": "ceece329e40",
+    "systems": [
+      "muscles",
+      "nutrition"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/5Jl25R0SmbSOLMt3XkFNQ1/e97e6bfa91507378d5fa87aa693548db/modern-life-weight-gain.jpg",
+    "title": "现代生活如何影响您的体重-不仅仅是饮食和运动",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-11-05",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/how-modern-life-affects-your-weight",
+    "evidence": "B",
+    "summary": "如果我们的身体是为了调节体重而设计的，为什么肥胖症患者比以往任何时候都多？ ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "If our bodies are designed to regulate our weight, why are more people living with obesity than ever before?…"
+      }
+    ]
+  },
+  {
     "id": "c0fef16e46e",
     "systems": [
       "whole"
@@ -18,6 +146,69 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "A large national study analyzing emergency department visits and hospitalizations related to alcohol or cannabis use across the U.S.…"
+      }
+    ]
+  },
+  {
+    "id": "c414341766e",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "人工智能帮助斯坦福科学家发现具有惊人优势的“天然Ozempic”",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-11-04",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261104004909.htm",
+    "evidence": "B",
+    "summary": "斯坦福大学的研究人员发现了一种AI识别的天然分子，可以显著抑制动物的食欲并促进脂肪的减少。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Stanford researchers have discovered an AI-identified natural molecule that dramatically suppresses appetite and promotes fat loss in animals,…"
+      }
+    ]
+  },
+  {
+    "id": "c5d98514852",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "科学家可能终于解释了为什么我们的大脑和身体是交叉连接的",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-11-04",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261103003146.htm",
+    "evidence": "B",
+    "summary": "科学家提出，大脑神秘的交叉连接，将每个半球连接到身体的另一侧， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists propose that the brain’s mysterious cross-wiring, which connects each hemisphere to the opposite side of the body,…"
+      }
+    ]
+  },
+  {
+    "id": "c61fd8b5ffd",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "一个令人惊讶的发现可以帮助衰老的肌肉自我修复",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-11-04",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261104005226.htm",
+    "evidence": "B",
+    "summary": "科学家发现了一种化合物，可以将天然肌肉修复蛋白转化为更强大的版本，称为“超级HGF” ，超过……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists have discovered a compound that transforms a natural muscle-repair protein into a more powerful version dubbed \"Super HGF,\" more than…"
       }
     ]
   },
@@ -64,6 +255,27 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c8447eeebe6",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "儿科医生看到电子烟的风险，但缺乏帮助青少年戒烟的工具",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-04",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-pediatricians-vaping-lack-tools-teens.html",
+    "evidence": "B",
+    "summary": "三分之二的澳大利亚儿科医生不知道在哪里为青少年提供戒烟支持， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Two-thirds of Australian pediatricians don't know where to refer adolescents for support to quit vaping,…"
+      }
+    ]
+  },
+  {
     "id": "ca8e2267912",
     "systems": [
       "nutrition",
@@ -82,6 +294,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "A multicomponent nutritional supplement has been found to improve markers of vascular health in a randomized controlled trial led by the University…"
+      }
+    ]
+  },
+  {
+    "id": "cba8d1886d0",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/hematology_cll_lymphocytes_spleen_pocket_watch_2_minute_medicine.webp",
+    "title": "与苯达莫司汀联合利妥昔单抗治疗初治CLL/SLL相比， Pirtobrutinib改善了无进展生存期",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-04",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/pirtobrutinib-improves-progression-free-survival-versus-bendamustine-plus-rituximab-in-previously-untreated-cll-sll/",
+    "evidence": "A",
+    "summary": "FDA批准pirtobrutinib用于既往未治疗的CLL/SLL ，与…相比，在无进展生存期改善后没有已知的17p缺失",
+    "body": [
+      {
+        "t": "p",
+        "x": "The FDA approved pirtobrutinib for previously untreated CLL/SLL without known 17p deletion after improved progression-free survival versus…"
       }
     ]
   },
