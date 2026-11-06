@@ -1,6 +1,48 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c6f9b8ba486",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/2XzBz5FrXuFjMpHfsojTpY/ce4f406fad33a52670f3e15b0dd914a8/shutterstock_2198470295.jpg",
+    "title": "冬天为什么这么累？当季节性疲劳可能意味着更多",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-11-06",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/general-health/why-am-i-so-tired-in-winter",
+    "evidence": "B",
+    "summary": "随着夏天渐渐进入秋天，冬天越来越近，我们通常会感到更疲倦，精力更少。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "As summer fades into autumn and winter draws closer, we often feel more tired and less energetic.…"
+      }
+    ]
+  },
+  {
+    "id": "ce8a45d87e9",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/3tHbOgHtBo35j9TgGmFNFz/bf3f66a94d92e33d4397ce5079b4bf5d/shutterstock_2655968085.jpg",
+    "title": "为什么男性自我保健如此重要",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-11-06",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/mental-health/why-we-need-to-normalise-self-care-for-men",
+    "evidence": "B",
+    "summary": "男性占所有自杀事件的四分之三，但他们不太可能获得治疗来支持他们的心理健康。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Men account for three-quarters of all suicides, yet they are less likely to access therapies to support their mental wellbeing.…"
+      }
+    ]
+  },
+  {
     "id": "c082d170bae",
     "systems": [
       "whole"
@@ -18,6 +60,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Researchers at Children's Hospital of Philadelphia (CHOP) found that a systematic,…"
+      }
+    ]
+  },
+  {
+    "id": "c2c96672f2d",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/endocrinology_obesity_scale_tape_vegetable_bowl_2_minute_medicine.webp",
+    "title": "Once-monthly bofanglutide maintained weight loss over 24 weeks in topline phase 3 results",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-05",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/once-monthly-bofanglutide-maintained-weight-loss-over-24-weeks-in-topline-phase-3-results/",
+    "evidence": "A",
+    "summary": "Topline GRADUAL-3结果发现，在每2周一次的强化治疗后，每月一次的bofanglutide在24周内保持体重减轻。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Topline GRADUAL-3 results found that once-monthly bofanglutide maintained weight loss over 24 weeks after intensive treatment every 2 weeks.…"
       }
     ]
   },
@@ -60,6 +123,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "When it's cold and blustery outside, going for a run might be the last thing you feel like doing.…"
+      }
+    ]
+  },
+  {
+    "id": "c50eac99efd",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/health-policy_ai-scribes_microphone_speech_bubbles_chair_2_minute_medicine.webp",
+    "title": "人工智能代写工具的使用虽然减少了文档记录时间，但延长了临床笔记的篇幅。",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-05",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/ai-scribe-use-associated-with-reduced-documentation-time-but-longer-clinical-notes/",
+    "evidence": "A",
+    "summary": "1.在这项质量改进研究中，环境人工智能（ AI ）抄写员花费的中位时间略有减少……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this quality improvement study, ambient artificial intelligence (AI) scribes were associated with modestly reduced median time spent…"
       }
     ]
   },
@@ -107,6 +191,111 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c9332e52b53",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "Allulose可以替代糖吗？",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-11-05",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/can-allulose-replace-sugar/",
+    "evidence": "B",
+    "summary": "第四代甜味剂（如稀有糖别洛糖）的安全性如何？首先，有糖和高果糖玉米糖浆， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "How safe are fourth-generation sweeteners, such as the rare sugar allulose? First, there was sugar and high-fructose corn syrup,…"
+      }
+    ]
+  },
+  {
+    "id": "cb41059f152",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "在获得心理护理方面的收入差距扩大，儿童受影响最严重",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-05",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-income-access-psychological-widens-children.html",
+    "evidence": "B",
+    "summary": "来自较贫困社区的澳大利亚儿童越来越多地错过了心理护理， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Australian children from poorer communities are increasingly missing out on psychological care,…"
+      }
+    ]
+  },
+  {
+    "id": "cb6bb00184f",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "肾脏护理试验挑战针对体弱老年人的默认透析计划",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-05",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-kidney-trial-default-dialysis-older.html",
+    "evidence": "B",
+    "summary": "对于患有肾功能衰竭的老年人，透析不一定是默认的选择， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Dialysis should not necessarily be regarded as the default option for older people with kidney failure,…"
+      }
+    ]
+  },
+  {
+    "id": "ccf8ddd6e66",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "混合光法揭示相机信号如何探测深层组织中的血流",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-05",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-hybrid-method-reveals-camera-probe.html",
+    "evidence": "B",
+    "summary": "我们如何才能有效地收集从组织返回的光线，同时确定它告诉我们关于深层组织中血液流动的信息？ ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "How can we efficiently collect light returning from tissues while also identifying what it tells us about blood flow in the deeper tissues?…"
+      }
+    ]
+  },
+  {
+    "id": "ce967c75011",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "将新锻炼习惯转化为持久习惯的7种简单方法",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-05",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-simple-ways-workout-routine-habit.html",
+    "evidence": "B",
+    "summary": "您是否已经开始了新的锻炼程序，但几周后它就消失了？",
+    "body": [
+      {
+        "t": "p",
+        "x": "Have you started a new workout routine only to watch it fizzle out a few weeks later?"
+      }
+    ]
+  },
+  {
     "id": "ceece329e40",
     "systems": [
       "muscles",
@@ -125,6 +314,48 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "If our bodies are designed to regulate our weight, why are more people living with obesity than ever before?…"
+      }
+    ]
+  },
+  {
+    "id": "cf5738498be",
+    "systems": [
+      "immune"
+    ],
+    "cover": "",
+    "title": "科学家解开了困扰30年的谜团，发现了一种对抗炎症的隐藏防御机制。",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-11-05",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261101010554.htm",
+    "evidence": "B",
+    "summary": "科学家们已经解开了一个长达数十年的谜团，并发现了一种隐藏的免疫系统防御，可以保护健康细胞免受炎症的侵害……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists have solved a decades-old mystery and uncovered a hidden immune system defense that protects healthy cells from the very inflammation…"
+      }
+    ]
+  },
+  {
+    "id": "cfc93cbd303",
+    "systems": [
+      "heart"
+    ],
+    "cover": "",
+    "title": "与心脏病和动脉硬化的高危险性有联系。",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-05",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-high-indoor-radon-linked-higher.html",
+    "evidence": "B",
+    "summary": "一项针对经历过更年期的妇女的研究的新发现表明，那些生活在估计室内氡气水平较高的地区的人可能会……",
+    "body": [
+      {
+        "t": "p",
+        "x": "New findings from a study of women who have gone through menopause suggest that those living in areas with higher estimated indoor radon levels may…"
       }
     ]
   },
