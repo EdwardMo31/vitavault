@@ -1,6 +1,69 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c16504c41b0",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "平台发现运动员身上隐藏的缺陷",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-06",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-platform-hidden-flaws-athletes.html",
+    "evidence": "B",
+    "summary": "在前两圈，锡拉丘兹大学越野队的学生运动员表现完美。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "For the first two laps, the student-athlete on the Syracuse University cross country team ran with flawless form.…"
+      }
+    ]
+  },
+  {
+    "id": "c2b587a7362",
+    "systems": [
+      "immune"
+    ],
+    "cover": "",
+    "title": "南非试验测试针对淋巴瘤的现成杀伤细胞",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-06",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-south-african-trial-shelf-killer.html",
+    "evidence": "B",
+    "summary": "南非研究人员正在测试针对已复发或抵制治疗的淋巴瘤的“现成”免疫细胞……",
+    "body": [
+      {
+        "t": "p",
+        "x": "South African researchers are testing \"off-the-shelf\" immune cells against lymphoma that has returned or resisted treatment,…"
+      }
+    ]
+  },
+  {
+    "id": "c4633c88dc5",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "几十年来，我们被告知要避免全脂乳制品。新的研究表明并非如此",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-11-06",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261105081000.htm",
+    "evidence": "B",
+    "summary": "根据一项新的研究发现，全脂乳制品可能不是长期以来被描绘的健康恶棍，每天三份乳制品并没有恶化……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Full-fat dairy may not be the health villain it has long been portrayed as, according to a new study finding that three daily servings did not worsen…"
+      }
+    ]
+  },
+  {
     "id": "c6f9b8ba486",
     "systems": [
       "whole"
@@ -18,6 +81,48 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "As summer fades into autumn and winter draws closer, we often feel more tired and less energetic.…"
+      }
+    ]
+  },
+  {
+    "id": "cbdf8b41201",
+    "systems": [
+      "heart"
+    ],
+    "cover": "",
+    "title": "人工智能比临床医生更好地从MRI评估心脏功能",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-06",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-ai-heart-function-mri-clinicians.html",
+    "evidence": "B",
+    "summary": "使用人工智能（ AI ）通过磁共振成像（ MRI ）扫描评估心脏功能，比…更有力地预测生存率",
+    "body": [
+      {
+        "t": "p",
+        "x": "Using artificial intelligence (AI) to assess heart function from magnetic resonance imaging (MRI) scans more strongly predicts survival than…"
+      }
+    ]
+  },
+  {
+    "id": "ce5d1cf2f67",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/oncology_lung-cancer_lungs_wool_scarf_pine_2_minute_medicine.webp",
+    "title": "在一项II期研究中， Ivonescimab联合化疗在可切除NSCLC中产生了重大且完全的病理反应",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-06",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/ivonescimab-plus-chemotherapy-produced-major-and-complete-pathological-responses-in-resectable-nsclc-in-a-phase-ii-study/",
+    "evidence": "A",
+    "summary": "一项II期研究报告了可切除NSCLC的围手术期ivonescimab单药或化疗的高病理缓解率。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A phase II study reported high pathological response rates with perioperative ivonescimab, alone or with chemotherapy, for resectable NSCLC.…"
       }
     ]
   },
