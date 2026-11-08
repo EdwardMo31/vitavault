@@ -1,6 +1,90 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c3e60854985",
+    "systems": [
+      "heart"
+    ],
+    "cover": "",
+    "title": "新疗法可能治愈高血压的常见激素原因",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-07",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-treatment-common-hormonal-high-blood.html",
+    "evidence": "B",
+    "summary": "伦敦玛丽女王大学领导的一项研究发现，一种新的治疗方法可以为一些具有常见激素原因的人提供持久的治疗方法……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A study led by Queen Mary University of London has found that a new treatment could offer a lasting cure for some people with a common hormonal cause…"
+      }
+    ]
+  },
+  {
+    "id": "c3eb20fc2a9",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "鉴定出严重早发性先兆子痫的潜在驱动因素",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-07",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-potential-driver-severe-early-onset.html",
+    "evidence": "B",
+    "summary": "严重的早发性先兆子痫使医生困惑了2000多年。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Severe early-onset preeclampsia has confounded doctors for more than 2,000 years.…"
+      }
+    ]
+  },
+  {
+    "id": "c4671103ec3",
+    "systems": [
+      "lungs"
+    ],
+    "cover": "",
+    "title": "在全国性研究中吸烟的服务不足人群中，经济激励措施几乎是戒烟率的两倍",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-07",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-financial-incentives-underserved-people-national.html",
+    "evidence": "B",
+    "summary": "向试图戒烟的人提供经济奖励，使接受肺部治疗的医疗服务不足的成年人的戒烟率几乎翻了一番……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Offering financial incentives to people trying to quit smoking nearly doubled cessation rates among medically underserved adults undergoing lung…"
+      }
+    ]
+  },
+  {
+    "id": "ccd8ad20575",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "研究表明，正常的睡眠可以掩盖记忆问题",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-07",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-mask-memory-problems.html",
+    "evidence": "B",
+    "summary": "一项新的小鼠研究旨在测试睡眠如何帮助稳定新记忆，该研究已经确定了可能提供遗传靶标的细胞。",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new mouse study that set out to test how sleep helps stabilize new memories has identified cells that may offer a genetic target for accessing…"
+      }
+    ]
+  },
+  {
     "id": "c16504c41b0",
     "systems": [
       "whole"
@@ -102,6 +186,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Using artificial intelligence (AI) to assess heart function from magnetic resonance imaging (MRI) scans more strongly predicts survival than…"
+      }
+    ]
+  },
+  {
+    "id": "ce08cc9797c",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "神奇蘑菇以科学家意想不到的方式重新连接大脑",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-11-06",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261104012308.htm",
+    "evidence": "B",
+    "summary": "一项令人惊讶的发现揭示了裸盖菇素（神奇蘑菇中的活性化合物）是如何……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A surprising discovery reveals how psilocybin, the active compound in magic mushrooms,…"
       }
     ]
   },
