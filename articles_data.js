@@ -1,6 +1,28 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c041a54b0e5",
+    "systems": [
+      "heart",
+      "muscles"
+    ],
+    "cover": "",
+    "title": "单次铁输注提高了最常见的心力衰竭患者的运动能力",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-08",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-iron-infusion-capacity-people-common.html",
+    "evidence": "B",
+    "summary": "麻省布里格姆心脏和血管研究所的研究人员进行的一项新研究发现，单次输注铁可以提高运动能力……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new study by investigators from the Mass General Brigham Heart and Vascular Institute found that a single iron infusion improved exercise capacity…"
+      }
+    ]
+  },
+  {
     "id": "c3e60854985",
     "systems": [
       "heart"
@@ -81,6 +103,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "A new mouse study that set out to test how sleep helps stabilize new memories has identified cells that may offer a genetic target for accessing…"
+      }
+    ]
+  },
+  {
+    "id": "cd747fdb632",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "科学家发现大麻成瘾的隐藏警告信号",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-11-07",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261106174520.htm",
+    "evidence": "B",
+    "summary": "一项针对17,700多名美国成年人的研究发现，以多种形式使用大麻的人的日常消费率要高得多，而且……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A study of more than 17,700 US adults found that people who use cannabis in multiple forms have dramatically higher rates of daily consumption and…"
       }
     ]
   },
