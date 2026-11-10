@@ -1,6 +1,176 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c7960d51309",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "食物金字塔的简要历史及其许多错误的开始",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-10",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-history-food-pyramid-false.html",
+    "evidence": "B",
+    "summary": "食物金字塔不太可能卷土重来。2026年1月，美国政府公布了一个颠倒的版本……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The food pyramid has made an unlikely comeback. In January 2026, the U.S. government unveiled an upside-down version,…"
+      }
+    ]
+  },
+  {
+    "id": "c0e1e559c4a",
+    "systems": [
+      "skin"
+    ],
+    "cover": "",
+    "title": "经通货膨胀调整后，皮肤科医疗保险报销率下降29%",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-09",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-medicare-reimbursement-dermatology-decline-adjusted.html",
+    "evidence": "B",
+    "summary": "Medicare报销率多年来一直在下降，这并不是什么秘密。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "It's not exactly a secret that Medicare reimbursement rates have been declining for years.…"
+      }
+    ]
+  },
+  {
+    "id": "c2a23334526",
+    "systems": [
+      "heart"
+    ],
+    "cover": "",
+    "title": "气球技术可能有助于改善心脏骤停期间的心脏和大脑循环",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-09",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-balloon-technique-circulation-heart-brain.html",
+    "evidence": "B",
+    "summary": "给身体最大动脉中的气球充气以暂时向心脏和大脑输送更多血液的程序可能有助于改善低机会……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A procedure to inflate a balloon in the body's largest artery to temporarily send more blood to the heart and brain may help improve the low chance…"
+      }
+    ]
+  },
+  {
+    "id": "c42dafd7d09",
+    "systems": [
+      "immune",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "科学家发现，常见的补充剂可以帮助对抗牛皮癣",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-11-09",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261108233057.htm",
+    "evidence": "B",
+    "summary": "科学家们已经发现，潘替丁是一种现成的维生素B5衍生物，可以平息过度活跃的免疫细胞，并可能有助于对抗牛皮癣。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists have discovered that pantethine, a readily available vitamin B5 derivative, can calm overactive immune cells and may help fight psoriasis.…"
+      }
+    ]
+  },
+  {
+    "id": "c71002e7c41",
+    "systems": [
+      "gut"
+    ],
+    "cover": "",
+    "title": "当你的肠道细菌耗尽纤维时，它们可能会开始吃掉你的肠道内膜",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-11-09",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261105083622.htm",
+    "evidence": "B",
+    "summary": "科学家们已经发现，肠道细菌可以以肠道内壁的保护性粘液为食，产生潜在的有害化合物， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists have discovered that gut bacteria can feed on the protective mucus lining your intestines, producing potentially harmful compounds,…"
+      }
+    ]
+  },
+  {
+    "id": "c7928547748",
+    "systems": [
+      "heart",
+      "nutrition"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/cardiology_high-cholesterol_artery_plaque_oats_2_minute_medicine.webp",
+    "title": "在3期CREDIT-5结果中， Tafolecimab单药治疗使第12周的低密度脂蛋白胆固醇降低了60%以上",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-09",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/tafolecimab-monotherapy-reduced-low-density-lipoprotein-cholesterol-by-more-than-60-at-week-12-in-phase-3-credit-5-results/",
+    "evidence": "A",
+    "summary": "在顶线3期CREDIT-5结果中，与安慰剂相比， tafolecimab单药治疗使第12周的低密度脂蛋白胆固醇降低了60%以上。…",
+    "body": [
+      {
+        "t": "p",
+        "x": "In topline phase 3 CREDIT-5 results, tafolecimab monotherapy reduced low-density lipoprotein cholesterol by more than 60% at week 12 versus placebo.…"
+      }
+    ]
+  },
+  {
+    "id": "ca79b4a5b84",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "人体运动如何预测跨多个身体系统的健康措施",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-09",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-human-movement-health-multiple-body.html",
+    "evidence": "B",
+    "summary": "Newton Tech是用于临床研究的人工智能运动智能技术的开发商， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Newton Tech, a developer of AI-powered movement intelligence technology for clinical research,…"
+      }
+    ]
+  },
+  {
+    "id": "cb1b28bd04d",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "将父亲的心理健康置于聚光灯下",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-09",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-paternal-mental-health-spotlight.html",
+    "evidence": "B",
+    "summary": "在向父母身份过渡的过程中，父亲和伴侣的心理健康可能会被忽视， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The mental health of fathers and partners can be overlooked during the transition to parenthood,…"
+      }
+    ]
+  },
+  {
     "id": "c041a54b0e5",
     "systems": [
       "heart",
