@@ -1,6 +1,91 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c471eeabb1a",
+    "systems": [
+      "brain",
+      "heart"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/3jOad2XQhelXmPoHUxmq99/bdddad41cbb875a8004e141c3e4c1a57/shutterstock_2619171481.jpg",
+    "title": "7个季节性习惯，帮助降低胆固醇",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-11-11",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/heart-health/7-seasonal-habits-to-help-lower-your-cholesterol",
+    "evidence": "B",
+    "summary": "感觉需要在寒冷的月份开始时舒适地放慢脚步吗？您并不孤单-它植根于已证实的生物和神经系统变化……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Feeling the need to cosy up and slow down as the colder months kick in? You’re not alone - it’s rooted in proven biological and neurological changes…"
+      }
+    ]
+  },
+  {
+    "id": "c6dcec65731",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/5ud8mUi1SJlyIo46vZ9lC7/c9efaa5505c2e862a0cda0d44cb487b0/Untitled_Design.jpg",
+    "title": "20多岁和30多岁的勃起功能障碍-是什么原因导致的？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-11-11",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/mens-health/erectile-dysfunction-in-your-20s-and-30s-what-causes-it",
+    "evidence": "B",
+    "summary": "勃起功能障碍通常与年龄增长有关，但它可以影响任何年龄的人。……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Erectile dysfunction is often associated with growing older, but it can affect people at any age.…"
+      }
+    ]
+  },
+  {
+    "id": "c0246da9565",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "每3个分娩中就有1个是诱导分娩。它可以挽救生命，但它也与更多的并发症有关",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-10",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-births-lifesaving-linked-complications.html",
+    "evidence": "B",
+    "summary": "现在，澳大利亚约有三分之一的女性接受了引产，而不是让她们自然或自发地开始工作。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Around one in three women in Australia now have their labors induced rather than having them start naturally, or spontaneously."
+      }
+    ]
+  },
+  {
+    "id": "c618873b7e8",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/obstetrics_miscarriage_white_flowers_two_mugs_2_minute_medicine.webp",
+    "title": "妊娠早期多西环素暴露可能与较高的妊娠丢失风险有关",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-10",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/first-trimester-doxycycline-exposure-may-be-linked-to-higher-risk-of-pregnancy-loss/",
+    "evidence": "A",
+    "summary": "1.在这项回顾性队列研究中，与阿莫西林或大环内酯类药物相比，孕早期暴露于强力霉素……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this retrospective cohort study, first-trimester exposure to doxycycline, as opposed to amoxicillin or macrolides,…"
+      }
+    ]
+  },
+  {
     "id": "c7960d51309",
     "systems": [
       "nutrition"
@@ -18,6 +103,90 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "The food pyramid has made an unlikely comeback. In January 2026, the U.S. government unveiled an upside-down version,…"
+      }
+    ]
+  },
+  {
+    "id": "c9cb81df2eb",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/psychiatry_depression_window_light_portrait_2_minute_medicine.webp",
+    "title": "性少数群体医疗保健提供者报告更多的抑郁、心理困扰和与成本相关的护理障碍",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-10",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/sexual-minority-health-care-providers-report-more-depression-psychological-distress-and-cost-related-barriers-to-care/",
+    "evidence": "A",
+    "summary": "1.在这项横断面研究中，被确定为性少数群体的医疗保健提供者（ HCP ）报告了更多的终生抑郁症诊断和……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this cross-sectional study, health care providers (HCPs) identifying as a sexual minority reported more lifetime depression diagnoses and…"
+      }
+    ]
+  },
+  {
+    "id": "cb68a41248e",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "综述350项研究发现，少吃蛋白质可以延缓衰老",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-11-10",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261108203714.htm",
+    "evidence": "B",
+    "summary": "对350多项研究的主要回顾表明，少吃蛋白质可以减缓衰老，改善代谢健康， ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A major review of more than 350 studies suggests that eating less protein could slow aging, improve metabolic health,…"
+      }
+    ]
+  },
+  {
+    "id": "cc8f21b7943",
+    "systems": [
+      "heart"
+    ],
+    "cover": "",
+    "title": "研究揭示了新西兰女性心脏保健方面的差距",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-10",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-reveals-gaps-women-heart-health.html",
+    "evidence": "B",
+    "summary": "一项对新西兰25年研究的回顾揭示了女性心脏保健方面存在的重大差距……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A review of 25 years of New Zealand research has revealed significant gaps in women's heart health care,…"
+      }
+    ]
+  },
+  {
+    "id": "cdc620c8ac1",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "像Allulose这样的稀有糖实际上是健康的吗？",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-11-10",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/are-rare-sugars-like-allulose-actually-healthy/",
+    "evidence": "B",
+    "summary": "像Allulose这样的稀有糖类是传统甜味剂的健康替代品吗？ ……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Are rare sugars like allulose a healthy alternative to traditional sweeteners?…"
       }
     ]
   },
