@@ -1,6 +1,113 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c3070a2910a",
+    "systems": [
+      "senses",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "调查显示，在食品召回创纪录的一年里，大多数美国人对食源性疾病的警惕性更高。",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-12",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-survey-americans-higher-foodborne-illnesses.html",
+    "evidence": "B",
+    "summary": "2026年是食品安全问题异常严峻和活跃的一年……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The year 2026 has been an unusually severe and active year for food safety issues,…"
+      }
+    ]
+  },
+  {
+    "id": "ccbe5d40ef6",
+    "systems": [
+      "immune",
+      "skin"
+    ],
+    "cover": "",
+    "title": "一针一针地接种，一家一家地走访，尼日利亚正缓慢地推广疟疾疫苗",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-12",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-jab-house-nigeria-slowly-malaria.html",
+    "evidence": "B",
+    "summary": "针头刺破了皮肤，接着是哭喊声和医护人员安慰性的“对不起，对不起”的声音——就这样……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The needle broke the skin, followed by wailing and the reassuring coo of \"sorry, sorry\" from the medical staff—and just like that,…"
+      }
+    ]
+  },
+  {
+    "id": "c13b46d1655",
+    "systems": [
+      "heart"
+    ],
+    "cover": "",
+    "title": "与心脏骤停相关的报告中，有11倍的报告与能量饮料有关",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-11-11",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
+    "evidence": "B",
+    "summary": "一项新研究发现，能量饮料和兴奋剂补充剂与严重心脏问题的报告频发不成比例地相关，……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new study found that energy drinks and stimulant supplements were linked to disproportionately frequent reports of serious heart problems,…"
+      }
+    ]
+  },
+  {
+    "id": "c1af383a5ab",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/medical-education_duty-hours_resident_shift_clock_2_minute_medicine.webp",
+    "title": "由私募股权支持的急诊医师团体中住院医师的专科考试通过率较低",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-11",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/lower-resident-board-pass-rates-in-private-equity-backed-emergency-physician-groups/",
+    "evidence": "A",
+    "summary": "1. 在这项横断面研究中，在招聘急诊医学（EM）医师时提供私募股权（PE）支持与以下因素的发生率较低相关……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this cross-sectional study, private equity (PE) backing of emergency medicine (EM) physician hiring was associated with lower rates of…"
+      }
+    ]
+  },
+  {
+    "id": "c2b1006a076",
+    "systems": [
+      "heart"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/cardiology_heart-attack_artery_ring_plaque_2_minute_medicine.webp",
+    "title": "在中国成年人中，使用秋水仙碱与开始降尿酸治疗后心血管事件的减少无关",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-11",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/use-of-colchicine-is-not-associated-with-reduced-cardiovascular-events-among-chinese-adults-starting-urate-lowering-therapy/",
+    "evidence": "A",
+    "summary": "1. 在一群开始接受降尿酸治疗的中国成年人中，秋水仙碱的使用与心血管事件的减少无关……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Among a cohort of Chinese adults starting urate-lowering therapy, use of colchicine was not associated with a reduction in cardiovascular event…"
+      }
+    ]
+  },
+  {
     "id": "c471eeabb1a",
     "systems": [
       "brain",
@@ -40,6 +147,69 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Erectile dysfunction is often associated with growing older, but it can affect people at any age.…"
+      }
+    ]
+  },
+  {
+    "id": "c715e31dbb8",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/cardiology_angioplasty_balloon_catheter_stent_2_minute_medicine.webp",
+    "title": "CCTA引导的PCI在靶血管失败方面不劣于IVUS引导的PCI",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-11",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/ccta-guided-pci-noninferior-to-ivus-guided-pci-for-target-vessel-failure/",
+    "evidence": "A",
+    "summary": "P4试验发现，在12个月时，CCTA引导的PCI在靶血管失败方面不劣于IVUS引导的PCI，且手术时间更短……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The P4 trial found that CCTA-guided PCI was noninferior to IVUS-guided PCI for target-vessel failure at 12 months, with shorter procedure times.…"
+      }
+    ]
+  },
+  {
+    "id": "c73f146f635",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "步行和力量训练可能不足以保持骨骼强健",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-11-11",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261110042601.htm",
+    "evidence": "B",
+    "summary": "一项令人惊讶的新研究表明，与……相比，步行、慢跑甚至传统的力量训练在刺激骨骼形成方面的效果可能更差。",
+    "body": [
+      {
+        "t": "p",
+        "x": "A surprising new study suggests that walking, jogging, and even traditional weight training may be less effective at stimulating bone formation than…"
+      }
+    ]
+  },
+  {
+    "id": "c97344009ca",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "让孩子们吃饱：幼儿保育机构的食物供应不足",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-11",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-children-food-provision-early-child.html",
+    "evidence": "B",
+    "summary": "一份关于澳大利亚儿童保育服务的重要报告建议，将获得营养充足的食物纳入国家质量……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A major report on Australia's child care services has recommended that access to nutritionally adequate food be included in national quality…"
       }
     ]
   },
