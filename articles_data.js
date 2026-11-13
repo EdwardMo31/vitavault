@@ -1,6 +1,48 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c00683f9113",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "Perceiving greater discrimination in health care, the LGBTQIA+ community delays seeking medical appointments",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-12",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-greater-discrimination-health-lgbtqia-community.html",
+    "evidence": "B",
+    "summary": "People in the LGBTQ+ community face extra barriers in their daily lives due to their sexual orientation or gender identity.…",
+    "body": [
+      {
+        "t": "p",
+        "x": "People in the LGBTQ+ community face extra barriers in their daily lives due to their sexual orientation or gender identity.…"
+      }
+    ]
+  },
+  {
+    "id": "c16d34a0b51",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/general-surgery_vats_lungs_thoracoscope_spirometer_2_minute_medicine.webp",
+    "title": "Thoracic epidural and paravertebral blockade have similar efficacy for reduction of chronic post-thoracotomy pain",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-12",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/thoracic-epidural-and-paravertebral-blockade-have-similar-efficacy-for-reduction-of-chronic-post-thoracotomy-pain/",
+    "evidence": "A",
+    "summary": "1. Compared with thoracic epidural, paravertebral blockade did not reduce chronic post-thoracotomy pain after 6 months.…",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Compared with thoracic epidural, paravertebral blockade did not reduce chronic post-thoracotomy pain after 6 months.…"
+      }
+    ]
+  },
+  {
     "id": "c3070a2910a",
     "systems": [
       "senses",
@@ -23,6 +65,27 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c8cba4a5a8e",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "What is 'food is medicine'? Two experts explain this decades‑old approach to health care that is taking on new life",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-12",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-food-medicine-experts-decadesold-approach.html",
+    "evidence": "B",
+    "summary": "Mountains of scientific evidence support both the negative and positive effects of our eating habits on our health.…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Mountains of scientific evidence support both the negative and positive effects of our eating habits on our health.…"
+      }
+    ]
+  },
+  {
     "id": "ccbe5d40ef6",
     "systems": [
       "immune",
@@ -41,6 +104,48 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "The needle broke the skin, followed by wailing and the reassuring coo of \"sorry, sorry\" from the medical staff—and just like that,…"
+      }
+    ]
+  },
+  {
+    "id": "cfb25a82eb4",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "Young Australians are paying the price for a health system that doesn't fit their lives",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-12",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-young-australians-paying-price-health.html",
+    "evidence": "B",
+    "summary": "Gen Z Australians are increasingly delaying health care, missing work and study, or sometimes going without care because of cost,…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Gen Z Australians are increasingly delaying health care, missing work and study, or sometimes going without care because of cost,…"
+      }
+    ]
+  },
+  {
+    "id": "cfe355e0c0a",
+    "systems": [
+      "gut"
+    ],
+    "cover": "",
+    "title": "Do Meat-Eaters Have More Antibiotic Resistance in Their Guts?",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-11-12",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/do-meat-eaters-have-more-antibiotic-resistance-in-their-guts/",
+    "evidence": "B",
+    "summary": "Those eating plant-based have a reduced load of antibiotic resistance genes in their gut.…",
+    "body": [
+      {
+        "t": "p",
+        "x": "Those eating plant-based have a reduced load of antibiotic resistance genes in their gut.…"
       }
     ]
   },
