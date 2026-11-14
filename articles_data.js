@@ -1,6 +1,112 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c0ae6853ca0",
+    "systems": [
+      "brain",
+      "senses"
+    ],
+    "cover": "",
+    "title": "气味真的能增强记忆力吗？这很复杂。",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-13",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-scent-sharpen-memory-complicated.html",
+    "evidence": "B",
+    "summary": "嗅觉与记忆之间存在着一种密切而又神秘的联系。我们知道，如果我们闻到……，过去的经历就会生动地浮现在脑海中。",
+    "body": [
+      {
+        "t": "p",
+        "x": "The sense of smell shares an intimate but mysterious connection with memory. We know that past experiences can flash vividly to mind if we smell a…"
+      }
+    ]
+  },
+  {
+    "id": "c5518a2eeeb",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "一项对75万例妊娠的研究揭示了有关Ozempic和Wegovy的惊人转折",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-11-13",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261111005911.htm",
+    "evidence": "B",
+    "summary": "一项对超过75万例妊娠进行的研究发现，早期接触Ozempic、Wegovy……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A study of more than 750,000 pregnancies found that early exposure to Ozempic, Wegovy,…"
+      }
+    ]
+  },
+  {
+    "id": "c5866b496a8",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "强迫自己微笑实际上会让你感到痛苦",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-11-13",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261112025536.htm",
+    "evidence": "B",
+    "summary": "微笑并不总能让您更快乐，一项新研究表明，强迫自己反复微笑实际上可能会让您感觉更糟……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Smiling may not always make you happier, and new research suggests that forcing yourself to smile repeatedly could actually make you feel worse.…"
+      }
+    ]
+  },
+  {
+    "id": "c7c01ef902e",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "短期压力与长期压力：每种压力对身体的影响",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-13",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-short-term-chronic-stress-affects.html",
+    "evidence": "B",
+    "summary": "弄清楚压力如何影响您的身体可能是一项挑战，因为答案取决于您的压力有多大以及持续了多长时间。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Figuring out how stress affects your body can be a challenge because the answer depends on how stressed you are and for how long."
+      }
+    ]
+  },
+  {
+    "id": "c8981acc1c6",
+    "systems": [
+      "skin"
+    ],
+    "cover": "",
+    "title": "空气污染暴露与儿童特应性皮炎相关",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-13",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-air-pollution-exposure-atopic-dermatitis.html",
+    "evidence": "B",
+    "summary": "根据11月在线发表的一篇综述，接触空气污染与儿童特应性皮炎（AD）患病率的增加相关。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Air pollution exposure is associated with increased atopic dermatitis (AD) prevalence in children, according to a review published online Nov.…"
+      }
+    ]
+  },
+  {
     "id": "c00683f9113",
     "systems": [
       "whole"
@@ -18,6 +124,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "People in the LGBTQ+ community face extra barriers in their daily lives due to their sexual orientation or gender identity.…"
+      }
+    ]
+  },
+  {
+    "id": "c12ac78694f",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "动物蛋白与植物蛋白的对比揭示了令人惊讶的睾丸激素差异",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-11-12",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261111005845.htm",
+    "evidence": "B",
+    "summary": "一项令人惊讶的新研究表明，男性蛋白质的摄入来源可能与其睾丸激素水平有关……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A surprising new study suggests that where men get their protein may be linked to their testosterone levels.…"
       }
     ]
   },
@@ -82,6 +209,49 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Mountains of scientific evidence support both the negative and positive effects of our eating habits on our health.…"
+      }
+    ]
+  },
+  {
+    "id": "ca4d142b8b4",
+    "systems": [
+      "nutrition",
+      "muscles"
+    ],
+    "cover": "",
+    "title": "如果没有这种蛋白质，受损的肌肉就会被脂肪和疤痕组织填满。",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-11-12",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261111221643.htm",
+    "evidence": "B",
+    "summary": "研究人员发现了一种蛋白质令人惊讶的隐藏功能，它可能掌握着修复受损肌肉和治疗肌肉……的关键。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers have uncovered a surprising hidden function of a protein that may hold the key to repairing damaged muscles and treating muscular…"
+      }
+    ]
+  },
+  {
+    "id": "cba93661ef6",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "科学家发现，乌鸦做出决定的速度是人类的两倍。",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-11-12",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm",
+    "evidence": "B",
+    "summary": "乌鸦可能比我们想象的还要聪明，它们的大脑反应惊人地快……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Crows may be even smarter than we thought, and their brains are astonishingly fast.…"
       }
     ]
   },
