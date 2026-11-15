@@ -1,6 +1,70 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c096351e3e5",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "科学家发现，简单的日常作息与疼痛和抑郁的减轻有关",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-11-14",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
+    "evidence": "B",
+    "summary": "对您的日常作息稍作改变，就能在身心感受上带来意想不到的改变……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally.…"
+      }
+    ]
+  },
+  {
+    "id": "c604746bd46",
+    "systems": [
+      "senses",
+      "muscles"
+    ],
+    "cover": "",
+    "title": "研究人员敦促将健康置于有关核风险的公众讨论的中心",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-14",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-health-center-discussions-nuclear-urge.html",
+    "evidence": "B",
+    "summary": "针对日益加剧的地缘政治紧张局势，100多份国际期刊的编辑联合发表社论，敦促卫生……",
+    "body": [
+      {
+        "t": "p",
+        "x": "In response to growing geopolitical tensions, editors of more than 100 international journals have jointly published an editorial urging health…"
+      }
+    ]
+  },
+  {
+    "id": "c91c2ed5ff7",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "利用人工智能加速神经科学研究",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-14",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-ai-neuroscience.html",
+    "evidence": "B",
+    "summary": "将人工智能（AI）与神经科学相结合，正在改变科学家处理数据的方式……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Integrating artificial intelligence (AI) into neuroscience is changing how scientists engage with data,…"
+      }
+    ]
+  },
+  {
     "id": "c0ae6853ca0",
     "systems": [
       "brain",
