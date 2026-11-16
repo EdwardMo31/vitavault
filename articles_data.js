@@ -1,6 +1,69 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c7b496009bc",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "参加戒酒互助小组的人数急剧下降，种族和族裔之间的差距很大",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-16",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-mutual-group-alcohol-treatment-sharply.html",
+    "evidence": "B",
+    "summary": "在接受住院酒精治疗的人群中，至少每周参加匿名戒酒会或类似团体的人数比例从一半以上降至……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Among people in inpatient alcohol treatment, the share attending Alcoholics Anonymous or similar groups at least weekly fell from more than half to…"
+      }
+    ]
+  },
+  {
+    "id": "c90aba429c1",
+    "systems": [
+      "immune"
+    ],
+    "cover": "",
+    "title": "标准化标志物和提取方法使实验室能够可靠地分离胸腺上皮细胞",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-16",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-standardized-markers-methods-labs-reliably.html",
+    "evidence": "B",
+    "summary": "在人体胸腔深处，胸腺就像一所免疫细胞的“学校”。它依靠罕见的“教师”细胞来指导免疫T细胞发起攻击……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Deep in the human chest, the thymus gland runs a school for immune cells. It relies on rare \"teacher\" cells to instruct immune T cells to attack…"
+      }
+    ]
+  },
+  {
+    "id": "ca569208775",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "全国性民意调查：大多数家长认为宠物有益于孩子的心理健康，但希望孩子能帮忙照料宠物",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-16",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-national-poll-parents-pets-benefit.html",
+    "evidence": "B",
+    "summary": "一只新宠物出现在节日树下或藏在生日礼物的蝴蝶结里，听起来像是给孩子一个完美的惊喜……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new pet under the holiday tree or tucked inside a birthday bow may sound like the perfect surprise for a child,…"
+      }
+    ]
+  },
+  {
     "id": "c096351e3e5",
     "systems": [
       "brain"
