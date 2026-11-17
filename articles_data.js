@@ -1,6 +1,71 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c41d0529a25",
+    "systems": [
+      "immune",
+      "muscles"
+    ],
+    "cover": "",
+    "title": "骨髓移植前的放疗或化疗如何影响人体免疫系统的恢复",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-17",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-chemotherapy-bone-marrow-transplantation-human.html",
+    "evidence": "B",
+    "summary": "在Rong Lu博士领导的南加州大学干细胞实验室的一项新研究中，研究人员使用遗传条形码来追踪单个的人类造血干细胞和……",
+    "body": [
+      {
+        "t": "p",
+        "x": "In a new study from the USC Stem Cell lab of Rong Lu, Ph.D., researchers used genetic barcoding to track individual human blood-forming stem and…"
+      }
+    ]
+  },
+  {
+    "id": "c321a0d58bd",
+    "systems": [
+      "heart",
+      "immune"
+    ],
+    "cover": "",
+    "title": "科学家发现，心脏的衰老方式与我们想象的不同",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-11-16",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261115085550.htm",
+    "evidence": "B",
+    "summary": "科学家们发现，心脏的衰老并不均匀，炎症和瘢痕的惊人热点集中在瓣膜和主要……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists have discovered that the heart ages unevenly, with surprising hotspots of inflammation and scarring concentrated in the valves and major…"
+      }
+    ]
+  },
+  {
+    "id": "c33923b6312",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/hematology_amyloidosis_heart_kidney_fibers_2_minute_medicine.webp",
+    "title": "在一项针对患有AL淀粉样变性的健康志愿者的1期研究中，PROT-001总体上是安全且耐受性良好的。",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-16",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/prot-001-was-generally-safe-and-well-tolerated-in-a-phase-1-study-of-healthy-volunteers-with-al-amyloidosis/",
+    "evidence": "A",
+    "summary": "在102名健康志愿者中，PROT-001总体上是安全的，耐受性良好，并且在人体细胞研究中降低了心脏毒性的标志物……",
+    "body": [
+      {
+        "t": "p",
+        "x": "PROT-001 was generally safe and well tolerated in 102 healthy volunteers and reduced markers of cardiotoxicity in human cell studies.…"
+      }
+    ]
+  },
+  {
     "id": "c7b496009bc",
     "systems": [
       "whole"
@@ -60,6 +125,70 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "A new pet under the holiday tree or tucked inside a birthday bow may sound like the perfect surprise for a child,…"
+      }
+    ]
+  },
+  {
+    "id": "cbe84f5e21d",
+    "systems": [
+      "brain",
+      "heart"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/computational_biology_digital_twin_2_minute_medicine.webp",
+    "title": "2MM：人工智能综述——PTSD预测、步态作为生物标志物、更快的心脏MRI以及围产期心理健康聊天机器人[2026年11月12日]",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-16",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/85037-2/",
+    "evidence": "A",
+    "summary": "1. PREVIA 是一款基于临床信息的大型语言模型集成，它利用在急诊期间收集的患者叙述，准确预测了 PTSD 风险……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. PREVIA, a clinically informed large language model ensemble, accurately predicted PTSD risk using patient narratives collected during emergency…"
+      }
+    ]
+  },
+  {
+    "id": "cec3ab81f35",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/endocrinology_obesity_walking_shoes_vegetable_plate_2_minute_medicine.webp",
+    "title": "在一项随机模拟对照试验中，对于超重或肥胖的中国女性，穴位埋线在第12周和第24周时与基线相比的体重变化组间差异分别为1.8 kg和3.0 kg。",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-16",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/in-a-randomized-sham-controlled-trial-acupoint-thread-embedding-produced-a-between-group-difference-in-change-from-baseline-of-1-8-kg-at-12-weeks-and-3-0-kg-at-24-weeks-in-chinese-women-with-overweig/",
+    "evidence": "A",
+    "summary": "1. 在这项随机对照试验中，穴位埋线（ATE）与体重指数（BMI）和体重的适度降低相关……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this randomized controlled trial, acupoint thread embedding (ATE) was associated with a modest reduction in body mass index (BMI) and body…"
+      }
+    ]
+  },
+  {
+    "id": "cd57cdf5209",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "麻省理工学院的科学家们发现了一种令人惊奇的方法来增强大脑的夜间清洁系统",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-11-15",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261115085533.htm",
+    "evidence": "B",
+    "summary": "麻省理工学院的科学家们发现，在睡眠期间精心安排的温和粉红噪声脉冲可以增强大脑的天然清洁波……",
+    "body": [
+      {
+        "t": "p",
+        "x": "MIT scientists discovered that carefully timed bursts of gentle pink noise during sleep can strengthen the brain’s natural cleaning waves,…"
       }
     ]
   },
