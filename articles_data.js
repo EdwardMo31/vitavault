@@ -1,6 +1,70 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "cc0256abe90",
+    "systems": [
+      "hormones"
+    ],
+    "cover": "",
+    "title": "多次短时步行比一次长时间步行更能控制血糖",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-18",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-multiple-short-blood-sugar.html",
+    "evidence": "B",
+    "summary": "发表在《肥胖》杂志上的一项随机对照试验表明，通过频繁的快步行走来打断长时间的久坐可以改善血糖调节……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A randomized trial published in Obesity indicates that interrupting prolonged sitting with frequent brisk walks can improve blood glucose regulation…"
+      }
+    ]
+  },
+  {
+    "id": "c196c26638b",
+    "systems": [
+      "nutrition",
+      "muscles"
+    ],
+    "cover": "",
+    "title": "骨密度与饮食有关吗？这可能归结于体型",
+    "org": "NutritionFacts",
+    "author": "NutritionFacts.org",
+    "date": "2026-11-17",
+    "sourceName": "nutritionfacts.org",
+    "sourceUrl": "https://nutritionfacts.org/blog/is-bone-density-linked-to-diet-it-may-come-down-to-body-size/",
+    "evidence": "B",
+    "summary": "采用植物性饮食的人往往要苗条得多，以至于他们的骨量可能会受到影响……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Those eating a plant-based diet tend to be so much slimmer that their bone mass may suffer.…"
+      }
+    ]
+  },
+  {
+    "id": "c239543e988",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/psychiatry_ptsd_open_window_morning_light_2_minute_medicine.webp",
+    "title": "人工智能模型在预测创伤后PTSD风险方面表现出良好前景",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-17",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/ai-model-shows-promise-in-predicting-ptsd-risk-following-trauma/",
+    "evidence": "A",
+    "summary": "1. PREVIA 是一种基于临床信息的大型语言模型集成，它利用在急诊期间收集的患者叙述准确预测了 PTSD 风险……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. PREVIA, a clinically informed large language model ensemble, accurately predicted PTSD risk using patient narratives collected during emergency…"
+      }
+    ]
+  },
+  {
     "id": "c41d0529a25",
     "systems": [
       "immune",
@@ -19,6 +83,91 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "In a new study from the USC Stem Cell lab of Rong Lu, Ph.D., researchers used genetic barcoding to track individual human blood-forming stem and…"
+      }
+    ]
+  },
+  {
+    "id": "c4d939a971a",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "近一半的澳大利亚健康课程未提及性别和性别的差异",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-17",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-australian-health-courses-mention-sex.html",
+    "evidence": "B",
+    "summary": "澳大利亚近一半的认可卫生和医学学位在单个课程单元中都没有提及性别或性别的概念……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Nearly half of Australia's accredited health and medical degrees do not mention sex or gender in a single course unit,…"
+      }
+    ]
+  },
+  {
+    "id": "cb183b4b8e6",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "指尖研究揭示了毫米波照射下的疼痛阈值",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-17",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-fingertip-reveals-pain-threshold-millimeter.html",
+    "evidence": "B",
+    "summary": "使用毫米波的无线技术对于高速通信、……正变得日益重要。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Wireless technologies using millimeter waves are becoming increasingly important for high-speed communication,…"
+      }
+    ]
+  },
+  {
+    "id": "cb95381ca06",
+    "systems": [
+      "hormones",
+      "muscles"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/second%20batch%20featured/endocrinology_obesity_oral_glp1_option_2_minute_medicine.webp",
+    "title": "ERX1000联合司美格鲁肽可增加饮食诱导性肥胖小鼠的体重减轻和代谢指标",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-17",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/erx1000-plus-semaglutide-increased-weight-loss-and-metabolic-measures-in-diet-induced-obese-mice/",
+    "evidence": "A",
+    "summary": "在饮食诱导的肥胖小鼠中，ERX1000联合司美格鲁肽改善了体重减轻、肌肉力量、葡萄糖和胰岛素敏感性……",
+    "body": [
+      {
+        "t": "p",
+        "x": "In diet-induced obese mice, ERX1000 plus semaglutide improved weight loss, muscle strength, glucose and insulin sensitivity,…"
+      }
+    ]
+  },
+  {
+    "id": "cede844170d",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "反社会人格的隐性语言并非科学家所预期的那样",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-11-17",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261116023346.htm",
+    "evidence": "B",
+    "summary": "科学家们发现，反社会人格特质与截然不同的语言模式有关，……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists have discovered that psychopathic traits are associated with surprisingly different patterns of language,…"
       }
     ]
   },
