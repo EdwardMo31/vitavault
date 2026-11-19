@@ -1,6 +1,153 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "cd4c34b2b3f",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/63lmgO0WjwBj7TVUblRpJ6/6495d93fb17f3d570361a94230f2a02c/shutterstock_2495429329.jpg",
+    "title": "当宠物影响您的睡眠时——如何获得更好的夜间休息",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-11-19",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/when-pets-steal-your-sleep-how-to-get-a-better-nights-rest",
+    "evidence": "B",
+    "summary": "如果您曾经养过宠物，您就会知道您的睡眠模式并不总是与宠物保持一致……",
+    "body": [
+      {
+        "t": "p",
+        "x": "If you’ve ever had a household pet, you’ll know that your sleep patterns don’t always align.…"
+      }
+    ]
+  },
+  {
+    "id": "cead1141b93",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/6NGE1uyd57CSfMSuDD4lft/1183dfb7a37d648f4e264e8ed12fb073/shutterstock_1666284478.jpg",
+    "title": "4种常见的冬季头发问题及其处理方法",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-11-19",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/skin-conditions/4-common-winter-hair-conditions-and-how-to-treat-them",
+    "evidence": "B",
+    "summary": "在冬季，我们不断地在寒冷的室外天气和室内中央供暖之间来回切换……",
+    "body": [
+      {
+        "t": "p",
+        "x": "In winter, we're constantly going between the chilly, outdoor weather and indoor, central heating.…"
+      }
+    ]
+  },
+  {
+    "id": "c105572d9cb",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "家庭耳迷走神经刺激术对患有偏头痛的儿童和青少年显示出早期希望",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-18",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-home-based-auricular-vagus-nerve.html",
+    "evidence": "B",
+    "summary": "作为临床医生和研究人员，我们经常看到偏头痛发作对儿童和青少年造成的严重影响，但非药物……",
+    "body": [
+      {
+        "t": "p",
+        "x": "As clinicians and researchers, we often see how heavily migraine attacks weigh on children and adolescents, yet non-pharmacological,…"
+      }
+    ]
+  },
+  {
+    "id": "c49e38710b8",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "帮助预防年轻人肥胖的两种措施",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-18",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-obesity-young-people.html",
+    "evidence": "B",
+    "summary": "儿童和青少年肥胖会大大增加其在成年后患上健康问题的风险，因此解决这一问题至关重要……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Obesity in children and young people increases the risk of health problems later in life to such an extent that tackling it is important,…"
+      }
+    ]
+  },
+  {
+    "id": "c7f445598e2",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "麻省理工学院发现衰老会削弱大脑的夜间清洁系统",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-11-18",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261114202137.htm",
+    "evidence": "B",
+    "summary": "麻省理工学院的研究人员发现，随着人们的年龄增长，大脑的天然废物清除系统在睡眠期间的效率会显著降低……",
+    "body": [
+      {
+        "t": "p",
+        "x": "MIT researchers have discovered that the brain’s natural waste-removal system becomes significantly less effective during sleep as people age.…"
+      }
+    ]
+  },
+  {
+    "id": "c97fb0e2269",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/endocrinology_glp1-longevity_older_man_pen_bonsai_2_minute_medicine.webp",
+    "title": "在4个州取消医保后，由医疗补助计划报销的GLP-1减肥处方药数量有所下降",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-18",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/medicaid-reimbursed-weight-loss-glp-1-prescriptions-fell-after-coverage-withdrawal-in-4-states/",
+    "evidence": "A",
+    "summary": "1. 在这项针对由Medicaid报销的、由州政府报告的季度处方的全国性系列横断面研究中，……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this national serial cross-sectional study of state-reported quarterly prescriptions reimbursed by Medicaid,…"
+      }
+    ]
+  },
+  {
+    "id": "c9cfb288a1f",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/geriatrics_aging_hourglass_walking_shoes_2_minute_medicine.webp",
+    "title": "社交孤立和孤独感与中老年人身体和心理健康状况的恶化有关",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-18",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/social-isolation-and-loneliness-is-associated-with-worse-physical-and-mental-health-among-middle-aged-and-older-adults/",
+    "evidence": "A",
+    "summary": "1. 中年和老年人的社交孤立和孤独感均与更差的身体和心理健康相关……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Social isolation and loneliness in middle-aged and older adults were each associated with worse physical and mental health.…"
+      }
+    ]
+  },
+  {
     "id": "cc0256abe90",
     "systems": [
       "hormones"
@@ -18,6 +165,48 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "A randomized trial published in Obesity indicates that interrupting prolonged sitting with frequent brisk walks can improve blood glucose regulation…"
+      }
+    ]
+  },
+  {
+    "id": "cde82001273",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "需要做出改变，以便让更多全科医生前往老年护理机构执业",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-18",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-gps-aged-facilities.html",
+    "evidence": "B",
+    "summary": "全科医生（GP）在老年护理机构的执业情况是一个至关重要的医疗保健问题，……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Attendance by general practitioners (GPs) at aged care facilities is a crucial health care concern,…"
+      }
+    ]
+  },
+  {
+    "id": "c05d709c8bf",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "肥胖为何对男性和女性产生不同影响，原因可能就藏在他们的脂肪中",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-11-17",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261117033907.htm",
+    "evidence": "B",
+    "summary": "加州大学河滨分校的科学家们发现了一个令人惊讶的原因，解释了为什么男性和女性对肥胖的反应可能有所不同……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Scientists at the University of California, Riverside have uncovered a surprising reason why males and females may respond differently to obesity.…"
       }
     ]
   },
