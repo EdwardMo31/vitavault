@@ -1,6 +1,154 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c4a78aacfe5",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "韩国确认10年来首例霍乱病例",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-20",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-south-korea-case-cholera-years.html",
+    "evidence": "B",
+    "summary": "韩国周五报告了10年来首例霍乱病例，卫生部门敦促民众采取预防措施……",
+    "body": [
+      {
+        "t": "p",
+        "x": "South Korea on Friday reported its first case of cholera in 10 years, with health authorities urging people to take precautionary measures,…"
+      }
+    ]
+  },
+  {
+    "id": "c9255ac39c9",
+    "systems": [
+      "lungs"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/3RJI3vcLtrzQNRe3OygZqE/8beaaa51ed13a65f2c8bc44ddd43fab4/shutterstock_2427415961.jpg",
+    "title": "改善肺部健康的7个日常习惯",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-11-20",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/chest-lungs/7-everyday-habits-to-improve-your-lung-health",
+    "evidence": "B",
+    "summary": "肺部为每次呼吸和心跳提供所需的氧气，对于维持身体机能至关重要……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Vital to keeping your body functioning, your lungs deliver the oxygen needed to fuel every breath and heartbeat.…"
+      }
+    ]
+  },
+  {
+    "id": "ca007b71bf9",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/7L21WNldLfDk8bPEDmtRYC/f7274e102423fcfde0f373e45db3e7f7/shutterstock_2303834179.jpg",
+    "title": "何时开始激素替代疗法（HRT）——了解早期治疗的好处",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-11-20",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/hormones/when-to-start-hrt-understanding-the-benefits-of-early-treatment",
+    "evidence": "B",
+    "summary": "是否在围绝经期开始激素替代疗法以及何时开始，是一个个人选择……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Deciding whether to start HRT during perimenopause, and when, is a personal choice.…"
+      }
+    ]
+  },
+  {
+    "id": "ca8916a4c09",
+    "systems": [
+      "hormones"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/OOt62LED3PfrRiHXJ0IAc/fcf3d3455b7e13849f5305b732737588/women-weight-metabolism.jpg",
+    "title": "女性、体重和新陈代谢：激素如何改变这一局面",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-11-20",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/womens-health/women-weight-and-metabolism-how-hormones-change-the-picture",
+    "evidence": "B",
+    "summary": "您是否曾感到经期前食欲大增，或者注意到更年期前后腰围变紧？您的生殖激素可以帮助解释原因……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Ever feel hungrier before your period or notice your waistband getting tighter around menopause? Your reproductive hormones could help explain why.…"
+      }
+    ]
+  },
+  {
+    "id": "c2d8a0d2e93",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/09/oral_glp1_obesity_treatment_UPDATED_watermark_04_collage_matched_2_minute_medicine.webp",
+    "title": "在一项3期试验中，与安慰剂相比，替尔泊肽降低了肥胖和肥胖相关并发症的青少年患者的BMI",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-19",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/in-a-phase-3-trial-tirzepatide-reduced-bmi-versus-placebo-in-adolescents-with-obesity-and-obesity-related-complications/",
+    "evidence": "A",
+    "summary": "1. 在这项随机对照试验中，除了健康生活方式干预措施外，替尔泊肽……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this randomized controlled trial, tirzepatide, in addition to healthy lifestyle interventions,…"
+      }
+    ]
+  },
+  {
+    "id": "cbe5eb2d140",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "在两次紧急出警之间，护理人员需要时间来恢复，也需要得到支持",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-19",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-paramedics-recover-emergency.html",
+    "evidence": "B",
+    "summary": "当一名护理人员来到您家门口时，他们可能刚处理完其他人的紧急情况……",
+    "body": [
+      {
+        "t": "p",
+        "x": "When a paramedic arrives at your door, they may have come straight from someone else's emergency.…"
+      }
+    ]
+  },
+  {
+    "id": "cc8fea908d5",
+    "systems": [
+      "brain",
+      "muscles"
+    ],
+    "cover": "",
+    "title": "实验性化合物可在不牺牲肌肉的情况下燃烧脂肪",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-11-19",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
+    "evidence": "B",
+    "summary": "加州大学伯克利分校的研究人员发现了一种化合物，它可以通过帮助身体燃烧更多能量，而不是……来改变减肥疗法。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of…"
+      }
+    ]
+  },
+  {
     "id": "cd4c34b2b3f",
     "systems": [
       "brain"
@@ -18,6 +166,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "If you’ve ever had a household pet, you’ll know that your sleep patterns don’t always align.…"
+      }
+    ]
+  },
+  {
+    "id": "cdf853a19e6",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "科学家们测试了212种植物性食品。每一种都含有真菌毒素",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-11-19",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
+    "evidence": "B",
+    "summary": "一项新研究揭示了热门植物性食品和饮料中隐藏着一个令人惊讶的问题……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks.…"
       }
     ]
   },
@@ -64,6 +233,27 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c470a685080",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "运动过度可能会让您的大脑处于过度兴奋状态",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-11-18",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261117033923.htm",
+    "evidence": "B",
+    "summary": "过度运动而没有充分的恢复可能会以令人意想不到的方式扰乱大脑的化学物质……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Exercising too much without adequate recovery may disrupt brain chemistry in surprising ways.…"
+      }
+    ]
+  },
+  {
     "id": "c49e38710b8",
     "systems": [
       "whole"
@@ -81,6 +271,28 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Obesity in children and young people increases the risk of health problems later in life to such an extent that tackling it is important,…"
+      }
+    ]
+  },
+  {
+    "id": "c76c98113b3",
+    "systems": [
+      "gut",
+      "senses"
+    ],
+    "cover": "",
+    "title": "为什么屁的味道这么难闻？秘密正在你的肠道中酝酿",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-11-18",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm",
+    "evidence": "B",
+    "summary": "真正臭气熏天的屁之所以如此难闻，是因为肠道细菌在消化食物时会产生少量含硫气体……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The secret behind truly terrible-smelling farts lies in tiny amounts of sulfur-containing gases produced by gut bacteria as they digest food.…"
       }
     ]
   },
@@ -144,6 +356,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "1. Social isolation and loneliness in middle-aged and older adults were each associated with worse physical and mental health.…"
+      }
+    ]
+  },
+  {
+    "id": "cbe6cf3524e",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://substackcdn.com/image/fetch/$s_!iQg9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77976159-1863-4763-8bbc-eefbe2e3d7f7_1456x816.png",
+    "title": "为什么在围绝经期，12月感觉更难熬？",
+    "org": "Dr. Mary Claire",
+    "author": "Dr. Mary Claire Haver",
+    "date": "2026-11-18",
+    "sourceName": "drmaryclairehaver.substack.com",
+    "sourceUrl": "https://drmaryclairehaver.substack.com/p/why-december-feels-heavier-in-perimenopause",
+    "evidence": "C",
+    "summary": "以及一个简单的计划，帮助您度过难关，同时不迷失自我。",
+    "body": [
+      {
+        "t": "p",
+        "x": "And a simple plan to get through it without losing yourself."
       }
     ]
   },
@@ -1062,6 +1295,27 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c92bd96fc6f",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "https://substackcdn.com/image/fetch/$s_!aLog!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fea227bd5-4308-40fa-8157-3a9add3b584a_3840x2160.jpeg",
+    "title": "我该如何预防骨质疏松症的发生？",
+    "org": "Dr. Mary Claire",
+    "author": "Dr. Mary Claire Haver",
+    "date": "2026-11-11",
+    "sourceName": "drmaryclairehaver.substack.com",
+    "sourceUrl": "https://drmaryclairehaver.substack.com/p/how-can-i-prevent-osteoporosis-before",
+    "evidence": "C",
+    "summary": "骨质流失在您最后一次月经前一年开始加速，而常规筛查要到65岁才开始……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Bone loss speeds up a year before your final period, and routine screening doesn't start until age 65.…"
+      }
+    ]
+  },
+  {
     "id": "c97344009ca",
     "systems": [
       "nutrition"
@@ -1083,6 +1337,27 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "caa19c96a63",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://substackcdn.com/image/fetch/$s_!K1gI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F780a3a25-7cf4-4655-90d8-2e0d51acab10_814x1222.png",
+    "title": "为什么女性在中年时体重会增加，以及为什么减肥如此困难",
+    "org": "The Cell Lab",
+    "author": "Variana Volk",
+    "date": "2026-11-11",
+    "sourceName": "notes.theracellab.com",
+    "sourceUrl": "https://notes.theracellab.com/p/why-women-gain-weight-in-midlife",
+    "evidence": "C",
+    "summary": "情绪多变的雌激素、让猴子减肥的实验性疗法，以及您未察觉的习惯变化",
+    "body": [
+      {
+        "t": "p",
+        "x": "Moody estrogen, an experimental therapy that made monkeys lose weight, and the habits you don’t notice changing"
+      }
+    ]
+  },
+  {
     "id": "c0246da9565",
     "systems": [
       "whole"
@@ -1100,6 +1375,28 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Around one in three women in Australia now have their labors induced rather than having them start naturally, or spontaneously."
+      }
+    ]
+  },
+  {
+    "id": "c4a11e08753",
+    "systems": [
+      "brain",
+      "skin"
+    ],
+    "cover": "https://substackcdn.com/image/fetch/$s_!8Tmq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ad19933-66b4-4c5e-84a3-657c7e7853ca_1164x609.jpeg",
+    "title": "为什么您的肌肤在压力下会有不同的反应，以及您可以采取哪些应对措施。",
+    "org": "The RightDose",
+    "author": "The RightDose",
+    "date": "2026-11-10",
+    "sourceName": "rightshop.substack.com",
+    "sourceUrl": "https://rightshop.substack.com/p/why-your-skin-can-react-differently",
+    "evidence": "C",
+    "summary": "图片来源：Pinterest。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Photo source: Pinterest."
       }
     ]
   },
@@ -2117,6 +2414,27 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c781562ecaa",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://substackcdn.com/image/fetch/$s_!w4ce!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd0abee4-cd2c-4e82-921e-b290b246e4fc_5616x3744.jpeg",
+    "title": "我几乎会给每位绝经后患者开具的阴道雌激素处方",
+    "org": "Dr. Mary Claire",
+    "author": "Dr. Mary Claire Haver",
+    "date": "2026-11-04",
+    "sourceName": "drmaryclairehaver.substack.com",
+    "sourceUrl": "https://drmaryclairehaver.substack.com/p/the-vaginal-estrogen-prescription",
+    "evidence": "C",
+    "summary": "我们大多数人都会患上GSM。在被诊断出患有GSM的女性中，只有9%的人按处方配药进行治疗。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Most of us will get GSM. Only 9 percent of diagnosed women filled the prescription that treats it."
+      }
+    ]
+  },
+  {
     "id": "c8447eeebe6",
     "systems": [
       "whole"
@@ -2984,6 +3302,27 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "cf928c2b42c",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://substackcdn.com/image/fetch/$s_!MJE7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ad7255e-2659-45e3-a46b-d6294d4e604d_4457x2507.jpeg",
+    "title": "更年期真的会影响您的全身吗？",
+    "org": "Dr. Mary Claire",
+    "author": "Dr. Mary Claire Haver",
+    "date": "2026-10-28",
+    "sourceName": "drmaryclairehaver.substack.com",
+    "sourceUrl": "https://drmaryclairehaver.substack.com/p/does-menopause-really-affect-your",
+    "evidence": "C",
+    "summary": "《科学》杂志的一篇综述文章阐述了更年期过渡对几乎所有器官系统的影响。",
+    "body": [
+      {
+        "t": "p",
+        "x": "A Science review maps the menopause transition across nearly every organ system."
+      }
+    ]
+  },
+  {
     "id": "c1a8def03cc",
     "systems": [
       "whole"
@@ -3022,6 +3361,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "A major new study reveals that autistic children’s brains process faces differently,…"
+      }
+    ]
+  },
+  {
+    "id": "c77132e0090",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://substackcdn.com/image/fetch/$s_!9mfU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faada7cf4-0745-4c43-a110-1c57358a66d8_1200x628.jpeg",
+    "title": "季节正在变化。您的健康与长寿习惯呢？",
+    "org": "The RightDose",
+    "author": "The RightDose",
+    "date": "2026-10-27",
+    "sourceName": "rightshop.substack.com",
+    "sourceUrl": "https://rightshop.substack.com/p/the-season-is-changing-how-about",
+    "evidence": "C",
+    "summary": "感谢您阅读RightShop（双）周刊！",
+    "body": [
+      {
+        "t": "p",
+        "x": "Thanks for reading RightShop (Bi)Weekly!"
       }
     ]
   },
@@ -3425,6 +3785,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Drawing on nearly a decade of surveillance, the researchers document the burden of Lassa fever in the region and explain how sustainable diagnostic…"
+      }
+    ]
+  },
+  {
+    "id": "c2b26c5bfcc",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "https://substackcdn.com/image/fetch/$s_!1GR4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98ac39a7-ebab-49a5-9173-9626ddd30e61_1206x1190.png",
+    "title": "您体内最重要的肌肉是一块您从未训练过的肌肉",
+    "org": "The Cell Lab",
+    "author": "Variana Volk",
+    "date": "2026-10-23",
+    "sourceName": "notes.theracellab.com",
+    "sourceUrl": "https://notes.theracellab.com/p/the-most-important-muscle-in-your",
+    "evidence": "C",
+    "summary": "从背痛和胃食管反流到腹胀和焦虑：一块被忽视的肌肉如何与所有这些症状联系起来，以及放松和重新训练这块肌肉的12步方法。",
+    "body": [
+      {
+        "t": "p",
+        "x": "From back pain and reflux to bloating and anxiety: how one overlooked muscle connects them all, and the 12-step routine to release and retrain it."
       }
     ]
   },
@@ -4737,6 +5118,27 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c066fed4846",
+    "systems": [
+      "skin"
+    ],
+    "cover": "https://substackcdn.com/image/fetch/$s_!uZWO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4943c1c0-4446-4f96-b7d2-f8b539c00b99_1600x1200.jpeg",
+    "title": "朋友的一个简单护肤问题，演变成了对我自己护肤流程的全面科学审核。以下是您需要了解的内容。",
+    "org": "The RightDose",
+    "author": "The RightDose",
+    "date": "2026-10-13",
+    "sourceName": "rightshop.substack.com",
+    "sourceUrl": "https://rightshop.substack.com/p/a-simple-skincare-question-from-a",
+    "evidence": "C",
+    "summary": "最近，一位朋友给我发消息，想和我交流心得：多年来，我的护肤流程中真正有效果的是什么……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A friend messaged me recently to swap notes: what’s actually worked in my skincare routine over the years,…"
+      }
+    ]
+  },
+  {
     "id": "c22a9fbbf5e",
     "systems": [
       "whole"
@@ -5071,6 +5473,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Getting better sleep might be as simple as moving a little more every day. Researchers at The University of Texas at Austin found that people who…"
+      }
+    ]
+  },
+  {
+    "id": "c4e189d7ba9",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://substackcdn.com/image/fetch/$s_!VjRM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98bc4da9-d5f1-48ea-b007-6c367b735071_1116x1182.png",
+    "title": "克服焦虑的3种方法以及让焦虑持续存在的4种恐惧",
+    "org": "The Cell Lab",
+    "author": "Variana Volk",
+    "date": "2026-10-11",
+    "sourceName": "notes.theracellab.com",
+    "sourceUrl": "https://notes.theracellab.com/p/3-ways-to-overcome-anxiety-and-the",
+    "evidence": "C",
+    "summary": "弗洛伊德、一位格式塔叛逆者和一位非常严厉的导师教会了我什么关于我恐惧的事情",
+    "body": [
+      {
+        "t": "p",
+        "x": "What Freud, a Gestalt rebel and a very loud mentor taught me about my fears"
       }
     ]
   },
@@ -5982,6 +6405,27 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c1d4ea8f137",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "https://substackcdn.com/image/fetch/$s_!RmV1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c6e156e-49a0-419b-aedc-1b3d0dcd70d1_1648x1270.png",
+    "title": "疗养院疗法的功效以及如何在家里重现这些疗法",
+    "org": "The Cell Lab",
+    "author": "Variana Volk",
+    "date": "2026-10-04",
+    "sourceName": "notes.theracellab.com",
+    "sourceUrl": "https://notes.theracellab.com/p/the-power-of-sanatorium-treatments",
+    "evidence": "C",
+    "summary": "第一部分：矿泉水和疗愈浴。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Part 1: Mineral Waters and Therapeutic Baths."
+      }
+    ]
+  },
+  {
     "id": "ce032f7aad4",
     "systems": [
       "whole"
@@ -6464,6 +6908,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "1. Among older adults with atrial fibrillation, higher homocysteine and C-reactive protein levels, poorer cognitive performance,…"
+      }
+    ]
+  },
+  {
+    "id": "c0764763c1b",
+    "systems": [
+      "hormones"
+    ],
+    "cover": "https://substackcdn.com/image/fetch/$s_!U2eU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e0b94fe-8c9a-4a18-99ea-5cff71c93f64_1394x916.png",
+    "title": "小睡陷阱：一个在充气城堡屋顶上玩耍的幼儿让我了解了皮质醇",
+    "org": "The RightDose",
+    "author": "The RightDose",
+    "date": "2026-09-29",
+    "sourceName": "rightshop.substack.com",
+    "sourceUrl": "https://rightshop.substack.com/p/nap-trapped-what-a-bouncy-castle",
+    "evidence": "C",
+    "summary": "在此说明，因为信任是我们的一切：我是RightShop.ai的联合创始人，该公司发布本通讯。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Disclosure, because trust is kind of our whole thing: I’m a co-founder of RightShop.ai, which publishes this newsletter."
       }
     ]
   },
@@ -8024,6 +8489,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "A new approach to modeling vocal fold fatigue could improve detection and monitoring of problems as they arise,…"
+      }
+    ]
+  },
+  {
+    "id": "c70b25a5deb",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://substackcdn.com/image/fetch/$s_!ojOC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76f59e9c-8590-4bd7-9d32-77925f2d9e0a_1408x768.jpeg",
+    "title": "人们夸我的头发。我用洗发水、护发素和沙丁鱼。",
+    "org": "The RightDose",
+    "author": "The RightDose",
+    "date": "2026-09-15",
+    "sourceName": "rightshop.substack.com",
+    "sourceUrl": "https://rightshop.substack.com/p/people-compliment-my-hair-i-use-shampoo",
+    "evidence": "C",
+    "summary": "RightShop（双）周刊为您提供有关成分和健康选择的清晰、实用信息，让您放心购物。",
+    "body": [
+      {
+        "t": "p",
+        "x": "RightShop (Bi)Weekly gives you clear, practical information on ingredients and wellness choices so you can shop with confidence."
       }
     ]
   },
@@ -9689,6 +10175,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "A new Cochrane review finds very low-quality evidence on lumbar supports for chronic low back pain,…"
+      }
+    ]
+  },
+  {
+    "id": "c5758d95262",
+    "systems": [
+      "skin"
+    ],
+    "cover": "https://substackcdn.com/image/fetch/$s_!FBfC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F584b685f-68c8-440a-9ad2-a3dda448a81b_762x958.png",
+    "title": "有一次，我没有打开我的护肤品包",
+    "org": "The RightDose",
+    "author": "The RightDose",
+    "date": "2026-09-01",
+    "sourceName": "rightshop.substack.com",
+    "sourceUrl": "https://rightshop.substack.com/p/the-one-time-i-didnt-unpack-my-skincare",
+    "evidence": "C",
+    "summary": "根据最合理的定义，我是一个需要高成本维护的旅行者。",
+    "body": [
+      {
+        "t": "p",
+        "x": "I am, by most reasonable definitions, a high-maintenance traveller."
       }
     ]
   },
