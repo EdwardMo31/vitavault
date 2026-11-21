@@ -1,6 +1,27 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c1fda79e843",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/oncology_soft-tissue-sarcoma_arm_muscle_calipers_2_minute_medicine.webp",
+    "title": "ADCE-D01 在既往接受过治疗的晚期软组织肉瘤的1期主要结果中显示出30%的客观缓解率",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-20",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/adce-d01-showed-a-30-objective-response-rate-in-topline-phase-1-results-for-previously-treated-advanced-soft-tissue-sarcoma/",
+    "evidence": "A",
+    "summary": "在1期主要结果中，ADCE-D01在既往接受过治疗的晚期软组织肉瘤患者中实现了30%的客观缓解率……",
+    "body": [
+      {
+        "t": "p",
+        "x": "In topline phase 1 results, ADCE-D01 produced a 30% objective response rate in previously treated advanced soft tissue sarcoma.…"
+      }
+    ]
+  },
+  {
     "id": "c4a78aacfe5",
     "systems": [
       "whole"
@@ -81,6 +102,90 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Ever feel hungrier before your period or notice your waistband getting tighter around menopause? Your reproductive hormones could help explain why.…"
+      }
+    ]
+  },
+  {
+    "id": "cb3c6cdbb2f",
+    "systems": [
+      "immune"
+    ],
+    "cover": "",
+    "title": "研究发现，流感疫苗的有效性往往不如宣传的那么好。",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-20",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-flu-vaccine-effectiveness-weaker-advertised.html",
+    "evidence": "B",
+    "summary": "一项新研究表明，卫生官员可能夸大了每年接种流感疫苗的保护作用，但这并不意味着人们应该不接种……",
+    "body": [
+      {
+        "t": "p",
+        "x": "New research suggests health officials may be overselling the protective power of the annual flu shot—but that doesn't mean folks should skip it,…"
+      }
+    ]
+  },
+  {
+    "id": "ccc73c32ba1",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "为了更好的心理健康，锻炼的频率可能比强度更重要",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-11-20",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261119194601.htm",
+    "evidence": "B",
+    "summary": "一项针对1万多名大学生进行的研究发现，定期锻炼对于心理健康可能比强迫自己……更重要。",
+    "body": [
+      {
+        "t": "p",
+        "x": "A study of more than 10,000 college students found that exercising regularly may be more important for mental health than pushing yourself through…"
+      }
+    ]
+  },
+  {
+    "id": "cf95e4587c3",
+    "systems": [
+      "heart"
+    ],
+    "cover": "",
+    "title": "您的基因可能会增加高胆固醇的风险",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-20",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-genes-boost-high-cholesterol.html",
+    "evidence": "B",
+    "summary": "对您的胆固醇水平没有向好的方向变化感到沮丧吗？一项新研究发现，这可能要怪您的基因。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Frustrated that your cholesterol levels aren't budging for the better? You may have your genes to blame, a new study finds."
+      }
+    ]
+  },
+  {
+    "id": "cfa086d9d8c",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "随着儿童疾病的复杂性和慢性化，精神健康诊断也随之增加",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-20",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-mental-health-medical-complexity-chronicity.html",
+    "evidence": "B",
+    "summary": "随着医疗复杂性和慢性病在加入医疗补助计划的儿童中日益增加，精神健康（MH）诊断的患病率也在上升……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The prevalence of mental health (MH) diagnoses increases with increasing medical complexity and chronicity in Medicaid-enrolled children,…"
       }
     ]
   },
