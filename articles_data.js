@@ -1,6 +1,49 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c816a8bc70f",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "压力和焦虑正在使员工疲惫不堪：如何识别诱因并应对",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-21",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-stress-anxiety-workers-triggers-cope.html",
+    "evidence": "B",
+    "summary": "工作场所的压力和焦虑。谁没有经历过呢？",
+    "body": [
+      {
+        "t": "p",
+        "x": "Workplace stress and anxiety. Who hasn't experienced it?"
+      }
+    ]
+  },
+  {
+    "id": "cabd8b9c8d4",
+    "systems": [
+      "brain",
+      "whole"
+    ],
+    "cover": "",
+    "title": "大脑神经连接图上出现了新的结构",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-21",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-view-brain-wiring.html",
+    "evidence": "B",
+    "summary": "哈佛医学院和加州大学圣地亚哥分校的研究人员已将一种强大的成像技术加速到足以绘制……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers at Harvard Medical School and the University of California San Diego have sped up a powerful imaging technique enough to map,…"
+      }
+    ]
+  },
+  {
     "id": "c1fda79e843",
     "systems": [
       "whole"
