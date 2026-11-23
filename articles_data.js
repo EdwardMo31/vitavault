@@ -1,6 +1,111 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c49854e8092",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "呼吁将化学品安全更好地纳入食品包装可持续性，以保护消费者健康",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-23",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-chemical-safety-food-packaging-sustainability.html",
+    "evidence": "B",
+    "summary": "虽然食品包装和餐具产品在食品的生命周期中发挥着重要作用，……",
+    "body": [
+      {
+        "t": "p",
+        "x": "While food packaging and foodware products serve an important role in the life cycle of foods,…"
+      }
+    ]
+  },
+  {
+    "id": "c790c52d101",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "空气污染暴露与脊椎骨质流失加速相关",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-23",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-air-pollution-exposure-linked-faster.html",
+    "evidence": "B",
+    "summary": "近期更多地暴露于来自交通和其他来源的空气污染与老年人脊柱骨质流失速度略有加快相关……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Higher recent exposure to air pollution from traffic and other sources is associated with slightly faster bone loss in the spine among older adults…"
+      }
+    ]
+  },
+  {
+    "id": "cd003cc67ed",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "您如何知道自己的手属于自己：脑成像揭示了三个阶段",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-23",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-brain-reveals-stages.html",
+    "evidence": "B",
+    "summary": "您的手属于您身体的感觉源于大脑区域之间复杂的相互作用，这些区域会以特定的顺序变得活跃……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The feeling that your hand belongs to your body arises from a complex interplay among brain regions that become active in a specific sequence,…"
+      }
+    ]
+  },
+  {
+    "id": "cd5c2263a3d",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "一个改造后的集装箱在南非意外地成为了心理健康援助的来源",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-23",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-shipping-unexpected-source-mental-health.html",
+    "evidence": "B",
+    "summary": "Sisanda Hani走进南非一家社区中心的一个旧集装箱……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Sisanda Hani enters a former shipping container at a community center in South Africa,…"
+      }
+    ]
+  },
+  {
+    "id": "c657cd92bec",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/cardiology_ai-decision-support_clinician_dot_network_fork_2_minute_medicine.webp",
+    "title": "在在线实验中，人工智能的分歧增加了对 LLM 模拟医生的感知懒惰和不确定性。",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-22",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/in-online-experiment-ai-disagreement-increased-perceived-laziness-and-uncertainty-toward-an-llm-simulated-doctor/",
+    "evidence": "A",
+    "summary": "1. 一项实验发现，在压力管理治疗过程中与 LLM 模拟医生互动的参与者认为医生的……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. An experiment found that participants interacting with an LLM-simulated doctor during a stress-management therapy session perceived the doctor’s…"
+      }
+    ]
+  },
+  {
     "id": "c816a8bc70f",
     "systems": [
       "brain"
