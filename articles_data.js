@@ -1,6 +1,112 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c3259b2cb76",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "专家警告称，仅靠生育技术无法扭转全球生育率下降的趋势",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-24",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-fertility-technology-wont-reverse-global.html",
+    "evidence": "B",
+    "summary": "生殖医学的进步已帮助数百万人成功生育子女，但《科学前沿》上发表的一篇新国际综述得出结论……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Advances in fertility medicine have helped millions to have children—but a new international review published in Frontiers in Science has concluded…"
+      }
+    ]
+  },
+  {
+    "id": "c36063eb67a",
+    "systems": [
+      "skin",
+      "nutrition"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/2m2VNn4oo9IQaHMfcOPUVP/4d5d354c4139588cacfce5454cba03d7/shutterstock_2296191753.jpg",
+    "title": "您的美妆产品安全吗？如何辨别假冒化妆品和护肤品",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-11-24",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/skin-conditions/are-your-beauty-products-safe-how-to-spot-fake-makeup-and-skincare",
+    "evidence": "B",
+    "summary": "随着圣诞节的临近，我们中许多人都在期待着派对和庆祝活动，也许还会犒劳自己一些新的……",
+    "body": [
+      {
+        "t": "p",
+        "x": "With Christmas fast approaching, many of us will be looking forward to parties and celebrations - and perhaps treating ourselves to some new…"
+      }
+    ]
+  },
+  {
+    "id": "c42b66d29e4",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/1HJQQPRSmFQcr3Nf2M5zBU/9bc2a088f6ae52692a9955373584edb9/shutterstock_2758035119.jpg",
+    "title": "睡前吃的东西能帮助您睡得更好吗？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-11-24",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/healthy-living/can-what-you-eat-before-bed-help-you-sleep-better",
+    "evidence": "B",
+    "summary": "有时很难抵挡睡前吃零食或喝饮料的诱惑……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The temptation to have a snack or drink before bed is sometimes hard to resist.…"
+      }
+    ]
+  },
+  {
+    "id": "c8c27eccb79",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "专家揭穿感恩节美食的种种迷思，从火鸡“昏迷”到有风险的剩菜",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-24",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-experts-debunk-thanksgiving-food-myths.html",
+    "evidence": "B",
+    "summary": "在第一个感恩节时，餐桌上是否有火鸡？很可能。之后有没有人睡午觉？不清楚。",
+    "body": [
+      {
+        "t": "p",
+        "x": "Was turkey on the table at the first Thanksgiving? Probably. Did anyone take a nap afterward? Unclear."
+      }
+    ]
+  },
+  {
+    "id": "cea67c15075",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "科学家发现了一种新型抑郁症，常见的抗抑郁药难以对其进行治疗",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-11-24",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261123005352.htm",
+    "evidence": "B",
+    "summary": "研究人员发现了一种新的抑郁症亚型，它可能影响近四分之一患有重度、复发性或持续性抑郁症的人群……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers have discovered a new subtype of depression that may affect nearly one in four people with severe, recurrent, or persistent depression.…"
+      }
+    ]
+  },
+  {
     "id": "c49854e8092",
     "systems": [
       "nutrition"
@@ -18,6 +124,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "While food packaging and foodware products serve an important role in the life cycle of foods,…"
+      }
+    ]
+  },
+  {
+    "id": "c530854140d",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/adolescent-health_safeguarding_youth_safe_conversation_2_minute_medicine.webp",
+    "title": "儿童心理健康保健的利用情况因气候脆弱性和历史上的歧视性住房贷款政策而异",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-23",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/pediatric-mental-health-care-utilization-varied-by-climate-vulnerability-and-historical-redlining/",
+    "evidence": "A",
+    "summary": "1. 本项横断面研究分析了门诊和急诊环境中儿科心理保健服务利用情况与……的关系。",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. This cross sectional study analyzed the association of pediatric mental healthcare utilization in out-patient and emergency settings in relation…"
       }
     ]
   },
@@ -102,6 +229,28 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "1. An experiment found that participants interacting with an LLM-simulated doctor during a stress-management therapy session perceived the doctor’s…"
+      }
+    ]
+  },
+  {
+    "id": "c76abf87ceb",
+    "systems": [
+      "brain",
+      "muscles"
+    ],
+    "cover": "",
+    "title": "科学家发现骨骼脆弱与大脑加速衰老之间存在令人惊讶的关联",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-11-22",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261121221132.htm",
+    "evidence": "B",
+    "summary": "骨骼变弱可能揭示出比科学家此前认识到的更多关于大脑健康的信息……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Weakening bones may reveal more about brain health than scientists previously realized,…"
       }
     ]
   },
