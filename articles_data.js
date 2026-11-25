@@ -1,6 +1,48 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c73da8a38e8",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "研究发现，一次性吸电子烟会损害血管功能",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-25",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-vaping-episode-impairs-vascular-function.html",
+    "evidence": "B",
+    "summary": "研究人员已经发现，即使不含尼古丁，电子烟也会对血管功能产生严重的负面影响……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers have identified acute negative effects of vaping, even without nicotine, on vascular function.…"
+      }
+    ]
+  },
+  {
+    "id": "cb7c63887b5",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "数十年来血糖水平升高与中年记忆力和认知功能下降相关",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-25",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-elevated-blood-sugar-decades-linked.html",
+    "evidence": "B",
+    "summary": "在数十年间空腹血糖水平持续上升的青年人，在中年时出现认知健康状况较差的可能性更大……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Young adults with a progressive rise in fasting blood sugar levels over multiple decades were more likely to have worse cognitive health by midlife.…"
+      }
+    ]
+  },
+  {
     "id": "c3259b2cb76",
     "systems": [
       "whole"
@@ -65,6 +107,69 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "c4ddd0a22db",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "在青春期破坏正在发育的大脑回路可能会产生持久的社会影响",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-24",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-disrupting-brain-circuit-adolescence-social.html",
+    "evidence": "B",
+    "summary": "青春期通常被描述为人生中一个动荡的时期，其标志是日益增强的独立性……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Adolescence is often described as a turbulent period of life marked by growing independence,…"
+      }
+    ]
+  },
+  {
+    "id": "c54a6a875d9",
+    "systems": [
+      "lungs"
+    ],
+    "cover": "https://substackcdn.com/image/fetch/$s_!OcHP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd005bc63-0797-4b12-bf59-5327de51dd04_2408x1396.png",
+    "title": "您未选择的香水：敏感人士的会议指南",
+    "org": "The RightDose",
+    "author": "The RightDose",
+    "date": "2026-11-24",
+    "sourceName": "rightshop.substack.com",
+    "sourceUrl": "https://rightshop.substack.com/p/the-fragrance-you-didnt-choose-a",
+    "evidence": "C",
+    "summary": "在大型活动中，您会吸入成千上万其他人所选用的产品。以下是一些关于如何保护自己的建议。",
+    "body": [
+      {
+        "t": "p",
+        "x": "At a big event you breathe in thousands of other people’s product choices. Here’s some guidance on how to protect yourself."
+      }
+    ]
+  },
+  {
+    "id": "c55fe63c975",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/radiology_ct-scan_ct_ring_slices_2_minute_medicine.webp",
+    "title": "术前影像学检查结果与临床参数相结合，可能更准确地确定腹膜间皮瘤的细胞减灭评分。",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-24",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/a-combination-of-preoperative-imaging-findings-and-clinical-parameters-may-more-accurately-determine-cytoreduction-score-in-peritoneal-mesothelioma/",
+    "evidence": "A",
+    "summary": "1. 在这项大型回顾性研究中，发现将计算机断层扫描（CT）与临床评估相结合，可以提高……的完整性。",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. In this large retrospective study, the use of computed tomography (CT) combined with clinical assessment was found to improve the completeness of…"
+      }
+    ]
+  },
+  {
     "id": "c8c27eccb79",
     "systems": [
       "nutrition"
@@ -82,6 +187,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Was turkey on the table at the first Thanksgiving? Probably. Did anyone take a nap afterward? Unclear."
+      }
+    ]
+  },
+  {
+    "id": "cc71da41a06",
+    "systems": [
+      "heart"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/cardiology_coronary-artery-disease_heart_coronary_tracing_2_minute_medicine.webp",
+    "title": "Inclisiran在ORION-4 3期主要结果中减少了主要心血管不良事件",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-24",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/inclisiran-reduced-major-adverse-cardiovascular-events-in-topline-phase-3-orion-4-results/",
+    "evidence": "A",
+    "summary": "ORION-4 的主要结果显示，Inclisiran 可降低确诊动脉粥样硬化性心血管疾病患者的主要不良心血管事件……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Topline ORION-4 results found that inclisiran reduced major adverse cardiovascular events in people with established atherosclerotic cardiovascular…"
       }
     ]
   },
