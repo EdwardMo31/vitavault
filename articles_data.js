@@ -1,6 +1,90 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "ca443ad8d7b",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "有助于确定神经元身份的同一基因也可能平衡发育中的大脑回路",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-26",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-gene-neuron-identity-brain-circuits.html",
+    "evidence": "B",
+    "summary": "一种有助于确定神经元身份的基因也会影响其从其他神经元接收的输入数量……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A gene that helps set a neuron's identity also affects how many inputs it receives from other neurons.…"
+      }
+    ]
+  },
+  {
+    "id": "cbbf7fa5f5f",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://images.ctfassets.net/xxv4b9mbhlgd/4XYNBlHyXcbFQeQbpPemYf/12bde5ccda69ca6a941ff819f4b48a32/shutterstock_2252958561.jpg",
+    "title": "为什么女性比男性更容易感到寒冷？",
+    "org": "Patient.info",
+    "author": "Patient.info",
+    "date": "2026-11-26",
+    "sourceName": "patient.info",
+    "sourceUrl": "https://patient.info/features/womens-health/why-do-women-feel-the-cold-more-than-men",
+    "evidence": "B",
+    "summary": "您是否曾想过，为什么争夺恒温器的控制权往往是一场性别之战？……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Ever wondered why the battle over the thermostat often constitutes a battle of the sexes?…"
+      }
+    ]
+  },
+  {
+    "id": "ccae7fc8df5",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "“太可怕了”：加州抗击西尼罗河病毒激增",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-26",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-scary-california-west-nile-virus.html",
+    "evidence": "B",
+    "summary": "两个月来，Mandi Budd一直无法使用双腿——她因蚊子叮咬而瘫痪，差点丧命。",
+    "body": [
+      {
+        "t": "p",
+        "x": "For two months, Mandi Budd has been unable to use her legs—she is paralyzed because of a mosquito bite that nearly took her life."
+      }
+    ]
+  },
+  {
+    "id": "c1ac5cb0d24",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "一个机构，两种体系：将牙科和医疗保健相结合，大大改善了牙科随访",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-25",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-body-dental-medical.html",
+    "evidence": "B",
+    "summary": "一个机构，两种体系：将牙科和医疗保健相结合，大大改善了牙科随访",
+    "body": [
+      {
+        "t": "p",
+        "x": "One body, two systems: Integrating dental and medical care dramatically improves dental follow-up"
+      }
+    ]
+  },
+  {
     "id": "c73da8a38e8",
     "systems": [
       "whole"
@@ -18,6 +102,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "Researchers have identified acute negative effects of vaping, even without nicotine, on vascular function.…"
+      }
+    ]
+  },
+  {
+    "id": "c7ec7dc5637",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "思想是由什么构成的？为什么人类意识可能超乎人工智能的范畴",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-11-25",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm",
+    "evidence": "B",
+    "summary": "一种新理论认为，大脑可能通过化学方式编码和检索记忆，而非仅依靠电信号……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely on electrical signals.…"
       }
     ]
   },
@@ -166,6 +271,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "1. In this large retrospective study, the use of computed tomography (CT) combined with clinical assessment was found to improve the completeness of…"
+      }
+    ]
+  },
+  {
+    "id": "c686207e317",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "斯坦福大学科学家发现多动症和焦虑症背后隐藏的3种大脑类型",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 心理",
+    "date": "2026-11-24",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261124055713.htm",
+    "evidence": "B",
+    "summary": "一项对数千名儿童脑部扫描进行的人工智能分析揭示了三种与多动症和焦虑症相关的独特脑型，这些脑型并不完全……",
+    "body": [
+      {
+        "t": "p",
+        "x": "An AI-powered analysis of thousands of children's brain scans has revealed three distinct brain types underlying ADHD and anxiety that do not neatly…"
       }
     ]
   },
