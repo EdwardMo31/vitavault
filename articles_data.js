@@ -1,6 +1,92 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c801a57af7a",
+    "systems": [
+      "heart",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "为什么心脏不能自我修复？研究揭示了心脏跳动与再生之间的根本性权衡",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-27",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-heart-reveals-fundamental-regeneration.html",
+    "evidence": "B",
+    "summary": "人的心脏每天跳动超过10万次，不知疲倦地泵送血液，将氧气和营养输送到全身……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The human heart beats more than 100,000 times a day, tirelessly pumping blood to deliver oxygen and nutrients throughout the body.…"
+      }
+    ]
+  },
+  {
+    "id": "c3e0865cff0",
+    "systems": [
+      "nutrition",
+      "brain"
+    ],
+    "cover": "",
+    "title": "这种膳食补充剂可能对大脑有意外的益处",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-11-26",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261125045311.htm",
+    "evidence": "B",
+    "summary": "一种名为urolithin A的天然膳食补充剂可能有助于大脑在最需要时获得更多的氧气和营养物质……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A naturally derived dietary supplement called urolithin A may help the brain get more oxygen and nutrients when it needs them most.…"
+      }
+    ]
+  },
+  {
+    "id": "c7a9cf920a9",
+    "systems": [
+      "whole"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/rheumatology_lupus_butterfly_sun_hat_2_minute_medicine.webp",
+    "title": "Deucravacitinib 在两项 3 期系统性红斑狼疮试验中的一项中达到了主要终点",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-26",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/deucravacitinib-met-the-primary-endpoint-in-one-of-two-phase-3-systemic-lupus-erythematosus-trials/",
+    "evidence": "A",
+    "summary": "在系统性红斑狼疮的3期主要结果中，Deucravacitinib在POETYK SLE-1中达到了主要终点，但在POETYK SLE-2中未达到……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Deucravacitinib met the primary endpoint in POETYK SLE-1 but not POETYK SLE-2 in topline phase 3 results for systemic lupus erythematosus.…"
+      }
+    ]
+  },
+  {
+    "id": "ca40df33eb9",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "什么时候该治疗肥胖？专家解释说，这不仅仅是缺乏意志力的问题",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-26",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-obesity-expert-lack-willpower.html",
+    "evidence": "B",
+    "summary": "如果您正在想方设法治疗肥胖，那么各种选择可能会让您感到不知所措……",
+    "body": [
+      {
+        "t": "p",
+        "x": "If you're trying to figure out how to treat obesity, the choices can feel overwhelming.…"
+      }
+    ]
+  },
+  {
     "id": "ca443ad8d7b",
     "systems": [
       "brain"
@@ -18,6 +104,27 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "A gene that helps set a neuron's identity also affects how many inputs it receives from other neurons.…"
+      }
+    ]
+  },
+  {
+    "id": "cb9274945d7",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/neurology_spinal-cord-injury_spine_collar_wheel_2_minute_medicine.webp",
+    "title": "FDA批准Neuralink的LINK关键性研究，这是美国首项植入式脑机接口的关键性试验",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-26",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/fda-approves-neuralinks-link-pivotal-study-the-first-us-pivotal-trial-of-an-implantable-brain-computer-interface/",
+    "evidence": "A",
+    "summary": "FDA批准了Neuralink的LINK关键性研究，该研究将评估一种植入式脑机接口，用于患有……所致重度瘫痪的人群。",
+    "body": [
+      {
+        "t": "p",
+        "x": "The FDA approved Neuralink’s LINK Pivotal Study, which will evaluate an implantable brain-computer interface in people with severe paralysis from…"
       }
     ]
   },
@@ -64,6 +171,69 @@ window.ARTICLES = [
     ]
   },
   {
+    "id": "cd9248629c4",
+    "systems": [
+      "whole"
+    ],
+    "cover": "",
+    "title": "一种用于老化卵子的“胶水”可防止染色体过早分离",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-26",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-aged-eggs-premature-chromosome.html",
+    "evidence": "B",
+    "summary": "一种用于老化卵子的工程化“粘合剂”可以防止染色体过早分离",
+    "body": [
+      {
+        "t": "p",
+        "x": "An engineered 'glue' for aged eggs could prevent premature chromosome separation"
+      }
+    ]
+  },
+  {
+    "id": "cdf5d9e58e7",
+    "systems": [
+      "muscles"
+    ],
+    "cover": "",
+    "title": "一种燃烧脂肪的分子对您的肌肉有出乎意料的好处",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 健身",
+    "date": "2026-11-26",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261126063315.htm",
+    "evidence": "B",
+    "summary": "研究人员发现，运动过程中释放的一种天然分子有助于肌肉变得更强壮、抵抗疲劳……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers have discovered that a naturally occurring molecule released during exercise helps muscles become stronger, resist fatigue,…"
+      }
+    ]
+  },
+  {
+    "id": "cf4a94c58e0",
+    "systems": [
+      "heart"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/cardiology_atherosclerosis_plaque_artery_oats_2_minute_medicine.webp",
+    "title": "ACC 和 AHA 发布 2026 年血脂异常指南，其中包含新的风险方程和 LDL-C 目标",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-26",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/acc-and-aha-issue-2026-dyslipidemia-guideline-with-new-risk-equations-and-ldl-c-goals/",
+    "evidence": "A",
+    "summary": "2026年ACC/AHA血脂异常指南取代了2018年指南，并更新了心血管风险评估、LDL-C目标、检测……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The 2026 ACC/AHA dyslipidemia guideline replaces the 2018 guideline and updates cardiovascular risk assessment, LDL-C goals, testing,…"
+      }
+    ]
+  },
+  {
     "id": "c1ac5cb0d24",
     "systems": [
       "whole"
@@ -81,6 +251,28 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "One body, two systems: Integrating dental and medical care dramatically improves dental follow-up"
+      }
+    ]
+  },
+  {
+    "id": "c5176a527a1",
+    "systems": [
+      "whole",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "过量摄入这种常见营养素可能会加速血管老化",
+    "org": "ScienceDaily",
+    "author": "ScienceDaily 营养",
+    "date": "2026-11-25",
+    "sourceName": "sciencedaily.com",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261124055847.htm",
+    "evidence": "B",
+    "summary": "研究人员发现了一种肾脏蛋白质，它可能对血管老化和长寿具有重要意义……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers have uncovered a kidney protein that may hold an important key to vascular aging and longevity.…"
       }
     ]
   },
