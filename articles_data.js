@@ -1,6 +1,48 @@
 // VitalVault 知识数据 —— 由 collect.py 自动维护（请勿手动编辑）
 window.ARTICLES = [
   {
+    "id": "c0659fff110",
+    "systems": [
+      "brain"
+    ],
+    "cover": "https://www.2minutemedicine.com/wp-content/uploads/2026/10/psychiatry_body-image_teen_boy_mirror_shards_2_minute_medicine.webp",
+    "title": "减少社交媒体使用可能有助于改善年轻成年人的心理健康状况",
+    "org": "2 Minute Medicine",
+    "author": "2 Minute Medicine",
+    "date": "2026-11-27",
+    "sourceName": "2minutemedicine.com",
+    "sourceUrl": "https://www.2minutemedicine.com/reducing-social-media-use-may-help-improve-mental-health-outcomes-in-young-adults/",
+    "evidence": "A",
+    "summary": "1. 每天使用社交媒体数次的学生面临更高的心理健康问题风险，包括但不限于悲伤……",
+    "body": [
+      {
+        "t": "p",
+        "x": "1. Students who use social media several times a day were at higher risk for mental health issues, including, but not limited to, sadness,…"
+      }
+    ]
+  },
+  {
+    "id": "c3e18faca41",
+    "systems": [
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "棋盘游戏将口腔健康不平等性研究变为现实",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-27",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-board-game-oral-health-inequalities.html",
+    "evidence": "B",
+    "summary": "利物浦大学研究人员开发的一款新棋盘游戏正在为学生创造机会……",
+    "body": [
+      {
+        "t": "p",
+        "x": "A new board game developed by University of Liverpool researchers is creating opportunities for students,…"
+      }
+    ]
+  },
+  {
     "id": "c801a57af7a",
     "systems": [
       "heart",
@@ -19,6 +61,49 @@ window.ARTICLES = [
       {
         "t": "p",
         "x": "The human heart beats more than 100,000 times a day, tirelessly pumping blood to deliver oxygen and nutrients throughout the body.…"
+      }
+    ]
+  },
+  {
+    "id": "c83feb01875",
+    "systems": [
+      "hormones",
+      "nutrition"
+    ],
+    "cover": "",
+    "title": "人工蛋白质激活小鼠的缺陷胰岛素受体并降低血糖",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-27",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-artificial-protein-faulty-insulin-receptors.html",
+    "evidence": "B",
+    "summary": "人体依靠一个经过精细调节的受体网络，该网络在响应特定化学信号时解锁其结合位点……",
+    "body": [
+      {
+        "t": "p",
+        "x": "The body relies on a finely tuned network of receptors that unlock their docking sites in response to specific chemical signals.…"
+      }
+    ]
+  },
+  {
+    "id": "c9545168024",
+    "systems": [
+      "brain"
+    ],
+    "cover": "",
+    "title": "维尔赫尔米纳的嗜睡症——百年谜团的调查",
+    "org": "Medical Xpress",
+    "author": "Medical Xpress",
+    "date": "2026-11-27",
+    "sourceName": "medicalxpress.com",
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-sleepy-sickness-vilhelmina-year-mystery.html",
+    "evidence": "B",
+    "summary": "CEDAR的研究人员已经研究并可能找到了一个重要线索，有助于揭开我们这个时代最大的医学谜团之一：……",
+    "body": [
+      {
+        "t": "p",
+        "x": "Researchers at CEDAR have studied and perhaps found an important piece in understanding one of the biggest medicinal mysteries of our time: the…"
       }
     ]
   },
